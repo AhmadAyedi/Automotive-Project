@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vehicle Wiper Control</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Vehicle Wiper Control</h1>
+
+        <div class="sensor-data">
+            <h2>Environment Data</h2>
+            <div class="sensor-readings">
+                <p>Temperature: <span id="temperature">--</span>°C</p>
+                <p>Humidity: <span id="humidity">--</span>%</p>
+                <p>Last Updated: <span id="sensor-timestamp">Never</span></p>
+            </div>
+            <button id="refresh-sensor-btn" class="btn">Refresh Data</button>
+        </div>
+
+        <div class="control-panel">
+            <div class="protocol-selection">
+                <h2>Communication Protocol</h2>
+                <div class="radio-group">
+                    <label>
+                        <input type="radio" name="protocol" value="LIN" checked>
+                        LIN
+                    </label>
+                    <label>
+                        <input type="radio" name="protocol" value="CAN">
+                        CAN
+                    </label>
+                </div>
+            </div>
+
+            <div class="wiper-selection">
+                <h2>Wiper Selection</h2>
+                <div class="radio-group">
+                    <label>
+                        <input type="radio" name="wiper" value="front" checked>
+                        Front Wiper
+                    </label>
+                    <label>
+                        <input type="radio" name="wiper" value="back">
+                        Back Wiper
+                    </label>
+                    <label>
+                        <input type="radio" name="wiper" value="both">
+                        Both Wipers
+                    </label>
+                </div>
+            </div>
+
+            <div class="speed-selection">
+                <h2>Speed Selection</h2>
+                <div class="radio-group">
+                    <label>
+                        <input type="radio" name="speed" value="normal" checked>
+                        Normal Speed
+                    </label>
+                    <label>
+                        <input type="radio" name="speed" value="fast">
+                        Fast Speed
+                    </label>
+                </div>
+            </div>
+
+            <div class="cycles-selection">
+                <h2>Number of Cycles</h2>
+                <select id="cycles">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>
+            </div>
+
+            <button id="activate-btn" class="btn">Activate Wipers</button>
+        </div>
+
+        <div id="status" class="status"></div>
+
+        <div class="simulation">
+            <h2>Front Wiper Simulation</h2>
+            <div class="led-container">
+                <div class="led" id="front-led-1"></div>
+                <div class="led" id="front-led-2"></div>
+                <div class="led" id="front-led-3"></div>
+            </div>
+
+            <h2>Back Wiper Simulation</h2>
+            <div class="led-container">
+                <div class="led" id="back-led-1"></div>
+                <div class="led" id="back-led-2"></div>
+                <div class="led" id="back-led-3"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

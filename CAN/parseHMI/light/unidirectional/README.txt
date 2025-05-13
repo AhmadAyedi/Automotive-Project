@@ -1,0 +1,1 @@
+master is the only one sending here and slave only receive and trigger accordingly

@@ -1,0 +1,79 @@
+{
+    "services": [
+        {
+            "communication_protocol": "SOME/IP",
+            "event_groups": [
+                {
+                    "event_group_description": "ControlWiperWashButton",
+                    "event_group_id": 8017,
+                    "event_ids": [
+                        1,
+                        2,
+                        3,
+                        4
+                    ],
+                    "group_name": "WiperWashEvents"
+                }
+            ],
+            "events": [
+                {
+                    "communication_type": "asynchronous",
+                    "event_direction": "requestservice",
+                    "event_id": 1,
+                    "event_name": "WiperIgnition",
+                    "event_type": "event",
+                    "event_value": {
+                        "status": "on"
+                    },
+                    "is_field": false,
+                    "is_reliable": false,
+                    "update_cycle": 0
+                },
+                {
+                    "communication_type": "asynchronous",
+                    "event_direction": "requestservice",
+                    "event_id": 2,
+                    "event_name": "WiperRequestOperation",
+                    "event_type": "event",
+                    "event_value": {
+                        "status": "2"
+                    },
+                    "is_field": false,
+                    "is_reliable": false,
+                    "update_cycle": 0
+                },
+                {
+                    "communication_type": "asynchronous",
+                    "event_direction": "requestservice",
+                    "event_id": 3,
+                    "event_name": "RainIntensity",
+                    "event_type": "event",
+                    "event_value": {
+                        "status": "2"
+                    },
+                    "is_field": false,
+                    "is_reliable": false,
+                    "update_cycle": 0
+                },
+                {
+                    "communication_type": "asynchronous",
+                    "event_direction": "requestservice",
+                    "event_id": 4,
+                    "event_name": "ReverseGear",
+                    "event_type": "event",
+                    "event_value": {
+                        "status": "0"
+                    },
+                    "is_field": false,
+                    "is_reliable": false,
+                    "update_cycle": 0
+                }
+            ],
+            "instance_id": 22136,
+            "port": 30509,
+            "service_id": 4660,
+            "service_name": "ControlLeds",
+            "service_version": "1.0"
+        }
+    ]
+}

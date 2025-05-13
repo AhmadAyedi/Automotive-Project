@@ -1,0 +1,28 @@
+that is incredible it worked exactly as expected 
+now instead of controlling a led we have a more complex requirement 
+in fact user will no longer turn on/off led he will control a wiper in vehicle now 
+so in the web interface we will have a wiper where the user can choose 
+to activate the front or back wiper or both at the same time and each have 
+2 speed mode : normal speed and fast speed and each have also number of 
+cycles a user can choose from 1 to 5 cycles 
+
+all that will be in a user interface like we did earlier (html css js) 
+and we will rebuild our backend as well to communicate with user's events 
+and requests and send to mongodb then like usual rasp1 will retrieve 
+those request from mongodb and send it via LIN bus (using the library) 
+to rasp2 that will trigger it self the front and back wipers according 
+to user's requests 
+
+we will not use a real wiper actuator because we don't have the hardware 
+so we will use 3 leds on pins (gpio 23 and 24 and 25 ) that will 
+act as a front wiper and 3 other leds (gpio 16 and 20 and 21) that will act
+ as a back wiper 
+we will simulate a wiper(front or back) using 3 LEDs  where the LEDs light 
+up one by one from right to left like a wiper swipe, and this repeats
+(number of cycles set by the user) at a speed based on the selected level. 
+When the speed increases, the delay between lighting each LED decreases,
+ making the wiper "move" faster.
+
+let's build a new project named wiper_LIN where we build our front 
+and backend and then we name our mongodb database LIN_wiper7 and then we 
+do the master(rasp1) and slave(rasp2) codes

@@ -1,0 +1,490 @@
+
+--- Response at 2025-05-13 14:23:35 ---
+Low Beam = desactivated
+High Beam = desactivated
+Parking Left = desactivated
+Parking Right = desactivated
+Hazard Lights = desactivated
+Right Turn = activated
+Left Turn = desactivated
+
+
+--- Response at 2025-05-13 14:23:35 ---
+Low Beam = desactivated
+High Beam = desactivated
+Parking Left = desactivated
+Parking Right = desactivated
+Hazard Lights = desactivated
+Right Turn = activated
+Left Turn = activated
+
+
+--- Response at 2025-05-13 14:23:35 ---
+Low Beam = activated
+High Beam = desactivated
+Parking Left = desactivated
+Parking Right = desactivated
+Hazard Lights = desactivated
+Right Turn = activated
+Left Turn = activated
+
+
+--- Response at 2025-05-13 14:23:35 ---
+Low Beam = activated
+High Beam = activated
+Parking Left = desactivated
+Parking Right = desactivated
+Hazard Lights = desactivated
+Right Turn = activated
+Left Turn = activated
+
+
+--- Response at 2025-05-13 14:23:35 ---
+Low Beam = activated
+High Beam = activated
+Parking Left = desactivated
+Parking Right = activated
+Hazard Lights = desactivated
+Right Turn = activated
+Left Turn = activated
+
+
+--- Response at 2025-05-13 14:23:35 ---
+Low Beam = activated
+High Beam = activated
+Parking Left = activated
+Parking Right = activated
+Hazard Lights = desactivated
+Right Turn = activated
+Left Turn = activated
+
+
+--- Response at 2025-05-13 14:23:35 ---
+Low Beam = activated
+High Beam = activated
+Parking Left = activated
+Parking Right = activated
+Hazard Lights = activated
+Right Turn = activated
+Left Turn = activated
+
+
+--- Response at 2025-05-13 14:24:09 ---
+Low Beam = activated
+High Beam = activated
+Parking Left = activated
+Parking Right = activated
+Hazard Lights = activated
+Right Turn = FAILED
+Left Turn = activated
+
+
+--- Response at 2025-05-13 14:24:09 ---
+Low Beam = activated
+High Beam = activated
+Parking Left = activated
+Parking Right = activated
+Hazard Lights = activated
+Right Turn = FAILED
+Left Turn = FAILED
+
+
+--- Response at 2025-05-13 14:24:09 ---
+Low Beam = FAILED
+High Beam = activated
+Parking Left = activated
+Parking Right = activated
+Hazard Lights = activated
+Right Turn = FAILED
+Left Turn = FAILED
+
+
+--- Response at 2025-05-13 14:24:09 ---
+Low Beam = FAILED
+High Beam = FAILED
+Parking Left = activated
+Parking Right = activated
+Hazard Lights = activated
+Right Turn = FAILED
+Left Turn = FAILED
+
+
+--- Response at 2025-05-13 14:24:09 ---
+Low Beam = FAILED
+High Beam = FAILED
+Parking Left = activated
+Parking Right = FAILED
+Hazard Lights = activated
+Right Turn = FAILED
+Left Turn = FAILED
+
+
+--- Response at 2025-05-13 14:24:09 ---
+Low Beam = FAILED
+High Beam = FAILED
+Parking Left = FAILED
+Parking Right = FAILED
+Hazard Lights = activated
+Right Turn = FAILED
+Left Turn = FAILED
+
+
+--- Response at 2025-05-13 14:24:09 ---
+Low Beam = FAILED
+High Beam = FAILED
+Parking Left = FAILED
+Parking Right = FAILED
+Hazard Lights = FAILED
+Right Turn = FAILED
+Left Turn = FAILED
+
+
+--- Response at 2025-05-13 14:32:29 ---
+Low Beam = FAILED
+High Beam = FAILED
+Parking Left = FAILED
+Parking Right = FAILED
+Hazard Lights = FAILED
+Right Turn = activated
+Left Turn = FAILED
+
+
+--- Response at 2025-05-13 14:32:29 ---
+Low Beam = FAILED
+High Beam = FAILED
+Parking Left = FAILED
+Parking Right = FAILED
+Hazard Lights = FAILED
+Right Turn = activated
+Left Turn = activated
+
+
+--- Response at 2025-05-13 14:32:29 ---
+Low Beam = activated
+High Beam = FAILED
+Parking Left = FAILED
+Parking Right = FAILED
+Hazard Lights = FAILED
+Right Turn = activated
+Left Turn = activated
+
+
+--- Response at 2025-05-13 14:32:29 ---
+Low Beam = activated
+High Beam = activated
+Parking Left = FAILED
+Parking Right = FAILED
+Hazard Lights = FAILED
+Right Turn = activated
+Left Turn = activated
+
+
+--- Response at 2025-05-13 14:32:29 ---
+Low Beam = activated
+High Beam = activated
+Parking Left = FAILED
+Parking Right = activated
+Hazard Lights = FAILED
+Right Turn = activated
+Left Turn = activated
+
+
+--- Response at 2025-05-13 14:32:29 ---
+Low Beam = activated
+High Beam = activated
+Parking Left = activated
+Parking Right = activated
+Hazard Lights = FAILED
+Right Turn = activated
+Left Turn = activated
+
+
+--- Response at 2025-05-13 14:32:29 ---
+Low Beam = activated
+High Beam = activated
+Parking Left = activated
+Parking Right = activated
+Hazard Lights = activated
+Right Turn = activated
+Left Turn = activated
+
+
+--- Response at 2025-05-13 14:33:19 ---
+Low Beam = activated
+High Beam = activated
+Parking Left = activated
+Parking Right = activated
+Hazard Lights = activated
+Right Turn = FAILED
+Left Turn = activated
+
+
+--- Response at 2025-05-13 14:33:19 ---
+Low Beam = activated
+High Beam = activated
+Parking Left = activated
+Parking Right = activated
+Hazard Lights = activated
+Right Turn = FAILED
+Left Turn = FAILED
+
+
+--- Response at 2025-05-13 14:33:19 ---
+Low Beam = FAILED
+High Beam = activated
+Parking Left = activated
+Parking Right = activated
+Hazard Lights = activated
+Right Turn = FAILED
+Left Turn = FAILED
+
+
+--- Response at 2025-05-13 14:33:19 ---
+Low Beam = FAILED
+High Beam = FAILED
+Parking Left = activated
+Parking Right = activated
+Hazard Lights = activated
+Right Turn = FAILED
+Left Turn = FAILED
+
+
+--- Response at 2025-05-13 14:33:19 ---
+Low Beam = FAILED
+High Beam = FAILED
+Parking Left = activated
+Parking Right = FAILED
+Hazard Lights = activated
+Right Turn = FAILED
+Left Turn = FAILED
+
+
+--- Response at 2025-05-13 14:33:19 ---
+Low Beam = FAILED
+High Beam = FAILED
+Parking Left = FAILED
+Parking Right = FAILED
+Hazard Lights = activated
+Right Turn = FAILED
+Left Turn = FAILED
+
+
+--- Response at 2025-05-13 14:33:19 ---
+Low Beam = FAILED
+High Beam = FAILED
+Parking Left = FAILED
+Parking Right = FAILED
+Hazard Lights = FAILED
+Right Turn = FAILED
+Left Turn = FAILED
+
+
+--- Response at 2025-05-13 14:34:09 ---
+Low Beam = FAILED
+High Beam = FAILED
+Parking Left = FAILED
+Parking Right = FAILED
+Hazard Lights = FAILED
+Right Turn = activated
+Left Turn = FAILED
+
+
+--- Response at 2025-05-13 14:34:09 ---
+Low Beam = FAILED
+High Beam = FAILED
+Parking Left = FAILED
+Parking Right = FAILED
+Hazard Lights = FAILED
+Right Turn = activated
+Left Turn = activated
+
+
+--- Response at 2025-05-13 14:34:09 ---
+Low Beam = activated
+High Beam = FAILED
+Parking Left = FAILED
+Parking Right = FAILED
+Hazard Lights = FAILED
+Right Turn = activated
+Left Turn = activated
+
+
+--- Response at 2025-05-13 14:34:09 ---
+Low Beam = activated
+High Beam = activated
+Parking Left = FAILED
+Parking Right = FAILED
+Hazard Lights = FAILED
+Right Turn = activated
+Left Turn = activated
+
+
+--- Response at 2025-05-13 14:34:09 ---
+Low Beam = activated
+High Beam = activated
+Parking Left = FAILED
+Parking Right = activated
+Hazard Lights = FAILED
+Right Turn = activated
+Left Turn = activated
+
+
+--- Response at 2025-05-13 14:34:09 ---
+Low Beam = activated
+High Beam = activated
+Parking Left = activated
+Parking Right = activated
+Hazard Lights = FAILED
+Right Turn = activated
+Left Turn = activated
+
+
+--- Response at 2025-05-13 14:34:09 ---
+Low Beam = activated
+High Beam = activated
+Parking Left = activated
+Parking Right = activated
+Hazard Lights = activated
+Right Turn = activated
+Left Turn = activated
+
+
+--- Response at 2025-05-13 14:34:30 ---
+Low Beam = activated
+High Beam = activated
+Parking Left = activated
+Parking Right = activated
+Hazard Lights = activated
+Right Turn = desactivated
+Left Turn = activated
+
+
+--- Response at 2025-05-13 14:34:30 ---
+Low Beam = activated
+High Beam = activated
+Parking Left = activated
+Parking Right = activated
+Hazard Lights = activated
+Right Turn = desactivated
+Left Turn = desactivated
+
+
+--- Response at 2025-05-13 14:34:30 ---
+Low Beam = desactivated
+High Beam = activated
+Parking Left = activated
+Parking Right = activated
+Hazard Lights = activated
+Right Turn = desactivated
+Left Turn = desactivated
+
+
+--- Response at 2025-05-13 14:34:30 ---
+Low Beam = desactivated
+High Beam = desactivated
+Parking Left = activated
+Parking Right = activated
+Hazard Lights = activated
+Right Turn = desactivated
+Left Turn = desactivated
+
+
+--- Response at 2025-05-13 14:34:30 ---
+Low Beam = desactivated
+High Beam = desactivated
+Parking Left = activated
+Parking Right = desactivated
+Hazard Lights = activated
+Right Turn = desactivated
+Left Turn = desactivated
+
+
+--- Response at 2025-05-13 14:34:30 ---
+Low Beam = desactivated
+High Beam = desactivated
+Parking Left = desactivated
+Parking Right = desactivated
+Hazard Lights = activated
+Right Turn = desactivated
+Left Turn = desactivated
+
+
+--- Response at 2025-05-13 14:34:30 ---
+Low Beam = desactivated
+High Beam = desactivated
+Parking Left = desactivated
+Parking Right = desactivated
+Hazard Lights = desactivated
+Right Turn = desactivated
+Left Turn = desactivated
+
+
+--- Response at 2025-05-13 14:35:23 ---
+Low Beam = desactivated
+High Beam = desactivated
+Parking Left = desactivated
+Parking Right = desactivated
+Hazard Lights = desactivated
+Right Turn = activated
+Left Turn = desactivated
+
+
+--- Response at 2025-05-13 14:35:23 ---
+Low Beam = desactivated
+High Beam = desactivated
+Parking Left = desactivated
+Parking Right = desactivated
+Hazard Lights = desactivated
+Right Turn = activated
+Left Turn = activated
+
+
+--- Response at 2025-05-13 14:35:23 ---
+Low Beam = activated
+High Beam = desactivated
+Parking Left = desactivated
+Parking Right = desactivated
+Hazard Lights = desactivated
+Right Turn = activated
+Left Turn = activated
+
+
+--- Response at 2025-05-13 14:35:23 ---
+Low Beam = activated
+High Beam = activated
+Parking Left = desactivated
+Parking Right = desactivated
+Hazard Lights = desactivated
+Right Turn = activated
+Left Turn = activated
+
+
+--- Response at 2025-05-13 14:35:23 ---
+Low Beam = activated
+High Beam = activated
+Parking Left = desactivated
+Parking Right = activated
+Hazard Lights = desactivated
+Right Turn = activated
+Left Turn = activated
+
+
+--- Response at 2025-05-13 14:35:23 ---
+Low Beam = activated
+High Beam = activated
+Parking Left = activated
+Parking Right = activated
+Hazard Lights = desactivated
+Right Turn = activated
+Left Turn = activated
+
+
+--- Response at 2025-05-13 14:35:23 ---
+Low Beam = activated
+High Beam = activated
+Parking Left = activated
+Parking Right = activated
+Hazard Lights = activated
+Right Turn = activated
+Left Turn = activated
+

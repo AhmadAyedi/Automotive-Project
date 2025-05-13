@@ -1,0 +1,33 @@
+2025-04-20 15:57:27,370 - INFO - Shutting down...
+2025-04-20 16:06:59,476 - INFO - Master initialized - LIN and MongoDB connected
+2025-04-20 16:06:59,477 - INFO - Starting master controller...
+2025-04-20 16:08:34,314 - INFO - Shutting down...
+2025-04-20 16:08:34,323 - INFO - Resources cleaned up
+2025-04-20 16:32:31,121 - INFO - Sent LIN frame: b'\x01\x01\x01'
+2025-04-20 16:32:31,213 - INFO - Sent LIN frame: b'\x01\x01\x01'
+2025-04-20 16:32:31,289 - INFO - Sent LIN frame: b'\x01\x01\x01'
+2025-04-20 16:32:31,369 - INFO - Sent LIN frame: b'\x01\x01\x01'
+2025-04-20 16:32:31,445 - INFO - Sent LIN frame: b'\x01\x01\x01'
+2025-04-20 16:32:31,521 - INFO - Sent LIN frame: b'\x01\x01\x01'
+2025-04-20 16:32:31,601 - INFO - Sent LIN frame: b'\x02\x01\x01'
+2025-04-20 16:32:31,685 - INFO - Sent LIN frame: b'\x02\x01\x01'
+2025-04-20 16:32:31,761 - INFO - Sent LIN frame: b'\x02\x02\x02'
+2025-04-20 16:32:31,837 - INFO - Sent LIN frame: b'\x02\x02\x02'
+2025-04-20 16:32:31,917 - INFO - Sent LIN frame: b'\x02\x02\x02'
+2025-04-20 16:32:31,993 - INFO - Sent LIN frame: b'\x01\x01\x02'
+2025-04-20 16:32:32,069 - INFO - Sent LIN frame: b'\x03\x02\x04'
+2025-04-20 16:32:47,997 - INFO - Sent LIN frame: b'\x03\x02\x04'
+2025-04-20 16:33:26,017 - INFO - Sent LIN frame: b'\x01\x01\x02'
+2025-04-20 16:33:41,589 - INFO - Sent LIN frame: b'\x01\x02\x03'
+2025-04-20 16:34:21,049 - INFO - Sent LIN frame: b'\x03\x02\x03'
+2025-04-20 16:34:46,145 - INFO - Sent LIN frame: b'\x03\x02\x03'
+2025-04-20 16:40:11,369 - INFO - Sent LIN frame: b'\x03\x01\x05'
+2025-04-20 16:41:59,102 - INFO - Shutting down...
+2025-04-20 16:45:47,925 - INFO - Sent LIN frame: b'\x03\x01\x05'
+2025-04-20 16:46:15,453 - INFO - Sent LIN frame: b'\x03\x01\x05'
+2025-04-20 16:46:58,709 - INFO - Sent LIN frame: b'\x03\x01\x05'
+2025-04-20 16:47:03,381 - INFO - Sent LIN frame: b'\x03\x01\x05'
+2025-04-20 16:49:06,473 - INFO - Sent LIN frame: b'\x01\x02\x02'
+2025-04-20 16:50:22,561 - INFO - Sent LIN frame: b'\x01\x02\x02'
+2025-04-20 16:50:28,305 - INFO - Sent LIN frame: b'\x01\x02\x02'
+2025-04-20 17:04:44,231 - INFO - Shutting down...

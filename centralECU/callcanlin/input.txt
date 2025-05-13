@@ -1,0 +1,2 @@
+ledState = 'OFF'
+protocol = 'CAN'
