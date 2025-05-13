@@ -88,7 +88,7 @@ class CANLightMaster:
         return signals
     
     def write_response_to_file(self, signals):
-        """Write response signals to light_response_signals.txt and simplified_results.txt with timestamp"""
+        """Write response signals to light_response_signals.txt and simplified_results.txt"""
         timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
         
         # Write to light_response_signals.txt (original format)
@@ -102,18 +102,16 @@ class CANLightMaster:
         except Exception as e:
             print(f"Error writing to light_response_signals.txt: {e}")
         
-        # Write to simplified_results.txt (ON/OFF format)
+        # Write to simplified_results.txt (ON/OFF/FF format, no timestamps)
         try:
             simplified_signals = {
-                key: "ON" if value == "activated" else "OFF"
+                key: "ON" if value == "activated" else "FF" if value == "FAILED" else "OFF"
                 for key, value in signals.items()
             }
             with open("simplified_results.txt", 'a') as f:
-                f.write(f"\n--- Response at {timestamp} ---\n")
                 for key, value in simplified_signals.items():
                     f.write(f"{key} = {value}\n")
-                f.write("\n")
-            print(f"Simplified response signals written to simplified_results.txt at {timestamp}")
+            print(f"Simplified response signals written to simplified_results.txt")
         except Exception as e:
             print(f"Error writing to simplified_results.txt: {e}")
     

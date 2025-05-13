@@ -1,5 +1,3 @@
-
---- Response at 2025-05-13 14:32:29 ---
 Low Beam = OFF
 High Beam = OFF
 Parking Left = OFF
@@ -7,9 +5,6 @@ Parking Right = OFF
 Hazard Lights = OFF
 Right Turn = ON
 Left Turn = OFF
-
-
---- Response at 2025-05-13 14:32:29 ---
 Low Beam = OFF
 High Beam = OFF
 Parking Left = OFF
@@ -17,9 +12,6 @@ Parking Right = OFF
 Hazard Lights = OFF
 Right Turn = ON
 Left Turn = ON
-
-
---- Response at 2025-05-13 14:32:29 ---
 Low Beam = ON
 High Beam = OFF
 Parking Left = OFF
@@ -27,9 +19,6 @@ Parking Right = OFF
 Hazard Lights = OFF
 Right Turn = ON
 Left Turn = ON
-
-
---- Response at 2025-05-13 14:32:29 ---
 Low Beam = ON
 High Beam = ON
 Parking Left = OFF
@@ -37,9 +26,6 @@ Parking Right = OFF
 Hazard Lights = OFF
 Right Turn = ON
 Left Turn = ON
-
-
---- Response at 2025-05-13 14:32:29 ---
 Low Beam = ON
 High Beam = ON
 Parking Left = OFF
@@ -47,9 +33,6 @@ Parking Right = ON
 Hazard Lights = OFF
 Right Turn = ON
 Left Turn = ON
-
-
---- Response at 2025-05-13 14:32:29 ---
 Low Beam = ON
 High Beam = ON
 Parking Left = ON
@@ -57,9 +40,6 @@ Parking Right = ON
 Hazard Lights = OFF
 Right Turn = ON
 Left Turn = ON
-
-
---- Response at 2025-05-13 14:32:29 ---
 Low Beam = ON
 High Beam = ON
 Parking Left = ON
@@ -67,9 +47,6 @@ Parking Right = ON
 Hazard Lights = ON
 Right Turn = ON
 Left Turn = ON
-
-
---- Response at 2025-05-13 14:33:19 ---
 Low Beam = ON
 High Beam = ON
 Parking Left = ON
@@ -77,9 +54,6 @@ Parking Right = ON
 Hazard Lights = ON
 Right Turn = OFF
 Left Turn = ON
-
-
---- Response at 2025-05-13 14:33:19 ---
 Low Beam = ON
 High Beam = ON
 Parking Left = ON
@@ -87,9 +61,6 @@ Parking Right = ON
 Hazard Lights = ON
 Right Turn = OFF
 Left Turn = OFF
-
-
---- Response at 2025-05-13 14:33:19 ---
 Low Beam = OFF
 High Beam = ON
 Parking Left = ON
@@ -97,9 +68,6 @@ Parking Right = ON
 Hazard Lights = ON
 Right Turn = OFF
 Left Turn = OFF
-
-
---- Response at 2025-05-13 14:33:19 ---
 Low Beam = OFF
 High Beam = OFF
 Parking Left = ON
@@ -107,9 +75,6 @@ Parking Right = ON
 Hazard Lights = ON
 Right Turn = OFF
 Left Turn = OFF
-
-
---- Response at 2025-05-13 14:33:19 ---
 Low Beam = OFF
 High Beam = OFF
 Parking Left = ON
@@ -117,9 +82,6 @@ Parking Right = OFF
 Hazard Lights = ON
 Right Turn = OFF
 Left Turn = OFF
-
-
---- Response at 2025-05-13 14:33:19 ---
 Low Beam = OFF
 High Beam = OFF
 Parking Left = OFF
@@ -127,9 +89,6 @@ Parking Right = OFF
 Hazard Lights = ON
 Right Turn = OFF
 Left Turn = OFF
-
-
---- Response at 2025-05-13 14:33:19 ---
 Low Beam = OFF
 High Beam = OFF
 Parking Left = OFF
@@ -137,69 +96,97 @@ Parking Right = OFF
 Hazard Lights = OFF
 Right Turn = OFF
 Left Turn = OFF
-
-
---- Response at 2025-05-13 14:34:09 ---
 Low Beam = OFF
 High Beam = OFF
 Parking Left = OFF
 Parking Right = OFF
 Hazard Lights = OFF
-Right Turn = ON
+Right Turn = FF
 Left Turn = OFF
-
-
---- Response at 2025-05-13 14:34:09 ---
 Low Beam = OFF
 High Beam = OFF
 Parking Left = OFF
 Parking Right = OFF
 Hazard Lights = OFF
-Right Turn = ON
-Left Turn = ON
-
-
---- Response at 2025-05-13 14:34:09 ---
-Low Beam = ON
+Right Turn = FF
+Left Turn = FF
+Low Beam = FF
 High Beam = OFF
 Parking Left = OFF
 Parking Right = OFF
 Hazard Lights = OFF
-Right Turn = ON
-Left Turn = ON
-
-
---- Response at 2025-05-13 14:34:09 ---
-Low Beam = ON
-High Beam = ON
+Right Turn = FF
+Left Turn = FF
+Low Beam = FF
+High Beam = FF
 Parking Left = OFF
 Parking Right = OFF
 Hazard Lights = OFF
+Right Turn = FF
+Left Turn = FF
+Low Beam = FF
+High Beam = FF
+Parking Left = OFF
+Parking Right = FF
+Hazard Lights = OFF
+Right Turn = FF
+Left Turn = FF
+Low Beam = FF
+High Beam = FF
+Parking Left = FF
+Parking Right = FF
+Hazard Lights = OFF
+Right Turn = FF
+Left Turn = FF
+Low Beam = FF
+High Beam = FF
+Parking Left = FF
+Parking Right = FF
+Hazard Lights = FF
+Right Turn = FF
+Left Turn = FF
+Low Beam = FF
+High Beam = FF
+Parking Left = FF
+Parking Right = FF
+Hazard Lights = FF
+Right Turn = ON
+Left Turn = FF
+Low Beam = FF
+High Beam = FF
+Parking Left = FF
+Parking Right = FF
+Hazard Lights = FF
 Right Turn = ON
 Left Turn = ON
-
-
---- Response at 2025-05-13 14:34:09 ---
+Low Beam = ON
+High Beam = FF
+Parking Left = FF
+Parking Right = FF
+Hazard Lights = FF
+Right Turn = ON
+Left Turn = ON
 Low Beam = ON
 High Beam = ON
-Parking Left = OFF
-Parking Right = ON
-Hazard Lights = OFF
+Parking Left = FF
+Parking Right = FF
+Hazard Lights = FF
 Right Turn = ON
 Left Turn = ON
-
-
---- Response at 2025-05-13 14:34:09 ---
+Low Beam = ON
+High Beam = ON
+Parking Left = FF
+Parking Right = ON
+Hazard Lights = FF
+Right Turn = ON
+Left Turn = ON
 Low Beam = ON
 High Beam = ON
 Parking Left = ON
 Parking Right = ON
-Hazard Lights = OFF
+Hazard Lights = FF
 Right Turn = ON
 Left Turn = ON
-
-
---- Response at 2025-05-13 14:34:09 ---
 Low Beam = ON
 High Beam = ON
 Parking Left = ON
@@ -207,144 +194,52 @@ Parking Right = ON
 Hazard Lights = ON
 Right Turn = ON
 Left Turn = ON
-
-
---- Response at 2025-05-13 14:34:30 ---
 Low Beam = ON
 High Beam = ON
 Parking Left = ON
 Parking Right = ON
 Hazard Lights = ON
-Right Turn = OFF
+Right Turn = FF
 Left Turn = ON
-
-
---- Response at 2025-05-13 14:34:30 ---
 Low Beam = ON
 High Beam = ON
 Parking Left = ON
 Parking Right = ON
 Hazard Lights = ON
-Right Turn = OFF
-Left Turn = OFF
-
-
---- Response at 2025-05-13 14:34:30 ---
-Low Beam = OFF
+Right Turn = FF
+Left Turn = FF
+Low Beam = FF
 High Beam = ON
 Parking Left = ON
 Parking Right = ON
 Hazard Lights = ON
-Right Turn = OFF
-Left Turn = OFF
-
-
---- Response at 2025-05-13 14:34:30 ---
-Low Beam = OFF
-High Beam = OFF
+Right Turn = FF
+Left Turn = FF
+Low Beam = FF
+High Beam = FF
 Parking Left = ON
 Parking Right = ON
 Hazard Lights = ON
-Right Turn = OFF
-Left Turn = OFF
-
-
---- Response at 2025-05-13 14:34:30 ---
-Low Beam = OFF
-High Beam = OFF
+Right Turn = FF
+Left Turn = FF
+Low Beam = FF
+High Beam = FF
 Parking Left = ON
-Parking Right = OFF
+Parking Right = FF
 Hazard Lights = ON
-Right Turn = OFF
-Left Turn = OFF
-
-
---- Response at 2025-05-13 14:34:30 ---
-Low Beam = OFF
-High Beam = OFF
-Parking Left = OFF
-Parking Right = OFF
+Right Turn = FF
+Left Turn = FF
+Low Beam = FF
+High Beam = FF
+Parking Left = FF
+Parking Right = FF
 Hazard Lights = ON
-Right Turn = OFF
-Left Turn = OFF
-
-
---- Response at 2025-05-13 14:34:30 ---
-Low Beam = OFF
-High Beam = OFF
-Parking Left = OFF
-Parking Right = OFF
-Hazard Lights = OFF
-Right Turn = OFF
-Left Turn = OFF
-
-
---- Response at 2025-05-13 14:35:23 ---
-Low Beam = OFF
-High Beam = OFF
-Parking Left = OFF
-Parking Right = OFF
-Hazard Lights = OFF
-Right Turn = ON
-Left Turn = OFF
-
-
---- Response at 2025-05-13 14:35:23 ---
-Low Beam = OFF
-High Beam = OFF
-Parking Left = OFF
-Parking Right = OFF
-Hazard Lights = OFF
-Right Turn = ON
-Left Turn = ON
-
-
---- Response at 2025-05-13 14:35:23 ---
-Low Beam = ON
-High Beam = OFF
-Parking Left = OFF
-Parking Right = OFF
-Hazard Lights = OFF
-Right Turn = ON
-Left Turn = ON
-
-
---- Response at 2025-05-13 14:35:23 ---
-Low Beam = ON
-High Beam = ON
-Parking Left = OFF
-Parking Right = OFF
-Hazard Lights = OFF
-Right Turn = ON
-Left Turn = ON
-
-
---- Response at 2025-05-13 14:35:23 ---
-Low Beam = ON
-High Beam = ON
-Parking Left = OFF
-Parking Right = ON
-Hazard Lights = OFF
-Right Turn = ON
-Left Turn = ON
-
-
---- Response at 2025-05-13 14:35:23 ---
-Low Beam = ON
-High Beam = ON
-Parking Left = ON
-Parking Right = ON
-Hazard Lights = OFF
-Right Turn = ON
-Left Turn = ON
-
-
---- Response at 2025-05-13 14:35:23 ---
-Low Beam = ON
-High Beam = ON
-Parking Left = ON
-Parking Right = ON
-Hazard Lights = ON
-Right Turn = ON
-Left Turn = ON
-
+Right Turn = FF
+Left Turn = FF
+Low Beam = FF
+High Beam = FF
+Parking Left = FF
+Parking Right = FF
+Hazard Lights = FF
+Right Turn = FF
+Left Turn = FF
