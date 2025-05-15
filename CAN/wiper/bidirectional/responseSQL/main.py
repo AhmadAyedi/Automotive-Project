@@ -6,6 +6,8 @@ import re
 import threading
 from req import WiperSystem
 from datetime import datetime
+import mysql.connector
+from mysql.connector import Error
 
 class CANWiperMaster:
     def __init__(self):
@@ -17,8 +19,11 @@ class CANWiperMaster:
         self.RESPONSE_MSG_ID = 0x101
         self.last_modified = 0
         self.running = True
+        self.db_connection = None
+        self.db_cursor = None
         
         self.init_can_bus()
+        self.init_database()
         self.start_response_monitor()
     
     def init_can_bus(self):
@@ -31,6 +36,20 @@ class CANWiperMaster:
             print(f"CAN init failed: {e}")
             raise
     
+    def init_database(self):
+        try:
+            self.db_connection = mysql.connector.connect(
+                host="192.168.1.11",
+                user="myuser1",
+                password="root",
+                database="khalil"
+            )
+            self.db_cursor = self.db_connection.cursor()
+            print("Database connection established")
+        except Error as e:
+            print(f"Database connection failed: {e}")
+            raise
+    
     def extract_signals(self, content):
         """Extract signals from wiper_output.txt including Wiper_Function_Enabled"""
         signals = {}
@@ -40,7 +59,7 @@ class CANWiperMaster:
         return signals
     
     def create_can_frame(self, signals):
-        """Create CAN frame from exact output signals including Wiper_Function_Enabled"""
+        """Create CAN frame including Wiper_Function_Enabled status"""
         data = bytearray(8)
         if 'wiperMode' in signals:
             data[0] = signals['wiperMode']
@@ -100,18 +119,24 @@ class CANWiperMaster:
         signals['hwError'] = data[7]  # 0=no error
         return signals
     
-    def write_response_to_file(self, signals):
-        """Write response signals to response_signals.txt with timestamp"""
+    def store_wiper_status(self, wiper_status):
+        """Store WiperStatus in MySQL database"""
         try:
+            message = "on" if wiper_status == 1 else "off"
             timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-            with open("response_signals.txt", 'a') as f:
-                f.write(f"\n--- Response at {timestamp} ---\n")
-                for key, value in signals.items():
-                    f.write(f"{key} = {value}\n")
-                f.write("\n")
-            print(f"Response signals written to response_signals.txt at {timestamp}")
-        except Exception as e:
-            print(f"Error writing to response_signals.txt: {e}")
+            event_id = 1  # Fixed event_id for WiperStatus
+            
+            query = """
+            INSERT INTO protocol_data (event_id, message, timestamp)
+            VALUES (%s, %s, %s)
+            """
+            values = (event_id, message, timestamp)
+            
+            self.db_cursor.execute(query, values)
+            self.db_connection.commit()
+            print(f"Stored WiperStatus={wiper_status} (message={message}) in database at {timestamp}")
+        except Error as e:
+            print(f"Error storing WiperStatus in database: {e}")
     
     def monitor_responses(self):
         """Monitor CAN bus for response messages from slave"""
@@ -124,7 +149,8 @@ class CANWiperMaster:
                     print("\nReceived Response Signals:")
                     for key, value in signals.items():
                         print(f"{key}: {value}")
-                    self.write_response_to_file(signals)
+                    # Store only WiperStatus in database
+                    self.store_wiper_status(signals['WiperStatus'])
         except Exception as e:
             print(f"Response monitoring error: {e}")
     
@@ -160,6 +186,11 @@ class CANWiperMaster:
             self.response_thread.join(timeout=0.5)
         if self.bus:
             self.bus.shutdown()
+        if self.db_connection:
+            if self.db_cursor:
+                self.db_cursor.close()
+            self.db_connection.close()
+            print("Database connection closed")
         os.system(f'sudo /sbin/ip link set {self.channel} down')
         print("Shutdown complete")
 
