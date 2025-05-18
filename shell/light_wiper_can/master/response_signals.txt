@@ -1,0 +1,55 @@
+
+--- Response at 2025-05-18 18:22:21 ---
+WiperStatus = 1
+wiperCurrentSpeed = 1
+wiperCurrentPosition = 0
+currentWiperMode = 0
+consumedPower = 77
+isWiperBlocked = 0
+blockageReason = 0
+hwError = 0
+
+
+--- Response at 2025-05-18 18:22:21 ---
+WiperStatus = 0
+wiperCurrentSpeed = 0
+wiperCurrentPosition = 0
+currentWiperMode = 0
+consumedPower = 77
+isWiperBlocked = 0
+blockageReason = 0
+hwError = 0
+
+
+--- Response at 2025-05-18 18:23:34 ---
+WiperStatus = 0
+wiperCurrentSpeed = 0
+wiperCurrentPosition = 0
+currentWiperMode = 0
+consumedPower = 77
+isWiperBlocked = 0
+blockageReason = 0
+hwError = 0
+
+
+--- Response at 2025-05-18 18:23:34 ---
+WiperStatus = 1
+wiperCurrentSpeed = 1
+wiperCurrentPosition = 32
+currentWiperMode = 2
+consumedPower = 77
+isWiperBlocked = 0
+blockageReason = 0
+hwError = 0
+
+
+--- Response at 2025-05-18 18:25:05 ---
+WiperStatus = 1
+wiperCurrentSpeed = 1
+wiperCurrentPosition = 16
+currentWiperMode = 2
+consumedPower = 99
+isWiperBlocked = 0
+blockageReason = 0
+hwError = 0
+

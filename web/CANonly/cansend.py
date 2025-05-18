@@ -27,7 +27,7 @@ class WiperController:
             raise
         
         # MongoDB setup
-        self.mongo_client = MongoClient('mongodb://192.168.1.14:27017/')
+        self.mongo_client = MongoClient('mongodb://192.168.1.11:27017/')
         self.db = self.mongo_client.LIN_wiper77  # You might want to rename this to CAN_wiper77
         self.commands_collection = self.db.commands
         self.sensor_collection = self.db.sensors

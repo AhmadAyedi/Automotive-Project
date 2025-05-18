@@ -1,0 +1,3 @@
+Speed 2 Mode On:{ 
+    wiperMode=2,
+    wiperSpeed=2;}

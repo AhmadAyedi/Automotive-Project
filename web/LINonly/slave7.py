@@ -6,7 +6,7 @@ import logging
 import threading
 
 # GPIO setup
-FRONT_LEDS = [23, 24, 25]  # Right to left
+FRONT_LEDS = [23, 24, 26]  # Right to left
 BACK_LEDS = [16, 20, 21]   # Right to left
 
 # Configure logging

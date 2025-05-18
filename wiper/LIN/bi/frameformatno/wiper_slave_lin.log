@@ -1,0 +1,51 @@
+2025-05-18 00:34:31,958 - ERROR - LIN init failed: [Errno 2] could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'
+2025-05-18 00:39:36,440 - WARNING - response.txt not found, using defaults
+2025-05-18 00:39:47,288 - INFO - LIN interface initialized on /dev/serial0
+2025-05-18 00:39:47,289 - INFO - Listening for LIN messages...
+2025-05-18 00:39:47,291 - INFO - Monitoring response.txt...
+2025-05-18 00:39:47,291 - INFO - Wiper slave (LIN) initialized
+2025-05-18 00:39:51,540 - ERROR - LIN checksum error
+2025-05-18 00:40:07,157 - ERROR - LIN checksum error
+2025-05-18 00:40:28,177 - ERROR - LIN checksum error
+2025-05-18 00:40:42,589 - ERROR - LIN checksum error
+2025-05-18 00:41:01,683 - INFO - Received keyboard interrupt
+2025-05-18 00:41:01,684 - INFO - Shutting down...
+2025-05-18 00:41:01,685 - INFO - Wipers fully stopped
+2025-05-18 00:41:01,686 - INFO - Sent LIN frame: PID=0x31, Data=010100006f000000
+2025-05-18 00:41:02,188 - INFO - Shutdown complete
+2025-05-18 00:41:02,188 - ERROR - LIN monitoring error: 'NoneType' object cannot be interpreted as an integer
+2025-05-18 00:48:39,890 - WARNING - response.txt not found, using defaults
+2025-05-18 00:48:46,191 - INFO - LIN interface initialized on /dev/serial0
+2025-05-18 00:48:46,193 - INFO - Listening for LIN messages...
+2025-05-18 00:48:46,194 - INFO - Monitoring response.txt...
+2025-05-18 00:48:46,194 - INFO - Wiper slave (LIN) initialized
+2025-05-18 00:48:53,164 - INFO - Processing signals: {'wiperMode': 1, 'wiperSpeed': 1, 'wiperCycleCount': 1, 'Wiper_Function_Enabled': 1}
+2025-05-18 00:48:53,165 - INFO - Wipers fully stopped
+2025-05-18 00:48:53,179 - INFO - Sent LIN frame: PID=0x31, Data=010100006f000000, Checksum=0x5d
+2025-05-18 00:48:53,181 - INFO - Started touch mode (single wipe)
+2025-05-18 00:48:53,194 - INFO - Sent LIN frame: PID=0x31, Data=010110016f000000, Checksum=0x4c
+2025-05-18 00:48:53,797 - INFO - Sent LIN frame: PID=0x31, Data=010100016f000000, Checksum=0x5c
+2025-05-18 00:49:07,591 - INFO - Processing signals: {'wiperMode': 4, 'wiperSpeed': 1, 'Wiper_Function_Enabled': 1}
+2025-05-18 00:49:07,592 - INFO - Wipers fully stopped
+2025-05-18 00:49:07,605 - INFO - Sent LIN frame: PID=0x31, Data=010100016f000000, Checksum=0x5c
+2025-05-18 00:49:07,608 - INFO - Started continuous front wiper (speed=normal)
+2025-05-18 00:49:07,622 - INFO - Sent LIN frame: PID=0x31, Data=010110046f000000, Checksum=0x49
+2025-05-18 00:49:20,217 - INFO - Processing signals: {'wiperMode': 4, 'wiperSpeed': 2, 'Wiper_Function_Enabled': 1}
+2025-05-18 00:49:22,055 - INFO - Sent LIN frame: PID=0x31, Data=010100046f000000, Checksum=0x59
+2025-05-18 00:49:22,056 - INFO - Wipers fully stopped
+2025-05-18 00:49:22,070 - INFO - Sent LIN frame: PID=0x31, Data=010100046f000000, Checksum=0x59
+2025-05-18 00:49:22,072 - INFO - Started continuous front wiper (speed=fast)
+2025-05-18 00:49:22,086 - INFO - Sent LIN frame: PID=0x31, Data=010210046f000000, Checksum=0x48
+2025-05-18 00:49:31,041 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1, 'WiperIntermittent': 1, 'wipingCycle': 1700, 'Wiper_Function_Enabled': 1}
+2025-05-18 00:49:31,077 - INFO - Sent LIN frame: PID=0x31, Data=010200046f000000, Checksum=0x58
+2025-05-18 00:49:31,078 - INFO - Wipers fully stopped
+2025-05-18 00:49:31,093 - INFO - Sent LIN frame: PID=0x31, Data=010200046f000000, Checksum=0x58
+2025-05-18 00:49:31,096 - INFO - Started intermittent rear wiper
+2025-05-18 00:49:31,097 - INFO - Started continuous front wiper (speed=normal)
+2025-05-18 00:49:31,111 - INFO - Sent LIN frame: PID=0x31, Data=010120026f000000, Checksum=0x3b
+2025-05-18 00:49:46,366 - INFO - Processing signals: {'Wiper_Function_Enabled': 0}
+2025-05-18 00:49:46,457 - INFO - Sent LIN frame: PID=0x31, Data=010100026f000000, Checksum=0x5b
+2025-05-18 00:49:46,559 - INFO - Wipers fully stopped
+2025-05-18 00:49:46,573 - INFO - Sent LIN frame: PID=0x31, Data=010100026f000000, Checksum=0x5b
+2025-05-18 00:49:46,587 - INFO - Sent LIN frame: PID=0x31, Data=000000006f000000, Checksum=0x5f
+2025-05-18 00:49:47,822 - INFO - Sent LIN frame: PID=0x31, Data=000000006f000000, Checksum=0x5f

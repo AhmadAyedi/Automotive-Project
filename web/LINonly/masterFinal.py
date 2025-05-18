@@ -21,7 +21,7 @@ class WiperController:
     def __init__(self):
         self.lin_master = LINMaster()
         self.mongo_client = MongoClient('mongodb://10.20.0.27:27017/')
-        self.db = self.mongo_client.LIN_wiper77
+        self.db = self.mongo_client.Wiperlin1
         self.commands_collection = self.db.commands
         self.sensor_collection = self.db.sensors
         self.dht = adafruit_dht.DHT11(board.D17)

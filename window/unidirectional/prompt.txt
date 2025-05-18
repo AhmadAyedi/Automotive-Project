@@ -1,0 +1,208 @@
+i am working on CAN protocol between 2  raspberry master and slave 
+the master will read and parse .txt file (contain signals) and send those signals via CAN bus to slave and slave trigger leds accordingly 
+i started by doing the light system those are my codes :
+master :
+analysis_results.txt :
+Light: Right Turn | Result: desactivated
+Light: Left Turn | Result: activated
+Light: Low Beam | Result: desactivated
+Light: High Beam | Result: FAILED
+Light: Parking Right | Result: activated
+Light: Parking Left | Result: activated
+Light: Hazard Lights | Result: desactivated
+
+master:
+import can
+import time
+import os
+
+# CAN IDs for each light type
+LIGHT_IDS = {
+    "Low Beam": 0x101,
+    "High Beam": 0x102,
+    "Parking Left": 0x103,
+    "Parking Right": 0x104,
+    "Hazard Lights": 0x105,
+    "Right Turn": 0x106,
+    "Left Turn": 0x107
+}
+
+# Status codes (1 byte)
+STATUS_CODES = {
+    "activated": 0x01,
+    "desactivated": 0x00,
+    "FAILED": 0xFF
+}
+
+def send_can_message(light, status):
+    try:
+        bus = can.interface.Bus(channel='can0', bustype='socketcan')
+        msg = can.Message(
+            arbitration_id=LIGHT_IDS[light],
+            data=[STATUS_CODES[status]],
+            is_extended_id=False
+        )
+        bus.send(msg)
+        print(f"Sent: {light} - {status} (ID: {hex(LIGHT_IDS[light])}, Data: {hex(STATUS_CODES[status])})")
+        bus.shutdown()
+    except Exception as e:
+        print(f"Error sending CAN message: {e}")
+
+def monitor_file(filename):
+    print(f"Monitoring {filename} for new light status updates...")
+    print("Add new lines to the file to send CAN messages")
+    
+    # Get initial file size
+    last_size = os.path.getsize(filename)
+    
+    try:
+        while True:
+            current_size = os.path.getsize(filename)
+            
+            # Only check if file has grown
+            if current_size > last_size:
+                with open(filename, 'r') as f:
+                    # Read just the new portion
+                    f.seek(last_size)
+                    new_content = f.read()
+                    last_size = current_size
+                    
+                    # Process all new lines
+                    lines = new_content.split('\n')
+                    for line in lines:
+                        if line.strip() and line.startswith("Light:") and "Result:" in line:
+                            try:
+                                parts = line.split('|')
+                                light = parts[0].split(':')[1].strip()
+                                status = parts[1].split(':')[1].strip()
+                                
+                                if light in LIGHT_IDS and status in STATUS_CODES:
+                                    send_can_message(light, status)
+                                else:
+                                    print(f"Ignoring unknown light/status: {line}")
+                            except IndexError:
+                                print(f"Malformed line: {line}")
+            
+            time.sleep(0.1)  # Check 10 times per second
+            
+    except KeyboardInterrupt:
+        print("\nStopped monitoring")
+
+if __name__ == "__main__":
+    monitor_file("analysis_results.txt")
+
+slave:
+import can
+import RPi.GPIO as GPIO
+
+# Reverse mappings for interpretation
+LIGHT_NAMES = {
+    0x101: "Low Beam",
+    0x102: "High Beam",
+    0x103: "Parking Left",
+    0x104: "Parking Right",
+    0x105: "Hazard Lights",
+    0x106: "Right Turn",
+    0x107: "Left Turn"
+}
+
+STATUS_NAMES = {
+    0x01: "activated",
+    0x00: "desactivated",
+    0xFF: "FAILED"
+}
+
+# GPIO pins for LEDs
+LED_PINS = {
+    "Low Beam": 23,
+    "High Beam": 24,
+    "Parking Right": 26,
+    "Parking Left": 16,
+    "Hazard Lights": 20,
+    "Right Turn": 21,
+    "Left Turn": 6
+}
+
+def setup_gpio():
+    """Initialize GPIO pins for LEDs."""
+    GPIO.setmode(GPIO.BCM)
+    for pin in LED_PINS.values():
+        GPIO.setup(pin, GPIO.OUT)
+        GPIO.output(pin, GPIO.LOW)  # Initialize LEDs to off
+
+def control_led(light, status):
+    """Control the LED based on the light type and status."""
+    pin = LED_PINS.get(light)
+    if pin is not None:
+        if status == "activated":
+            GPIO.output(pin, GPIO.HIGH)  # Turn LED on
+        else:  # desactivated or FAILED
+            GPIO.output(pin, GPIO.LOW)   # Turn LED off
+
+def receive_messages():
+    print("Listening for CAN messages and controlling LEDs...")
+    try:
+        # Setup CAN bus
+        bus = can.interface.Bus(channel='can0', bustype='socketcan')
+        # Setup GPIO
+        setup_gpio()
+        
+        while True:
+            msg = bus.recv(timeout=1.0)
+            if msg:
+                light = LIGHT_NAMES.get(msg.arbitration_id, f"Unknown ID: {hex(msg.arbitration_id)}")
+                status = STATUS_NAMES.get(msg.data[0] if msg.data else 0xFF, "Unknown status")
+                print(f"Received: {light} - {status}")
+                
+                # Control LED if light is known
+                if light in LED_PINS:
+                    control_led(light, status)
+                else:
+                    print(f"No LED control for: {light}")
+                
+    except KeyboardInterrupt:
+        print("\nStopped listening")
+    finally:
+        bus.shutdown()
+        GPIO.cleanup()  # Clean up GPIO resources
+
+if __name__ == "__main__":
+    receive_messages()
+
+
+alright now i will move to the next application which is window system 
+i will use 12 leds to act as windows 
+4 leds for driver window >>DR(abbreviation)
+4 leds for passenger window>>PS
+4 leds for driver rear seat window>>DRS
+4 leds for passenger rear seat window>>PRS
+
+now each of those windows ( DR PS DRS PRS) will have a level from 0 to 100
+if the level is from 0 to 24 then all the 4 leds are off (window fully open) if level is from 25 to 49 then only the first led is on if from 49 to 74 then only 2 leds are on if from 75 to 99 then 3 leds are on and if it's 100 then all 4 leds are on 
+and we must take in consideration that leds must be turned on one by one not simultaneously which mean if we have :
+Window: DR           | Result:  OP     | Level: 79%
+then the 4 leds of the driver window must get allumated like that :
+led1 then after 1s led2 then after 1s led3 
+
+you can ignore this field :            | Result:  OP     | 
+you just focus on: Window: DR or PS or DRS or PRS 
+and Level: from 0% to 100%
+
+
+i will give you the gpio of each window:
+DR: gpio2(first led) 3(led2) 15(led3) 17(led4) 
+PS:gpio27 22 0 5
+DRS:gpio6 13 19 26
+PRS:gpio12 16 20 21
+
+we must always follow the level in turning on or off leds led by led
+for example if we were at level 95 then we move directly to 23 then we must turn off led3 then after 1s led2 then after 1s led1 
+if we move from 0  to 66 then we turn led1 then led2 
+if we move from 66 to 0 then we turn off led2 then led1 
+if we move from 40(led1 already on) to 100 then we keep led1 turned on and we turn on led2 then led3 then led4
+
+this is how window system must work 
+
+this is the windows_analysis.txt file that we are going to parse :
+
+give me the complete master and slave codes then
