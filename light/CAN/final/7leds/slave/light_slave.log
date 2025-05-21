@@ -1,0 +1,68 @@
+2025-05-21 21:39:46,871 - INFO - Created a socket
+2025-05-21 21:39:46,872 - INFO - CAN initialized
+2025-05-21 21:39:46,872 - INFO - GPIO initialized
+2025-05-21 21:40:26,257 - INFO - Controlled LED: Left Turn = activated (0x1)
+2025-05-21 21:40:26,258 - INFO - Sent response CAN: 00000000000001
+2025-05-21 21:44:08,644 - INFO - Controlled LED: Left Turn = desactivated (0x0)
+2025-05-21 21:44:08,646 - INFO - Sent response CAN: 00000000000000
+2025-05-21 21:54:14,627 - INFO - Controlled LED: Left Turn = activated (0x1)
+2025-05-21 21:54:14,628 - INFO - Sent response CAN: 00000000000001
+2025-05-21 21:54:55,393 - INFO - Controlled LED: Left Turn = desactivated (0x0)
+2025-05-21 21:54:55,394 - INFO - Sent response CAN: 00000000000000
+2025-05-21 21:55:20,727 - INFO - Controlled LED: Parking Right = activated (0x1)
+2025-05-21 21:55:20,728 - INFO - Sent response CAN: 00000001000000
+2025-05-21 22:18:57,358 - INFO - Received keyboard interrupt
+2025-05-21 22:18:57,359 - INFO - Shutting down...
+2025-05-21 22:18:57,448 - INFO - Shutdown complete
+2025-05-21 22:19:01,675 - INFO - Created a socket
+2025-05-21 22:19:01,676 - INFO - CAN initialized
+2025-05-21 22:19:01,677 - INFO - GPIO initialized
+2025-05-21 22:26:20,978 - INFO - Shutting down...
+2025-05-21 22:26:21,016 - INFO - Shutdown complete
+2025-05-21 22:26:21,276 - INFO - Created a socket
+2025-05-21 22:26:21,278 - INFO - CAN initialized
+2025-05-21 22:26:21,279 - INFO - GPIO initialized
+2025-05-21 22:27:12,456 - INFO - Controlled LED: Parking Right = activated (0x1)
+2025-05-21 22:27:12,457 - INFO - Sent response CAN: 00000001000000
+2025-05-21 22:27:12,458 - INFO - Controlled LED: Parking Right = activated (0x1)
+2025-05-21 22:27:12,458 - INFO - Sent response CAN: 00000001000000
+2025-05-21 22:28:44,245 - INFO - Received keyboard interrupt
+2025-05-21 22:28:44,246 - INFO - Shutting down...
+2025-05-21 22:28:44,284 - INFO - Shutdown complete
+2025-05-21 22:28:46,992 - INFO - Created a socket
+2025-05-21 22:28:46,994 - INFO - CAN initialized
+2025-05-21 22:28:46,994 - INFO - GPIO initialized
+2025-05-21 22:29:21,637 - INFO - Controlled LED: Parking Right = activated (0x1)
+2025-05-21 22:29:21,638 - INFO - Sent response CAN: 00000001000000
+2025-05-21 22:30:23,312 - INFO - Controlled LED: Parking Right = desactivated (0x0)
+2025-05-21 22:30:23,313 - INFO - Sent response CAN: 00000000000000
+2025-05-21 22:30:36,013 - INFO - Controlled LED: Parking Right = activated (0x1)
+2025-05-21 22:30:36,014 - INFO - Sent response CAN: 00000001000000
+2025-05-21 22:30:36,027 - INFO - Controlled LED: Parking Right = activated (0x1)
+2025-05-21 22:30:36,029 - INFO - Sent response CAN: 00000001000000
+2025-05-21 22:37:46,704 - INFO - Controlled LED: Parking Right = FAILED (0xff)
+2025-05-21 22:37:46,705 - INFO - Sent response CAN: 00000000000000
+2025-05-21 22:38:04,428 - INFO - Controlled LED: Parking Right = activated (0x1)
+2025-05-21 22:38:04,430 - INFO - Sent response CAN: 00000001000000
+2025-05-21 22:38:14,345 - INFO - Controlled LED: Parking Right = INVALID (0xfe)
+2025-05-21 22:38:14,346 - INFO - Sent response CAN: 00000001000000
+2025-05-21 22:39:18,823 - INFO - Controlled LED: Parking Right = FAILED (0xff)
+2025-05-21 22:39:18,824 - INFO - Sent response CAN: 00000000000000
+2025-05-21 22:39:54,267 - INFO - Controlled LED: Parking Right = activated (0x1)
+2025-05-21 22:39:54,270 - INFO - Sent response CAN: 00000001000000
+2025-05-21 22:41:58,243 - INFO - Controlled LED: Parking Right = activated (0x1)
+2025-05-21 22:41:58,245 - INFO - Sent response CAN: 00000001000000
+2025-05-21 22:42:12,663 - INFO - Controlled LED: Parking Right = desactivated (0x0)
+2025-05-21 22:42:12,664 - INFO - Sent response CAN: 00000000000000
+2025-05-21 22:42:31,887 - INFO - Controlled LED: Parking Right = activated (0x1)
+2025-05-21 22:42:31,888 - INFO - Sent response CAN: 00000001000000
+2025-05-21 22:42:43,203 - INFO - Controlled LED: Parking Right = desactivated (0x0)
+2025-05-21 22:42:43,203 - INFO - Sent response CAN: 00000000000000
+2025-05-21 22:42:54,819 - INFO - Controlled LED: Parking Right = activated (0x1)
+2025-05-21 22:42:54,819 - INFO - Sent response CAN: 00000001000000
+2025-05-21 22:43:09,851 - INFO - Controlled LED: Parking Right = INVALID (0xfe)
+2025-05-21 22:43:09,853 - INFO - Sent response CAN: 00000001000000
+2025-05-21 22:43:20,267 - INFO - Controlled LED: Parking Right = FAILED (0xff)
+2025-05-21 22:43:20,268 - INFO - Sent response CAN: 00000000000000
+2025-05-21 22:43:37,091 - INFO - Controlled LED: Parking Right = INVALID (0xfe)
+2025-05-21 22:43:37,094 - INFO - Sent response CAN: 00000000000000
