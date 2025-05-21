@@ -1,0 +1,3 @@
+/home/pi/vsomeip/PFE-2025/mockupClimate/build/CMakeFiles/client-climate.dir
+/home/pi/vsomeip/PFE-2025/mockupClimate/build/CMakeFiles/edit_cache.dir
+/home/pi/vsomeip/PFE-2025/mockupClimate/build/CMakeFiles/rebuild_cache.dir

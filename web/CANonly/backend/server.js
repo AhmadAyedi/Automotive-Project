@@ -13,7 +13,7 @@ app.use(cors());
 app.use(bodyParser.json());
 
 // MongoDB connection
-mongoose.connect('mongodb://192.168.1.15:27017/Wiper999', {
+mongoose.connect('mongodb://10.20.0.23:27017/Wiper999', {
     useNewUrlParser: true,
     useUnifiedTopology: true
 });

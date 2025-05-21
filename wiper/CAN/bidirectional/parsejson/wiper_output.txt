@@ -1,0 +1,5 @@
+Intermittent Mode On (Reverse Gear):{
+    wiperMode=2,
+    wiperSpeed=1,
+    WiperIntermittent=1
+    wipingCycle=1700;}

@@ -1,0 +1,16 @@
+DR | CL | 0%
+PS | CL | 0%
+DRS | CL | 0%
+PRS | OPG_S | 100%
+DR | CL | 0%
+PS | CL | 0%
+DRS | CL | 0%
+PRS | OPG_S | 0%
+DR | CL | 0%
+PS | CL | 0%
+DRS | CL | 0%
+PRS | OPG_S | 100%
+DR | CL | 0%
+PS | CL | 0%
+DRS | CL | 0%
+PRS | OPG_S | 0%

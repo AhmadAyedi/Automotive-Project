@@ -1,0 +1,9345 @@
+
+--- Response at 2025-05-19 08:58:12 ---
+DR = 0%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:14 ---
+DR = 0%
+PS = 0%
+DRS = 65%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:15 ---
+DR = 0%
+PS = 0%
+DRS = 30%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:16 ---
+DR = 0%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:16 ---
+DR = 0%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:16 ---
+DR = 0%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:16 ---
+DR = 0%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:18 ---
+DR = 0%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:20 ---
+DR = 0%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:21 ---
+DR = 0%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:22 ---
+DR = 0%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:24 ---
+DR = 0%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:25 ---
+DR = 0%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:26 ---
+DR = 0%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:28 ---
+DR = 0%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:29 ---
+DR = 0%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:31 ---
+DR = 0%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:32 ---
+DR = 0%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:33 ---
+DR = 0%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:34 ---
+DR = 0%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:36 ---
+DR = 0%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:37 ---
+DR = 0%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:42 ---
+DR = 85%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:42 ---
+DR = 85%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:43 ---
+DR = 50%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:43 ---
+DR = 50%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:45 ---
+DR = 15%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:45 ---
+DR = 15%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:45 ---
+DR = 0%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:45 ---
+DR = 0%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:46 ---
+DR = 35%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:46 ---
+DR = 35%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:47 ---
+DR = 70%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:47 ---
+DR = 70%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:49 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:49 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:49 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:49 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:49 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:49 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:51 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:51 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:52 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:52 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:54 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:54 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:55 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:55 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:57 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:57 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:58 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:58 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:59 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:58:59 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:01 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:01 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:02 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:02 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:03 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:03 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:05 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:05 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:06 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:06 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:07 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:07 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:09 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:09 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:10 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:10 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:11 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:11 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:13 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:13 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:14 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:14 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:15 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:15 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:17 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:17 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:19 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:19 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:20 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:20 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:22 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:22 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:23 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:23 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:25 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:25 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:26 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:26 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:28 ---
+DR = 90%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:28 ---
+DR = 90%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:30 ---
+DR = 55%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:30 ---
+DR = 55%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:32 ---
+DR = 15%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:32 ---
+DR = 15%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:32 ---
+DR = 0%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:32 ---
+DR = 0%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:33 ---
+DR = 0%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:33 ---
+DR = 0%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:34 ---
+DR = 0%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:35 ---
+DR = 0%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:36 ---
+DR = 10%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:36 ---
+DR = 10%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:38 ---
+DR = 25%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:38 ---
+DR = 25%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:39 ---
+DR = 35%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:39 ---
+DR = 35%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:40 ---
+DR = 45%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:40 ---
+DR = 45%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:43 ---
+DR = 65%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:43 ---
+DR = 65%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:45 ---
+DR = 90%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:45 ---
+DR = 90%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:47 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:47 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:47 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:47 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:48 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:48 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:50 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:50 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:52 ---
+DR = 95%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:52 ---
+DR = 95%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:52 ---
+DR = 80%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:52 ---
+DR = 80%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:55 ---
+DR = 55%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:55 ---
+DR = 55%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:56 ---
+DR = 35%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:56 ---
+DR = 35%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:57 ---
+DR = 10%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:57 ---
+DR = 10%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:58 ---
+DR = 0%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:58 ---
+DR = 0%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:59 ---
+DR = 0%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 08:59:59 ---
+DR = 0%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:01 ---
+DR = 0%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:01 ---
+DR = 0%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:03 ---
+DR = 30%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:03 ---
+DR = 30%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:05 ---
+DR = 70%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:05 ---
+DR = 70%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:07 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:07 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:07 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:07 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:08 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:08 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:10 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:10 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:11 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:11 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:13 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:13 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:15 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:15 ---
+DR = 100%
+PS = 0%
+DRS = 10%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:16 ---
+DR = 100%
+PS = 0%
+DRS = 10%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:17 ---
+DR = 100%
+PS = 0%
+DRS = 45%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:17 ---
+DR = 100%
+PS = 0%
+DRS = 45%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:20 ---
+DR = 100%
+PS = 0%
+DRS = 80%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:20 ---
+DR = 100%
+PS = 0%
+DRS = 80%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:21 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:22 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:22 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:23 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:23 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:24 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:26 ---
+DR = 100%
+PS = 0%
+DRS = 75%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:26 ---
+DR = 100%
+PS = 0%
+DRS = 75%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:28 ---
+DR = 100%
+PS = 0%
+DRS = 40%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:28 ---
+DR = 100%
+PS = 0%
+DRS = 40%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:29 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:29 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:29 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:30 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:30 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:32 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:32 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:33 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:33 ---
+DR = 100%
+PS = 0%
+DRS = 5%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:34 ---
+DR = 100%
+PS = 0%
+DRS = 5%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:34 ---
+DR = 100%
+PS = 0%
+DRS = 10%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:36 ---
+DR = 100%
+PS = 0%
+DRS = 10%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:37 ---
+DR = 100%
+PS = 0%
+DRS = 30%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:38 ---
+DR = 100%
+PS = 0%
+DRS = 30%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:39 ---
+DR = 100%
+PS = 0%
+DRS = 50%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:39 ---
+DR = 100%
+PS = 0%
+DRS = 50%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:39 ---
+DR = 100%
+PS = 0%
+DRS = 65%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:41 ---
+DR = 100%
+PS = 0%
+DRS = 65%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:42 ---
+DR = 100%
+PS = 0%
+DRS = 80%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:42 ---
+DR = 100%
+PS = 0%
+DRS = 80%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:43 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:44 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:44 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:45 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:45 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:47 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:47 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:48 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:48 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:50 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:50 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:52 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:52 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:53 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:53 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:54 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:54 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:56 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:56 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:57 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:57 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:59 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:00:59 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:00 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:00 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:01 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:01 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:03 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:03 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:04 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:04 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:05 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:05 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:07 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:07 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:08 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:08 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:09 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:09 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:11 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:11 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:12 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:12 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:13 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:13 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:15 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:15 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:16 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:16 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:17 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:18 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:21 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:21 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:24 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:24 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:28 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:01:28 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:01:28 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:01:30 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 65%
+
+
+--- Response at 2025-05-19 09:01:30 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 65%
+
+
+--- Response at 2025-05-19 09:01:30 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 65%
+
+
+--- Response at 2025-05-19 09:01:31 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 30%
+
+
+--- Response at 2025-05-19 09:01:31 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 30%
+
+
+--- Response at 2025-05-19 09:01:31 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 30%
+
+
+--- Response at 2025-05-19 09:01:32 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:32 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:32 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:32 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:32 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:32 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:32 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:33 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:33 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:34 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:35 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:35 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:35 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:36 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:36 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:36 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:38 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:38 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:38 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:39 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:39 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:39 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:40 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:40 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:40 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:42 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:42 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:42 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:43 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:43 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:43 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:44 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:44 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:44 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:46 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:46 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:46 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:47 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:47 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:47 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:48 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:49 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:49 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:51 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:51 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:51 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:52 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:52 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:52 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:53 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:53 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:53 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:55 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:55 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:55 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:56 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:56 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:56 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:57 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:57 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:57 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:58 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:58 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:01:59 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:02:00 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:02:00 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:02:00 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 15%
+
+
+--- Response at 2025-05-19 09:02:01 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 15%
+
+
+--- Response at 2025-05-19 09:02:01 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 15%
+
+
+--- Response at 2025-05-19 09:02:03 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 50%
+
+
+--- Response at 2025-05-19 09:02:03 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 50%
+
+
+--- Response at 2025-05-19 09:02:03 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 50%
+
+
+--- Response at 2025-05-19 09:02:05 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:02:05 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:02:05 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:02:05 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:02:06 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:02:06 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:02:06 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:02:07 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:02:07 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:02:07 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:02:09 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:02:09 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:02:09 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:02:10 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:02:10 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:02:10 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:02:11 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:02:11 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:02:11 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:02:12 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:02:12 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:02:14 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:02:14 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:02:14 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:02:15 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 60%
+
+
+--- Response at 2025-05-19 09:02:15 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 60%
+
+
+--- Response at 2025-05-19 09:02:15 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 60%
+
+
+--- Response at 2025-05-19 09:02:16 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 30%
+
+
+--- Response at 2025-05-19 09:02:16 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 30%
+
+
+--- Response at 2025-05-19 09:02:16 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 30%
+
+
+--- Response at 2025-05-19 09:02:17 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:02:18 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:02:18 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:02:18 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:02:19 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:02:19 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:02:19 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:02:21 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:02:21 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:02:21 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 10%
+
+
+--- Response at 2025-05-19 09:02:22 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 10%
+
+
+--- Response at 2025-05-19 09:02:22 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 10%
+
+
+--- Response at 2025-05-19 09:02:24 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 25%
+
+
+--- Response at 2025-05-19 09:02:24 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 25%
+
+
+--- Response at 2025-05-19 09:02:24 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 25%
+
+
+--- Response at 2025-05-19 09:02:24 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 45%
+
+
+--- Response at 2025-05-19 09:02:25 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 45%
+
+
+--- Response at 2025-05-19 09:02:25 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 45%
+
+
+--- Response at 2025-05-19 09:02:26 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 65%
+
+
+--- Response at 2025-05-19 09:02:26 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 65%
+
+
+--- Response at 2025-05-19 09:02:26 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 65%
+
+
+--- Response at 2025-05-19 09:02:27 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 80%
+
+
+--- Response at 2025-05-19 09:02:27 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 80%
+
+
+--- Response at 2025-05-19 09:02:28 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 80%
+
+
+--- Response at 2025-05-19 09:02:28 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 95%
+
+
+--- Response at 2025-05-19 09:02:29 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 95%
+
+
+--- Response at 2025-05-19 09:02:29 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 95%
+
+
+--- Response at 2025-05-19 09:02:30 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:02:30 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:02:30 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:02:30 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:02:32 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:02:32 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:02:32 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:02:33 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:02:33 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:02:35 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 75%
+
+
+--- Response at 2025-05-19 09:02:35 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 75%
+
+
+--- Response at 2025-05-19 09:02:35 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 75%
+
+
+--- Response at 2025-05-19 09:02:38 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 40%
+
+
+--- Response at 2025-05-19 09:02:38 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 40%
+
+
+--- Response at 2025-05-19 09:02:38 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 40%
+
+
+--- Response at 2025-05-19 09:02:39 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:40 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:40 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:41 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:42 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:43 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:43 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:45 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:48 ---
+DR = 100%
+PS = 75%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:48 ---
+DR = 100%
+PS = 75%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:48 ---
+DR = 100%
+PS = 75%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:48 ---
+DR = 100%
+PS = 75%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:50 ---
+DR = 100%
+PS = 40%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:50 ---
+DR = 100%
+PS = 40%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:50 ---
+DR = 100%
+PS = 40%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:50 ---
+DR = 100%
+PS = 40%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:51 ---
+DR = 100%
+PS = 10%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:51 ---
+DR = 100%
+PS = 10%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:51 ---
+DR = 100%
+PS = 10%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:51 ---
+DR = 100%
+PS = 10%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:51 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:51 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:51 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:51 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:51 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:51 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:51 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:52 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:52 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:52 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:52 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:53 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:53 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:53 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:53 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:54 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:54 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:54 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:54 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:55 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:55 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:55 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:56 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:57 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:57 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:57 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:57 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:58 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:58 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:58 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:58 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:59 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:59 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:59 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:02:59 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:01 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:01 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:01 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:01 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:02 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:02 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:02 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:02 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:03 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:03 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:03 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:03 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:04 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:05 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:05 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:05 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:06 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:06 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:06 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:06 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:07 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:07 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:07 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:07 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:09 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:09 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:09 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:09 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:10 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:10 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:10 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:10 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:11 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:11 ---
+DR = 100%
+PS = 5%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:11 ---
+DR = 100%
+PS = 5%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:11 ---
+DR = 100%
+PS = 5%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:13 ---
+DR = 100%
+PS = 5%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:14 ---
+DR = 100%
+PS = 40%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:14 ---
+DR = 100%
+PS = 40%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:14 ---
+DR = 100%
+PS = 40%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:14 ---
+DR = 100%
+PS = 40%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:16 ---
+DR = 100%
+PS = 75%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:16 ---
+DR = 100%
+PS = 75%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:16 ---
+DR = 100%
+PS = 75%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:16 ---
+DR = 100%
+PS = 75%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:17 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:17 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:17 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:17 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:17 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:17 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:17 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:18 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:18 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:18 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:18 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:19 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:20 ---
+DR = 100%
+PS = 95%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:20 ---
+DR = 100%
+PS = 95%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:20 ---
+DR = 100%
+PS = 95%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:20 ---
+DR = 100%
+PS = 95%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:21 ---
+DR = 100%
+PS = 65%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:21 ---
+DR = 100%
+PS = 65%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:21 ---
+DR = 100%
+PS = 65%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:22 ---
+DR = 100%
+PS = 65%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:23 ---
+DR = 100%
+PS = 30%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:23 ---
+DR = 100%
+PS = 30%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:23 ---
+DR = 100%
+PS = 30%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:23 ---
+DR = 100%
+PS = 30%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:24 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:24 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:24 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:24 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:24 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:24 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:24 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:26 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:26 ---
+DR = 100%
+PS = 5%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:26 ---
+DR = 100%
+PS = 5%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:26 ---
+DR = 100%
+PS = 5%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:27 ---
+DR = 100%
+PS = 5%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:28 ---
+DR = 100%
+PS = 30%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:28 ---
+DR = 100%
+PS = 30%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:28 ---
+DR = 100%
+PS = 30%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:28 ---
+DR = 100%
+PS = 30%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:28 ---
+DR = 100%
+PS = 45%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:28 ---
+DR = 100%
+PS = 45%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:28 ---
+DR = 100%
+PS = 45%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:32 ---
+DR = 100%
+PS = 45%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:34 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:34 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:34 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:34 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:34 ---
+DR = 100%
+PS = 95%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:34 ---
+DR = 100%
+PS = 95%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:34 ---
+DR = 100%
+PS = 95%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:34 ---
+DR = 100%
+PS = 95%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:34 ---
+DR = 100%
+PS = 95%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:34 ---
+DR = 100%
+PS = 95%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:34 ---
+DR = 100%
+PS = 95%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:36 ---
+DR = 100%
+PS = 95%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:37 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:37 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:37 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:37 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:37 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:37 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:37 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:38 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:38 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:38 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:38 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:39 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:40 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:40 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:40 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:41 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:41 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:41 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:41 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:42 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:42 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:42 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:42 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:43 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:43 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:43 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:43 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:45 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:45 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:45 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:45 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:46 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:46 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:46 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:46 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:47 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:47 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:47 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:47 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:49 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:49 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:49 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:49 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:50 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:50 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:50 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:50 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:51 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:51 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:51 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:51 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:53 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:53 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:53 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:53 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:54 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:54 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:54 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:54 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:55 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:55 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:55 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:55 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:57 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:57 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:57 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:57 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:58 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:58 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:58 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:58 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:59 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:59 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:59 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:03:59 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:01 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:01 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:01 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:01 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:02 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:02 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:02 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:02 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:03 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:03 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:03 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:03 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:05 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:05 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:05 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:05 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:06 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:06 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:06 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:06 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:07 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:07 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:07 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:07 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:09 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:09 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:09 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:09 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:10 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:10 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:11 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:11 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:12 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:12 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:12 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:12 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:13 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:14 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:14 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:14 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:15 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:15 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:15 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:15 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:16 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:16 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:16 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:16 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:17 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:17 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:17 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:18 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:18 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:18 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:18 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:18 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:19 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:19 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:19 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:19 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:21 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:21 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:21 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:21 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:22 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:22 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:23 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:23 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:24 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:24 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:24 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:24 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:25 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:25 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:25 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:25 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:26 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:27 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:27 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:27 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:28 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:28 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:28 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:28 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:29 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:29 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:29 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:29 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:31 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:31 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:31 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:31 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:32 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:32 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:32 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:32 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:33 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:33 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:33 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:33 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:34 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:34 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:34 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:35 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:36 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:36 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:36 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:36 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:37 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:37 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:37 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:37 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:38 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:38 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:38 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:39 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:40 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:41 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:41 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:41 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:41 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:42 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:42 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:42 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:44 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:44 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:44 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:44 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:45 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:45 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:45 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:45 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:47 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:47 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:47 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:47 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:48 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:48 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:48 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:48 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:49 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:50 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:50 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:50 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:51 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:51 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:51 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:51 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:52 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:52 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:52 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:52 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:53 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:53 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:53 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:53 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:55 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:55 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:55 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:55 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:56 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:56 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:56 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:56 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:57 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:57 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:57 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:58 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:59 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:59 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:59 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:04:59 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:00 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:00 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:00 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:00 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:02 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:02 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:02 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:02 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:03 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:03 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:03 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:03 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:04 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:05 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:05 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:05 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:06 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:06 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:06 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:07 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:08 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:08 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:08 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:08 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:09 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:09 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:09 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:09 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:11 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:12 ---
+DR = 100%
+PS = 95%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:12 ---
+DR = 100%
+PS = 95%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:12 ---
+DR = 100%
+PS = 95%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:12 ---
+DR = 100%
+PS = 95%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:12 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:12 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:12 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:13 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:13 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:13 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:14 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:15 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:15 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:15 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:15 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:16 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:16 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:16 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:16 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:17 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:17 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:17 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:17 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:18 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:19 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:19 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:19 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:20 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:20 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:20 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:20 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:21 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:21 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:21 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:21 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:22 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:23 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:23 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:23 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:24 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:24 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:24 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:24 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:26 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:26 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:26 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:26 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:27 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:27 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:27 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:28 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:29 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:29 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:29 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:29 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:30 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:30 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:30 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:30 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:31 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:31 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:32 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:32 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:42 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:05:45 ---
+DR = 100%
+PS = 85%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:05:49 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:05:49 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:49 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:49 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:49 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:49 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:49 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:49 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:49 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:49 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:49 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:49 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:49 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:49 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:49 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:49 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:50 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:50 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:50 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:50 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:50 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:50 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:50 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:50 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:50 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:50 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:50 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:50 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:50 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:50 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:50 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:50 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:50 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:50 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:51 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:51 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:51 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:51 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:52 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:52 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:52 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:52 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:53 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:53 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:54 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:54 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:55 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:55 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:55 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:55 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:56 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:56 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:56 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:56 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:57 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:57 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:57 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 20%
+
+
+--- Response at 2025-05-19 09:05:58 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 45%
+
+
+--- Response at 2025-05-19 09:05:59 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 45%
+
+
+--- Response at 2025-05-19 09:05:59 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 45%
+
+
+--- Response at 2025-05-19 09:05:59 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 45%
+
+
+--- Response at 2025-05-19 09:06:01 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 75%
+
+
+--- Response at 2025-05-19 09:06:01 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 75%
+
+
+--- Response at 2025-05-19 09:06:01 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 75%
+
+
+--- Response at 2025-05-19 09:06:01 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 75%
+
+
+--- Response at 2025-05-19 09:06:02 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:02 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:02 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:02 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:02 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:03 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:03 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:03 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:03 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:04 ---
+DR = 100%
+PS = 85%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:05 ---
+DR = 100%
+PS = 65%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:05 ---
+DR = 100%
+PS = 65%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:05 ---
+DR = 100%
+PS = 65%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:05 ---
+DR = 100%
+PS = 65%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:06 ---
+DR = 100%
+PS = 30%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:06 ---
+DR = 100%
+PS = 30%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:06 ---
+DR = 100%
+PS = 30%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:06 ---
+DR = 100%
+PS = 30%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:08 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:08 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:08 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:08 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:08 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:08 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:08 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:09 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:09 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:09 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:09 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:10 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:10 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:10 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:11 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:12 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:12 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:12 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:12 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:13 ---
+DR = 100%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:14 ---
+DR = 100%
+PS = 35%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:14 ---
+DR = 100%
+PS = 35%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:14 ---
+DR = 100%
+PS = 35%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:14 ---
+DR = 100%
+PS = 35%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:15 ---
+DR = 100%
+PS = 65%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:15 ---
+DR = 100%
+PS = 65%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:15 ---
+DR = 100%
+PS = 65%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:16 ---
+DR = 100%
+PS = 65%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:18 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:18 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:18 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:18 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:18 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:18 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:18 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:18 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:18 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:19 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:19 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:20 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:20 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:20 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:20 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:21 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:21 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:21 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:21 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:23 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:23 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:23 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:23 ---
+DR = 100%
+PS = 100%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:27 ---
+DR = 55%
+PS = 100%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:27 ---
+DR = 55%
+PS = 100%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:27 ---
+DR = 55%
+PS = 100%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:27 ---
+DR = 55%
+PS = 100%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:29 ---
+DR = 20%
+PS = 100%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:29 ---
+DR = 20%
+PS = 100%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:29 ---
+DR = 20%
+PS = 100%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:29 ---
+DR = 20%
+PS = 100%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:29 ---
+DR = 0%
+PS = 100%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:29 ---
+DR = 0%
+PS = 100%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:29 ---
+DR = 0%
+PS = 100%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:29 ---
+DR = 0%
+PS = 100%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:29 ---
+DR = 0%
+PS = 100%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:29 ---
+DR = 0%
+PS = 100%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:29 ---
+DR = 0%
+PS = 100%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:29 ---
+DR = 0%
+PS = 100%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:30 ---
+DR = 0%
+PS = 100%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:30 ---
+DR = 0%
+PS = 100%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:30 ---
+DR = 0%
+PS = 100%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:30 ---
+DR = 0%
+PS = 100%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:31 ---
+DR = 0%
+PS = 100%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:32 ---
+DR = 0%
+PS = 100%
+DRS = 80%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:32 ---
+DR = 0%
+PS = 100%
+DRS = 80%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:06:32 ---
+DR = 0%
+PS = 100%
+DRS = 80%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:07:05 ---
+DR = 100%
+PS = 100%
+DRS = 80%
+PRS = 100%
+
+
+--- Response at 2025-05-19 09:12:09 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:04 ---
+DR = 0%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:05 ---
+DR = 0%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:07 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:07 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:07 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:07 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:09 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:09 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:10 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:10 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:11 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:11 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:12 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:13 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:14 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:14 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:15 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:15 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:17 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:17 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:18 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:18 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:19 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:19 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:21 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:21 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:22 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:22 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:23 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:24 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:25 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:25 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:26 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:26 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:27 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:28 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:29 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:29 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:31 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:31 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:32 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:32 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:34 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:34 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:35 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:35 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:37 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:37 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:38 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:38 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:39 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:40 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:41 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:41 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:42 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:42 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:43 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:44 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:45 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:45 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:46 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:46 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:50 ---
+DR = 0%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:50 ---
+DR = 0%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:50 ---
+DR = 0%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:50 ---
+DR = 0%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:51 ---
+DR = 0%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:51 ---
+DR = 0%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:52 ---
+DR = 0%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:52 ---
+DR = 0%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:55 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:55 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:55 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:55 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:56 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:56 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:57 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:57 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:59 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:14:59 ---
+DR = 50%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:02 ---
+DR = 100%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:02 ---
+DR = 100%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:02 ---
+DR = 100%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:02 ---
+DR = 100%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:03 ---
+DR = 100%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:03 ---
+DR = 100%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:04 ---
+DR = 100%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:04 ---
+DR = 100%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:05 ---
+DR = 100%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:05 ---
+DR = 100%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:06 ---
+DR = 100%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:07 ---
+DR = 100%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:08 ---
+DR = 100%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:08 ---
+DR = 100%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:09 ---
+DR = 100%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:09 ---
+DR = 100%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:10 ---
+DR = 100%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:10 ---
+DR = 100%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:12 ---
+DR = 100%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:12 ---
+DR = 100%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:13 ---
+DR = 100%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:13 ---
+DR = 100%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:14 ---
+DR = 100%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:14 ---
+DR = 100%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:16 ---
+DR = 100%
+PS = 25%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:18 ---
+DR = 100%
+PS = 75%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:18 ---
+DR = 100%
+PS = 75%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:18 ---
+DR = 100%
+PS = 75%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:18 ---
+DR = 100%
+PS = 75%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:18 ---
+DR = 100%
+PS = 75%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:20 ---
+DR = 100%
+PS = 75%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:20 ---
+DR = 100%
+PS = 75%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:21 ---
+DR = 100%
+PS = 75%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:21 ---
+DR = 100%
+PS = 75%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:21 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:22 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:22 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:23 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:24 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:24 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:24 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:25 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:25 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:25 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:26 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:26 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:26 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:28 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:28 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:28 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:29 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:29 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:29 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:30 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:30 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:30 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:15:33 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:33 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:33 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:33 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:33 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:33 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:33 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:33 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:33 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:34 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:34 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:34 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:34 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:36 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:36 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:36 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:36 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:37 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:37 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:37 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:37 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:38 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:38 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:38 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:38 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:40 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:40 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:40 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:40 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:41 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:41 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:41 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:41 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:42 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:42 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:42 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:42 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:44 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:44 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:44 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:44 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:45 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:45 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:45 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:45 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:46 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:46 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:46 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:46 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:48 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:48 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:48 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:48 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:49 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:49 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:49 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:49 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:50 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:50 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:50 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:50 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:51 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:51 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:52 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:52 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:53 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:53 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:53 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:53 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:54 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:54 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:54 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:54 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:55 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:55 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:55 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:55 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:57 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:57 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:57 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:57 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:58 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:58 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:58 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:58 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:59 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:59 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:59 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:15:59 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:16:01 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:16:01 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:16:01 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:16:01 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:16:02 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:16:02 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:16:02 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:16:02 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:16:03 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:16:03 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:16:03 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:16:03 ---
+DR = 100%
+PS = 75%
+DRS = 10%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:45:52 ---
+DR = 0%
+PS = 0%
+DRS = 0%
+PRS = 90%
+
+
+--- Response at 2025-05-19 09:46:06 ---
+DR = 0%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:46:29 ---
+DR = 90%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:46:32 ---
+DR = 90%
+PS = 90%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:47:01 ---
+DR = 0%
+PS = 90%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:47:04 ---
+DR = 0%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:47:49 ---
+DR = 90%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:47:49 ---
+DR = 90%
+PS = 90%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:48:02 ---
+DR = 0%
+PS = 90%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:48:02 ---
+DR = 0%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:54:40 ---
+DR = 90%
+PS = 90%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:54:52 ---
+DR = 0%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 09:55:49 ---
+DR = 80%
+PS = 40%
+DRS = 100%
+PRS = 30%
+
+
+--- Response at 2025-05-19 09:56:23 ---
+DR = 30%
+PS = 0%
+DRS = 0%
+PRS = 70%
+
+
+--- Response at 2025-05-19 10:09:11 ---
+DR = 70%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 10:09:11 ---
+DR = 70%
+PS = 80%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 10:09:31 ---
+DR = 0%
+PS = 80%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 10:09:31 ---
+DR = 0%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 10:09:47 ---
+DR = 70%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 10:09:47 ---
+DR = 70%
+PS = 80%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 10:32:44 ---
+DR = 70%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 10:32:45 ---
+DR = 70%
+PS = 80%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 10:33:03 ---
+DR = 0%
+PS = 80%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 10:33:04 ---
+DR = 0%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 10:33:42 ---
+DR = 100%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 10:33:42 ---
+DR = 100%
+PS = 100%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 10:33:42 ---
+DR = 100%
+PS = 100%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 10:33:42 ---
+DR = 100%
+PS = 100%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 10:34:48 ---
+DR = 0%
+PS = 100%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 10:34:48 ---
+DR = 0%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 10:34:48 ---
+DR = 0%
+PS = 0%
+DRS = 0%
+PRS = 100%
+
+
+--- Response at 2025-05-19 10:34:48 ---
+DR = 0%
+PS = 0%
+DRS = 100%
+PRS = 100%
+
+
+--- Response at 2025-05-19 10:35:11 ---
+DR = 0%
+PS = 0%
+DRS = 0%
+PRS = 100%
+
+
+--- Response at 2025-05-19 10:35:11 ---
+DR = 0%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 10:35:34 ---
+DR = 60%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 10:35:52 ---
+DR = 0%
+PS = 0%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 10:37:18 ---
+DR = 0%
+PS = 40%
+DRS = 0%
+PRS = 0%
+
+
+--- Response at 2025-05-19 10:37:19 ---
+DR = 0%
+PS = 40%
+DRS = 60%
+PRS = 0%
+
+
+--- Response at 2025-05-19 10:37:20 ---
+DR = 0%
+PS = 40%
+DRS = 60%
+PRS = 80%
+
+
+--- Response at 2025-05-19 10:37:52 ---
+DR = 0%
+PS = 40%
+DRS = 60%
+PRS = 30%
+

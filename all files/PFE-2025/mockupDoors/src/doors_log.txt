@@ -1,0 +1,370 @@
+CLIENT: received a notification for event [1234.5678.0064] to Client/Session [0000/0001] = 6b 65 79 5f 7a 6f 6e 65 3a 20 30 2c 20 6b 65 79 5f 62 75 74 74 6f 6e 3a 20 30 2c 46 6c 61 73 68 4c 69 67 68 74 3a 20 20 30 2c 20 48 6f 72 6e 42 65 65 70 69 6e 67 3a 20 30 
+Key | key_zone: 0, key_button: 0,FlashLight:  0, HornBeeping: 0
+CLIENT: received a notification for event [1234.5678.011d] to Client/Session [0000/0002] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Right Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011e] to Client/Session [0000/0003] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Right Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011f] to Client/Session [0000/0004] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Left Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0120] to Client/Session [0000/0005] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Left Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0064] to Client/Session [0000/0006] = 6b 65 79 5f 7a 6f 6e 65 3a 20 30 2c 20 6b 65 79 5f 62 75 74 74 6f 6e 3a 20 30 2c 46 6c 61 73 68 4c 69 67 68 74 3a 20 20 30 2c 20 48 6f 72 6e 42 65 65 70 69 6e 67 3a 20 30 
+Key | key_zone: 0, key_button: 0,FlashLight:  0, HornBeeping: 0
+CLIENT: received a notification for event [1234.5678.011d] to Client/Session [0000/0007] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Right Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011e] to Client/Session [0000/0008] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Right Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011f] to Client/Session [0000/0009] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Left Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0120] to Client/Session [0000/000a] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Left Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0064] to Client/Session [0000/000b] = 6b 65 79 5f 7a 6f 6e 65 3a 20 30 2c 20 6b 65 79 5f 62 75 74 74 6f 6e 3a 20 30 2c 46 6c 61 73 68 4c 69 67 68 74 3a 20 20 30 2c 20 48 6f 72 6e 42 65 65 70 69 6e 67 3a 20 30 
+Key | key_zone: 0, key_button: 0,FlashLight:  0, HornBeeping: 0
+CLIENT: received a notification for event [1234.5678.011d] to Client/Session [0000/000c] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Right Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011e] to Client/Session [0000/000d] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Right Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011f] to Client/Session [0000/000e] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Left Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0120] to Client/Session [0000/000f] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Left Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0064] to Client/Session [0000/0010] = 6b 65 79 5f 7a 6f 6e 65 3a 20 31 2c 20 6b 65 79 5f 62 75 74 74 6f 6e 3a 20 30 2c 46 6c 61 73 68 4c 69 67 68 74 3a 20 20 30 2c 20 48 6f 72 6e 42 65 65 70 69 6e 67 3a 20 30 
+Key | key_zone: 1, key_button: 0,FlashLight:  0, HornBeeping: 0
+CLIENT: received a notification for event [1234.5678.011d] to Client/Session [0000/0011] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Right Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011e] to Client/Session [0000/0012] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Right Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011f] to Client/Session [0000/0013] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Left Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0120] to Client/Session [0000/0014] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Left Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0064] to Client/Session [0000/0015] = 6b 65 79 5f 7a 6f 6e 65 3a 20 31 2c 20 6b 65 79 5f 62 75 74 74 6f 6e 3a 20 30 2c 46 6c 61 73 68 4c 69 67 68 74 3a 20 20 30 2c 20 48 6f 72 6e 42 65 65 70 69 6e 67 3a 20 30 
+Key | key_zone: 1, key_button: 0,FlashLight:  0, HornBeeping: 0
+CLIENT: received a notification for event [1234.5678.011d] to Client/Session [0000/0016] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Right Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011e] to Client/Session [0000/0017] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Right Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011f] to Client/Session [0000/0018] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Left Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0120] to Client/Session [0000/0019] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Left Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0064] to Client/Session [0000/001a] = 6b 65 79 5f 7a 6f 6e 65 3a 20 31 2c 20 6b 65 79 5f 62 75 74 74 6f 6e 3a 20 31 2c 46 6c 61 73 68 4c 69 67 68 74 3a 20 20 31 2c 20 48 6f 72 6e 42 65 65 70 69 6e 67 3a 20 31 
+Key | key_zone: 1, key_button: 1,FlashLight:  1, HornBeeping: 1
+CLIENT: received a notification for event [1234.5678.011d] to Client/Session [0000/001b] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Right Door | State: Unlocked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011e] to Client/Session [0000/001c] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Right Door | State: Unlocked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011f] to Client/Session [0000/001d] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Left Door | State: Unlocked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0120] to Client/Session [0000/001e] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Left Door | State: Unlocked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0064] to Client/Session [0000/001f] = 6b 65 79 5f 7a 6f 6e 65 3a 20 31 2c 20 6b 65 79 5f 62 75 74 74 6f 6e 3a 20 31 2c 46 6c 61 73 68 4c 69 67 68 74 3a 20 20 31 2c 20 48 6f 72 6e 42 65 65 70 69 6e 67 3a 20 31 
+Key | key_zone: 1, key_button: 1,FlashLight:  1, HornBeeping: 1
+CLIENT: received a notification for event [1234.5678.011d] to Client/Session [0000/0020] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Right Door | State: Unlocked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011e] to Client/Session [0000/0021] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Right Door | State: Unlocked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011f] to Client/Session [0000/0022] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Left Door | State: Unlocked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0120] to Client/Session [0000/0023] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Left Door | State: Unlocked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0064] to Client/Session [0000/0024] = 6b 65 79 5f 7a 6f 6e 65 3a 20 31 2c 20 6b 65 79 5f 62 75 74 74 6f 6e 3a 20 31 2c 46 6c 61 73 68 4c 69 67 68 74 3a 20 20 31 2c 20 48 6f 72 6e 42 65 65 70 69 6e 67 3a 20 31 
+Key | key_zone: 1, key_button: 1,FlashLight:  1, HornBeeping: 1
+CLIENT: received a notification for event [1234.5678.011d] to Client/Session [0000/0025] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 6f 70 65 6e 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Right Door | State: Unlocked, open_close_outside: open,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011e] to Client/Session [0000/0026] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Right Door | State: Unlocked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011f] to Client/Session [0000/0027] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Left Door | State: Unlocked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0120] to Client/Session [0000/0028] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Left Door | State: Unlocked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0064] to Client/Session [0000/0029] = 6b 65 79 5f 7a 6f 6e 65 3a 20 31 2c 20 6b 65 79 5f 62 75 74 74 6f 6e 3a 20 31 2c 46 6c 61 73 68 4c 69 67 68 74 3a 20 20 31 2c 20 48 6f 72 6e 42 65 65 70 69 6e 67 3a 20 31 
+Key | key_zone: 1, key_button: 1,FlashLight:  1, HornBeeping: 1
+CLIENT: received a notification for event [1234.5678.011d] to Client/Session [0000/002a] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 6f 70 65 6e 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Right Door | State: Unlocked, open_close_outside: open,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011e] to Client/Session [0000/002b] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Right Door | State: Unlocked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011f] to Client/Session [0000/002c] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 6f 70 65 6e 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Left Door | State: Unlocked, open_close_outside: open,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0120] to Client/Session [0000/002d] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Left Door | State: Unlocked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0064] to Client/Session [0000/002e] = 6b 65 79 5f 7a 6f 6e 65 3a 20 31 2c 20 6b 65 79 5f 62 75 74 74 6f 6e 3a 20 31 2c 46 6c 61 73 68 4c 69 67 68 74 3a 20 20 31 2c 20 48 6f 72 6e 42 65 65 70 69 6e 67 3a 20 31 
+Key | key_zone: 1, key_button: 1,FlashLight:  1, HornBeeping: 1
+CLIENT: received a notification for event [1234.5678.011d] to Client/Session [0000/002f] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 6f 70 65 6e 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Right Door | State: Unlocked, open_close_outside: open,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011e] to Client/Session [0000/0030] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Right Door | State: Unlocked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011f] to Client/Session [0000/0031] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 6f 70 65 6e 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Left Door | State: Unlocked, open_close_outside: open,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0120] to Client/Session [0000/0032] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 6f 70 65 6e 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Left Door | State: Unlocked, open_close_outside: open,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0064] to Client/Session [0000/0033] = 6b 65 79 5f 7a 6f 6e 65 3a 20 31 2c 20 6b 65 79 5f 62 75 74 74 6f 6e 3a 20 31 2c 46 6c 61 73 68 4c 69 67 68 74 3a 20 20 31 2c 20 48 6f 72 6e 42 65 65 70 69 6e 67 3a 20 31 
+Key | key_zone: 1, key_button: 1,FlashLight:  1, HornBeeping: 1
+CLIENT: received a notification for event [1234.5678.011d] to Client/Session [0000/0034] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 6f 70 65 6e 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Right Door | State: Unlocked, open_close_outside: open,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011e] to Client/Session [0000/0035] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Right Door | State: Unlocked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011f] to Client/Session [0000/0036] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 6f 70 65 6e 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Left Door | State: Unlocked, open_close_outside: open,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0120] to Client/Session [0000/0037] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 6f 70 65 6e 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Left Door | State: Unlocked, open_close_outside: open,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0064] to Client/Session [0000/0038] = 6b 65 79 5f 7a 6f 6e 65 3a 20 31 2c 20 6b 65 79 5f 62 75 74 74 6f 6e 3a 20 31 2c 46 6c 61 73 68 4c 69 67 68 74 3a 20 20 31 2c 20 48 6f 72 6e 42 65 65 70 69 6e 67 3a 20 31 
+Key | key_zone: 1, key_button: 1,FlashLight:  1, HornBeeping: 1
+CLIENT: received a notification for event [1234.5678.011d] to Client/Session [0000/0039] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 6f 70 65 6e 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Right Door | State: Unlocked, open_close_outside: open,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011e] to Client/Session [0000/003a] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 6f 70 65 6e 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Right Door | State: Unlocked, open_close_outside: open,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011f] to Client/Session [0000/003b] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 6f 70 65 6e 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Left Door | State: Unlocked, open_close_outside: open,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0120] to Client/Session [0000/003c] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 6f 70 65 6e 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Left Door | State: Unlocked, open_close_outside: open,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0064] to Client/Session [0000/003d] = 6b 65 79 5f 7a 6f 6e 65 3a 20 31 2c 20 6b 65 79 5f 62 75 74 74 6f 6e 3a 20 30 2c 46 6c 61 73 68 4c 69 67 68 74 3a 20 20 31 2c 20 48 6f 72 6e 42 65 65 70 69 6e 67 3a 20 31 
+Key | key_zone: 1, key_button: 0,FlashLight:  1, HornBeeping: 1
+CLIENT: received a notification for event [1234.5678.011d] to Client/Session [0000/003e] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Right Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011e] to Client/Session [0000/003f] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Right Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011f] to Client/Session [0000/0040] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Left Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0120] to Client/Session [0000/0041] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Left Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0064] to Client/Session [0000/0042] = 6b 65 79 5f 7a 6f 6e 65 3a 20 31 2c 20 6b 65 79 5f 62 75 74 74 6f 6e 3a 20 30 2c 46 6c 61 73 68 4c 69 67 68 74 3a 20 20 31 2c 20 48 6f 72 6e 42 65 65 70 69 6e 67 3a 20 31 
+Key | key_zone: 1, key_button: 0,FlashLight:  1, HornBeeping: 1
+CLIENT: received a notification for event [1234.5678.011d] to Client/Session [0000/0043] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Right Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011e] to Client/Session [0000/0044] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Right Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011f] to Client/Session [0000/0045] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Left Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0120] to Client/Session [0000/0046] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Left Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0064] to Client/Session [0000/0047] = 6b 65 79 5f 7a 6f 6e 65 3a 20 31 2c 20 6b 65 79 5f 62 75 74 74 6f 6e 3a 20 30 2c 46 6c 61 73 68 4c 69 67 68 74 3a 20 20 31 2c 20 48 6f 72 6e 42 65 65 70 69 6e 67 3a 20 31 
+Key | key_zone: 1, key_button: 0,FlashLight:  1, HornBeeping: 1
+CLIENT: received a notification for event [1234.5678.011d] to Client/Session [0000/0048] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Right Door | State: Unlocked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011e] to Client/Session [0000/0049] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Right Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011f] to Client/Session [0000/004a] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Left Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0120] to Client/Session [0000/004b] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Left Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0064] to Client/Session [0000/004c] = 6b 65 79 5f 7a 6f 6e 65 3a 20 31 2c 20 6b 65 79 5f 62 75 74 74 6f 6e 3a 20 30 2c 46 6c 61 73 68 4c 69 67 68 74 3a 20 20 31 2c 20 48 6f 72 6e 42 65 65 70 69 6e 67 3a 20 31 
+Key | key_zone: 1, key_button: 0,FlashLight:  1, HornBeeping: 1
+CLIENT: received a notification for event [1234.5678.011d] to Client/Session [0000/004d] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 6f 70 65 6e 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Right Door | State: Unlocked, open_close_outside: open,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011e] to Client/Session [0000/004e] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Right Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011f] to Client/Session [0000/004f] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Left Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0120] to Client/Session [0000/0050] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Left Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0064] to Client/Session [0000/0051] = 6b 65 79 5f 7a 6f 6e 65 3a 20 31 2c 20 6b 65 79 5f 62 75 74 74 6f 6e 3a 20 30 2c 46 6c 61 73 68 4c 69 67 68 74 3a 20 20 31 2c 20 48 6f 72 6e 42 65 65 70 69 6e 67 3a 20 31 
+Key | key_zone: 1, key_button: 0,FlashLight:  1, HornBeeping: 1
+CLIENT: received a notification for event [1234.5678.011d] to Client/Session [0000/0052] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 63 6c 6f 73 65 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Right Door | State: Unlocked, open_close_outside: close,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011e] to Client/Session [0000/0053] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Right Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011f] to Client/Session [0000/0054] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Left Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0120] to Client/Session [0000/0055] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Left Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0064] to Client/Session [0000/0056] = 6b 65 79 5f 7a 6f 6e 65 3a 20 31 2c 20 6b 65 79 5f 62 75 74 74 6f 6e 3a 20 30 2c 46 6c 61 73 68 4c 69 67 68 74 3a 20 20 31 2c 20 48 6f 72 6e 42 65 65 70 69 6e 67 3a 20 31 
+Key | key_zone: 1, key_button: 0,FlashLight:  1, HornBeeping: 1
+CLIENT: received a notification for event [1234.5678.011d] to Client/Session [0000/0057] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 6f 70 65 6e 
+Front Right Door | State: Unlocked, open_close_outside: ,open_close_inside: open
+CLIENT: received a notification for event [1234.5678.011e] to Client/Session [0000/0058] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Right Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011f] to Client/Session [0000/0059] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Left Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0120] to Client/Session [0000/005a] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Left Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0064] to Client/Session [0000/005b] = 6b 65 79 5f 7a 6f 6e 65 3a 20 31 2c 20 6b 65 79 5f 62 75 74 74 6f 6e 3a 20 30 2c 46 6c 61 73 68 4c 69 67 68 74 3a 20 20 31 2c 20 48 6f 72 6e 42 65 65 70 69 6e 67 3a 20 31 
+Key | key_zone: 1, key_button: 0,FlashLight:  1, HornBeeping: 1
+CLIENT: received a notification for event [1234.5678.011d] to Client/Session [0000/005c] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 63 6c 6f 73 65 
+Front Right Door | State: Unlocked, open_close_outside: ,open_close_inside: close
+CLIENT: received a notification for event [1234.5678.011e] to Client/Session [0000/005d] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Right Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011f] to Client/Session [0000/005e] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Left Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0120] to Client/Session [0000/005f] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Left Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0064] to Client/Session [0000/0060] = 6b 65 79 5f 7a 6f 6e 65 3a 20 31 2c 20 6b 65 79 5f 62 75 74 74 6f 6e 3a 20 30 2c 46 6c 61 73 68 4c 69 67 68 74 3a 20 20 31 2c 20 48 6f 72 6e 42 65 65 70 69 6e 67 3a 20 31 
+Key | key_zone: 1, key_button: 0,FlashLight:  1, HornBeeping: 1
+CLIENT: received a notification for event [1234.5678.011d] to Client/Session [0000/0061] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 63 6c 6f 73 65 
+Front Right Door | State: Unlocked, open_close_outside: ,open_close_inside: close
+CLIENT: received a notification for event [1234.5678.011e] to Client/Session [0000/0062] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Right Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011f] to Client/Session [0000/0063] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Left Door | State: Unlocked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0120] to Client/Session [0000/0064] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Left Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0064] to Client/Session [0000/0065] = 6b 65 79 5f 7a 6f 6e 65 3a 20 31 2c 20 6b 65 79 5f 62 75 74 74 6f 6e 3a 20 30 2c 46 6c 61 73 68 4c 69 67 68 74 3a 20 20 31 2c 20 48 6f 72 6e 42 65 65 70 69 6e 67 3a 20 31 
+Key | key_zone: 1, key_button: 0,FlashLight:  1, HornBeeping: 1
+CLIENT: received a notification for event [1234.5678.011d] to Client/Session [0000/0066] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 63 6c 6f 73 65 
+Front Right Door | State: Unlocked, open_close_outside: ,open_close_inside: close
+CLIENT: received a notification for event [1234.5678.011e] to Client/Session [0000/0067] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Right Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011f] to Client/Session [0000/0068] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 6f 70 65 6e 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Left Door | State: Unlocked, open_close_outside: open,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0120] to Client/Session [0000/0069] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Left Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0064] to Client/Session [0000/006a] = 6b 65 79 5f 7a 6f 6e 65 3a 20 31 2c 20 6b 65 79 5f 62 75 74 74 6f 6e 3a 20 30 2c 46 6c 61 73 68 4c 69 67 68 74 3a 20 20 31 2c 20 48 6f 72 6e 42 65 65 70 69 6e 67 3a 20 31 
+Key | key_zone: 1, key_button: 0,FlashLight:  1, HornBeeping: 1
+CLIENT: received a notification for event [1234.5678.011d] to Client/Session [0000/006b] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 63 6c 6f 73 65 
+Front Right Door | State: Unlocked, open_close_outside: ,open_close_inside: close
+CLIENT: received a notification for event [1234.5678.011e] to Client/Session [0000/006c] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Right Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011f] to Client/Session [0000/006d] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 63 6c 6f 73 65 
+Front Left Door | State: Unlocked, open_close_outside: ,open_close_inside: close
+CLIENT: received a notification for event [1234.5678.0120] to Client/Session [0000/006e] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Left Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0064] to Client/Session [0000/006f] = 6b 65 79 5f 7a 6f 6e 65 3a 20 31 2c 20 6b 65 79 5f 62 75 74 74 6f 6e 3a 20 30 2c 46 6c 61 73 68 4c 69 67 68 74 3a 20 20 31 2c 20 48 6f 72 6e 42 65 65 70 69 6e 67 3a 20 31 
+Key | key_zone: 1, key_button: 0,FlashLight:  1, HornBeeping: 1
+CLIENT: received a notification for event [1234.5678.011d] to Client/Session [0000/0070] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 63 6c 6f 73 65 
+Front Right Door | State: Unlocked, open_close_outside: ,open_close_inside: close
+CLIENT: received a notification for event [1234.5678.011e] to Client/Session [0000/0071] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Right Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011f] to Client/Session [0000/0072] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 6f 70 65 6e 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Left Door | State: Unlocked, open_close_outside: open,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0120] to Client/Session [0000/0073] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Left Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0064] to Client/Session [0000/0074] = 6b 65 79 5f 7a 6f 6e 65 3a 20 31 2c 20 6b 65 79 5f 62 75 74 74 6f 6e 3a 20 30 2c 46 6c 61 73 68 4c 69 67 68 74 3a 20 20 31 2c 20 48 6f 72 6e 42 65 65 70 69 6e 67 3a 20 31 
+Key | key_zone: 1, key_button: 0,FlashLight:  1, HornBeeping: 1
+CLIENT: received a notification for event [1234.5678.011d] to Client/Session [0000/0075] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 63 6c 6f 73 65 
+Front Right Door | State: Unlocked, open_close_outside: ,open_close_inside: close
+CLIENT: received a notification for event [1234.5678.011e] to Client/Session [0000/0076] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Right Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011f] to Client/Session [0000/0077] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 63 6c 6f 73 65 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Left Door | State: Unlocked, open_close_outside: close,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0120] to Client/Session [0000/0078] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Left Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0064] to Client/Session [0000/0079] = 6b 65 79 5f 7a 6f 6e 65 3a 20 31 2c 20 6b 65 79 5f 62 75 74 74 6f 6e 3a 20 30 2c 46 6c 61 73 68 4c 69 67 68 74 3a 20 20 31 2c 20 48 6f 72 6e 42 65 65 70 69 6e 67 3a 20 31 
+Key | key_zone: 1, key_button: 0,FlashLight:  1, HornBeeping: 1
+CLIENT: received a notification for event [1234.5678.011d] to Client/Session [0000/007a] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 63 6c 6f 73 65 
+Front Right Door | State: Unlocked, open_close_outside: ,open_close_inside: close
+CLIENT: received a notification for event [1234.5678.011e] to Client/Session [0000/007b] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Right Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011f] to Client/Session [0000/007c] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 63 6c 6f 73 65 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Left Door | State: Unlocked, open_close_outside: close,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0120] to Client/Session [0000/007d] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Left Door | State: Unlocked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0064] to Client/Session [0000/007e] = 6b 65 79 5f 7a 6f 6e 65 3a 20 31 2c 20 6b 65 79 5f 62 75 74 74 6f 6e 3a 20 30 2c 46 6c 61 73 68 4c 69 67 68 74 3a 20 20 31 2c 20 48 6f 72 6e 42 65 65 70 69 6e 67 3a 20 31 
+Key | key_zone: 1, key_button: 0,FlashLight:  1, HornBeeping: 1
+CLIENT: received a notification for event [1234.5678.011d] to Client/Session [0000/007f] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 63 6c 6f 73 65 
+Front Right Door | State: Unlocked, open_close_outside: ,open_close_inside: close
+CLIENT: received a notification for event [1234.5678.011e] to Client/Session [0000/0080] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Right Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011f] to Client/Session [0000/0081] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 63 6c 6f 73 65 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Left Door | State: Unlocked, open_close_outside: close,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0120] to Client/Session [0000/0082] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 63 6c 6f 73 65 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Left Door | State: Unlocked, open_close_outside: close,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0064] to Client/Session [0000/0083] = 6b 65 79 5f 7a 6f 6e 65 3a 20 31 2c 20 6b 65 79 5f 62 75 74 74 6f 6e 3a 20 30 2c 46 6c 61 73 68 4c 69 67 68 74 3a 20 20 31 2c 20 48 6f 72 6e 42 65 65 70 69 6e 67 3a 20 31 
+Key | key_zone: 1, key_button: 0,FlashLight:  1, HornBeeping: 1
+CLIENT: received a notification for event [1234.5678.011d] to Client/Session [0000/0084] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 63 6c 6f 73 65 
+Front Right Door | State: Unlocked, open_close_outside: ,open_close_inside: close
+CLIENT: received a notification for event [1234.5678.011e] to Client/Session [0000/0085] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Right Door | State: Unlocked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011f] to Client/Session [0000/0086] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 63 6c 6f 73 65 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Left Door | State: Unlocked, open_close_outside: close,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0120] to Client/Session [0000/0087] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 63 6c 6f 73 65 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Left Door | State: Unlocked, open_close_outside: close,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0064] to Client/Session [0000/0088] = 6b 65 79 5f 7a 6f 6e 65 3a 20 31 2c 20 6b 65 79 5f 62 75 74 74 6f 6e 3a 20 30 2c 46 6c 61 73 68 4c 69 67 68 74 3a 20 20 31 2c 20 48 6f 72 6e 42 65 65 70 69 6e 67 3a 20 31 
+Key | key_zone: 1, key_button: 0,FlashLight:  1, HornBeeping: 1
+CLIENT: received a notification for event [1234.5678.011d] to Client/Session [0000/0089] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 63 6c 6f 73 65 
+Front Right Door | State: Unlocked, open_close_outside: ,open_close_inside: close
+CLIENT: received a notification for event [1234.5678.011e] to Client/Session [0000/008a] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 6f 70 65 6e 
+Rear Right Door | State: Unlocked, open_close_outside: ,open_close_inside: open
+CLIENT: received a notification for event [1234.5678.011f] to Client/Session [0000/008b] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 63 6c 6f 73 65 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Left Door | State: Unlocked, open_close_outside: close,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0120] to Client/Session [0000/008c] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 63 6c 6f 73 65 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Left Door | State: Unlocked, open_close_outside: close,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0064] to Client/Session [0000/008d] = 6b 65 79 5f 7a 6f 6e 65 3a 20 31 2c 20 6b 65 79 5f 62 75 74 74 6f 6e 3a 20 30 2c 46 6c 61 73 68 4c 69 67 68 74 3a 20 20 31 2c 20 48 6f 72 6e 42 65 65 70 69 6e 67 3a 20 31 
+Key | key_zone: 1, key_button: 0,FlashLight:  1, HornBeeping: 1
+CLIENT: received a notification for event [1234.5678.011d] to Client/Session [0000/008e] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 63 6c 6f 73 65 
+Front Right Door | State: Unlocked, open_close_outside: ,open_close_inside: close
+CLIENT: received a notification for event [1234.5678.011e] to Client/Session [0000/008f] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 63 6c 6f 73 65 
+Rear Right Door | State: Unlocked, open_close_outside: ,open_close_inside: close
+CLIENT: received a notification for event [1234.5678.011f] to Client/Session [0000/0090] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 63 6c 6f 73 65 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Left Door | State: Unlocked, open_close_outside: close,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0120] to Client/Session [0000/0091] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 63 6c 6f 73 65 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Left Door | State: Unlocked, open_close_outside: close,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0064] to Client/Session [0000/0092] = 6b 65 79 5f 7a 6f 6e 65 3a 20 31 2c 20 6b 65 79 5f 62 75 74 74 6f 6e 3a 20 30 2c 46 6c 61 73 68 4c 69 67 68 74 3a 20 20 31 2c 20 48 6f 72 6e 42 65 65 70 69 6e 67 3a 20 31 
+Key | key_zone: 1, key_button: 0,FlashLight:  1, HornBeeping: 1
+CLIENT: received a notification for event [1234.5678.011d] to Client/Session [0000/0093] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 63 6c 6f 73 65 
+Front Right Door | State: Unlocked, open_close_outside: ,open_close_inside: close
+CLIENT: received a notification for event [1234.5678.011e] to Client/Session [0000/0094] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 63 6c 6f 73 65 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Right Door | State: Unlocked, open_close_outside: close,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011f] to Client/Session [0000/0095] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 63 6c 6f 73 65 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Left Door | State: Unlocked, open_close_outside: close,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0120] to Client/Session [0000/0096] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 63 6c 6f 73 65 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Left Door | State: Unlocked, open_close_outside: close,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0064] to Client/Session [0000/0097] = 6b 65 79 5f 7a 6f 6e 65 3a 20 31 2c 20 6b 65 79 5f 62 75 74 74 6f 6e 3a 20 30 2c 46 6c 61 73 68 4c 69 67 68 74 3a 20 20 31 2c 20 48 6f 72 6e 42 65 65 70 69 6e 67 3a 20 31 
+Key | key_zone: 1, key_button: 0,FlashLight:  1, HornBeeping: 1
+CLIENT: received a notification for event [1234.5678.011d] to Client/Session [0000/0098] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 63 6c 6f 73 65 
+Front Right Door | State: Unlocked, open_close_outside: ,open_close_inside: close
+CLIENT: received a notification for event [1234.5678.011e] to Client/Session [0000/0099] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 63 6c 6f 73 65 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Right Door | State: Unlocked, open_close_outside: close,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011f] to Client/Session [0000/009a] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Left Door | State: Unlocked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0120] to Client/Session [0000/009b] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Left Door | State: Unlocked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0064] to Client/Session [0000/009c] = 6b 65 79 5f 7a 6f 6e 65 3a 20 31 2c 20 6b 65 79 5f 62 75 74 74 6f 6e 3a 20 31 2c 46 6c 61 73 68 4c 69 67 68 74 3a 20 20 31 2c 20 48 6f 72 6e 42 65 65 70 69 6e 67 3a 20 31 
+Key | key_zone: 1, key_button: 1,FlashLight:  1, HornBeeping: 1
+CLIENT: received a notification for event [1234.5678.011d] to Client/Session [0000/009d] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 63 6c 6f 73 65 
+Front Right Door | State: Unlocked, open_close_outside: ,open_close_inside: close
+CLIENT: received a notification for event [1234.5678.011e] to Client/Session [0000/009e] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Right Door | State: Unlocked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011f] to Client/Session [0000/009f] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Left Door | State: Unlocked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0120] to Client/Session [0000/00a0] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Left Door | State: Unlocked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0064] to Client/Session [0000/00a1] = 6b 65 79 5f 7a 6f 6e 65 3a 20 31 2c 20 6b 65 79 5f 62 75 74 74 6f 6e 3a 20 30 2c 46 6c 61 73 68 4c 69 67 68 74 3a 20 20 31 2c 20 48 6f 72 6e 42 65 65 70 69 6e 67 3a 20 31 
+Key | key_zone: 1, key_button: 0,FlashLight:  1, HornBeeping: 1
+CLIENT: received a notification for event [1234.5678.011d] to Client/Session [0000/00a2] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 63 6c 6f 73 65 
+Front Right Door | State: Locked, open_close_outside: ,open_close_inside: close
+CLIENT: received a notification for event [1234.5678.011e] to Client/Session [0000/00a3] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Right Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011f] to Client/Session [0000/00a4] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Left Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0120] to Client/Session [0000/00a5] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Left Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0064] to Client/Session [0000/00a6] = 6b 65 79 5f 7a 6f 6e 65 3a 20 31 2c 20 6b 65 79 5f 62 75 74 74 6f 6e 3a 20 30 2c 46 6c 61 73 68 4c 69 67 68 74 3a 20 20 31 2c 20 48 6f 72 6e 42 65 65 70 69 6e 67 3a 20 31 
+Key | key_zone: 1, key_button: 0,FlashLight:  1, HornBeeping: 1
+CLIENT: received a notification for event [1234.5678.011d] to Client/Session [0000/00a7] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 63 6c 6f 73 65 
+Front Right Door | State: Unlocked, open_close_outside: ,open_close_inside: close
+CLIENT: received a notification for event [1234.5678.011e] to Client/Session [0000/00a8] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Right Door | State: Unlocked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011f] to Client/Session [0000/00a9] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Left Door | State: Unlocked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0120] to Client/Session [0000/00aa] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Left Door | State: Unlocked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0064] to Client/Session [0000/00ab] = 6b 65 79 5f 7a 6f 6e 65 3a 20 31 2c 20 6b 65 79 5f 62 75 74 74 6f 6e 3a 20 31 2c 46 6c 61 73 68 4c 69 67 68 74 3a 20 20 31 2c 20 48 6f 72 6e 42 65 65 70 69 6e 67 3a 20 31 
+Key | key_zone: 1, key_button: 1,FlashLight:  1, HornBeeping: 1
+CLIENT: received a notification for event [1234.5678.011d] to Client/Session [0000/00ac] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 63 6c 6f 73 65 
+Front Right Door | State: Unlocked, open_close_outside: ,open_close_inside: close
+CLIENT: received a notification for event [1234.5678.011e] to Client/Session [0000/00ad] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Right Door | State: Unlocked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011f] to Client/Session [0000/00ae] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Left Door | State: Unlocked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0120] to Client/Session [0000/00af] = 53 74 61 74 65 3a 20 55 6e 6c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Left Door | State: Unlocked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0064] to Client/Session [0000/00b0] = 6b 65 79 5f 7a 6f 6e 65 3a 20 30 2c 20 6b 65 79 5f 62 75 74 74 6f 6e 3a 20 30 2c 46 6c 61 73 68 4c 69 67 68 74 3a 20 20 30 2c 20 48 6f 72 6e 42 65 65 70 69 6e 67 3a 20 30 
+Key | key_zone: 0, key_button: 0,FlashLight:  0, HornBeeping: 0
+CLIENT: received a notification for event [1234.5678.011d] to Client/Session [0000/00b1] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 63 6c 6f 73 65 
+Front Right Door | State: Locked, open_close_outside: ,open_close_inside: close
+CLIENT: received a notification for event [1234.5678.011e] to Client/Session [0000/00b2] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Right Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011f] to Client/Session [0000/00b3] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Left Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0120] to Client/Session [0000/00b4] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Left Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0064] to Client/Session [0000/00b5] = 6b 65 79 5f 7a 6f 6e 65 3a 20 30 2c 20 6b 65 79 5f 62 75 74 74 6f 6e 3a 20 30 2c 46 6c 61 73 68 4c 69 67 68 74 3a 20 20 30 2c 20 48 6f 72 6e 42 65 65 70 69 6e 67 3a 20 30 
+Key | key_zone: 0, key_button: 0,FlashLight:  0, HornBeeping: 0
+CLIENT: received a notification for event [1234.5678.011d] to Client/Session [0000/00b6] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 63 6c 6f 73 65 
+Front Right Door | State: Locked, open_close_outside: ,open_close_inside: close
+CLIENT: received a notification for event [1234.5678.011e] to Client/Session [0000/00b7] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Right Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.011f] to Client/Session [0000/00b8] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Front Left Door | State: Locked, open_close_outside: ,open_close_inside: 
+CLIENT: received a notification for event [1234.5678.0120] to Client/Session [0000/00b9] = 53 74 61 74 65 3a 20 4c 6f 63 6b 65 64 2c 20 6f 70 65 6e 5f 63 6c 6f 73 65 5f 6f 75 74 73 69 64 65 3a 20 2c 6f 70 65 6e 5f 63 6c 6f 73 65 5f 69 6e 73 69 64 65 3a 20 
+Rear Left Door | State: Locked, open_close_outside: ,open_close_inside: 

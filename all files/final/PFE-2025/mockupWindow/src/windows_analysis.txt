@@ -1,0 +1,1124 @@
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: 
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: 
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: 
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: 
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: 
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: 
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: 
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: 
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: 
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: 
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP     | Level: 95% | Level_type: AUTO | mode: Whonen
+Window: DR           | Result:  OP     | Level: 65% | Level_type: AUTO | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 30% | Level_type: AUTO | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DR           | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DR           | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DR           | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DR           | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DR           | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DR           | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DR           | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DR           | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DR           | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DR           | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DR           | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DR           | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 5% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 10% | Level_type: MANUAL | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 10% | Level_type: MANUAL | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 10% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 10% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 10% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 10% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 10% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 10% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 10% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 10% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 10% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 10% | Level_type:  | mode: Fahren
+Window: DR           | Result:  OP     | Level: 65% | Level_type: AUTO | mode: Fahren
+Window: DR           | Result:  OP     | Level: 30% | Level_type: AUTO | mode: Fahren
+Window: DR           | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DR           | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DR           | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DR           | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DR           | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DR           | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DR           | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DR           | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DR           | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DR           | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DR           | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DR           | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DR           | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DR           | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DR           | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DR           | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DR           | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DR           | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DR           | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DR           | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DR           | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DR           | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DR           | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 15% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Fahren
+Window: DR           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 35% | Level_type: MANUAL | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 35% | Level_type: MANUAL | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 35% | Level_type: MANUAL | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 35% | Level_type: MANUAL | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 35% | Level_type: MANUAL | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 35% | Level_type: MANUAL | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 35% | Level_type: MANUAL | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 35% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 35% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 35% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 35% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 35% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 35% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 35% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 35% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 35% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 35% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 35% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 35% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 35% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 35% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 35% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 35% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 35% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 35% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 35% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 35% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 35% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 35% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 35% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 35% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 35% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 35% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 35% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 35% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 35% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 35% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 35% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 35% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 35% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 35% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 35% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 35% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 35% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 35% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 35% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 35% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 35% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 35% | Level_type:  | mode: Fahren
+Window: DR           | Result:  FAILED  | Level: 35% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: 
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: 
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: 
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: 
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: 
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: 
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: 
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: 
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: 
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: 
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  OP     | Level: 85% | Level_type: AUTO | mode: Whonen
+Window: PS           | Result:  OP     | Level: 55% | Level_type: AUTO | mode: Whonen
+Window: PS           | Result:  OP     | Level: 25% | Level_type: AUTO | mode: Whonen
+Window: PS           | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: PS           | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: PS           | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: PS           | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: PS           | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: PS           | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: PS           | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: PS           | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 80% | Level_type: MANUAL | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 65% | Level_type: MANUAL | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 65% | Level_type: MANUAL | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 65% | Level_type: MANUAL | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 65% | Level_type: MANUAL | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 65% | Level_type: MANUAL | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 65% | Level_type: MANUAL | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 65% | Level_type: MANUAL | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 65% | Level_type: MANUAL | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 65% | Level_type: MANUAL | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 65% | Level_type: MANUAL | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 65% | Level_type: MANUAL | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 60% | Level_type: MANUAL | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 25% | Level_type: MANUAL | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 15% | Level_type: MANUAL | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 25% | Level_type: MANUAL | mode: Fahren
+Window: PS           | Result:  OP_S   | Level: 25% | Level_type: MANUAL | mode: Fahren
+Window: PS           | Result:  OP_S   | Level: 25% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  OP_S   | Level: 25% | Level_type: MANUAL | mode: Fahren
+Window: PS           | Result:  OP_S   | Level: 25% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  OP_S   | Level: 25% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  OP_S   | Level: 25% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  OP_S   | Level: 25% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  OP_S   | Level: 25% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  OP_S   | Level: 25% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  OP_S   | Level: 25% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  OP_S   | Level: 25% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  OP_S   | Level: 25% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  OP_S   | Level: 25% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  OP_S   | Level: 25% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  OP_S   | Level: 25% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  OP_S   | Level: 25% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  OP_S   | Level: 25% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  OP_S   | Level: 25% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  OP_S   | Level: 25% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  OP_S   | Level: 25% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  OP_S   | Level: 25% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  OP_S   | Level: 25% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  OP_S   | Level: 35% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  OP_S   | Level: 45% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  OP_S   | Level: 70% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  OP_S   | Level: 90% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Fahren
+Window: PS           | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type: MANUAL | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type: MANUAL | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 100% | Level_type: MANUAL | mode: Fahren
+Window: PS           | Result:  OP     | Level: 60% | Level_type: AUTO | mode: Fahren
+Window: PS           | Result:  OP     | Level: 20% | Level_type: AUTO | mode: Fahren
+Window: PS           | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: PS           | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: PS           | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type:  | mode: 
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type:  | mode: 
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type:  | mode: 
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type:  | mode: 
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type:  | mode: 
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type:  | mode: 
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type:  | mode: 
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type:  | mode: 
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type:  | mode: 
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type:  | mode: 
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type:  | mode: Whonen
+Window: DRS          | Result:  OP     | Level: 85% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  OP     | Level: 55% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  OP     | Level: 25% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  OP     | Level: 15% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  OP     | Level: 45% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP     | Level: 80% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  OP     | Level: 50% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  OP     | Level: 20% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  OP     | Level: 80% | Level_type: AUTO | mode: Fahren
+Window: DRS          | Result:  OP     | Level: 45% | Level_type: AUTO | mode: Fahren
+Window: DRS          | Result:  OP     | Level: 5% | Level_type: AUTO | mode: Fahren
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DRS          | Result:  FOP    | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  FAILED  | Level: 0% | Level_type: AUTO | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 15% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 45% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 70% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Whonen
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Fahren
+Window: DRS          | Result:  OP_S   | Level: 85% | Level_type: MANUAL | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 85% | Level_type: MANUAL | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 85% | Level_type: MANUAL | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 85% | Level_type: MANUAL | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 85% | Level_type: MANUAL | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 85% | Level_type: MANUAL | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 85% | Level_type: MANUAL | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 85% | Level_type: MANUAL | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 85% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 85% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 85% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 85% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 85% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 85% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 85% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 85% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 85% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 85% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 85% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 85% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 85% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 85% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 85% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 85% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 85% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 85% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 85% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 85% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 85% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 85% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 85% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 85% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 85% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 85% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 85% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 85% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 85% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 85% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 85% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 85% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 85% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 85% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 85% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 85% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 85% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 85% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 85% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 85% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 85% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 85% | Level_type:  | mode: Fahren
+Window: DRS          | Result:  FAILED  | Level: 85% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: 
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: 
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: 
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: 
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: 
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: 
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: 
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: 
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: 
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: 
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type: AUTO | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type: AUTO | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type: AUTO | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type: AUTO | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type: AUTO | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type: AUTO | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type: AUTO | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type: AUTO | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type: AUTO | mode: Whonen
+Window: PRS          | Result:  OP     | Level: 95% | Level_type: AUTO | mode: Whonen
+Window: PRS          | Result:  OP     | Level: 65% | Level_type: AUTO | mode: Whonen
+Window: PRS          | Result:  OP     | Level: 35% | Level_type: AUTO | mode: Whonen
+Window: PRS          | Result:  OP     | Level: 5% | Level_type: AUTO | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 10% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 40% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 65% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 75% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 50% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 45% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 45% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 45% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  FAILED  | Level: 45% | Level_type: MANUAL | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 45% | Level_type: MANUAL | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 45% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 45% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 45% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 45% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 45% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 45% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 45% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 45% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 45% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 45% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 45% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 45% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 45% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 65% | Level_type: MANUAL | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 40% | Level_type: MANUAL | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 10% | Level_type: MANUAL | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 5% | Level_type: MANUAL | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 0% | Level_type: MANUAL | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 20% | Level_type: MANUAL | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 50% | Level_type: MANUAL | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 80% | Level_type: MANUAL | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type: MANUAL | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type: MANUAL | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type: MANUAL | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type: MANUAL | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type: MANUAL | mode: Fahren
+Window: PRS          | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Fahren
+Window: PRS          | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Fahren
+Window: PRS          | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 80% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 60% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 60% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 60% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 70% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 70% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 70% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 70% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 70% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 70% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 70% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 70% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 70% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 70% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 95% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  CL_S   | Level: 100% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 80% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 65% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 65% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 45% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 30% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 30% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 30% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 30% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 30% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 30% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 30% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 30% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 30% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 30% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 30% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 30% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 30% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 30% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 30% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 30% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 30% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 30% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 30% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 30% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 30% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 30% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 30% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 30% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 30% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 30% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 30% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 30% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 30% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 30% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 30% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 30% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 30% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 30% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 30% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 30% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 30% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 30% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 30% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 30% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 30% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 30% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 30% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 30% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 30% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 30% | Level_type: MANUAL | mode: Whonen
+Window: PRS          | Result:  OP_S   | Level: 30% | Level_type: MANUAL | mode: Fahren
+Window: PRS          | Result:  OP_S   | Level: 30% | Level_type: MANUAL | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 30% | Level_type: MANUAL | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 30% | Level_type: MANUAL | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 30% | Level_type: MANUAL | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 30% | Level_type: MANUAL | mode: Fahren
+Window: PRS          | Result:  OP     | Level: 60% | Level_type: AUTO | mode: Fahren
+Window: PRS          | Result:  OP     | Level: 90% | Level_type: AUTO | mode: Fahren
+Window: PRS          | Result:  CL     | Level: 100% | Level_type: AUTO | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Fahren
+Window: PRS          | Result:  FAILED  | Level: 100% | Level_type:  | mode: Fahren

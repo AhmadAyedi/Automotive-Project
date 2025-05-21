@@ -1,0 +1,371 @@
+2025-05-20 21:12:00,710 - INFO - Created a socket
+2025-05-20 21:12:00,712 - INFO - CAN initialized
+2025-05-20 21:12:00,718 - INFO - GPIO initialized
+2025-05-20 21:13:11,903 - INFO - Updating DRS from 0 LEDs to 4 LEDs (Level: 100%)
+2025-05-20 21:13:11,904 - INFO - Turned on DRS LED 1 (GPIO 6)
+2025-05-20 21:13:11,905 - INFO - Updating PS from 0 LEDs to 4 LEDs (Level: 100%)
+2025-05-20 21:13:11,906 - INFO - Turned on PS LED 1 (GPIO 27)
+2025-05-20 21:13:11,908 - INFO - Updating PRS from 0 LEDs to 4 LEDs (Level: 100%)
+2025-05-20 21:13:11,908 - INFO - Turned on PRS LED 1 (GPIO 12)
+2025-05-20 21:13:12,906 - INFO - Turned on DRS LED 2 (GPIO 13)
+2025-05-20 21:13:12,907 - INFO - Turned on PS LED 2 (GPIO 22)
+2025-05-20 21:13:12,909 - INFO - Turned on PRS LED 2 (GPIO 16)
+2025-05-20 21:13:13,907 - INFO - Turned on DRS LED 3 (GPIO 19)
+2025-05-20 21:13:13,908 - INFO - Turned on PS LED 3 (GPIO 0)
+2025-05-20 21:13:13,910 - INFO - Turned on PRS LED 3 (GPIO 20)
+2025-05-20 21:13:14,908 - INFO - Turned on DRS LED 4 (GPIO 26)
+2025-05-20 21:13:14,909 - INFO - Turned on PS LED 4 (GPIO 5)
+2025-05-20 21:13:14,910 - INFO - Turned on PRS LED 4 (GPIO 21)
+2025-05-20 21:13:15,913 - INFO - Sent response CAN: 0100020002640200
+2025-05-20 21:13:15,923 - INFO - Sent response CAN: 0100026402640200
+2025-05-20 21:13:15,925 - INFO - Sent response CAN: 0100026402640264
+2025-05-20 21:13:33,206 - INFO - Updating DR from 0 LEDs to 4 LEDs (Level: 100%)
+2025-05-20 21:13:33,209 - INFO - Turned on DR LED 1 (GPIO 2)
+2025-05-20 21:13:34,221 - INFO - Turned on DR LED 2 (GPIO 3)
+2025-05-20 21:13:35,222 - INFO - Turned on DR LED 3 (GPIO 23)
+2025-05-20 21:13:36,223 - INFO - Turned on DR LED 4 (GPIO 17)
+2025-05-20 21:13:37,226 - INFO - Sent response CAN: 0264026402640264
+2025-05-20 21:14:38,193 - INFO - Updating DR from 4 LEDs to 0 LEDs (Level: 0%)
+2025-05-20 21:14:38,194 - INFO - Turned off DR LED 4 (GPIO 17)
+2025-05-20 21:14:38,195 - INFO - Updating DRS from 4 LEDs to 0 LEDs (Level: 0%)
+2025-05-20 21:14:38,198 - INFO - Turned off DRS LED 4 (GPIO 26)
+2025-05-20 21:14:38,198 - INFO - Updating PS from 4 LEDs to 0 LEDs (Level: 0%)
+2025-05-20 21:14:38,201 - INFO - Turned off PS LED 4 (GPIO 5)
+2025-05-20 21:14:38,201 - INFO - Updating PRS from 4 LEDs to 0 LEDs (Level: 0%)
+2025-05-20 21:14:38,202 - INFO - Turned off PRS LED 4 (GPIO 21)
+2025-05-20 21:14:39,196 - INFO - Turned off DR LED 3 (GPIO 23)
+2025-05-20 21:14:39,200 - INFO - Turned off DRS LED 3 (GPIO 19)
+2025-05-20 21:14:39,202 - INFO - Turned off PS LED 3 (GPIO 0)
+2025-05-20 21:14:39,202 - INFO - Turned off PRS LED 3 (GPIO 20)
+2025-05-20 21:14:40,197 - INFO - Turned off DR LED 2 (GPIO 3)
+2025-05-20 21:14:40,200 - INFO - Turned off DRS LED 2 (GPIO 13)
+2025-05-20 21:14:40,203 - INFO - Turned off PS LED 2 (GPIO 22)
+2025-05-20 21:14:40,204 - INFO - Turned off PRS LED 2 (GPIO 16)
+2025-05-20 21:14:41,198 - INFO - Turned off DR LED 1 (GPIO 2)
+2025-05-20 21:14:41,201 - INFO - Turned off DRS LED 1 (GPIO 6)
+2025-05-20 21:14:41,204 - INFO - Turned off PS LED 1 (GPIO 27)
+2025-05-20 21:14:41,205 - INFO - Turned off PRS LED 1 (GPIO 12)
+2025-05-20 21:14:42,199 - INFO - Sent response CAN: 0200026402640264
+2025-05-20 21:14:42,202 - INFO - Sent response CAN: 0200026402000264
+2025-05-20 21:14:42,210 - INFO - Sent response CAN: 0200020002000264
+2025-05-20 21:14:42,211 - INFO - Sent response CAN: 0200020002000200
+2025-05-20 21:16:21,247 - INFO - Updating DR from 0 LEDs to 0 LEDs (Level: 0%)
+2025-05-20 21:16:21,249 - INFO - Updating DRS from 0 LEDs to 0 LEDs (Level: 0%)
+2025-05-20 21:16:21,250 - INFO - Sent response CAN: 0200020002000200
+2025-05-20 21:16:21,252 - INFO - Updating PS from 0 LEDs to 0 LEDs (Level: 0%)
+2025-05-20 21:16:21,254 - INFO - Sent response CAN: 0200020002000200
+2025-05-20 21:16:21,255 - INFO - Updating PRS from 0 LEDs to 0 LEDs (Level: 0%)
+2025-05-20 21:16:21,255 - INFO - Sent response CAN: 0200020002000200
+2025-05-20 21:16:21,257 - INFO - Sent response CAN: 0200020002000200
+2025-05-20 21:16:52,688 - INFO - Updating DR from 0 LEDs to 4 LEDs (Level: 100%)
+2025-05-20 21:16:52,689 - INFO - Turned on DR LED 1 (GPIO 2)
+2025-05-20 21:16:52,690 - INFO - Updating DRS from 0 LEDs to 4 LEDs (Level: 100%)
+2025-05-20 21:16:52,691 - INFO - Turned on DRS LED 1 (GPIO 6)
+2025-05-20 21:16:52,692 - INFO - Updating PS from 0 LEDs to 4 LEDs (Level: 100%)
+2025-05-20 21:16:52,693 - INFO - Updating PRS from 0 LEDs to 4 LEDs (Level: 100%)
+2025-05-20 21:16:52,694 - INFO - Turned on PS LED 1 (GPIO 27)
+2025-05-20 21:16:52,695 - INFO - Turned on PRS LED 1 (GPIO 12)
+2025-05-20 21:16:53,690 - INFO - Turned on DR LED 2 (GPIO 3)
+2025-05-20 21:16:53,692 - INFO - Turned on DRS LED 2 (GPIO 13)
+2025-05-20 21:16:53,695 - INFO - Turned on PS LED 2 (GPIO 22)
+2025-05-20 21:16:53,696 - INFO - Turned on PRS LED 2 (GPIO 16)
+2025-05-20 21:16:54,691 - INFO - Turned on DR LED 3 (GPIO 23)
+2025-05-20 21:16:54,692 - INFO - Turned on DRS LED 3 (GPIO 19)
+2025-05-20 21:16:54,704 - INFO - Turned on PS LED 3 (GPIO 0)
+2025-05-20 21:16:54,705 - INFO - Turned on PRS LED 3 (GPIO 20)
+2025-05-20 21:16:55,692 - INFO - Turned on DR LED 4 (GPIO 17)
+2025-05-20 21:16:55,693 - INFO - Turned on DRS LED 4 (GPIO 26)
+2025-05-20 21:16:55,704 - INFO - Turned on PS LED 4 (GPIO 5)
+2025-05-20 21:16:55,706 - INFO - Turned on PRS LED 4 (GPIO 21)
+2025-05-20 21:16:56,694 - INFO - Sent response CAN: 0264020002000200
+2025-05-20 21:16:56,695 - INFO - Sent response CAN: 0264020002640200
+2025-05-20 21:16:56,706 - INFO - Sent response CAN: 0264026402640200
+2025-05-20 21:16:56,707 - INFO - Sent response CAN: 0264026402640264
+2025-05-20 21:17:14,428 - INFO - Updating DR from 4 LEDs to 0 LEDs (Level: 0%)
+2025-05-20 21:17:14,429 - INFO - Turned off DR LED 4 (GPIO 17)
+2025-05-20 21:17:14,430 - INFO - Updating DRS from 4 LEDs to 0 LEDs (Level: 0%)
+2025-05-20 21:17:14,431 - INFO - Updating PS from 4 LEDs to 0 LEDs (Level: 0%)
+2025-05-20 21:17:14,432 - INFO - Turned off DRS LED 4 (GPIO 26)
+2025-05-20 21:17:14,432 - INFO - Turned off PS LED 4 (GPIO 5)
+2025-05-20 21:17:14,434 - INFO - Updating PRS from 4 LEDs to 0 LEDs (Level: 0%)
+2025-05-20 21:17:14,435 - INFO - Turned off PRS LED 4 (GPIO 21)
+2025-05-20 21:17:15,431 - INFO - Turned off DR LED 3 (GPIO 23)
+2025-05-20 21:17:15,435 - INFO - Turned off DRS LED 3 (GPIO 19)
+2025-05-20 21:17:15,435 - INFO - Turned off PS LED 3 (GPIO 0)
+2025-05-20 21:17:15,436 - INFO - Turned off PRS LED 3 (GPIO 20)
+2025-05-20 21:17:16,431 - INFO - Turned off DR LED 2 (GPIO 3)
+2025-05-20 21:17:16,436 - INFO - Turned off DRS LED 2 (GPIO 13)
+2025-05-20 21:17:16,437 - INFO - Turned off PS LED 2 (GPIO 22)
+2025-05-20 21:17:16,437 - INFO - Turned off PRS LED 2 (GPIO 16)
+2025-05-20 21:17:17,432 - INFO - Turned off DR LED 1 (GPIO 2)
+2025-05-20 21:17:17,438 - INFO - Turned off DRS LED 1 (GPIO 6)
+2025-05-20 21:17:17,438 - INFO - Turned off PS LED 1 (GPIO 27)
+2025-05-20 21:17:17,438 - INFO - Turned off PRS LED 1 (GPIO 12)
+2025-05-20 21:17:18,433 - INFO - Sent response CAN: 0200026402640264
+2025-05-20 21:17:18,441 - INFO - Sent response CAN: 0200026402000264
+2025-05-20 21:17:18,442 - INFO - Sent response CAN: 0200020002000264
+2025-05-20 21:17:18,443 - INFO - Sent response CAN: 0200020002000200
+2025-05-20 21:17:33,450 - INFO - Updating PS from 0 LEDs to 4 LEDs (Level: 100%)
+2025-05-20 21:17:33,451 - INFO - Turned on PS LED 1 (GPIO 27)
+2025-05-20 21:17:33,452 - INFO - Updating PRS from 0 LEDs to 4 LEDs (Level: 100%)
+2025-05-20 21:17:33,453 - INFO - Turned on PRS LED 1 (GPIO 12)
+2025-05-20 21:17:34,453 - INFO - Turned on PS LED 2 (GPIO 22)
+2025-05-20 21:17:34,454 - INFO - Turned on PRS LED 2 (GPIO 16)
+2025-05-20 21:17:35,454 - INFO - Turned on PS LED 3 (GPIO 0)
+2025-05-20 21:17:35,455 - INFO - Turned on PRS LED 3 (GPIO 20)
+2025-05-20 21:17:36,455 - INFO - Turned on PS LED 4 (GPIO 5)
+2025-05-20 21:17:36,456 - INFO - Turned on PRS LED 4 (GPIO 21)
+2025-05-20 21:17:37,456 - INFO - Sent response CAN: 0200026402000200
+2025-05-20 21:17:37,458 - INFO - Sent response CAN: 0200026402000264
+2025-05-20 21:17:55,005 - INFO - Updating DR from 0 LEDs to 4 LEDs (Level: 100%)
+2025-05-20 21:17:55,006 - INFO - Turned on DR LED 1 (GPIO 2)
+2025-05-20 21:17:56,006 - INFO - Turned on DR LED 2 (GPIO 3)
+2025-05-20 21:17:57,007 - INFO - Turned on DR LED 3 (GPIO 23)
+2025-05-20 21:17:58,009 - INFO - Turned on DR LED 4 (GPIO 17)
+2025-05-20 21:17:59,010 - INFO - Sent response CAN: 0264026402000264
+2025-05-20 21:31:44,251 - INFO - Received keyboard interrupt
+2025-05-20 21:31:44,252 - INFO - Shutting down...
+2025-05-20 21:31:44,384 - INFO - Shutdown complete
+2025-05-20 21:31:47,102 - INFO - Created a socket
+2025-05-20 21:31:47,103 - INFO - CAN initialized
+2025-05-20 21:31:47,108 - INFO - GPIO initialized
+2025-05-20 21:32:27,780 - INFO - Updating DR from 0 LEDs to 4 LEDs (Level: 100%)
+2025-05-20 21:32:27,782 - INFO - Turned on DR LED 1 (GPIO 2)
+2025-05-20 21:32:28,782 - INFO - Turned on DR LED 2 (GPIO 3)
+2025-05-20 21:32:29,783 - INFO - Turned on DR LED 3 (GPIO 23)
+2025-05-20 21:32:30,784 - INFO - Turned on DR LED 4 (GPIO 17)
+2025-05-20 21:32:31,785 - ERROR - CAN response send error: Failed to transmit: Invalid argument [Error Code 22]
+2025-05-20 21:33:22,650 - INFO - Updating DRS from 0 LEDs to 4 LEDs (Level: 100%)
+2025-05-20 21:33:22,651 - INFO - Turned on DRS LED 1 (GPIO 6)
+2025-05-20 21:33:23,652 - INFO - Turned on DRS LED 2 (GPIO 13)
+2025-05-20 21:33:24,653 - INFO - Turned on DRS LED 3 (GPIO 19)
+2025-05-20 21:33:25,654 - INFO - Turned on DRS LED 4 (GPIO 26)
+2025-05-20 21:33:26,655 - ERROR - CAN response send error: Failed to transmit: Invalid argument [Error Code 22]
+2025-05-20 21:33:33,410 - INFO - Received keyboard interrupt
+2025-05-20 21:33:33,411 - INFO - Shutting down...
+2025-05-20 21:33:33,545 - INFO - Shutdown complete
+2025-05-20 21:34:16,432 - INFO - Created a socket
+2025-05-20 21:34:16,434 - INFO - CAN initialized
+2025-05-20 21:34:16,439 - INFO - GPIO initialized
+2025-05-20 21:34:38,080 - INFO - Updating DR from 0 LEDs to 4 LEDs (Level: 100%)
+2025-05-20 21:34:38,081 - INFO - Turned on DR LED 1 (GPIO 2)
+2025-05-20 21:34:39,082 - INFO - Turned on DR LED 2 (GPIO 3)
+2025-05-20 21:34:40,083 - INFO - Turned on DR LED 3 (GPIO 23)
+2025-05-20 21:34:41,084 - INFO - Turned on DR LED 4 (GPIO 17)
+2025-05-20 21:34:42,086 - INFO - Sent response CAN: 0264010001000100
+2025-05-20 21:44:47,210 - INFO - Received keyboard interrupt
+2025-05-20 21:44:47,211 - INFO - Shutting down...
+2025-05-20 21:44:47,344 - INFO - Shutdown complete
+2025-05-20 21:47:15,062 - INFO - Created a socket
+2025-05-20 21:47:15,062 - INFO - CAN initialized
+2025-05-20 21:47:15,070 - INFO - GPIO initialized
+2025-05-20 21:48:36,984 - INFO - Received keyboard interrupt
+2025-05-20 21:48:36,985 - INFO - Shutting down...
+2025-05-20 21:48:37,121 - INFO - Shutdown complete
+2025-05-20 21:48:45,364 - INFO - Created a socket
+2025-05-20 21:48:45,365 - INFO - CAN initialized
+2025-05-20 21:48:45,369 - INFO - GPIO initialized
+2025-05-20 21:49:18,054 - INFO - Received keyboard interrupt
+2025-05-20 21:49:18,055 - INFO - Shutting down...
+2025-05-20 21:49:18,204 - INFO - Shutdown complete
+2025-05-20 21:49:57,543 - INFO - Created a socket
+2025-05-20 21:49:57,545 - INFO - CAN initialized
+2025-05-20 21:49:57,549 - INFO - GPIO initialized
+2025-05-20 21:50:22,779 - INFO - Received keyboard interrupt
+2025-05-20 21:50:22,780 - INFO - Shutting down...
+2025-05-20 21:50:22,918 - INFO - Shutdown complete
+2025-05-20 21:50:38,804 - INFO - Created a socket
+2025-05-20 21:50:38,805 - INFO - CAN initialized
+2025-05-20 21:50:38,809 - INFO - GPIO initialized
+2025-05-20 21:51:38,276 - INFO - Received keyboard interrupt
+2025-05-20 21:51:38,276 - INFO - Shutting down...
+2025-05-20 21:51:38,410 - INFO - Shutdown complete
+2025-05-20 21:51:47,811 - INFO - Created a socket
+2025-05-20 21:51:47,812 - INFO - CAN initialized
+2025-05-20 21:51:47,816 - INFO - GPIO initialized
+2025-05-20 21:52:06,287 - INFO - Updating DR from 0 LEDs to 4 LEDs (Level: 100%)
+2025-05-20 21:52:06,288 - INFO - Turned on DR LED 1 (GPIO 2)
+2025-05-20 21:52:07,288 - INFO - Turned on DR LED 2 (GPIO 3)
+2025-05-20 21:52:08,289 - INFO - Turned on DR LED 3 (GPIO 23)
+2025-05-20 21:52:09,290 - INFO - Turned on DR LED 4 (GPIO 17)
+2025-05-20 21:52:10,291 - INFO - Sent response CAN: 0064010001000100
+2025-05-20 21:53:12,680 - INFO - Updating DR from 4 LEDs to 0 LEDs (Level: 0%)
+2025-05-20 21:53:12,681 - INFO - Turned off DR LED 4 (GPIO 17)
+2025-05-20 21:53:12,683 - INFO - Updating PS from 0 LEDs to 0 LEDs (Level: 0%)
+2025-05-20 21:53:12,684 - INFO - Sent response CAN: 0064000001000100
+2025-05-20 21:53:13,683 - INFO - Turned off DR LED 3 (GPIO 23)
+2025-05-20 21:53:14,684 - INFO - Turned off DR LED 2 (GPIO 3)
+2025-05-20 21:53:15,684 - INFO - Turned off DR LED 1 (GPIO 2)
+2025-05-20 21:53:16,686 - INFO - Sent response CAN: 0000000001000100
+2025-05-20 21:54:23,392 - INFO - Updating DR from 0 LEDs to 4 LEDs (Level: 100%)
+2025-05-20 21:54:23,393 - INFO - Turned on DR LED 1 (GPIO 2)
+2025-05-20 21:54:23,394 - INFO - Updating DRS from 0 LEDs to 4 LEDs (Level: 100%)
+2025-05-20 21:54:23,395 - INFO - Turned on DRS LED 1 (GPIO 6)
+2025-05-20 21:54:23,396 - INFO - Updating PRS from 0 LEDs to 4 LEDs (Level: 100%)
+2025-05-20 21:54:23,398 - INFO - Updating PS from 0 LEDs to 4 LEDs (Level: 100%)
+2025-05-20 21:54:23,399 - INFO - Turned on PRS LED 1 (GPIO 12)
+2025-05-20 21:54:23,400 - INFO - Turned on PS LED 1 (GPIO 27)
+2025-05-20 21:54:24,395 - INFO - Turned on DR LED 2 (GPIO 3)
+2025-05-20 21:54:24,398 - INFO - Turned on DRS LED 2 (GPIO 13)
+2025-05-20 21:54:24,400 - INFO - Turned on PRS LED 2 (GPIO 16)
+2025-05-20 21:54:24,401 - INFO - Turned on PS LED 2 (GPIO 22)
+2025-05-20 21:54:25,396 - INFO - Turned on DR LED 3 (GPIO 23)
+2025-05-20 21:54:25,398 - INFO - Turned on DRS LED 3 (GPIO 19)
+2025-05-20 21:54:25,402 - INFO - Turned on PRS LED 3 (GPIO 20)
+2025-05-20 21:54:25,402 - INFO - Turned on PS LED 3 (GPIO 0)
+2025-05-20 21:54:26,397 - INFO - Turned on DR LED 4 (GPIO 17)
+2025-05-20 21:54:26,399 - INFO - Turned on DRS LED 4 (GPIO 26)
+2025-05-20 21:54:26,403 - INFO - Turned on PRS LED 4 (GPIO 21)
+2025-05-20 21:54:26,404 - INFO - Turned on PS LED 4 (GPIO 5)
+2025-05-20 21:54:27,398 - INFO - Sent response CAN: 0064000000000000
+2025-05-20 21:54:27,400 - INFO - Sent response CAN: 0064000000640000
+2025-05-20 21:54:27,406 - INFO - Sent response CAN: 0064006400640064
+2025-05-20 21:54:27,407 - INFO - Sent response CAN: 0064000000640064
+2025-05-20 21:56:03,516 - INFO - Updating PS from 4 LEDs to 4 LEDs (Level: 100%)
+2025-05-20 21:56:03,517 - INFO - Sent response CAN: 0064006400640064
+2025-05-20 21:56:22,642 - INFO - Updating PS from 4 LEDs to 0 LEDs (Level: 0%)
+2025-05-20 21:56:22,644 - INFO - Turned off PS LED 4 (GPIO 5)
+2025-05-20 21:56:23,646 - INFO - Turned off PS LED 3 (GPIO 0)
+2025-05-20 21:56:24,648 - INFO - Turned off PS LED 2 (GPIO 22)
+2025-05-20 21:56:25,650 - INFO - Turned off PS LED 1 (GPIO 27)
+2025-05-20 21:56:26,653 - INFO - Sent response CAN: 0064000000640064
+2025-05-20 21:57:21,595 - INFO - Received keyboard interrupt
+2025-05-20 21:57:21,596 - INFO - Shutting down...
+2025-05-20 21:57:21,731 - INFO - Shutdown complete
+2025-05-20 22:01:09,981 - INFO - Created a socket
+2025-05-20 22:01:09,982 - INFO - CAN initialized
+2025-05-20 22:01:09,987 - INFO - GPIO initialized
+2025-05-20 22:01:20,535 - INFO - Updating DR from 0 LEDs to 2 LEDs (Level: 50%)
+2025-05-20 22:01:20,536 - INFO - Turned on DR LED 1 (GPIO 2)
+2025-05-20 22:01:21,537 - INFO - Turned on DR LED 2 (GPIO 3)
+2025-05-20 22:01:22,551 - ERROR - CAN response send error: Failed to transmit: Invalid argument [Error Code 22]
+2025-05-20 22:05:50,350 - INFO - Received keyboard interrupt
+2025-05-20 22:05:50,351 - INFO - Shutting down...
+2025-05-20 22:05:50,486 - INFO - Shutdown complete
+2025-05-20 22:06:04,120 - INFO - Created a socket
+2025-05-20 22:06:04,121 - INFO - CAN initialized
+2025-05-20 22:06:04,126 - INFO - GPIO initialized
+2025-05-20 22:06:25,138 - INFO - Updating DR from 0 LEDs to 2 LEDs (Level: 50%)
+2025-05-20 22:06:25,139 - INFO - Turned on DR LED 1 (GPIO 2)
+2025-05-20 22:06:26,140 - INFO - Turned on DR LED 2 (GPIO 3)
+2025-05-20 22:06:27,141 - ERROR - CAN response send error: Failed to transmit: Invalid argument [Error Code 22]
+2025-05-20 22:08:18,446 - INFO - Received keyboard interrupt
+2025-05-20 22:08:18,446 - INFO - Shutting down...
+2025-05-20 22:08:18,583 - INFO - Shutdown complete
+2025-05-20 22:08:26,613 - INFO - Created a socket
+2025-05-20 22:08:26,614 - INFO - CAN initialized
+2025-05-20 22:08:26,619 - INFO - GPIO initialized
+2025-05-20 22:08:44,653 - INFO - Updating DR from 0 LEDs to 4 LEDs (Level: 100%)
+2025-05-20 22:08:44,654 - INFO - Turned on DR LED 1 (GPIO 2)
+2025-05-20 22:08:45,654 - INFO - Turned on DR LED 2 (GPIO 3)
+2025-05-20 22:08:46,655 - INFO - Turned on DR LED 3 (GPIO 23)
+2025-05-20 22:08:47,657 - INFO - Turned on DR LED 4 (GPIO 17)
+2025-05-20 22:08:48,658 - INFO - Sent response CAN: 0264010001000100
+2025-05-20 22:22:59,626 - INFO - Created a socket
+2025-05-20 22:22:59,627 - INFO - CAN initialized
+2025-05-20 22:23:42,473 - INFO - Created a socket
+2025-05-20 22:23:42,474 - INFO - CAN initialized
+2025-05-20 22:31:54,440 - INFO - Created a socket
+2025-05-20 22:31:54,445 - INFO - CAN initialized
+2025-05-20 22:31:54,455 - INFO - GPIO initialized
+2025-05-20 22:32:09,703 - INFO - Updating DR from 0 LEDs to 4 LEDs (Level: 100%)
+2025-05-20 22:32:09,704 - INFO - Turned on DR LED 1 (GPIO 2)
+2025-05-20 22:32:10,705 - INFO - Turned on DR LED 2 (GPIO 3)
+2025-05-20 22:32:11,707 - INFO - Turned on DR LED 3 (GPIO 23)
+2025-05-20 22:32:12,708 - INFO - Turned on DR LED 4 (GPIO 17)
+2025-05-20 22:32:13,710 - ERROR - CAN response send error: Failed to transmit: Invalid argument [Error Code 22]
+2025-05-20 22:32:54,264 - INFO - Received keyboard interrupt
+2025-05-20 22:32:54,265 - INFO - Shutting down...
+2025-05-20 22:32:54,428 - INFO - Shutdown complete
+2025-05-20 22:32:59,167 - INFO - Created a socket
+2025-05-20 22:32:59,169 - INFO - CAN initialized
+2025-05-20 22:32:59,178 - INFO - GPIO initialized
+2025-05-20 22:33:23,568 - INFO - Updating DR from 0 LEDs to 4 LEDs (Level: 100%)
+2025-05-20 22:33:23,570 - INFO - Turned on DR LED 1 (GPIO 2)
+2025-05-20 22:33:24,571 - INFO - Turned on DR LED 2 (GPIO 3)
+2025-05-20 22:33:25,574 - INFO - Turned on DR LED 3 (GPIO 23)
+2025-05-20 22:33:26,576 - INFO - Turned on DR LED 4 (GPIO 17)
+2025-05-20 22:33:27,577 - ERROR - CAN response send error: Failed to transmit: Invalid argument [Error Code 22]
+2025-05-20 22:41:22,444 - INFO - Created a socket
+2025-05-20 22:41:22,444 - INFO - CAN initialized
+2025-05-20 22:52:26,798 - INFO - Created a socket
+2025-05-20 22:52:26,806 - INFO - CAN initialized
+2025-05-20 22:52:26,817 - INFO - GPIO initialized
+2025-05-20 22:52:46,420 - INFO - Updating DR from 0 LEDs to 4 LEDs (Level: 100%)
+2025-05-20 22:52:46,422 - INFO - Turned on DR LED 1 (GPIO 2)
+2025-05-20 22:52:47,423 - INFO - Turned on DR LED 2 (GPIO 3)
+2025-05-20 22:52:48,424 - INFO - Turned on DR LED 3 (GPIO 23)
+2025-05-20 22:52:49,426 - INFO - Turned on DR LED 4 (GPIO 17)
+2025-05-20 22:52:50,432 - INFO - Sent response for DR: [1, 100, 0, 1]
+2025-05-20 22:53:34,485 - INFO - Updating DR from 4 LEDs to 0 LEDs (Level: 0%)
+2025-05-20 22:53:34,486 - INFO - Turned off DR LED 4 (GPIO 17)
+2025-05-20 22:53:35,487 - INFO - Turned off DR LED 3 (GPIO 23)
+2025-05-20 22:53:36,488 - INFO - Turned off DR LED 2 (GPIO 3)
+2025-05-20 22:53:37,490 - INFO - Turned off DR LED 1 (GPIO 2)
+2025-05-20 22:53:38,491 - INFO - Sent response for DR: [1, 0, 0, 1]
+2025-05-20 22:59:37,088 - INFO - Received keyboard interrupt
+2025-05-20 22:59:37,089 - INFO - Shutting down...
+2025-05-20 22:59:37,252 - INFO - Shutdown complete
+2025-05-20 22:59:40,791 - INFO - Created a socket
+2025-05-20 22:59:40,793 - INFO - CAN initialized
+2025-05-20 22:59:40,798 - INFO - GPIO initialized
+2025-05-20 23:00:00,301 - INFO - Updating DR from 0 LEDs to 4 LEDs (Level: 100%)
+2025-05-20 23:00:00,302 - INFO - Turned on DR LED 1 (GPIO 2)
+2025-05-20 23:00:01,302 - INFO - Turned on DR LED 2 (GPIO 3)
+2025-05-20 23:00:02,303 - INFO - Turned on DR LED 3 (GPIO 23)
+2025-05-20 23:00:03,305 - INFO - Turned on DR LED 4 (GPIO 17)
+2025-05-20 23:00:04,307 - INFO - Sent response for DR: [1, 100, 0, 1]
+2025-05-20 23:00:56,676 - INFO - Updating DRS from 0 LEDs to 4 LEDs (Level: 100%)
+2025-05-20 23:00:56,676 - INFO - Turned on DRS LED 1 (GPIO 6)
+2025-05-20 23:00:57,677 - INFO - Turned on DRS LED 2 (GPIO 13)
+2025-05-20 23:00:58,678 - INFO - Turned on DRS LED 3 (GPIO 19)
+2025-05-20 23:00:59,679 - INFO - Turned on DRS LED 4 (GPIO 26)
+2025-05-20 23:01:00,680 - INFO - Sent response for DRS: [1, 100, 1, 0]
+2025-05-20 23:02:28,298 - INFO - Updating DRS from 4 LEDs to 0 LEDs (Level: 0%)
+2025-05-20 23:02:28,299 - INFO - Turned off DRS LED 4 (GPIO 26)
+2025-05-20 23:02:29,300 - INFO - Turned off DRS LED 3 (GPIO 19)
+2025-05-20 23:02:30,301 - INFO - Turned off DRS LED 2 (GPIO 13)
+2025-05-20 23:02:31,301 - INFO - Turned off DRS LED 1 (GPIO 6)
+2025-05-20 23:02:32,303 - INFO - Sent response for DRS: [1, 0, 1, 0]
+2025-05-20 23:03:04,153 - INFO - Received keyboard interrupt
+2025-05-20 23:03:04,154 - INFO - Shutting down...
+2025-05-20 23:03:04,317 - INFO - Shutdown complete
+2025-05-20 23:03:07,647 - INFO - Created a socket
+2025-05-20 23:03:07,648 - INFO - CAN initialized
+2025-05-20 23:03:07,653 - INFO - GPIO initialized
+2025-05-20 23:04:18,135 - INFO - Updating DR from 0 LEDs to 4 LEDs (Level: 100%)
+2025-05-20 23:04:18,136 - INFO - Turned on DR LED 1 (GPIO 2)
+2025-05-20 23:04:18,137 - INFO - Updating DRS from 0 LEDs to 4 LEDs (Level: 100%)
+2025-05-20 23:04:18,138 - INFO - Turned on DRS LED 1 (GPIO 6)
+2025-05-20 23:04:18,140 - INFO - Updating PS from 0 LEDs to 4 LEDs (Level: 100%)
+2025-05-20 23:04:18,141 - INFO - Turned on PS LED 1 (GPIO 27)
+2025-05-20 23:04:18,142 - INFO - Updating PRS from 0 LEDs to 4 LEDs (Level: 100%)
+2025-05-20 23:04:18,143 - INFO - Turned on PRS LED 1 (GPIO 12)
+2025-05-20 23:04:19,138 - INFO - Turned on DR LED 2 (GPIO 3)
+2025-05-20 23:04:19,140 - INFO - Turned on DRS LED 2 (GPIO 13)
+2025-05-20 23:04:19,143 - INFO - Turned on PS LED 2 (GPIO 22)
+2025-05-20 23:04:19,143 - INFO - Turned on PRS LED 2 (GPIO 16)
+2025-05-20 23:04:20,139 - INFO - Turned on DR LED 3 (GPIO 23)
+2025-05-20 23:04:20,141 - INFO - Turned on DRS LED 3 (GPIO 19)
+2025-05-20 23:04:20,143 - INFO - Turned on PS LED 3 (GPIO 0)
+2025-05-20 23:04:20,144 - INFO - Turned on PRS LED 3 (GPIO 20)
+2025-05-20 23:04:21,140 - INFO - Turned on DR LED 4 (GPIO 17)
+2025-05-20 23:04:21,142 - INFO - Turned on DRS LED 4 (GPIO 26)
+2025-05-20 23:04:21,144 - INFO - Turned on PS LED 4 (GPIO 5)
+2025-05-20 23:04:21,145 - INFO - Turned on PRS LED 4 (GPIO 21)
+2025-05-20 23:04:22,142 - INFO - Sent response for DR: [1, 100, 0, 1]
+2025-05-20 23:04:22,144 - INFO - Sent response for DRS: [1, 100, 0, 1]
+2025-05-20 23:04:22,147 - INFO - Sent response for PS: [2, 100, 1, 0]
+2025-05-20 23:04:22,149 - INFO - Sent response for PRS: [7, 100, 1, 0]
+2025-05-20 23:05:25,854 - INFO - Updating PS from 4 LEDs to 0 LEDs (Level: 0%)
+2025-05-20 23:05:25,856 - INFO - Turned off PS LED 4 (GPIO 5)
+2025-05-20 23:05:25,858 - INFO - Updating PRS from 4 LEDs to 0 LEDs (Level: 0%)
+2025-05-20 23:05:25,859 - INFO - Turned off PRS LED 4 (GPIO 21)
+2025-05-20 23:05:26,858 - INFO - Turned off PS LED 3 (GPIO 0)
+2025-05-20 23:05:26,860 - INFO - Turned off PRS LED 3 (GPIO 20)
+2025-05-20 23:05:27,859 - INFO - Turned off PS LED 2 (GPIO 22)
+2025-05-20 23:05:27,860 - INFO - Turned off PRS LED 2 (GPIO 16)
+2025-05-20 23:05:28,860 - INFO - Turned off PS LED 1 (GPIO 27)
+2025-05-20 23:05:28,873 - INFO - Turned off PRS LED 1 (GPIO 12)
+2025-05-20 23:05:29,861 - INFO - Sent response for PS: [2, 0, 1, 0]
+2025-05-20 23:05:29,874 - INFO - Sent response for PRS: [7, 0, 1, 0]

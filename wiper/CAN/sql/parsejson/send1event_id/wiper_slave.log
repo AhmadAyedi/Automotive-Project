@@ -1,0 +1,77 @@
+2025-05-19 21:55:16,561 - INFO - Created a socket
+2025-05-19 21:55:16,572 - INFO - Listening for CAN messages...
+2025-05-19 21:55:16,573 - INFO - Monitoring response.txt...
+2025-05-19 21:55:16,574 - INFO - Wiper slave initialized
+2025-05-19 21:55:16,577 - INFO - response.txt changed, updating signals
+2025-05-19 21:55:16,582 - INFO - Sent response CAN: 0101000063000000
+2025-05-19 21:59:07,431 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 2, 'Wiper_Function_Enabled': 1}
+2025-05-19 21:59:07,432 - INFO - Wipers fully stopped
+2025-05-19 21:59:07,434 - INFO - Sent response CAN: 0101000063000000
+2025-05-19 21:59:07,451 - INFO - Started continuous front wiper (speed=fast)
+2025-05-19 21:59:07,452 - INFO - Sent response CAN: 0102100263000000
+2025-05-19 21:59:29,350 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 2, 'Wiper_Function_Enabled': 1}
+2025-05-19 21:59:29,363 - INFO - Sent response CAN: 0102000263000000
+2025-05-19 21:59:29,367 - INFO - Wipers fully stopped
+2025-05-19 21:59:29,369 - INFO - Sent response CAN: 0102000263000000
+2025-05-19 21:59:29,373 - INFO - Started continuous front wiper (speed=fast)
+2025-05-19 21:59:29,374 - INFO - Sent response CAN: 0102100263000000
+2025-05-19 21:59:42,564 - INFO - Processing signals: {'Wiper_Function_Enabled': 0}
+2025-05-19 21:59:42,577 - INFO - Sent response CAN: 0102000263000000
+2025-05-19 21:59:42,579 - INFO - Wipers fully stopped
+2025-05-19 21:59:42,581 - INFO - Sent response CAN: 0102000263000000
+2025-05-19 21:59:42,584 - INFO - Sent response CAN: 0000000063000000
+2025-05-19 21:59:52,177 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 2, 'Wiper_Function_Enabled': 1}
+2025-05-19 21:59:52,179 - INFO - Wipers fully stopped
+2025-05-19 21:59:52,180 - INFO - Sent response CAN: 0000000063000000
+2025-05-19 21:59:52,183 - INFO - Started continuous front wiper (speed=fast)
+2025-05-19 21:59:52,185 - INFO - Sent response CAN: 0102100263000000
+2025-05-19 21:59:58,697 - INFO - Received keyboard interrupt
+2025-05-19 21:59:58,698 - INFO - Shutting down...
+2025-05-19 21:59:58,725 - INFO - Sent response CAN: 0102000263000000
+2025-05-19 21:59:58,730 - INFO - Wipers fully stopped
+2025-05-19 21:59:58,732 - INFO - Sent response CAN: 0102000263000000
+2025-05-19 22:00:35,591 - INFO - Created a socket
+2025-05-19 22:00:35,602 - INFO - Listening for CAN messages...
+2025-05-19 22:00:35,604 - INFO - Monitoring response.txt...
+2025-05-19 22:00:35,604 - INFO - Wiper slave initialized
+2025-05-19 22:00:35,606 - INFO - response.txt changed, updating signals
+2025-05-19 22:00:35,608 - INFO - Sent response CAN: 0101000063000000
+2025-05-19 22:00:48,319 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1, 'Wiper_Function_Enabled': 1}
+2025-05-19 22:00:48,322 - INFO - Wipers fully stopped
+2025-05-19 22:00:48,325 - INFO - Sent response CAN: 0101000063000000
+2025-05-19 22:00:48,330 - INFO - Started continuous front wiper (speed=normal)
+2025-05-19 22:00:48,332 - INFO - Sent response CAN: 0101100263000000
+2025-05-19 22:01:38,228 - INFO - Received keyboard interrupt
+2025-05-19 22:01:38,229 - INFO - Shutting down...
+2025-05-19 22:01:38,250 - INFO - Sent response CAN: 0101000263000000
+2025-05-19 22:01:38,254 - INFO - Wipers fully stopped
+2025-05-19 22:01:38,256 - INFO - Sent response CAN: 0101000263000000
+2025-05-19 22:01:38,507 - INFO - Shutdown complete
+2025-05-19 22:01:42,342 - INFO - Created a socket
+2025-05-19 22:01:42,352 - INFO - Listening for CAN messages...
+2025-05-19 22:01:42,354 - INFO - Monitoring response.txt...
+2025-05-19 22:01:42,355 - INFO - Wiper slave initialized
+2025-05-19 22:01:42,358 - INFO - response.txt changed, updating signals
+2025-05-19 22:01:42,363 - INFO - Sent response CAN: 0101000063000000
+2025-05-19 22:01:58,857 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1, 'Wiper_Function_Enabled': 1}
+2025-05-19 22:01:58,858 - INFO - Wipers fully stopped
+2025-05-19 22:01:58,860 - INFO - Sent response CAN: 0101000063000000
+2025-05-19 22:01:58,864 - INFO - Started continuous front wiper (speed=normal)
+2025-05-19 22:01:58,866 - INFO - Sent response CAN: 0101100263000000
+2025-05-19 22:02:01,263 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 2, 'Wiper_Function_Enabled': 1}
+2025-05-19 22:02:01,273 - INFO - Sent response CAN: 0101000263000000
+2025-05-19 22:02:01,365 - INFO - Wipers fully stopped
+2025-05-19 22:02:01,733 - INFO - Sent response CAN: 0101000263000000
+2025-05-19 22:02:01,738 - INFO - Started continuous front wiper (speed=fast)
+2025-05-19 22:02:01,740 - INFO - Sent response CAN: 0102100263000000
+2025-05-19 22:02:10,874 - INFO - Processing signals: {'wiperMode': 4, 'wiperSpeed': 2, 'Wiper_Function_Enabled': 1}
+2025-05-19 22:02:10,908 - INFO - Sent response CAN: 0102000263000000
+2025-05-19 22:02:10,916 - INFO - Wipers fully stopped
+2025-05-19 22:02:10,923 - INFO - Sent response CAN: 0102000263000000
+2025-05-19 22:02:10,927 - INFO - Started continuous front wiper (speed=fast)
+2025-05-19 22:02:10,928 - INFO - Sent response CAN: 0102100463000000
+2025-05-19 22:02:54,697 - INFO - Processing signals: {'Wiper_Function_Enabled': 0}
+2025-05-19 22:02:54,717 - INFO - Sent response CAN: 0102000463000000
+2025-05-19 22:02:54,719 - INFO - Wipers fully stopped
+2025-05-19 22:02:54,720 - INFO - Sent response CAN: 0102000463000000
+2025-05-19 22:02:54,721 - INFO - Sent response CAN: 0000000063000000

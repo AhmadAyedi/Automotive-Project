@@ -1,0 +1,3 @@
+/home/pi/vsomeip/PFE-2025/mockupLights/build/CMakeFiles/client-mockupLights.dir
+/home/pi/vsomeip/PFE-2025/mockupLights/build/CMakeFiles/edit_cache.dir
+/home/pi/vsomeip/PFE-2025/mockupLights/build/CMakeFiles/rebuild_cache.dir

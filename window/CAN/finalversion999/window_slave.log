@@ -1,0 +1,374 @@
+2025-05-21 10:29:56,927 - INFO - Created a socket
+2025-05-21 10:29:56,931 - INFO - CAN initialized
+2025-05-21 10:29:56,941 - INFO - GPIO initialized
+2025-05-21 10:29:56,945 - INFO - Shutting down...
+2025-05-21 10:29:57,118 - INFO - Shutdown complete
+2025-05-21 10:30:10,673 - INFO - Created a socket
+2025-05-21 10:30:10,675 - INFO - CAN initialized
+2025-05-21 10:30:10,684 - INFO - GPIO initialized
+2025-05-21 10:47:01,010 - INFO - Received keyboard interrupt
+2025-05-21 10:47:01,011 - INFO - Shutting down...
+2025-05-21 10:47:01,187 - INFO - Shutdown complete
+2025-05-21 10:47:06,460 - INFO - Created a socket
+2025-05-21 10:47:06,462 - INFO - CAN initialized
+2025-05-21 10:47:06,471 - INFO - GPIO initialized
+2025-05-21 10:48:03,932 - INFO - Received keyboard interrupt
+2025-05-21 10:48:03,934 - INFO - Shutting down...
+2025-05-21 10:48:04,119 - INFO - Shutdown complete
+2025-05-21 10:49:07,162 - INFO - Created a socket
+2025-05-21 10:49:07,164 - INFO - CAN initialized
+2025-05-21 10:49:07,173 - INFO - GPIO initialized
+2025-05-21 10:54:21,231 - INFO - Received keyboard interrupt
+2025-05-21 10:54:21,232 - INFO - Shutting down...
+2025-05-21 10:54:21,422 - INFO - Shutdown complete
+2025-05-21 10:54:52,245 - INFO - Created a socket
+2025-05-21 10:54:52,247 - INFO - CAN initialized
+2025-05-21 10:54:52,257 - INFO - GPIO initialized
+2025-05-21 10:55:09,439 - INFO - Updating PRS from 0 LEDs to 4 LEDs (Level: 100%)
+2025-05-21 10:55:09,440 - INFO - Turned on PRS LED 1 (GPIO 12)
+2025-05-21 10:55:10,441 - INFO - Turned on PRS LED 2 (GPIO 16)
+2025-05-21 10:55:11,443 - INFO - Turned on PRS LED 3 (GPIO 20)
+2025-05-21 10:55:12,445 - INFO - Turned on PRS LED 4 (GPIO 21)
+2025-05-21 10:55:13,447 - INFO - Sent response for PRS: [7, 100, 1, 0]
+2025-05-21 10:55:31,972 - INFO - Updating PRS from 4 LEDs to 0 LEDs (Level: 0%)
+2025-05-21 10:55:31,973 - INFO - Turned off PRS LED 4 (GPIO 21)
+2025-05-21 10:55:32,974 - INFO - Turned off PRS LED 3 (GPIO 20)
+2025-05-21 10:55:33,976 - INFO - Turned off PRS LED 2 (GPIO 16)
+2025-05-21 10:55:34,977 - INFO - Turned off PRS LED 1 (GPIO 12)
+2025-05-21 10:55:35,981 - INFO - Sent response for PRS: [7, 0, 1, 0]
+2025-05-21 10:56:51,188 - INFO - Updating PRS from 0 LEDs to 4 LEDs (Level: 100%)
+2025-05-21 10:56:51,190 - INFO - Turned on PRS LED 1 (GPIO 12)
+2025-05-21 10:56:52,192 - INFO - Turned on PRS LED 2 (GPIO 16)
+2025-05-21 10:56:53,193 - INFO - Turned on PRS LED 3 (GPIO 20)
+2025-05-21 10:56:54,194 - INFO - Turned on PRS LED 4 (GPIO 21)
+2025-05-21 10:56:55,196 - INFO - Sent response for PRS: [7, 100, 1, 0]
+2025-05-21 10:58:22,616 - INFO - Updating DRS from 0 LEDs to 4 LEDs (Level: 100%)
+2025-05-21 10:58:22,617 - INFO - Turned on DRS LED 1 (GPIO 6)
+2025-05-21 10:58:23,618 - INFO - Turned on DRS LED 2 (GPIO 13)
+2025-05-21 10:58:24,619 - INFO - Turned on DRS LED 3 (GPIO 19)
+2025-05-21 10:58:25,620 - INFO - Turned on DRS LED 4 (GPIO 26)
+2025-05-21 10:58:26,622 - INFO - Sent response for DRS: [7, 100, 1, 0]
+2025-05-21 10:59:09,172 - INFO - Received keyboard interrupt
+2025-05-21 10:59:09,173 - INFO - Shutting down...
+2025-05-21 10:59:09,339 - INFO - Shutdown complete
+2025-05-21 10:59:13,326 - INFO - Created a socket
+2025-05-21 10:59:13,328 - INFO - CAN initialized
+2025-05-21 10:59:13,337 - INFO - GPIO initialized
+2025-05-21 10:59:15,701 - INFO - Updating DRS from 0 LEDs to 4 LEDs (Level: 100%)
+2025-05-21 10:59:15,702 - INFO - Turned on DRS LED 1 (GPIO 6)
+2025-05-21 10:59:16,703 - INFO - Turned on DRS LED 2 (GPIO 13)
+2025-05-21 10:59:17,705 - INFO - Turned on DRS LED 3 (GPIO 19)
+2025-05-21 10:59:18,706 - INFO - Turned on DRS LED 4 (GPIO 26)
+2025-05-21 10:59:19,708 - INFO - Sent response for DRS: [4, 100, 1, 0]
+2025-05-21 11:03:17,037 - INFO - Updating DRS from 4 LEDs to 0 LEDs (Level: 0%)
+2025-05-21 11:03:17,038 - INFO - Turned off DRS LED 4 (GPIO 26)
+2025-05-21 11:03:18,040 - INFO - Turned off DRS LED 3 (GPIO 19)
+2025-05-21 11:03:19,044 - INFO - Turned off DRS LED 2 (GPIO 13)
+2025-05-21 11:03:20,045 - INFO - Turned off DRS LED 1 (GPIO 6)
+2025-05-21 11:03:21,047 - INFO - Sent response for DRS: [7, 0, 1, 0]
+2025-05-21 11:04:18,533 - INFO - Updating DR from 0 LEDs to 4 LEDs (Level: 100%)
+2025-05-21 11:04:18,535 - INFO - Turned on DR LED 1 (GPIO 2)
+2025-05-21 11:04:18,536 - INFO - Updating DRS from 0 LEDs to 4 LEDs (Level: 100%)
+2025-05-21 11:04:18,538 - INFO - Turned on DRS LED 1 (GPIO 6)
+2025-05-21 11:04:19,538 - INFO - Turned on DR LED 2 (GPIO 3)
+2025-05-21 11:04:19,539 - INFO - Turned on DRS LED 2 (GPIO 13)
+2025-05-21 11:04:20,539 - INFO - Turned on DR LED 3 (GPIO 23)
+2025-05-21 11:04:20,541 - INFO - Turned on DRS LED 3 (GPIO 19)
+2025-05-21 11:04:21,541 - INFO - Turned on DR LED 4 (GPIO 17)
+2025-05-21 11:04:21,542 - INFO - Turned on DRS LED 4 (GPIO 26)
+2025-05-21 11:04:22,546 - INFO - Sent response for DR: [1, 100, 0, 1]
+2025-05-21 11:04:22,551 - INFO - Sent response for DRS: [1, 100, 0, 1]
+2025-05-21 11:04:42,267 - INFO - Updating DR from 4 LEDs to 0 LEDs (Level: 0%)
+2025-05-21 11:04:42,268 - INFO - Turned off DR LED 4 (GPIO 17)
+2025-05-21 11:04:43,269 - INFO - Turned off DR LED 3 (GPIO 23)
+2025-05-21 11:04:44,271 - INFO - Turned off DR LED 2 (GPIO 3)
+2025-05-21 11:04:45,272 - INFO - Turned off DR LED 1 (GPIO 2)
+2025-05-21 11:04:46,274 - INFO - Sent response for DR: [1, 0, 0, 1]
+2025-05-21 11:05:54,872 - INFO - Updating DR from 0 LEDs to 4 LEDs (Level: 100%)
+2025-05-21 11:05:54,873 - INFO - Turned on DR LED 1 (GPIO 2)
+2025-05-21 11:05:55,875 - INFO - Turned on DR LED 2 (GPIO 3)
+2025-05-21 11:05:56,877 - INFO - Turned on DR LED 3 (GPIO 23)
+2025-05-21 11:05:57,878 - INFO - Turned on DR LED 4 (GPIO 17)
+2025-05-21 11:05:58,881 - INFO - Sent response for DR: [1, 100, 0, 1]
+2025-05-21 11:10:53,985 - INFO - Received keyboard interrupt
+2025-05-21 11:10:53,987 - INFO - Shutting down...
+2025-05-21 11:10:54,157 - INFO - Shutdown complete
+2025-05-21 11:10:58,401 - INFO - Created a socket
+2025-05-21 11:10:58,403 - INFO - CAN initialized
+2025-05-21 11:10:58,412 - INFO - GPIO initialized
+2025-05-21 11:11:05,708 - INFO - Updating DRS from 0 LEDs to 4 LEDs (Level: 100%)
+2025-05-21 11:11:05,710 - INFO - Turned on DRS LED 1 (GPIO 6)
+2025-05-21 11:11:05,712 - INFO - Updating DR from 0 LEDs to 4 LEDs (Level: 100%)
+2025-05-21 11:11:05,715 - INFO - Turned on DR LED 1 (GPIO 2)
+2025-05-21 11:11:06,713 - INFO - Turned on DRS LED 2 (GPIO 13)
+2025-05-21 11:11:06,716 - INFO - Turned on DR LED 2 (GPIO 3)
+2025-05-21 11:11:07,714 - INFO - Turned on DRS LED 3 (GPIO 19)
+2025-05-21 11:11:07,717 - INFO - Turned on DR LED 3 (GPIO 23)
+2025-05-21 11:11:08,716 - INFO - Turned on DRS LED 4 (GPIO 26)
+2025-05-21 11:11:08,719 - INFO - Turned on DR LED 4 (GPIO 17)
+2025-05-21 11:11:09,721 - INFO - Sent response for DRS: [4, 100, 0, 0]
+2025-05-21 11:11:09,723 - INFO - Sent response for DR: [4, 100, 0, 0]
+2025-05-21 11:25:55,563 - INFO - Updating DRS from 4 LEDs to 4 LEDs (Level: 100%)
+2025-05-21 11:25:55,566 - INFO - Sent response for DRS: [4, 100, 0, 0]
+2025-05-21 11:25:55,568 - INFO - Updating DRS from 4 LEDs to 4 LEDs (Level: 100%)
+2025-05-21 11:25:55,569 - INFO - Sent response for DRS: [4, 100, 0, 0]
+2025-05-21 11:26:18,104 - INFO - Updating PRS from 0 LEDs to 4 LEDs (Level: 100%)
+2025-05-21 11:26:18,105 - INFO - Turned on PRS LED 1 (GPIO 12)
+2025-05-21 11:26:19,106 - INFO - Turned on PRS LED 2 (GPIO 16)
+2025-05-21 11:26:20,108 - INFO - Turned on PRS LED 3 (GPIO 20)
+2025-05-21 11:26:21,109 - INFO - Turned on PRS LED 4 (GPIO 21)
+2025-05-21 11:26:22,111 - INFO - Sent response for PRS: [7, 100, 1, 0]
+2025-05-21 11:26:43,643 - INFO - Updating PRS from 4 LEDs to 0 LEDs (Level: 0%)
+2025-05-21 11:26:43,644 - INFO - Turned off PRS LED 4 (GPIO 21)
+2025-05-21 11:26:44,645 - INFO - Turned off PRS LED 3 (GPIO 20)
+2025-05-21 11:26:45,646 - INFO - Turned off PRS LED 2 (GPIO 16)
+2025-05-21 11:26:46,648 - INFO - Turned off PRS LED 1 (GPIO 12)
+2025-05-21 11:26:47,649 - INFO - Sent response for PRS: [7, 0, 1, 1]
+2025-05-21 11:27:12,898 - INFO - Updating DRS from 4 LEDs to 0 LEDs (Level: 0%)
+2025-05-21 11:27:12,900 - INFO - Turned off DRS LED 4 (GPIO 26)
+2025-05-21 11:27:13,901 - INFO - Turned off DRS LED 3 (GPIO 19)
+2025-05-21 11:27:14,904 - INFO - Turned off DRS LED 2 (GPIO 13)
+2025-05-21 11:27:15,905 - INFO - Turned off DRS LED 1 (GPIO 6)
+2025-05-21 11:27:16,907 - INFO - Sent response for DRS: [7, 0, 1, 1]
+2025-05-21 11:27:51,363 - INFO - Updating PRS from 0 LEDs to 4 LEDs (Level: 100%)
+2025-05-21 11:27:51,364 - INFO - Turned on PRS LED 1 (GPIO 12)
+2025-05-21 11:27:52,366 - INFO - Turned on PRS LED 2 (GPIO 16)
+2025-05-21 11:27:53,367 - INFO - Turned on PRS LED 3 (GPIO 20)
+2025-05-21 11:27:54,368 - INFO - Turned on PRS LED 4 (GPIO 21)
+2025-05-21 11:27:55,371 - INFO - Sent response for PRS: [7, 100, 1, 0]
+2025-05-21 11:28:25,512 - INFO - Updating PRS from 4 LEDs to 0 LEDs (Level: 0%)
+2025-05-21 11:28:25,513 - INFO - Turned off PRS LED 4 (GPIO 21)
+2025-05-21 11:28:26,514 - INFO - Turned off PRS LED 3 (GPIO 20)
+2025-05-21 11:28:27,515 - INFO - Turned off PRS LED 2 (GPIO 16)
+2025-05-21 11:28:28,517 - INFO - Turned off PRS LED 1 (GPIO 12)
+2025-05-21 11:28:29,518 - INFO - Sent response for PRS: [7, 0, 0, 1]
+2025-05-21 11:28:47,946 - INFO - Updating PRS from 0 LEDs to 4 LEDs (Level: 100%)
+2025-05-21 11:28:47,948 - INFO - Turned on PRS LED 1 (GPIO 12)
+2025-05-21 11:28:48,949 - INFO - Turned on PRS LED 2 (GPIO 16)
+2025-05-21 11:28:49,950 - INFO - Turned on PRS LED 3 (GPIO 20)
+2025-05-21 11:28:50,951 - INFO - Turned on PRS LED 4 (GPIO 21)
+2025-05-21 11:28:51,953 - INFO - Sent response for PRS: [7, 100, 1, 1]
+2025-05-21 11:31:11,248 - INFO - Updating PRS from 4 LEDs to 0 LEDs (Level: 0%)
+2025-05-21 11:31:11,251 - INFO - Turned off PRS LED 4 (GPIO 21)
+2025-05-21 11:31:12,252 - INFO - Turned off PRS LED 3 (GPIO 20)
+2025-05-21 11:31:13,253 - INFO - Turned off PRS LED 2 (GPIO 16)
+2025-05-21 11:31:14,259 - INFO - Turned off PRS LED 1 (GPIO 12)
+2025-05-21 11:31:15,262 - INFO - Sent response for PRS: [7, 0, 1, 0]
+2025-05-21 11:37:35,124 - INFO - Received keyboard interrupt
+2025-05-21 11:37:35,125 - INFO - Shutting down...
+2025-05-21 16:05:55,655 - INFO - Created a socket
+2025-05-21 16:05:55,658 - INFO - CAN initialized
+2025-05-21 16:05:55,668 - INFO - GPIO initialized
+2025-05-21 16:07:46,209 - INFO - Updating DRS from 0 LEDs to 1 LEDs (Level: 30%)
+2025-05-21 16:07:46,211 - INFO - Turned on DRS LED 1 (GPIO 6)
+2025-05-21 16:07:47,213 - INFO - Sent response for DRS: [5, 30, 0, 1]
+2025-05-21 16:08:29,485 - INFO - Updating DRS from 1 LEDs to 1 LEDs (Level: 30%)
+2025-05-21 16:08:29,486 - INFO - Sent response for DRS: [5, 30, 0, 1]
+2025-05-21 16:09:30,567 - INFO - Received keyboard interrupt
+2025-05-21 16:09:30,568 - INFO - Shutting down...
+2025-05-21 16:09:30,734 - INFO - Shutdown complete
+2025-05-21 16:11:34,194 - INFO - Created a socket
+2025-05-21 16:11:34,196 - INFO - CAN initialized
+2025-05-21 16:11:34,205 - INFO - GPIO initialized
+2025-05-21 16:11:59,219 - INFO - Updating DRS from 0 LEDs to 3 LEDs (Level: 80%)
+2025-05-21 16:11:59,220 - INFO - Turned on DRS LED 1 (GPIO 6)
+2025-05-21 16:12:00,221 - INFO - Turned on DRS LED 2 (GPIO 13)
+2025-05-21 16:12:01,223 - INFO - Turned on DRS LED 3 (GPIO 19)
+2025-05-21 16:12:02,226 - INFO - Sent response for DRS: [5, 80, 0, 1]
+2025-05-21 16:12:40,684 - INFO - Updating DRS from 3 LEDs to 4 LEDs (Level: 100%)
+2025-05-21 16:12:40,685 - INFO - Turned on DRS LED 4 (GPIO 26)
+2025-05-21 16:12:41,687 - INFO - Sent response for DRS: [5, 100, 0, 0]
+2025-05-21 16:13:00,116 - INFO - Updating DRS from 4 LEDs to 0 LEDs (Level: 0%)
+2025-05-21 16:13:00,117 - INFO - Turned off DRS LED 4 (GPIO 26)
+2025-05-21 16:13:01,119 - INFO - Turned off DRS LED 3 (GPIO 19)
+2025-05-21 16:13:02,120 - INFO - Turned off DRS LED 2 (GPIO 13)
+2025-05-21 16:13:03,122 - INFO - Turned off DRS LED 1 (GPIO 6)
+2025-05-21 16:13:04,124 - INFO - Sent response for DRS: [5, 0, 0, 0]
+2025-05-21 16:22:08,975 - INFO - Received keyboard interrupt
+2025-05-21 16:22:08,976 - INFO - Shutting down...
+2025-05-21 16:22:09,146 - INFO - Shutdown complete
+2025-05-21 16:22:21,912 - INFO - Created a socket
+2025-05-21 16:22:21,914 - INFO - CAN initialized
+2025-05-21 16:22:21,923 - INFO - GPIO initialized
+2025-05-21 16:23:00,429 - INFO - Updating DRS from 0 LEDs to 0 LEDs (Level: 0%)
+2025-05-21 16:23:00,431 - INFO - Sent response for DRS: [10, 0, 0, 0]
+2025-05-21 16:23:22,964 - INFO - Updating DRS from 0 LEDs to 4 LEDs (Level: 100%)
+2025-05-21 16:23:22,966 - INFO - Turned on DRS LED 1 (GPIO 6)
+2025-05-21 16:23:23,967 - INFO - Turned on DRS LED 2 (GPIO 13)
+2025-05-21 16:23:24,968 - INFO - Turned on DRS LED 3 (GPIO 19)
+2025-05-21 16:23:25,969 - INFO - Turned on DRS LED 4 (GPIO 26)
+2025-05-21 16:23:26,971 - INFO - Sent response for DRS: [10, 100, 0, 0]
+2025-05-21 16:32:46,690 - INFO - Received keyboard interrupt
+2025-05-21 16:32:46,691 - INFO - Shutting down...
+2025-05-21 16:32:46,857 - INFO - Shutdown complete
+2025-05-21 16:32:50,972 - INFO - Created a socket
+2025-05-21 16:32:50,974 - INFO - CAN initialized
+2025-05-21 16:32:50,983 - INFO - GPIO initialized
+2025-05-21 16:33:13,593 - WARNING - Received FAILED status for DRS - LED state unchanged
+2025-05-21 16:34:37,619 - INFO - Received keyboard interrupt
+2025-05-21 16:34:37,621 - INFO - Shutting down...
+2025-05-21 16:34:37,787 - INFO - Shutdown complete
+2025-05-21 16:34:41,793 - INFO - Created a socket
+2025-05-21 16:34:41,795 - INFO - CAN initialized
+2025-05-21 16:34:41,807 - INFO - GPIO initialized
+2025-05-21 16:34:51,749 - WARNING - Received FAILED status for DRS - LED state unchanged
+2025-05-21 16:36:36,571 - INFO - Received keyboard interrupt
+2025-05-21 16:36:36,573 - INFO - Shutting down...
+2025-05-21 16:36:36,755 - INFO - Shutdown complete
+2025-05-21 16:36:40,713 - INFO - Created a socket
+2025-05-21 16:36:40,715 - INFO - CAN initialized
+2025-05-21 16:36:40,724 - INFO - GPIO initialized
+2025-05-21 16:37:19,824 - INFO - Updating DRS from 0 LEDs to 4 LEDs (Level: 100%)
+2025-05-21 16:37:19,826 - INFO - Turned on DRS LED 1 (GPIO 6)
+2025-05-21 16:37:20,827 - INFO - Turned on DRS LED 2 (GPIO 13)
+2025-05-21 16:37:21,828 - INFO - Turned on DRS LED 3 (GPIO 19)
+2025-05-21 16:37:23,978 - INFO - Turned on DRS LED 4 (GPIO 26)
+2025-05-21 16:37:24,981 - INFO - Sent response for DRS: [0, 100, 0, 0]
+2025-05-21 16:37:53,190 - INFO - Received keyboard interrupt
+2025-05-21 16:37:53,192 - INFO - Shutting down...
+2025-05-21 16:37:53,362 - INFO - Shutdown complete
+2025-05-21 16:37:57,506 - INFO - Created a socket
+2025-05-21 16:37:57,507 - INFO - CAN initialized
+2025-05-21 16:37:57,517 - INFO - GPIO initialized
+2025-05-21 16:38:19,616 - INFO - Updating DRS from 0 LEDs to 4 LEDs (Level: 100%)
+2025-05-21 16:38:19,618 - INFO - Turned on DRS LED 1 (GPIO 6)
+2025-05-21 16:38:20,619 - INFO - Turned on DRS LED 2 (GPIO 13)
+2025-05-21 16:38:21,620 - INFO - Turned on DRS LED 3 (GPIO 19)
+2025-05-21 16:38:22,622 - INFO - Turned on DRS LED 4 (GPIO 26)
+2025-05-21 16:39:50,187 - INFO - Received keyboard interrupt
+2025-05-21 16:39:50,188 - INFO - Shutting down...
+2025-05-21 16:39:50,355 - INFO - Shutdown complete
+2025-05-21 16:39:54,670 - INFO - Created a socket
+2025-05-21 16:39:54,672 - INFO - CAN initialized
+2025-05-21 16:39:54,681 - INFO - GPIO initialized
+2025-05-21 16:40:07,392 - INFO - Updating DRS from 0 LEDs to 4 LEDs (Level: 100%)
+2025-05-21 16:40:07,393 - INFO - Turned on DRS LED 1 (GPIO 6)
+2025-05-21 16:40:08,395 - INFO - Turned on DRS LED 2 (GPIO 13)
+2025-05-21 16:40:09,397 - INFO - Turned on DRS LED 3 (GPIO 19)
+2025-05-21 16:40:10,398 - INFO - Turned on DRS LED 4 (GPIO 26)
+2025-05-21 16:42:14,637 - INFO - Received keyboard interrupt
+2025-05-21 16:42:14,638 - INFO - Shutting down...
+2025-05-21 16:42:14,804 - INFO - Shutdown complete
+2025-05-21 16:42:18,777 - INFO - Created a socket
+2025-05-21 16:42:18,779 - INFO - CAN initialized
+2025-05-21 16:42:18,788 - INFO - GPIO initialized
+2025-05-21 16:42:36,751 - INFO - Updating DRS from 0 LEDs to 4 LEDs (Level: 100%)
+2025-05-21 16:42:36,754 - INFO - Turned on DRS LED 1 (GPIO 6)
+2025-05-21 16:42:37,767 - INFO - Turned on DRS LED 2 (GPIO 13)
+2025-05-21 16:42:38,769 - INFO - Turned on DRS LED 3 (GPIO 19)
+2025-05-21 16:42:39,771 - INFO - Turned on DRS LED 4 (GPIO 26)
+2025-05-21 16:42:40,774 - INFO - Sent response for DRS: [0, 100, 0, 0]
+2025-05-21 16:42:46,569 - INFO - Updating DRS from 4 LEDs to 1 LEDs (Level: 30%)
+2025-05-21 16:42:46,570 - INFO - Turned off DRS LED 4 (GPIO 26)
+2025-05-21 16:42:47,571 - INFO - Turned off DRS LED 3 (GPIO 19)
+2025-05-21 16:42:48,573 - INFO - Turned off DRS LED 2 (GPIO 13)
+2025-05-21 16:42:49,575 - INFO - Sent response for DRS: [0, 30, 0, 0]
+2025-05-21 16:42:59,395 - INFO - Updating DRS from 1 LEDs to 0 LEDs (Level: 0%)
+2025-05-21 16:42:59,396 - INFO - Turned off DRS LED 1 (GPIO 6)
+2025-05-21 16:43:00,398 - INFO - Sent response for DRS: [10, 0, 0, 0]
+2025-05-21 16:43:33,450 - INFO - Updating DRS from 0 LEDs to 4 LEDs (Level: 100%)
+2025-05-21 16:43:33,451 - INFO - Turned on DRS LED 1 (GPIO 6)
+2025-05-21 16:43:34,452 - INFO - Turned on DRS LED 2 (GPIO 13)
+2025-05-21 16:43:35,454 - INFO - Turned on DRS LED 3 (GPIO 19)
+2025-05-21 16:43:36,455 - INFO - Turned on DRS LED 4 (GPIO 26)
+2025-05-21 16:43:37,457 - INFO - Sent response for DRS: [0, 100, 0, 0]
+2025-05-21 16:44:08,809 - INFO - Updating DRS from 4 LEDs to 0 LEDs (Level: 0%)
+2025-05-21 16:44:08,811 - INFO - Turned off DRS LED 4 (GPIO 26)
+2025-05-21 16:44:09,812 - INFO - Turned off DRS LED 3 (GPIO 19)
+2025-05-21 16:44:10,814 - INFO - Turned off DRS LED 2 (GPIO 13)
+2025-05-21 16:44:11,818 - INFO - Turned off DRS LED 1 (GPIO 6)
+2025-05-21 16:44:12,820 - INFO - Sent response for DRS: [10, 0, 0, 0]
+2025-05-21 16:48:05,962 - INFO - Received keyboard interrupt
+2025-05-21 16:48:05,963 - INFO - Shutting down...
+2025-05-21 16:48:06,134 - INFO - Shutdown complete
+2025-05-21 16:48:48,851 - INFO - Created a socket
+2025-05-21 16:48:48,853 - INFO - CAN initialized
+2025-05-21 16:48:48,862 - INFO - GPIO initialized
+2025-05-21 16:48:56,551 - INFO - Updating DRS from 0 LEDs to 3 LEDs (Level: 80%)
+2025-05-21 16:48:56,552 - INFO - Turned on DRS LED 1 (GPIO 6)
+2025-05-21 16:48:57,554 - INFO - Turned on DRS LED 2 (GPIO 13)
+2025-05-21 16:48:58,555 - INFO - Turned on DRS LED 3 (GPIO 19)
+2025-05-21 16:50:12,027 - INFO - Received keyboard interrupt
+2025-05-21 16:50:12,028 - INFO - Shutting down...
+2025-05-21 16:50:12,205 - INFO - Shutdown complete
+2025-05-21 16:50:16,818 - INFO - Created a socket
+2025-05-21 16:50:16,820 - INFO - CAN initialized
+2025-05-21 16:50:16,829 - INFO - GPIO initialized
+2025-05-21 16:50:31,508 - INFO - Updating DRS from 0 LEDs to 4 LEDs (Level: 100%)
+2025-05-21 16:50:31,509 - INFO - Turned on DRS LED 1 (GPIO 6)
+2025-05-21 16:50:32,510 - INFO - Turned on DRS LED 2 (GPIO 13)
+2025-05-21 16:50:33,512 - INFO - Turned on DRS LED 3 (GPIO 19)
+2025-05-21 16:50:34,514 - INFO - Turned on DRS LED 4 (GPIO 26)
+2025-05-21 16:51:20,357 - INFO - Received keyboard interrupt
+2025-05-21 16:51:20,358 - INFO - Shutting down...
+2025-05-21 16:51:20,525 - INFO - Shutdown complete
+2025-05-21 16:51:24,309 - INFO - Created a socket
+2025-05-21 16:51:24,311 - INFO - CAN initialized
+2025-05-21 16:51:24,320 - INFO - GPIO initialized
+2025-05-21 16:51:42,222 - INFO - Updating DRS from 0 LEDs to 4 LEDs (Level: 100%)
+2025-05-21 16:51:42,224 - INFO - Turned on DRS LED 1 (GPIO 6)
+2025-05-21 16:51:43,225 - INFO - Turned on DRS LED 2 (GPIO 13)
+2025-05-21 16:51:44,228 - INFO - Turned on DRS LED 3 (GPIO 19)
+2025-05-21 16:51:45,232 - INFO - Turned on DRS LED 4 (GPIO 26)
+2025-05-21 16:51:46,235 - INFO - Sent response for DRS: [0, 100, 0, 0]
+2025-05-21 16:51:52,042 - INFO - Updating DRS from 4 LEDs to 0 LEDs (Level: 0%)
+2025-05-21 16:51:52,431 - INFO - Turned off DRS LED 4 (GPIO 26)
+2025-05-21 16:51:53,433 - INFO - Turned off DRS LED 3 (GPIO 19)
+2025-05-21 16:51:54,435 - INFO - Turned off DRS LED 2 (GPIO 13)
+2025-05-21 16:51:55,437 - INFO - Turned off DRS LED 1 (GPIO 6)
+2025-05-21 16:51:56,438 - INFO - Sent response for DRS: [0, 0, 0, 0]
+2025-05-21 16:52:09,671 - INFO - Updating DRS from 0 LEDs to 2 LEDs (Level: 60%)
+2025-05-21 16:52:09,672 - INFO - Turned on DRS LED 1 (GPIO 6)
+2025-05-21 16:52:10,673 - INFO - Turned on DRS LED 2 (GPIO 13)
+2025-05-21 16:52:11,675 - INFO - Sent response for DRS: [0, 60, 0, 0]
+2025-05-21 16:52:17,583 - INFO - Updating DRS from 2 LEDs to 3 LEDs (Level: 80%)
+2025-05-21 16:52:17,584 - INFO - Turned on DRS LED 3 (GPIO 19)
+2025-05-21 16:52:18,586 - INFO - Sent response for DRS: [0, 80, 0, 0]
+2025-05-21 16:52:32,308 - INFO - Updating DRS from 3 LEDs to 0 LEDs (Level: 0%)
+2025-05-21 16:52:32,309 - INFO - Turned off DRS LED 3 (GPIO 19)
+2025-05-21 16:52:33,310 - INFO - Turned off DRS LED 2 (GPIO 13)
+2025-05-21 16:52:34,311 - INFO - Turned off DRS LED 1 (GPIO 6)
+2025-05-21 16:52:35,313 - INFO - Sent response for DRS: [10, 0, 0, 0]
+2025-05-21 16:52:48,735 - INFO - Updating DRS from 0 LEDs to 3 LEDs (Level: 80%)
+2025-05-21 16:52:48,736 - INFO - Turned on DRS LED 1 (GPIO 6)
+2025-05-21 16:52:49,737 - INFO - Turned on DRS LED 2 (GPIO 13)
+2025-05-21 16:52:50,738 - INFO - Turned on DRS LED 3 (GPIO 19)
+2025-05-21 16:52:51,740 - INFO - Sent response for DRS: [0, 80, 0, 0]
+2025-05-21 16:58:19,864 - INFO - Received keyboard interrupt
+2025-05-21 16:58:19,866 - INFO - Shutting down...
+2025-05-21 16:58:20,031 - INFO - Shutdown complete
+2025-05-21 16:58:24,336 - INFO - Created a socket
+2025-05-21 16:58:24,338 - INFO - CAN initialized
+2025-05-21 16:58:24,347 - INFO - GPIO initialized
+2025-05-21 16:58:39,145 - INFO - Updating DRS from 0 LEDs to 3 LEDs (Level: 80%)
+2025-05-21 16:58:39,147 - INFO - Turned on DRS LED 1 (GPIO 6)
+2025-05-21 16:58:40,148 - INFO - Turned on DRS LED 2 (GPIO 13)
+2025-05-21 16:58:41,149 - INFO - Turned on DRS LED 3 (GPIO 19)
+2025-05-21 16:58:42,153 - INFO - Sent response for DRS: [0, 80, 0, 0]
+2025-05-21 16:58:45,861 - INFO - Updating DRS from 3 LEDs to 0 LEDs (Level: 0%)
+2025-05-21 16:58:45,863 - INFO - Turned off DRS LED 3 (GPIO 19)
+2025-05-21 16:58:46,866 - INFO - Turned off DRS LED 2 (GPIO 13)
+2025-05-21 16:58:47,867 - INFO - Turned off DRS LED 1 (GPIO 6)
+2025-05-21 16:58:48,871 - INFO - Sent response for DRS: [0, 0, 0, 0]
+2025-05-21 16:58:53,775 - INFO - Updating DRS from 0 LEDs to 3 LEDs (Level: 90%)
+2025-05-21 16:58:53,777 - INFO - Turned on DRS LED 1 (GPIO 6)
+2025-05-21 16:58:54,778 - INFO - Turned on DRS LED 2 (GPIO 13)
+2025-05-21 16:58:55,779 - INFO - Turned on DRS LED 3 (GPIO 19)
+2025-05-21 16:58:56,780 - INFO - Sent response for DRS: [0, 90, 0, 0]
+2025-05-21 16:59:08,404 - INFO - Received FAILED status for DRS, skipping LED update
+2025-05-21 16:59:08,406 - INFO - Sent response for DRS: [10, 90, 0, 0]
+2025-05-21 16:59:23,028 - INFO - Updating DRS from 3 LEDs to 0 LEDs (Level: 0%)
+2025-05-21 16:59:23,029 - INFO - Turned off DRS LED 3 (GPIO 19)
+2025-05-21 16:59:24,032 - INFO - Turned off DRS LED 2 (GPIO 13)
+2025-05-21 16:59:25,034 - INFO - Turned off DRS LED 1 (GPIO 6)
+2025-05-21 16:59:26,036 - INFO - Sent response for DRS: [0, 0, 0, 0]
+2025-05-21 16:59:40,656 - INFO - Updating DRS from 0 LEDs to 2 LEDs (Level: 50%)
+2025-05-21 16:59:40,657 - INFO - Turned on DRS LED 1 (GPIO 6)
+2025-05-21 16:59:41,658 - INFO - Turned on DRS LED 2 (GPIO 13)
+2025-05-21 16:59:42,660 - INFO - Sent response for DRS: [0, 50, 0, 0]
+2025-05-21 16:59:54,688 - INFO - Received FAILED status for DRS, skipping LED update
+2025-05-21 16:59:54,692 - INFO - Sent response for DRS: [10, 50, 0, 0]
+2025-05-21 17:00:08,107 - INFO - Updating DRS from 2 LEDs to 0 LEDs (Level: 0%)
+2025-05-21 17:00:08,108 - INFO - Turned off DRS LED 2 (GPIO 13)
+2025-05-21 17:00:09,109 - INFO - Turned off DRS LED 1 (GPIO 6)
+2025-05-21 17:00:10,111 - INFO - Sent response for DRS: [0, 0, 0, 0]

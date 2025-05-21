@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/test_windows_client.dir/test_windows_client.cpp.o "CMakeFiles/test_windows_client.dir/home/pi/vsomeip/PFE-2025/mockupWindow/src/windows_client.cpp.o" -o test_windows_client  lib/libgtest.a lib/libgtest_main.a -lpthread lib/libgtest.a 
