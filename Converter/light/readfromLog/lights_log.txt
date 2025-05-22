@@ -1,0 +1,742 @@
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/0001] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 50 61 72 6b 69 6e 67 
+Low Beam Headlights | Status: OFF Mode: Parking
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/0002] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 50 61 72 6b 69 6e 67 
+Hazard Lights | Status: OFF Mode: Parking
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/0003] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 50 61 72 6b 69 6e 67 
+Right Turn Signal | Status: OFF Mode: Parking
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/0004] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 50 61 72 6b 69 6e 67 
+Left Turn Signal | Status: OFF Mode: Parking
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/0005] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 50 61 72 6b 69 6e 67 
+High Beam Headlights Signal | Status: OFF Mode: Parking
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/0006] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 50 61 72 6b 69 6e 67 
+Parking left Signal | Status: OFF Mode: Parking
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/0007] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 50 61 72 6b 69 6e 67 
+Parking right | Status: OFF Mode: Parking
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/0008] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 50 61 72 6b 69 6e 67 
+Low Beam Headlights | Status: OFF Mode: Parking
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/0009] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 50 61 72 6b 69 6e 67 
+Hazard Lights | Status: OFF Mode: Parking
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/000a] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 50 61 72 6b 69 6e 67 
+Right Turn Signal | Status: OFF Mode: Parking
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/000b] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 50 61 72 6b 69 6e 67 
+Left Turn Signal | Status: OFF Mode: Parking
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/000c] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 50 61 72 6b 69 6e 67 
+High Beam Headlights Signal | Status: OFF Mode: Parking
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/000d] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 46 61 68 72 65 6e 
+Parking left Signal | Status: OFF Mode: Fahren
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/000e] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 46 61 68 72 65 6e 
+Parking right | Status: OFF Mode: Fahren
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/000f] = 53 74 61 74 75 73 3a 20 4f 4e 20 4d 6f 64 65 3a 20 46 61 68 72 65 6e 
+Low Beam Headlights | Status: ON Mode: Fahren
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/0010] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 46 61 68 72 65 6e 
+Hazard Lights | Status: OFF Mode: Fahren
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/0011] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 46 61 68 72 65 6e 
+Right Turn Signal | Status: OFF Mode: Fahren
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/0012] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 46 61 68 72 65 6e 
+Left Turn Signal | Status: OFF Mode: Fahren
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/0013] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 46 61 68 72 65 6e 
+High Beam Headlights Signal | Status: OFF Mode: Fahren
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/0014] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 46 61 68 72 65 6e 
+Parking left Signal | Status: OFF Mode: Fahren
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/0015] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 46 61 68 72 65 6e 
+Parking right | Status: OFF Mode: Fahren
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/0016] = 53 74 61 74 75 73 3a 20 4f 4e 20 4d 6f 64 65 3a 20 50 61 72 6b 69 6e 67 
+Low Beam Headlights | Status: ON Mode: Parking
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/0017] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 53 74 61 6e 64 20 42 79 
+Hazard Lights | Status: OFF Mode: Stand By
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/0018] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 53 74 61 6e 64 20 42 79 
+Right Turn Signal | Status: OFF Mode: Stand By
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/0019] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 53 74 61 6e 64 20 42 79 
+Left Turn Signal | Status: OFF Mode: Stand By
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/001a] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 57 68 6f 6e 65 6e 
+High Beam Headlights Signal | Status: OFF Mode: Whonen
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/001b] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 57 68 6f 6e 65 6e 
+Parking left Signal | Status: OFF Mode: Whonen
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/001c] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 57 68 6f 6e 65 6e 
+Parking right | Status: OFF Mode: Whonen
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/001d] = 53 74 61 74 75 73 3a 20 4f 4e 20 4d 6f 64 65 3a 20 57 68 6f 6e 65 6e 
+Low Beam Headlights | Status: ON Mode: Whonen
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/001e] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 57 68 6f 6e 65 6e 
+Hazard Lights | Status: OFF Mode: Whonen
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/001f] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 57 68 6f 6e 65 6e 
+Right Turn Signal | Status: OFF Mode: Whonen
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/0020] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 46 61 68 72 65 6e 
+Left Turn Signal | Status: OFF Mode: Fahren
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/0021] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 46 61 68 72 65 6e 
+High Beam Headlights Signal | Status: OFF Mode: Fahren
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/0022] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 46 61 68 72 65 6e 
+Parking left Signal | Status: OFF Mode: Fahren
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/0023] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 46 61 68 72 65 6e 
+Parking right | Status: OFF Mode: Fahren
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/0024] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 46 61 68 72 65 6e 
+Low Beam Headlights | Status: OFF Mode: Fahren
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/0025] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 46 61 68 72 65 6e 
+Hazard Lights | Status: OFF Mode: Fahren
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/0026] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 46 61 68 72 65 6e 
+Right Turn Signal | Status: OFF Mode: Fahren
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/0027] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 46 61 68 72 65 6e 
+Left Turn Signal | Status: OFF Mode: Fahren
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/0028] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 46 61 68 72 65 6e 
+High Beam Headlights Signal | Status: OFF Mode: Fahren
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/0029] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 46 61 68 72 65 6e 
+Parking left Signal | Status: OFF Mode: Fahren
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/002a] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 46 61 68 72 65 6e 
+Parking right | Status: OFF Mode: Fahren
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/002b] = 53 74 61 74 75 73 3a 20 4f 4e 20 4d 6f 64 65 3a 20 46 61 68 72 65 6e 
+Low Beam Headlights | Status: ON Mode: Fahren
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/002c] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 46 61 68 72 65 6e 
+Hazard Lights | Status: OFF Mode: Fahren
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/002d] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 46 61 68 72 65 6e 
+Right Turn Signal | Status: OFF Mode: Fahren
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/002e] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 46 61 68 72 65 6e 
+Left Turn Signal | Status: OFF Mode: Fahren
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/002f] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 46 61 68 72 65 6e 
+High Beam Headlights Signal | Status: OFF Mode: Fahren
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/0030] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 46 61 68 72 65 6e 
+Parking left Signal | Status: OFF Mode: Fahren
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/0031] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 46 61 68 72 65 6e 
+Parking right | Status: OFF Mode: Fahren
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/0032] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Low Beam Headlights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/0033] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Hazard Lights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/0034] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Right Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/0035] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Left Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/0036] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+High Beam Headlights Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/0037] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking left Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/0038] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking right | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/0039] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Low Beam Headlights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/003a] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Hazard Lights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/003b] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Right Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/003c] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Left Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/003d] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+High Beam Headlights Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/003e] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking left Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/003f] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking right | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/0040] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Low Beam Headlights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/0041] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Hazard Lights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/0042] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Right Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/0043] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Left Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/0044] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+High Beam Headlights Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/0045] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking left Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/0046] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking right | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/0047] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Low Beam Headlights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/0048] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Hazard Lights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/0049] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Right Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/004a] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Left Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/004b] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+High Beam Headlights Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/004c] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking left Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/004d] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking right | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/004e] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Low Beam Headlights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/004f] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Hazard Lights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/0050] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Right Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/0051] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Left Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/0052] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+High Beam Headlights Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/0053] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking left Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/0054] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking right | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/0055] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Low Beam Headlights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/0056] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Hazard Lights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/0057] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Right Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/0058] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Left Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/0059] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+High Beam Headlights Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/005a] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking left Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/005b] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking right | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/005c] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Low Beam Headlights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/005d] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Hazard Lights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/005e] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Right Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/005f] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Left Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/0060] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+High Beam Headlights Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/0061] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking left Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/0062] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking right | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/0063] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Low Beam Headlights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/0064] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Hazard Lights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/0065] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Right Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/0066] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Left Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/0067] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+High Beam Headlights Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/0068] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking left Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/0069] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking right | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/006a] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Low Beam Headlights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/006b] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Hazard Lights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/006c] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Right Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/006d] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Left Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/006e] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+High Beam Headlights Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/006f] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking left Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/0070] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking right | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/0071] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Low Beam Headlights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/0072] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Hazard Lights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/0073] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Right Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/0074] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Left Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/0075] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+High Beam Headlights Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/0076] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking left Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/0077] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking right | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/0078] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Low Beam Headlights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/0079] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Hazard Lights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/007a] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Right Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/007b] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Left Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/007c] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+High Beam Headlights Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/007d] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking left Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/007e] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking right | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/007f] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Low Beam Headlights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/0080] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Hazard Lights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/0081] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Right Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/0082] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Left Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/0083] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+High Beam Headlights Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/0084] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking left Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/0085] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking right | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/0086] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Low Beam Headlights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/0087] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Hazard Lights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/0088] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Right Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/0089] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Left Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/008a] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+High Beam Headlights Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/008b] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking left Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/008c] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking right | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/008d] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Low Beam Headlights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/008e] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Hazard Lights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/008f] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Right Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/0090] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Left Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/0091] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+High Beam Headlights Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/0092] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking left Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/0093] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking right | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/0094] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Low Beam Headlights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/0095] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Hazard Lights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/0096] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Right Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/0097] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Left Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/0098] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+High Beam Headlights Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/0099] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking left Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/009a] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking right | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/009b] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Low Beam Headlights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/009c] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Hazard Lights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/009d] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Right Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/009e] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Left Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/009f] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+High Beam Headlights Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/00a0] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking left Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/00a1] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking right | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/00a2] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Low Beam Headlights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/00a3] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Hazard Lights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/00a4] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Right Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/00a5] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Left Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/00a6] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+High Beam Headlights Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/00a7] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking left Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/00a8] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking right | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/00a9] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Low Beam Headlights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/00aa] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Hazard Lights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/00ab] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Right Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/00ac] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Left Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/00ad] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+High Beam Headlights Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/00ae] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking left Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/00af] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking right | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/00b0] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Low Beam Headlights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/00b1] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Hazard Lights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/00b2] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Right Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/00b3] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Left Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/00b4] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+High Beam Headlights Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/00b5] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking left Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/00b6] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking right | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/00b7] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Low Beam Headlights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/00b8] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Hazard Lights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/00b9] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Right Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/00ba] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Left Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/00bb] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+High Beam Headlights Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/00bc] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking left Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/00bd] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking right | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/00be] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Low Beam Headlights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/00bf] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Hazard Lights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/00c0] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Right Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/00c1] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Left Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/00c2] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+High Beam Headlights Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/00c3] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking left Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/00c4] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking right | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/00c5] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Low Beam Headlights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/00c6] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Hazard Lights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/00c7] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Right Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/00c8] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Left Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/00c9] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+High Beam Headlights Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/00ca] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking left Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/00cb] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking right | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/00cc] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Low Beam Headlights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/00cd] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Hazard Lights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/00ce] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Right Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/00cf] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Left Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/00d0] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+High Beam Headlights Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/00d1] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking left Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/00d2] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking right | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/00d3] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Low Beam Headlights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/00d4] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Hazard Lights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/00d5] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Right Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/00d6] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Left Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/00d7] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+High Beam Headlights Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/00d8] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking left Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/00d9] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking right | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/00da] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Low Beam Headlights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/00db] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Hazard Lights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/00dc] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Right Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/00dd] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Left Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/00de] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+High Beam Headlights Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/00df] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking left Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/00e0] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking right | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/00e1] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Low Beam Headlights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/00e2] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Hazard Lights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/00e3] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Right Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/00e4] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Left Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/00e5] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+High Beam Headlights Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/00e6] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking left Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/00e7] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking right | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/00e8] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Low Beam Headlights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/00e9] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Hazard Lights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/00ea] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Right Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/00eb] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Left Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/00ec] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+High Beam Headlights Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/00ed] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking left Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/00ee] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking right | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/00ef] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Low Beam Headlights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/00f0] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Hazard Lights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/00f1] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Right Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/00f2] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Left Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/00f3] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+High Beam Headlights Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/00f4] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking left Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/00f5] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking right | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/00f6] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Low Beam Headlights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/00f7] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Hazard Lights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/00f8] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Right Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/00f9] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Left Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/00fa] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+High Beam Headlights Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/00fb] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking left Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/00fc] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking right | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/00fd] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Low Beam Headlights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/00fe] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Hazard Lights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/00ff] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Right Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/0100] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Left Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/0101] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+High Beam Headlights Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/0102] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking left Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/0103] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking right | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/0104] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Low Beam Headlights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/0105] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Hazard Lights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/0106] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Right Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/0107] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Left Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/0108] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+High Beam Headlights Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/0109] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking left Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/010a] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking right | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/010b] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Low Beam Headlights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/010c] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Hazard Lights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/010d] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Right Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/010e] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Left Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/010f] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+High Beam Headlights Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/0110] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking left Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/0111] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking right | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/0112] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Low Beam Headlights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/0113] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Hazard Lights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/0114] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Right Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/0115] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Left Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/0116] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+High Beam Headlights Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/0117] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking left Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/0118] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking right | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/0119] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Low Beam Headlights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/011a] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Hazard Lights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/011b] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Right Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/011c] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Left Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/011d] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+High Beam Headlights Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/011e] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking left Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/011f] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking right | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/0120] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Low Beam Headlights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/0121] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Hazard Lights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/0122] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Right Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/0123] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Left Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/0124] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+High Beam Headlights Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/0125] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking left Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/0126] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking right | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/0127] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Low Beam Headlights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/0128] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Hazard Lights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/0129] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Right Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/012a] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Left Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/012b] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+High Beam Headlights Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/012c] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking left Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/012d] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking right | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/012e] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Low Beam Headlights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/012f] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Hazard Lights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/0130] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Right Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/0131] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Left Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/0132] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+High Beam Headlights Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/0133] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking left Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/0134] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking right | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/0135] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Low Beam Headlights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/0136] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Hazard Lights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/0137] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Right Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/0138] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Left Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/0139] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+High Beam Headlights Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/013a] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking left Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/013b] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking right | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/013c] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Low Beam Headlights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/013d] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Hazard Lights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/013e] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Right Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/013f] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Left Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/0140] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+High Beam Headlights Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/0141] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking left Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/0142] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking right | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/0143] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Low Beam Headlights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/0144] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Hazard Lights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/0145] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Right Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/0146] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Left Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/0147] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+High Beam Headlights Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/0148] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking left Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/0149] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking right | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/014a] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Low Beam Headlights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/014b] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Hazard Lights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/014c] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Right Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/014d] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Left Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/014e] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+High Beam Headlights Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/014f] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking left Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/0150] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking right | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/0151] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Low Beam Headlights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/0152] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Hazard Lights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/0153] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Right Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/0154] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Left Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/0155] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+High Beam Headlights Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/0156] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking left Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/0157] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking right | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/0158] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Low Beam Headlights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/0159] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Hazard Lights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/015a] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Right Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/015b] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Left Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/015c] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+High Beam Headlights Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/015d] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking left Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/015e] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking right | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/015f] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Low Beam Headlights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/0160] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Hazard Lights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/0161] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Right Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/0162] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Left Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/0163] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+High Beam Headlights Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/0164] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking left Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/0165] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking right | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/0166] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Low Beam Headlights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/0167] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Hazard Lights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/0168] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Right Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/0169] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Left Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/016a] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+High Beam Headlights Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/016b] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking left Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/016c] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking right | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0123] to Client/Session [0000/016d] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Low Beam Headlights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0124] to Client/Session [0000/016e] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Hazard Lights | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0125] to Client/Session [0000/016f] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Right Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0126] to Client/Session [0000/0170] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Left Turn Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0127] to Client/Session [0000/0171] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+High Beam Headlights Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0128] to Client/Session [0000/0172] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking left Signal | Status: OFF Mode: OFF
+CLIENT: received a notification for event [1234.5678.0129] to Client/Session [0000/0173] = 53 74 61 74 75 73 3a 20 4f 46 46 20 4d 6f 64 65 3a 20 4f 46 46 
+Parking right | Status: OFF Mode: OFF
