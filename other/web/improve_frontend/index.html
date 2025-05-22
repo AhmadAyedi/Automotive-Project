@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Advanced Wiper Control System | Automotive Solutions</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="dashboard">
+        <header class="dashboard-header">
+            <div class="logo-container">
+                <i class="fas fa-car logo-icon"></i>
+                <h1>Advanced Wiper Control System</h1>
+            </div>
+            <div class="system-status">
+                <span class="status-indicator active"></span>
+                <span>System Online</span>
+            </div>
+        </header>
+
+        <div class="dashboard-content">
+            <div class="environment-panel">
+                <div class="panel-header">
+                    <h2><i class="fas fa-cloud-rain"></i> Environment Monitoring</h2>
+                    <button id="refresh-sensor-btn" class="icon-btn" title="Refresh Data">
+                        <i class="fas fa-sync-alt"></i>
+                    </button>
+                </div>
+                <div class="sensor-grid">
+                    <div class="sensor-card">
+                        <div class="sensor-icon temp-icon">
+                            <i class="fas fa-temperature-low"></i>
+                        </div>
+                        <div class="sensor-info">
+                            <span class="sensor-label">Temperature</span>
+                            <span class="sensor-value" id="temperature">--</span>
+                            <span class="sensor-unit">°C</span>
+                        </div>
+                    </div>
+                    <div class="sensor-card">
+                        <div class="sensor-icon humidity-icon">
+                            <i class="fas fa-tint"></i>
+                        </div>
+                        <div class="sensor-info">
+                            <span class="sensor-label">Humidity</span>
+                            <span class="sensor-value" id="humidity">--</span>
+                            <span class="sensor-unit">%</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="sensor-footer">
+                    <i class="fas fa-clock"></i>
+                    <span>Last Updated: </span>
+                    <span id="sensor-timestamp">Never</span>
+                </div>
+            </div>
+
+            <div class="control-section">
+                <div class="control-panel">
+                    <div class="panel-header">
+                        <h2><i class="fas fa-sliders-h"></i> Wiper Control</h2>
+                    </div>
+
+                    <div class="control-group">
+                        <h3 class="control-title"><i class="fas fa-wind"></i> Wiper Selection</h3>
+                        <div class="radio-tile-group">
+                            <div class="radio-tile">
+                                <input type="radio" name="wiper" id="front-wiper" value="front" checked>
+                                <label for="front-wiper">
+                                    <i class="fas fa-car-side"></i>
+                                    <span>Front Wiper</span>
+                                </label>
+                            </div>
+                            <div class="radio-tile">
+                                <input type="radio" name="wiper" id="back-wiper" value="back">
+                                <label for="back-wiper">
+                                    <i class="fas fa-car-rear"></i>
+                                    <span>Rear Wiper</span>
+                                </label>
+                            </div>
+                            <div class="radio-tile">
+                                <input type="radio" name="wiper" id="both-wipers" value="both">
+                                <label for="both-wipers">
+                                    <i class="fas fa-car-alt"></i>
+                                    <span>Both Wipers</span>
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="control-group">
+                        <h3 class="control-title"><i class="fas fa-tachometer-alt"></i> Speed Selection</h3>
+                        <div class="radio-tile-group">
+                            <div class="radio-tile">
+                                <input type="radio" name="speed" id="normal-speed" value="normal" checked>
+                                <label for="normal-speed">
+                                    <i class="fas fa-speed-low"></i>
+                                    <span>Normal</span>
+                                </label>
+                            </div>
+                            <div class="radio-tile">
+                                <input type="radio" name="speed" id="fast-speed" value="fast">
+                                <label for="fast-speed">
+                                    <i class="fas fa-speed-high"></i>
+                                    <span>Fast</span>
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="control-group">
+                        <h3 class="control-title"><i class="fas fa-redo"></i> Cycle Count</h3>
+                        <div class="cycle-selector">
+                            <select id="cycles">
+                                <option value="1">1 Cycle</option>
+                                <option value="2">2 Cycles</option>
+                                <option value="3">3 Cycles</option>
+                                <option value="4">4 Cycles</option>
+                                <option value="5">5 Cycles</option>
+                            </select>
+                            <i class="fas fa-chevron-down select-arrow"></i>
+                        </div>
+                    </div>
+
+                    <button id="activate-btn" class="primary-btn">
+                        <i class="fas fa-play"></i> Activate Wipers
+                    </button>
+                </div>
+
+                <div class="status-panel">
+                    <div class="panel-header">
+                        <h2><i class="fas fa-info-circle"></i> System Status</h2>
+                    </div>
+                    <div id="status" class="status-content">
+                        <i class="fas fa-check-circle status-icon ready"></i>
+                        <p>System ready for commands</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="visualization-panel">
+                <div class="panel-header">
+                    <h2><i class="fas fa-eye"></i> Wiper Visualization</h2>
+                </div>
+                <div class="wiper-animation-container">
+                    <div class="wiper-animation front-wiper">
+                        <h3><i class="fas fa-car-side"></i> Front Wiper</h3>
+                        <div class="wiper-track">
+                            <div class="wiper-blade" id="front-wiper-blade"></div>
+                        </div>
+                    </div>
+                    <div class="wiper-animation rear-wiper">
+                        <h3><i class="fas fa-car-rear"></i> Rear Wiper</h3>
+                        <div class="wiper-track">
+                            <div class="wiper-blade" id="rear-wiper-blade"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

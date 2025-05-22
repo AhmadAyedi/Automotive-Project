@@ -1,0 +1,379 @@
+2025-05-21 21:39:46,871 - INFO - Created a socket
+2025-05-21 21:39:46,872 - INFO - CAN initialized
+2025-05-21 21:39:46,872 - INFO - GPIO initialized
+2025-05-21 21:40:26,257 - INFO - Controlled LED: Left Turn = activated (0x1)
+2025-05-21 21:40:26,258 - INFO - Sent response CAN: 00000000000001
+2025-05-21 21:44:08,644 - INFO - Controlled LED: Left Turn = desactivated (0x0)
+2025-05-21 21:44:08,646 - INFO - Sent response CAN: 00000000000000
+2025-05-21 21:54:14,627 - INFO - Controlled LED: Left Turn = activated (0x1)
+2025-05-21 21:54:14,628 - INFO - Sent response CAN: 00000000000001
+2025-05-21 21:54:55,393 - INFO - Controlled LED: Left Turn = desactivated (0x0)
+2025-05-21 21:54:55,394 - INFO - Sent response CAN: 00000000000000
+2025-05-21 21:55:20,727 - INFO - Controlled LED: Parking Right = activated (0x1)
+2025-05-21 21:55:20,728 - INFO - Sent response CAN: 00000001000000
+2025-05-21 22:18:57,358 - INFO - Received keyboard interrupt
+2025-05-21 22:18:57,359 - INFO - Shutting down...
+2025-05-21 22:18:57,448 - INFO - Shutdown complete
+2025-05-21 22:19:01,675 - INFO - Created a socket
+2025-05-21 22:19:01,676 - INFO - CAN initialized
+2025-05-21 22:19:01,677 - INFO - GPIO initialized
+2025-05-21 22:26:20,978 - INFO - Shutting down...
+2025-05-21 22:26:21,016 - INFO - Shutdown complete
+2025-05-21 22:26:21,276 - INFO - Created a socket
+2025-05-21 22:26:21,278 - INFO - CAN initialized
+2025-05-21 22:26:21,279 - INFO - GPIO initialized
+2025-05-21 22:27:12,456 - INFO - Controlled LED: Parking Right = activated (0x1)
+2025-05-21 22:27:12,457 - INFO - Sent response CAN: 00000001000000
+2025-05-21 22:27:12,458 - INFO - Controlled LED: Parking Right = activated (0x1)
+2025-05-21 22:27:12,458 - INFO - Sent response CAN: 00000001000000
+2025-05-21 22:28:44,245 - INFO - Received keyboard interrupt
+2025-05-21 22:28:44,246 - INFO - Shutting down...
+2025-05-21 22:28:44,284 - INFO - Shutdown complete
+2025-05-21 22:28:46,992 - INFO - Created a socket
+2025-05-21 22:28:46,994 - INFO - CAN initialized
+2025-05-21 22:28:46,994 - INFO - GPIO initialized
+2025-05-21 22:29:21,637 - INFO - Controlled LED: Parking Right = activated (0x1)
+2025-05-21 22:29:21,638 - INFO - Sent response CAN: 00000001000000
+2025-05-21 22:30:23,312 - INFO - Controlled LED: Parking Right = desactivated (0x0)
+2025-05-21 22:30:23,313 - INFO - Sent response CAN: 00000000000000
+2025-05-21 22:30:36,013 - INFO - Controlled LED: Parking Right = activated (0x1)
+2025-05-21 22:30:36,014 - INFO - Sent response CAN: 00000001000000
+2025-05-21 22:30:36,027 - INFO - Controlled LED: Parking Right = activated (0x1)
+2025-05-21 22:30:36,029 - INFO - Sent response CAN: 00000001000000
+2025-05-21 22:37:46,704 - INFO - Controlled LED: Parking Right = FAILED (0xff)
+2025-05-21 22:37:46,705 - INFO - Sent response CAN: 00000000000000
+2025-05-21 22:38:04,428 - INFO - Controlled LED: Parking Right = activated (0x1)
+2025-05-21 22:38:04,430 - INFO - Sent response CAN: 00000001000000
+2025-05-21 22:38:14,345 - INFO - Controlled LED: Parking Right = INVALID (0xfe)
+2025-05-21 22:38:14,346 - INFO - Sent response CAN: 00000001000000
+2025-05-21 22:39:18,823 - INFO - Controlled LED: Parking Right = FAILED (0xff)
+2025-05-21 22:39:18,824 - INFO - Sent response CAN: 00000000000000
+2025-05-21 22:39:54,267 - INFO - Controlled LED: Parking Right = activated (0x1)
+2025-05-21 22:39:54,270 - INFO - Sent response CAN: 00000001000000
+2025-05-21 22:41:58,243 - INFO - Controlled LED: Parking Right = activated (0x1)
+2025-05-21 22:41:58,245 - INFO - Sent response CAN: 00000001000000
+2025-05-21 22:42:12,663 - INFO - Controlled LED: Parking Right = desactivated (0x0)
+2025-05-21 22:42:12,664 - INFO - Sent response CAN: 00000000000000
+2025-05-21 22:42:31,887 - INFO - Controlled LED: Parking Right = activated (0x1)
+2025-05-21 22:42:31,888 - INFO - Sent response CAN: 00000001000000
+2025-05-21 22:42:43,203 - INFO - Controlled LED: Parking Right = desactivated (0x0)
+2025-05-21 22:42:43,203 - INFO - Sent response CAN: 00000000000000
+2025-05-21 22:42:54,819 - INFO - Controlled LED: Parking Right = activated (0x1)
+2025-05-21 22:42:54,819 - INFO - Sent response CAN: 00000001000000
+2025-05-21 22:43:09,851 - INFO - Controlled LED: Parking Right = INVALID (0xfe)
+2025-05-21 22:43:09,853 - INFO - Sent response CAN: 00000001000000
+2025-05-21 22:43:20,267 - INFO - Controlled LED: Parking Right = FAILED (0xff)
+2025-05-21 22:43:20,268 - INFO - Sent response CAN: 00000000000000
+2025-05-21 22:43:37,091 - INFO - Controlled LED: Parking Right = INVALID (0xfe)
+2025-05-21 22:43:37,094 - INFO - Sent response CAN: 00000000000000
+2025-05-21 23:14:27,651 - INFO - Received keyboard interrupt
+2025-05-21 23:14:27,652 - INFO - Shutting down...
+2025-05-21 23:14:27,684 - INFO - Shutdown complete
+2025-05-21 23:14:33,281 - INFO - Created a socket
+2025-05-21 23:14:33,282 - INFO - CAN initialized
+2025-05-21 23:14:33,282 - INFO - GPIO initialized - All pins set to LOW
+2025-05-21 23:15:03,041 - INFO - Controlled Low Beam = activated (0x1)
+2025-05-21 23:15:03,042 - INFO - Sent response CAN: 01000000000000
+2025-05-21 23:15:56,041 - INFO - Received keyboard interrupt
+2025-05-21 23:15:56,041 - INFO - Shutting down...
+2025-05-21 23:15:59,363 - INFO - Created a socket
+2025-05-21 23:15:59,364 - INFO - CAN initialized
+2025-05-21 23:15:59,366 - INFO - GPIO initialized - All pins set to LOW
+2025-05-21 23:17:09,466 - INFO - Controlled Low Beam = activated (0x1)
+2025-05-21 23:17:09,468 - INFO - Sent response CAN: 01000000000000
+2025-05-21 23:17:27,291 - INFO - Controlled High Beam = activated (0x1)
+2025-05-21 23:17:27,292 - INFO - Sent response CAN: 01010000000000
+2025-05-21 23:17:55,830 - INFO - Controlled Parking Right = activated (0x1)
+2025-05-21 23:17:55,831 - INFO - Sent response CAN: 01010001000000
+2025-05-21 23:18:45,754 - INFO - Controlled Parking Right = activated (0x1)
+2025-05-21 23:18:45,754 - INFO - Sent response CAN: 01010001000000
+2025-05-21 23:19:25,836 - INFO - Controlled Parking Left = activated (0x1)
+2025-05-21 23:19:25,836 - INFO - Sent response CAN: 01010101000000
+2025-05-21 23:19:40,656 - INFO - Controlled Parking Right = desactivated (0x0)
+2025-05-21 23:19:40,656 - INFO - Sent response CAN: 01010100000000
+2025-05-21 23:20:40,534 - INFO - Controlled Parking Left = desactivated (0x0)
+2025-05-21 23:20:40,535 - INFO - Sent response CAN: 01010000000000
+2025-05-21 23:21:09,174 - INFO - Shutting down...
+2025-05-21 23:21:31,658 - INFO - Created a socket
+2025-05-21 23:21:31,659 - INFO - CAN initialized
+2025-05-21 23:21:31,661 - INFO - GPIO initialized - All pins set to LOW
+2025-05-21 23:22:20,470 - INFO - Controlled Low Beam = activated (0x1)
+2025-05-21 23:22:20,471 - INFO - Sent response CAN: 01000000000000
+2025-05-21 23:22:36,092 - INFO - Controlled High Beam = activated (0x1)
+2025-05-21 23:22:36,093 - INFO - Sent response CAN: 01010000000000
+2025-05-21 23:23:51,783 - INFO - Shutting down...
+2025-05-21 23:28:46,183 - INFO - Created a socket
+2025-05-21 23:28:46,184 - INFO - CAN initialized
+2025-05-21 23:28:46,186 - INFO - GPIO initialized - All pins set to LOW
+2025-05-21 23:30:19,885 - INFO - Controlled High Beam = activated (0x1)
+2025-05-21 23:30:19,886 - INFO - Sent response CAN: 00010000000000
+2025-05-21 23:30:31,503 - INFO - Controlled Right Turn = activated (0x1)
+2025-05-21 23:30:31,505 - INFO - Sent response CAN: 00010000000100
+2025-05-21 23:30:55,335 - INFO - Controlled Left Turn = activated (0x1)
+2025-05-21 23:30:55,337 - INFO - Sent response CAN: 00010000000101
+2025-05-21 23:33:08,950 - INFO - Received keyboard interrupt
+2025-05-21 23:33:08,952 - INFO - Shutting down...
+2025-05-21 23:33:19,686 - INFO - Created a socket
+2025-05-21 23:33:19,688 - INFO - CAN initialized
+2025-05-21 23:33:19,690 - INFO - GPIO initialized - All pins set to LOW
+2025-05-21 23:33:53,651 - INFO - Controlled Right Turn = activated (0x1)
+2025-05-21 23:33:53,653 - INFO - Sent response CAN: 00000000000100
+2025-05-21 23:33:53,655 - INFO - Controlled Left Turn = activated (0x1)
+2025-05-21 23:33:53,657 - INFO - Sent response CAN: 00000000000101
+2025-05-21 23:35:27,917 - INFO - Received keyboard interrupt
+2025-05-21 23:35:27,917 - INFO - Shutting down...
+2025-05-21 23:35:30,988 - INFO - Created a socket
+2025-05-21 23:35:30,989 - INFO - CAN initialized
+2025-05-21 23:35:30,991 - INFO - GPIO initialized - All pins set to LOW
+2025-05-21 23:36:16,810 - INFO - Controlled Right Turn = activated (0x1)
+2025-05-21 23:36:16,812 - INFO - Sent response CAN: 00000000000100
+2025-05-21 23:36:16,814 - INFO - Controlled Left Turn = activated (0x1)
+2025-05-21 23:36:16,815 - INFO - Sent response CAN: 00000000000101
+2025-05-21 23:37:09,984 - INFO - Controlled Hazard Lights = activated (0x1)
+2025-05-21 23:37:09,985 - INFO - Sent response CAN: 00000000010101
+2025-05-21 23:38:29,787 - INFO - Controlled Right Turn = desactivated (0x0)
+2025-05-21 23:38:29,789 - INFO - Sent response CAN: 00000000010001
+2025-05-21 23:38:29,891 - INFO - Controlled Left Turn = desactivated (0x0)
+2025-05-21 23:38:29,893 - INFO - Sent response CAN: 00000000010000
+2025-05-21 23:38:29,994 - INFO - Controlled Hazard Lights = desactivated (0x0)
+2025-05-21 23:38:29,995 - INFO - Sent response CAN: 00000000000000
+2025-05-21 23:39:59,403 - INFO - Shutting down...
+2025-05-21 23:39:59,671 - INFO - Created a socket
+2025-05-21 23:39:59,672 - INFO - CAN initialized
+2025-05-21 23:39:59,675 - INFO - GPIO initialized - All pins set to LOW
+2025-05-21 23:40:00,291 - INFO - Shutting down...
+2025-05-21 23:40:00,298 - INFO - Shutdown complete
+2025-05-21 23:40:00,334 - INFO - Shutdown complete
+2025-05-21 23:40:36,513 - INFO - Created a socket
+2025-05-21 23:40:36,514 - INFO - CAN initialized
+2025-05-21 23:40:36,514 - INFO - GPIO initialized - All pins set to LOW
+2025-05-21 23:41:14,787 - INFO - Controlled Right Turn = activated (0x1)
+2025-05-21 23:41:14,790 - INFO - Sent response CAN: 00000000000100
+2025-05-21 23:41:14,792 - INFO - Controlled Left Turn = activated (0x1)
+2025-05-21 23:41:14,794 - INFO - Sent response CAN: 00000000000101
+2025-05-21 23:41:14,796 - INFO - Controlled Hazard Lights = activated (0x1)
+2025-05-21 23:41:14,798 - INFO - Sent response CAN: 00000000010101
+2025-05-21 23:41:37,919 - INFO - Controlled Hazard Lights = desactivated (0x0)
+2025-05-21 23:41:37,921 - INFO - Sent response CAN: 00000000000101
+2025-05-21 23:41:38,023 - INFO - Controlled Right Turn = desactivated (0x0)
+2025-05-21 23:41:38,024 - INFO - Sent response CAN: 00000000000001
+2025-05-21 23:41:38,125 - INFO - Controlled Left Turn = desactivated (0x0)
+2025-05-21 23:41:38,126 - INFO - Sent response CAN: 00000000000000
+2025-05-21 23:42:47,625 - INFO - Received keyboard interrupt
+2025-05-21 23:42:47,626 - INFO - Shutting down...
+2025-05-21 23:42:58,683 - INFO - Created a socket
+2025-05-21 23:42:58,684 - INFO - CAN initialized
+2025-05-21 23:42:58,686 - INFO - GPIO initialized - All pins set to LOW
+2025-05-21 23:43:19,460 - INFO - Controlled Right Turn = activated (0x1)
+2025-05-21 23:43:19,461 - INFO - Sent response CAN: 00000000000100
+2025-05-21 23:43:19,463 - INFO - Controlled Left Turn = activated (0x1)
+2025-05-21 23:43:19,467 - INFO - Sent response CAN: 00000000000101
+2025-05-21 23:43:19,469 - INFO - Controlled Hazard Lights = activated (0x1)
+2025-05-21 23:43:19,471 - INFO - Sent response CAN: 00000000010101
+2025-05-21 23:43:29,572 - INFO - Controlled Left Turn = desactivated (0x0)
+2025-05-21 23:43:29,574 - INFO - Sent response CAN: 00000000010100
+2025-05-21 23:43:54,810 - INFO - Controlled High Beam = activated (0x1)
+2025-05-21 23:43:54,811 - INFO - Sent response CAN: 00010000010100
+2025-05-21 23:44:08,726 - INFO - Controlled High Beam = desactivated (0x0)
+2025-05-21 23:44:08,728 - INFO - Sent response CAN: 00000000010100
+2025-05-21 23:44:43,299 - INFO - Controlled Parking Right = activated (0x1)
+2025-05-21 23:44:43,299 - INFO - Sent response CAN: 00000001010100
+2025-05-21 23:44:43,300 - INFO - Controlled Parking Left = activated (0x1)
+2025-05-21 23:44:43,300 - INFO - Sent response CAN: 00000101010100
+2025-05-21 23:44:56,121 - INFO - Controlled Parking Right = desactivated (0x0)
+2025-05-21 23:44:56,122 - INFO - Sent response CAN: 00000100010100
+2025-05-21 23:44:56,122 - INFO - Controlled Parking Left = desactivated (0x0)
+2025-05-21 23:44:56,123 - INFO - Sent response CAN: 00000000010100
+2025-05-21 23:45:16,448 - INFO - Controlled Hazard Lights = desactivated (0x0)
+2025-05-21 23:45:16,449 - INFO - Sent response CAN: 00000000000100
+2025-05-21 23:49:24,752 - INFO - Controlled Hazard Lights = FAILED (0xff)
+2025-05-21 23:49:24,754 - INFO - Sent response CAN: 00000000000100
+2025-05-21 23:51:59,012 - INFO - Received keyboard interrupt
+2025-05-21 23:51:59,012 - INFO - Shutting down...
+2025-05-21 23:51:59,242 - INFO - Shutdown complete
+2025-05-21 23:52:07,212 - INFO - Created a socket
+2025-05-21 23:52:07,213 - INFO - CAN initialized
+2025-05-21 23:52:07,214 - INFO - GPIO initialized - All pins set to LOW
+2025-05-21 23:52:07,214 - INFO - Starting to receive CAN messages...
+2025-05-21 23:52:08,689 - INFO - Received keyboard interrupt
+2025-05-21 23:52:08,689 - INFO - Shutting down...
+2025-05-21 23:52:08,724 - INFO - Shutdown complete
+2025-05-21 23:53:18,052 - INFO - Created a socket
+2025-05-21 23:53:18,053 - INFO - CAN initialized
+2025-05-21 23:53:18,054 - INFO - GPIO initialized - All pins set to LOW
+2025-05-21 23:53:18,054 - INFO - Starting to receive CAN messages...
+2025-05-21 23:53:40,685 - INFO - Received: Right Turn - activated
+2025-05-21 23:53:40,687 - INFO - Right Turn activated
+2025-05-21 23:53:40,688 - INFO - Sent response: 00000000000100
+2025-05-21 23:53:40,689 - INFO - Received: Left Turn - activated
+2025-05-21 23:53:40,691 - INFO - Left Turn activated
+2025-05-21 23:53:40,693 - INFO - Sent response: 00000000000101
+2025-05-21 23:53:40,693 - INFO - Received: Hazard Lights - activated
+2025-05-21 23:53:40,695 - INFO - Hazard Lights activated
+2025-05-21 23:53:40,696 - INFO - Sent response: 00000000010101
+2025-05-21 23:54:11,129 - INFO - Received: Right Turn - deactivated
+2025-05-21 23:54:11,230 - INFO - Right Turn deactivated
+2025-05-21 23:54:11,231 - INFO - Sent response: 00000000010001
+2025-05-21 23:54:11,232 - INFO - Received: Left Turn - deactivated
+2025-05-21 23:54:11,333 - INFO - Left Turn deactivated
+2025-05-21 23:54:11,336 - INFO - Sent response: 00000000010000
+2025-05-21 23:54:11,336 - INFO - Received: Hazard Lights - deactivated
+2025-05-21 23:54:11,437 - INFO - Hazard Lights deactivated
+2025-05-21 23:54:11,438 - INFO - Sent response: 00000000000000
+2025-05-22 00:00:48,935 - INFO - Received: High Beam - activated
+2025-05-22 00:00:48,936 - INFO - High Beam activated
+2025-05-22 00:00:48,936 - INFO - Sent response: 00010000000000
+2025-05-22 00:00:58,082 - INFO - Received: High Beam - deactivated
+2025-05-22 00:00:58,082 - INFO - High Beam deactivated
+2025-05-22 00:00:58,083 - INFO - Sent response: 00000000000000
+2025-05-22 00:01:42,852 - INFO - Received keyboard interrupt
+2025-05-22 00:01:42,853 - INFO - Shutting down...
+2025-05-22 00:01:49,176 - INFO - Created a socket
+2025-05-22 00:01:49,177 - INFO - CAN initialized
+2025-05-22 00:01:49,179 - INFO - GPIO initialized - All pins set to LOW
+2025-05-22 00:01:49,179 - INFO - Starting to receive CAN messages...
+2025-05-22 00:02:09,469 - INFO - Received: High Beam - activated
+2025-05-22 00:02:09,470 - INFO - High Beam activated
+2025-05-22 00:02:09,470 - INFO - Sent response: 00010000000000
+2025-05-22 00:02:13,975 - INFO - Received: High Beam - deactivated
+2025-05-22 00:02:13,975 - INFO - High Beam deactivated
+2025-05-22 00:02:13,976 - INFO - Sent response: 00000000000000
+2025-05-22 00:02:53,106 - INFO - Shutting down...
+2025-05-22 00:02:53,140 - INFO - Shutdown complete
+2025-05-22 00:02:55,599 - INFO - Created a socket
+2025-05-22 00:02:55,600 - INFO - CAN initialized
+2025-05-22 00:02:55,601 - INFO - GPIO initialized - All pins set to LOW
+2025-05-22 00:02:55,601 - INFO - Starting to receive CAN messages...
+2025-05-22 00:03:18,339 - INFO - Received: High Beam - activated
+2025-05-22 00:03:18,339 - INFO - High Beam activated
+2025-05-22 00:03:18,340 - INFO - Sent response: 00010000000000
+2025-05-22 00:03:24,954 - INFO - Received: High Beam - deactivated
+2025-05-22 00:03:24,955 - INFO - High Beam deactivated
+2025-05-22 00:03:24,955 - INFO - Sent response: 00000000000000
+2025-05-22 00:03:55,721 - INFO - Received keyboard interrupt
+2025-05-22 00:03:55,721 - INFO - Shutting down...
+2025-05-22 00:03:55,763 - INFO - Shutdown complete
+2025-05-22 00:03:58,466 - INFO - Created a socket
+2025-05-22 00:03:58,467 - INFO - CAN initialized
+2025-05-22 00:03:58,468 - INFO - GPIO initialized - All pins set to LOW
+2025-05-22 00:04:15,035 - INFO - Controlled High Beam = activated (0x1)
+2025-05-22 00:04:15,036 - INFO - Sent response CAN: 00010000000000
+2025-05-22 00:04:22,843 - INFO - Controlled High Beam = desactivated (0x0)
+2025-05-22 00:04:23,654 - INFO - Sent response CAN: 00000000000000
+2025-05-22 00:04:42,570 - INFO - Controlled Right Turn = activated (0x1)
+2025-05-22 00:04:42,573 - INFO - Sent response CAN: 00000000000100
+2025-05-22 00:04:42,576 - INFO - Controlled Left Turn = activated (0x1)
+2025-05-22 00:04:42,578 - INFO - Sent response CAN: 00000000000101
+2025-05-22 00:04:42,581 - INFO - Controlled Hazard Lights = activated (0x1)
+2025-05-22 00:04:42,583 - INFO - Sent response CAN: 00000000010101
+2025-05-22 00:04:55,387 - INFO - Controlled Right Turn = desactivated (0x0)
+2025-05-22 00:04:55,388 - INFO - Sent response CAN: 00000000010001
+2025-05-22 00:04:55,491 - INFO - Controlled Left Turn = desactivated (0x0)
+2025-05-22 00:04:55,493 - INFO - Sent response CAN: 00000000010000
+2025-05-22 00:04:55,594 - INFO - Controlled Hazard Lights = desactivated (0x0)
+2025-05-22 00:04:55,595 - INFO - Sent response CAN: 00000000000000
+2025-05-22 00:05:35,031 - INFO - Controlled Hazard Lights = activated (0x1)
+2025-05-22 00:05:35,032 - INFO - Sent response CAN: 00000000010000
+2025-05-22 00:05:45,343 - INFO - Controlled Hazard Lights = desactivated (0x0)
+2025-05-22 00:05:45,344 - INFO - Sent response CAN: 00000000000000
+2025-05-22 00:06:15,749 - INFO - Received keyboard interrupt
+2025-05-22 00:06:15,750 - INFO - Shutting down...
+2025-05-22 00:06:18,651 - INFO - Created a socket
+2025-05-22 00:06:18,652 - INFO - CAN initialized
+2025-05-22 00:06:18,654 - INFO - GPIO initialized - All pins set to LOW
+2025-05-22 00:06:18,654 - INFO - Starting to receive CAN messages...
+2025-05-22 00:06:47,677 - INFO - Received: Left Turn - activated
+2025-05-22 00:06:47,678 - INFO - Left Turn activated
+2025-05-22 00:06:47,679 - INFO - Sent response: 00000000000001
+2025-05-22 00:06:47,680 - INFO - Received: Right Turn - activated
+2025-05-22 00:06:47,681 - INFO - Right Turn activated
+2025-05-22 00:06:47,682 - INFO - Sent response: 00000000000101
+2025-05-22 00:06:47,683 - INFO - Received: Hazard Lights - activated
+2025-05-22 00:06:47,684 - INFO - Hazard Lights activated
+2025-05-22 00:06:47,685 - INFO - Sent response: 00000000010101
+2025-05-22 00:07:11,708 - INFO - Received: Hazard Lights - deactivated
+2025-05-22 00:07:11,809 - INFO - Hazard Lights turned OFF (status: deactivated
+2025-05-22 00:07:11,810 - INFO - Sent response: 00000000000101
+2025-05-22 00:07:11,811 - INFO - Received: Left Turn - deactivated
+2025-05-22 00:07:11,892 - INFO - Left Turn turned OFF (status: deactivated
+2025-05-22 00:07:11,893 - INFO - Sent response: 00000000000100
+2025-05-22 00:07:11,894 - INFO - Received: Right Turn - deactivated
+2025-05-22 00:07:11,995 - INFO - Right Turn turned OFF (status: deactivated
+2025-05-22 00:07:11,996 - INFO - Sent response: 00000000000000
+2025-05-22 00:08:17,493 - INFO - Received: Hazard Lights - deactivated
+2025-05-22 00:08:17,594 - INFO - Hazard Lights turned OFF (status: deactivated
+2025-05-22 00:08:17,595 - INFO - Sent response: 00000000000000
+2025-05-22 00:08:58,872 - INFO - Received keyboard interrupt
+2025-05-22 00:08:58,873 - INFO - Shutting down...
+2025-05-22 00:09:01,808 - INFO - Created a socket
+2025-05-22 00:09:01,809 - INFO - CAN initialized
+2025-05-22 00:09:01,811 - INFO - GPIO initialized - All pins set to LOW
+2025-05-22 00:09:01,812 - INFO - Starting to receive CAN messages...
+2025-05-22 00:09:19,119 - INFO - Received command: Left Turn - activated
+2025-05-22 00:09:19,120 - INFO - Activating Left Turn
+2025-05-22 00:09:19,120 - INFO - Left Turn stopped and turned off
+2025-05-22 00:09:19,123 - INFO - Sent response frame: 00000000000001
+2025-05-22 00:09:19,124 - INFO - Received command: Right Turn - activated
+2025-05-22 00:09:19,124 - INFO - Activating Right Turn
+2025-05-22 00:09:19,125 - INFO - Right Turn stopped and turned off
+2025-05-22 00:09:19,127 - INFO - Sent response frame: 00000000000101
+2025-05-22 00:09:19,127 - INFO - Received command: Hazard Lights - activated
+2025-05-22 00:09:19,128 - INFO - Activating Hazard Lights
+2025-05-22 00:09:19,128 - INFO - Hazard Lights stopped and turned off
+2025-05-22 00:09:19,130 - INFO - Sent response frame: 00000000010101
+2025-05-22 00:09:30,135 - INFO - Received command: Right Turn - deactivated
+2025-05-22 00:09:30,135 - INFO - Deactivating Right Turn (status: deactivated)
+2025-05-22 00:09:30,236 - INFO - Right Turn stopped and turned off
+2025-05-22 00:09:30,237 - INFO - Sent response frame: 00000000010001
+2025-05-22 00:09:30,238 - INFO - Received command: Hazard Lights - deactivated
+2025-05-22 00:09:30,238 - INFO - Deactivating Hazard Lights (status: deactivated)
+2025-05-22 00:09:30,341 - INFO - Hazard Lights stopped and turned off
+2025-05-22 00:09:30,343 - INFO - Sent response frame: 00000000000001
+2025-05-22 00:11:30,775 - INFO - Received keyboard interrupt
+2025-05-22 00:11:30,776 - INFO - Shutting down...
+2025-05-22 00:11:30,877 - INFO - Hazard Lights stopped and turned off
+2025-05-22 00:11:30,978 - INFO - Left Turn stopped and turned off
+2025-05-22 00:11:31,079 - INFO - Right Turn stopped and turned off
+2025-05-22 00:11:31,113 - INFO - Shutdown complete
+2025-05-22 00:17:06,281 - INFO - Created a socket
+2025-05-22 00:17:06,282 - INFO - CAN initialized
+2025-05-22 00:17:06,283 - INFO - GPIO initialized - All pins set to LOW
+2025-05-22 00:17:22,421 - INFO - Controlled LED: Left Turn = activated (0x1)
+2025-05-22 00:17:22,423 - INFO - Sent response CAN: 00000000000001
+2025-05-22 00:17:22,425 - INFO - Controlled LED: Right Turn = activated (0x1)
+2025-05-22 00:17:22,427 - INFO - Sent response CAN: 00000000000101
+2025-05-22 00:17:22,430 - INFO - Controlled LED: Hazard Lights = activated (0x1)
+2025-05-22 00:17:22,432 - INFO - Sent response CAN: 00000000010101
+2025-05-22 00:17:44,753 - INFO - Controlled LED: Left Turn = desactivated (0x0)
+2025-05-22 00:17:44,755 - INFO - Sent response CAN: 00000000010100
+2025-05-22 00:17:45,245 - INFO - Controlled LED: Right Turn = desactivated (0x0)
+2025-05-22 00:17:45,246 - INFO - Sent response CAN: 00000000010000
+2025-05-22 00:17:45,442 - INFO - Controlled LED: Hazard Lights = desactivated (0x0)
+2025-05-22 00:17:45,444 - INFO - Sent response CAN: 00000000000000
+2025-05-22 00:18:18,368 - INFO - Controlled LED: High Beam = activated (0x1)
+2025-05-22 00:18:18,370 - INFO - Sent response CAN: 00010000000000
+2025-05-22 00:18:24,072 - INFO - Controlled LED: High Beam = desactivated (0x0)
+2025-05-22 00:18:24,073 - INFO - Sent response CAN: 00000000000000
+2025-05-22 00:18:52,107 - INFO - Controlled LED: Parking Right = activated (0x1)
+2025-05-22 00:18:52,109 - INFO - Sent response CAN: 00000001000000
+2025-05-22 00:18:52,110 - INFO - Controlled LED: Parking Left = activated (0x1)
+2025-05-22 00:18:52,112 - INFO - Sent response CAN: 00000101000000
+2025-05-22 00:18:56,628 - INFO - Controlled LED: Parking Right = desactivated (0x0)
+2025-05-22 00:18:56,629 - INFO - Sent response CAN: 00000100000000
+2025-05-22 00:18:56,630 - INFO - Controlled LED: Parking Left = desactivated (0x0)
+2025-05-22 00:18:56,631 - INFO - Sent response CAN: 00000000000000
+2025-05-22 00:19:11,347 - INFO - Controlled LED: Hazard Lights = activated (0x1)
+2025-05-22 00:19:11,349 - INFO - Sent response CAN: 00000000010000
+2025-05-22 00:19:19,350 - INFO - Controlled LED: Hazard Lights = desactivated (0x0)
+2025-05-22 00:19:19,352 - INFO - Sent response CAN: 00000000000000
+2025-05-22 00:19:37,084 - INFO - Controlled LED: Left Turn = activated (0x1)
+2025-05-22 00:19:37,087 - INFO - Sent response CAN: 00000000000001
+2025-05-22 00:19:37,089 - INFO - Controlled LED: Right Turn = activated (0x1)
+2025-05-22 00:19:37,091 - INFO - Sent response CAN: 00000000000101
+2025-05-22 00:19:47,395 - INFO - Controlled LED: Left Turn = desactivated (0x0)
+2025-05-22 00:19:47,397 - INFO - Sent response CAN: 00000000000100
+2025-05-22 00:19:47,892 - INFO - Controlled LED: Right Turn = desactivated (0x0)
+2025-05-22 00:19:47,894 - INFO - Sent response CAN: 00000000000000
+2025-05-22 00:19:59,011 - INFO - Received keyboard interrupt
+2025-05-22 00:19:59,012 - INFO - Shutting down...
+2025-05-22 00:19:59,046 - INFO - Shutdown complete

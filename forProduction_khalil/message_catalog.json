@@ -1,0 +1,332 @@
+{
+    "services": [
+        {
+            "communication_protocol": "SOME/IP",
+            "event_groups": [
+                {
+                    "event_group_description": "ControlWiperWashButton",
+                    "event_group_id": 8017,
+                    "event_ids": [
+                        1,
+                        2,
+                        3,
+                        4
+                    ],
+                    "group_name": "WiperWashEvents"
+                }
+            ],
+            "events": [
+                {
+                    "communication_type": "asynchronous",
+                    "event_direction": "sendservice",
+                    "event_id": 1,
+                    "event_name": "WiperIgnition",
+                    "event_type": "event",
+                    "event_value": {
+                        "status": "on"
+                    },
+                    "is_field": false,
+                    "is_reliable": false,
+                    "update_cycle": 0
+                },
+                {
+                    "communication_type": "asynchronous",
+                    "event_direction": "sendservice",
+                    "event_id": 2,
+                    "event_name": "WiperRequestOperation",
+                    "event_type": "event",
+                    "event_value": {
+                        "status": "1"
+                    },
+                    "is_field": false,
+                    "is_reliable": false,
+                    "update_cycle": 0
+                },
+                {
+                    "communication_type": "asynchronous",
+                    "event_direction": "sendservice",
+                    "event_id": 3,
+                    "event_name": "RainIntensity",
+                    "event_type": "event",
+                    "event_value": {
+                        "status": "0"
+                    },
+                    "is_field": false,
+                    "is_reliable": false,
+                    "update_cycle": 0
+                },
+                {
+                    "communication_type": "asynchronous",
+                    "event_direction": "sendservice",
+                    "event_id": 4,
+                    "event_name": "ReverseGear",
+                    "event_type": "event",
+                    "event_value": {
+                        "status": "0"
+                    },
+                    "is_field": false,
+                    "is_reliable": false,
+                    "update_cycle": 0
+                }
+            ],
+            "instance_id": 22136,
+            "port": 30509,
+            "service_id": 4660,
+            "service_name": "controlWiper",
+            "service_version": "1.0"
+        },
+        {
+            "communication_protocol": "SOME/IP",
+            "event_groups": [
+                {
+                    "event_group_description": "LightsEvents",
+                    "event_group_id": 8018,
+                    "event_ids": [
+                        11,
+                        12,
+                        13,
+                        14,
+                        15,
+                        16
+                    ],
+                    "group_name": "LightStatusEvents"
+                }
+            ],
+            "events": [
+                {
+                    "communication_type": "asynchronous",
+                    "event_direction": "sendservice",
+                    "event_id": 11,
+                    "event_name": "Low_Beam_HeadlightStatus",
+                    "event_type": "event",
+                    "event_value": {
+                        "status": "0"
+                    },
+                    "is_field": false,
+                    "is_reliable": false,
+                    "update_cycle": 0
+                },
+                {
+                    "communication_type": "asynchronous",
+                    "event_direction": "sendservice",
+                    "event_id": 12,
+                    "event_name": "High_Beam_HeadlightStatus",
+                    "event_type": "event",
+                    "event_value": {
+                        "status": "0"
+                    },
+                    "is_field": false,
+                    "is_reliable": false,
+                    "update_cycle": 0
+                },
+                {
+                    "communication_type": "asynchronous",
+                    "event_direction": "sendservice",
+                    "event_id": 13,
+                    "event_name": "HazardStatus",
+                    "event_type": "event",
+                    "event_value": {
+                        "status": "0"
+                    },
+                    "is_field": false,
+                    "is_reliable": false,
+                    "update_cycle": 0
+                },
+                {
+                    "communication_type": "asynchronous",
+                    "event_direction": "sendservice",
+                    "event_id": 14,
+                    "event_name": "LeftTurnStatus",
+                    "event_type": "event",
+                    "event_value": {
+                        "status": "0"
+                    },
+                    "is_field": false,
+                    "is_reliable": false,
+                    "update_cycle": 0
+                },
+                {
+                    "communication_type": "asynchronous",
+                    "event_direction": "sendservice",
+                    "event_id": 15,
+                    "event_name": "RightTurnStatus",
+                    "event_type": "event",
+                    "event_value": {
+                        "status": "0"
+                    },
+                    "is_field": false,
+                    "is_reliable": false,
+                    "update_cycle": 0
+                },
+                {
+                    "communication_type": "asynchronous",
+                    "event_direction": "sendservice",
+                    "event_id": 16,
+                    "event_name": "BreakLightStatus",
+                    "event_type": "event",
+                    "event_value": {
+                        "status": "0"
+                    },
+                    "is_field": false,
+                    "is_reliable": false,
+                    "update_cycle": 0
+                }
+            ],
+            "instance_id": 22137,
+            "port": 30510,
+            "service_id": 4661,
+            "service_name": "LightsStatus",
+            "service_version": "1.0"
+        },
+        {
+            "communication_protocol": "SOME/IP",
+            "event_groups": [
+                {
+                    "event_group_description": "DoorsEvents",
+                    "event_group_id": 8019,
+                    "event_ids": [
+                        101,
+                        102,
+                        103,
+                        104
+                    ],
+                    "group_name": "DoorStatusEvents"
+                }
+            ],
+            "events": [
+                {
+                    "communication_type": "asynchronous",
+                    "event_direction": "sendservice",
+                    "event_id": 101,
+                    "event_name": "Door_Front_Right_Status",
+                    "event_type": "event",
+                    "event_value": {
+                        "status": "off"
+                    },
+                    "is_field": false,
+                    "is_reliable": false,
+                    "update_cycle": 0
+                },
+                {
+                    "communication_type": "asynchronous",
+                    "event_direction": "sendservice",
+                    "event_id": 102,
+                    "event_name": "Door_Rear_Right_Status",
+                    "event_type": "event",
+                    "event_value": {
+                        "status": "off"
+                    },
+                    "is_field": false,
+                    "is_reliable": false,
+                    "update_cycle": 0
+                },
+                {
+                    "communication_type": "asynchronous",
+                    "event_direction": "sendservice",
+                    "event_id": 103,
+                    "event_name": "Door_front_Left_Status",
+                    "event_type": "event",
+                    "event_value": {
+                        "status": "off"
+                    },
+                    "is_field": false,
+                    "is_reliable": false,
+                    "update_cycle": 0
+                },
+                {
+                    "communication_type": "asynchronous",
+                    "event_direction": "sendservice",
+                    "event_id": 104,
+                    "event_name": "Door_Rear_Left_Status",
+                    "event_type": "event",
+                    "event_value": {
+                        "status": "off"
+                    },
+                    "is_field": false,
+                    "is_reliable": false,
+                    "update_cycle": 0
+                }
+            ],
+            "instance_id": 22135,
+            "port": 30510,
+            "service_id": 4662,
+            "service_name": "DoorsStatus",
+            "service_version": "1.0"
+        },
+        {
+            "communication_protocol": "SOME/IP",
+            "event_groups": [
+                {
+                    "event_group_description": "WindowsEvents",
+                    "event_group_id": 8021,
+                    "event_ids": [
+                        21,
+                        22,
+                        23,
+                        24
+                    ],
+                    "group_name": "WindowStatusEvents"
+                }
+            ],
+            "events": [
+                {
+                    "communication_type": "asynchronous",
+                    "event_direction": "sendservice",
+                    "event_id": 21,
+                    "event_name": "Diver_Window_Status",
+                    "event_type": "event",
+                    "event_value": {
+                        "status": "off"
+                    },
+                    "is_field": false,
+                    "is_reliable": false,
+                    "update_cycle": 0
+                },
+                {
+                    "communication_type": "asynchronous",
+                    "event_direction": "sendservice",
+                    "event_id": 22,
+                    "event_name": "Rear_Driver_Window_Status",
+                    "event_type": "event",
+                    "event_value": {
+                        "status": "off"
+                    },
+                    "is_field": false,
+                    "is_reliable": false,
+                    "update_cycle": 0
+                },
+                {
+                    "communication_type": "asynchronous",
+                    "event_direction": "sendservice",
+                    "event_id": 23,
+                    "event_name": "Passenger_Window_Status",
+                    "event_type": "event",
+                    "event_value": {
+                        "status": "off"
+                    },
+                    "is_field": false,
+                    "is_reliable": false,
+                    "update_cycle": 0
+                },
+                {
+                    "communication_type": "asynchronous",
+                    "event_direction": "sendservice",
+                    "event_id": 24,
+                    "event_name": "Rear_Passenger_Window_Status",
+                    "event_type": "event",
+                    "event_value": {
+                        "status": "on"
+                    },
+                    "is_field": false,
+                    "is_reliable": false,
+                    "update_cycle": 0
+                }
+            ],
+            "instance_id": 22134,
+            "port": 30510,
+            "service_id": 4663,
+            "service_name": "WindowsStatus",
+            "service_version": "1.0"
+        }
+    ]
+}

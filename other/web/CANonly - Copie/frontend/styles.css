@@ -1,0 +1,655 @@
+:root {
+    --primary-color: #2c3e50;
+    --secondary-color: #3498db;
+    --accent-color: #e74c3c;
+    --success-color: #27ae60;
+    --warning-color: #f39c12;
+    --danger-color: #e74c3c;
+    --light-color: #ecf0f1;
+    --dark-color: #2c3e50;
+    --text-color: #333;
+    --text-light: #7f8c8d;
+    --border-radius: 8px;
+    --box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    --transition: all 0.3s ease;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f5f7fa;
+    color: var(--text-color);
+    line-height: 1.6;
+}
+
+.dashboard {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.dashboard-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.logo-icon {
+    font-size: 2rem;
+    color: var(--secondary-color);
+}
+
+.dashboard-header h1 {
+    font-weight: 500;
+    color: var(--primary-color);
+    font-size: 1.8rem;
+}
+
+.system-status {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 0.9rem;
+    color: var(--text-light);
+}
+
+.status-indicator {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color: var(--success-color);
+}
+
+.status-indicator.active {
+    background-color: var(--success-color);
+    animation: pulse 1.5s infinite;
+}
+
+@keyframes pulse {
+    0% {
+        opacity: 1;
+    }
+
+    50% {
+        opacity: 0.5;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+.dashboard-content {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 20px;
+}
+
+.panel-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.panel-header h2 {
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: var(--primary-color);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.environment-panel,
+.control-panel,
+.status-panel,
+.visualization-panel {
+    background-color: white;
+    border-radius: var(--border-radius);
+    padding: 20px;
+    box-shadow: var(--box-shadow);
+    transition: var(--transition);
+}
+
+.environment-panel:hover,
+.control-panel:hover,
+.status-panel:hover,
+.visualization-panel:hover {
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12);
+}
+
+.sensor-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 15px;
+    margin-bottom: 15px;
+}
+
+.sensor-card {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    padding: 15px;
+    background-color: var(--light-color);
+    border-radius: var(--border-radius);
+}
+
+.sensor-icon {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+}
+
+.temp-icon {
+    background-color: rgba(231, 76, 60, 0.1);
+    color: var(--danger-color);
+}
+
+.humidity-icon {
+    background-color: rgba(52, 152, 219, 0.1);
+    color: var(--secondary-color);
+}
+
+.sensor-info {
+    display: flex;
+    flex-direction: column;
+}
+
+.sensor-label {
+    font-size: 0.8rem;
+    color: var(--text-light);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.sensor-value {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--primary-color);
+}
+
+.sensor-unit {
+    font-size: 0.9rem;
+    color: var(--text-light);
+}
+
+.sensor-footer {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 0.8rem;
+    color: var(--text-light);
+}
+
+.icon-btn {
+    background: none;
+    border: none;
+    color: var(--text-light);
+    font-size: 1rem;
+    cursor: pointer;
+    transition: var(--transition);
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.icon-btn:hover {
+    background-color: rgba(0, 0, 0, 0.05);
+    color: var(--primary-color);
+}
+
+.control-section {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 20px;
+}
+
+.control-group {
+    margin-bottom: 20px;
+}
+
+.control-title {
+    font-size: 1rem;
+    font-weight: 500;
+    margin-bottom: 12px;
+    color: var(--primary-color);
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.radio-tile-group {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    gap: 10px;
+}
+
+.radio-tile {
+    position: relative;
+}
+
+.radio-tile input[type="radio"] {
+    position: absolute;
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.radio-tile label {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 15px 10px;
+    background-color: var(--light-color);
+    border-radius: var(--border-radius);
+    cursor: pointer;
+    transition: var(--transition);
+    border: 2px solid transparent;
+    text-align: center;
+}
+
+.radio-tile label i {
+    font-size: 1.5rem;
+    margin-bottom: 8px;
+    color: var(--text-light);
+}
+
+.radio-tile input[type="radio"]:checked+label {
+    background-color: rgba(52, 152, 219, 0.1);
+    border-color: var(--secondary-color);
+    color: var(--secondary-color);
+}
+
+.radio-tile input[type="radio"]:checked+label i {
+    color: var(--secondary-color);
+}
+
+.cycle-selector {
+    position: relative;
+}
+
+.cycle-selector select {
+    width: 100%;
+    padding: 12px 15px;
+    border: 1px solid #ddd;
+    border-radius: var(--border-radius);
+    background-color: white;
+    appearance: none;
+    font-size: 1rem;
+    color: var(--text-color);
+    cursor: pointer;
+}
+
+.select-arrow {
+    position: absolute;
+    right: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+    pointer-events: none;
+    color: var(--text-light);
+}
+
+.primary-btn {
+    width: 100%;
+    padding: 14px;
+    background-color: var(--secondary-color);
+    color: white;
+    border: none;
+    border-radius: var(--border-radius);
+    font-size: 1rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: var(--transition);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.primary-btn:hover {
+    background-color: #2980b9;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(41, 128, 185, 0.3);
+}
+
+.primary-btn:active {
+    transform: translateY(0);
+}
+
+.status-panel {
+    display: flex;
+    flex-direction: column;
+}
+
+.status-content {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+}
+
+.status-icon {
+    font-size: 3rem;
+    margin-bottom: 15px;
+}
+
+.status-icon.ready {
+    color: var(--success-color);
+}
+
+.status-icon.error {
+    color: var(--danger-color);
+}
+
+.visualization-panel {
+    grid-column: 1 / -1;
+}
+
+.wiper-animation-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px;
+}
+
+.wiper-animation {
+    background-color: var(--light-color);
+    border-radius: var(--border-radius);
+    padding: 20px;
+}
+
+.wiper-animation h3 {
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: var(--primary-color);
+}
+
+.wiper-track {
+    height: 150px;
+    background-color: #bdc3c7;
+    border-radius: var(--border-radius);
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.wiper-blade {
+    width: 120px;
+    height: 8px;
+    background-color: var(--dark-color);
+    border-radius: 4px;
+    position: absolute;
+    left: 0;
+    transform-origin: right center;
+}
+
+.front-wiper .wiper-blade {
+    background-color: var(--secondary-color);
+}
+
+.rear-wiper .wiper-blade {
+    background-color: var(--accent-color);
+}
+
+/* Animation classes */
+.wiper-active {
+    animation: wiper-sweep 1s linear infinite;
+}
+
+.wiper-fast {
+    animation: wiper-sweep 0.6s linear infinite;
+}
+
+@keyframes wiper-sweep {
+    0% {
+        transform: rotate(-45deg);
+    }
+
+    50% {
+        transform: rotate(45deg);
+    }
+
+    100% {
+        transform: rotate(-45deg);
+    }
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .control-section {
+        grid-template-columns: 1fr;
+    }
+
+    .wiper-animation-container {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* Wiper Visualization Styles */
+.wiper-visualization-container {
+    position: relative;
+    background-color: #2c3e50;
+    border-radius: var(--border-radius);
+    padding: 20px;
+    overflow: hidden;
+}
+
+.windshield-area {
+    position: relative;
+    height: 250px;
+    background-color: #34495e;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: inset 0 0 30px rgba(0, 0, 0, 0.5);
+}
+
+/* Wiper Arm Styles */
+.wiper-arm {
+    position: absolute;
+    transform-origin: bottom center;
+    transition: transform 0.05s linear;
+    z-index: 2;
+}
+
+.front-wiper {
+    left: 20%;
+    bottom: 10px;
+    width: 2px;
+    height: 100px;
+    background-color: #7f8c8d;
+}
+
+.rear-wiper {
+    right: 25%;
+    bottom: 10px;
+    width: 2px;
+    height: 70px;
+    background-color: #7f8c8d;
+    display: none;
+    /* Only show when rear wiper is active */
+}
+
+.wiper-blade {
+    position: absolute;
+    top: 0;
+    width: 80px;
+    height: 8px;
+    background-color: #333;
+    border-radius: 4px;
+    transform: translateX(-50%);
+}
+
+.front-wiper .wiper-blade {
+    left: 50%;
+}
+
+.rear-wiper .wiper-blade {
+    left: 50%;
+}
+
+/* Rain Effects */
+.rain-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+}
+
+.rain-drop {
+    position: absolute;
+    width: 2px;
+    height: 10px;
+    background: linear-gradient(to bottom, transparent, rgba(52, 152, 219, 0.6));
+    border-radius: 0 0 2px 2px;
+    animation: rain-fall linear infinite;
+}
+
+@keyframes rain-fall {
+    0% {
+        transform: translateY(-10px);
+        opacity: 0;
+    }
+
+    10% {
+        opacity: 1;
+    }
+
+    90% {
+        opacity: 1;
+    }
+
+    100% {
+        transform: translateY(250px);
+        opacity: 0;
+    }
+}
+
+/* Water Streaks */
+.water-streaks {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+}
+
+.water-streak {
+    position: absolute;
+    background: linear-gradient(to bottom,
+            transparent,
+            rgba(52, 152, 219, 0.3) 20%,
+            transparent 80%);
+    width: 3px;
+    height: 50px;
+    opacity: 0.7;
+}
+
+/* Visualization Controls */
+.visualization-controls {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+    color: white;
+}
+
+.speed-indicator,
+.cycle-counter {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.speed-bar {
+    width: 100px;
+    height: 8px;
+    background-color: #7f8c8d;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.speed-level {
+    height: 100%;
+    width: 50%;
+    background-color: #3498db;
+    transition: width 0.3s ease;
+}
+
+.cycle-display {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #3498db;
+    min-width: 30px;
+    text-align: center;
+}
+
+/* Wiper Animation Classes */
+.wiper-active {
+    animation: wiper-sweep 2s ease-in-out infinite;
+}
+
+.wiper-fast {
+    animation: wiper-sweep 1s ease-in-out infinite;
+}
+
+@keyframes wiper-sweep {
+    0% {
+        transform: rotate(-45deg);
+    }
+
+    50% {
+        transform: rotate(45deg);
+    }
+
+    100% {
+        transform: rotate(-45deg);
+    }
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .windshield-area {
+        height: 180px;
+    }
+
+    .front-wiper {
+        height: 80px;
+    }
+
+    .rear-wiper {
+        height: 60px;
+    }
+}
