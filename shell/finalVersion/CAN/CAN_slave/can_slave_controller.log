@@ -1,0 +1,44 @@
+2025-05-23 12:26:34,346 - INFO - CAN interface set up successfully
+2025-05-23 12:26:37,127 - INFO - Created a socket
+2025-05-23 12:26:37,130 - INFO - CAN initialized
+2025-05-23 12:26:37,131 - INFO - GPIO initialized - All pins set to LOW
+2025-05-23 12:26:37,134 - INFO - Started CANLightSlave controller
+2025-05-23 12:26:37,327 - INFO - Created a socket
+2025-05-23 12:26:37,328 - INFO - CAN initialized
+2025-05-23 12:26:37,329 - INFO - GPIO initialized
+2025-05-23 12:26:37,332 - INFO - Started CANWindowSlave controller
+2025-05-23 12:26:37,333 - INFO - Both slave controllers are running. Press Ctrl+C to stop.
+2025-05-23 12:27:20,851 - INFO - Controlled LED: Right Turn = activated (0x1)
+2025-05-23 12:27:20,853 - INFO - Sent response CAN: 00000000000100
+2025-05-23 12:27:58,421 - INFO - Controlled LED: Left Turn = activated (0x1)
+2025-05-23 12:27:58,422 - INFO - Sent response CAN: 00000000000101
+2025-05-23 12:28:28,111 - INFO - Controlled LED: Right Turn = desactivated (0x0)
+2025-05-23 12:28:28,113 - INFO - Sent response CAN: 00000000000001
+2025-05-23 12:28:28,441 - INFO - Controlled LED: Left Turn = desactivated (0x0)
+2025-05-23 12:28:28,445 - INFO - Sent response CAN: 00000000000000
+2025-05-23 12:28:55,038 - INFO - Safety ON detected, turning on red LED
+2025-05-23 12:28:55,041 - INFO - Updating PRS from 0 LEDs to 4 LEDs (Level: 100%)
+2025-05-23 12:28:55,042 - INFO - Turned on PRS LED 1 (GPIO 12)
+2025-05-23 12:28:56,042 - INFO - Turned on PRS LED 2 (GPIO 16)
+2025-05-23 12:28:57,043 - INFO - Turned on PRS LED 3 (GPIO 20)
+2025-05-23 12:28:58,045 - INFO - Turned on PRS LED 4 (GPIO 21)
+2025-05-23 12:28:59,046 - INFO - Sent response for PRS: [1, 100, 1, 1, 1]
+2025-05-23 12:29:17,788 - INFO - Safety ON detected, turning on red LED
+2025-05-23 12:29:17,790 - INFO - Updating PRS from 4 LEDs to 1 LEDs (Level: 40%)
+2025-05-23 12:29:17,792 - INFO - Turned off PRS LED 4 (GPIO 21)
+2025-05-23 12:29:18,793 - INFO - Turned off PRS LED 3 (GPIO 20)
+2025-05-23 12:29:19,794 - INFO - Turned off PRS LED 2 (GPIO 16)
+2025-05-23 12:29:20,795 - INFO - Sent response for PRS: [1, 40, 1, 1, 1]
+2025-05-23 12:31:23,016 - INFO - 
+Shutting down...
+2025-05-23 12:31:23,018 - INFO - Shutting down...
+2025-05-23 12:31:23,072 - INFO - Shutting down...
+2025-05-23 12:31:23,074 - INFO - Shutting down...
+2025-05-23 12:31:23,102 - INFO - Shutdown complete
+2025-05-23 12:31:23,160 - ERROR - Error in CANWindowSlave: Please set pin numbering mode using GPIO.setmode(GPIO.BOARD) or GPIO.setmode(GPIO.BCM)
+2025-05-23 12:31:23,170 - INFO - Shutdown complete
+2025-05-23 12:31:23,171 - ERROR - Error in CANLightSlave: Error receiving: Bad file descriptor [Error Code 9]
+2025-05-23 12:31:23,173 - INFO - Stopped CANLightSlave controller
+2025-05-23 12:31:23,174 - INFO - CANWindowSlave is not running
+2025-05-23 12:31:23,238 - INFO - CAN interface brought down
+2025-05-23 12:31:23,239 - INFO - Main CAN slave shutdown complete
