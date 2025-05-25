@@ -1,0 +1,337 @@
+2025-05-25 01:15:11,627 - INFO - GPIO initialized - All pins set to LOW
+2025-05-25 01:15:11,628 - INFO - LIN Slave Node - Listening for frames...
+2025-05-25 01:16:13,491 - INFO - Controlled LED: Right Turn = ON (0x1)
+2025-05-25 01:16:13,530 - INFO - Sent status response:
+2025-05-25 01:16:13,530 - INFO -   Low Beam: OFF
+2025-05-25 01:16:13,531 - INFO -   High Beam: OFF
+2025-05-25 01:16:13,531 - INFO -   Parking Left: OFF
+2025-05-25 01:16:13,531 - INFO -   Parking Right: OFF
+2025-05-25 01:16:13,531 - INFO -   Hazard Lights: OFF
+2025-05-25 01:16:13,532 - INFO -   Right Turn: ON
+2025-05-25 01:16:13,532 - INFO -   Left Turn: OFF
+2025-05-25 01:16:13,613 - INFO - Received status request
+2025-05-25 01:16:13,642 - INFO - Sent status response:
+2025-05-25 01:16:13,642 - INFO -   Low Beam: OFF
+2025-05-25 01:16:13,643 - INFO -   High Beam: OFF
+2025-05-25 01:16:13,643 - INFO -   Parking Left: OFF
+2025-05-25 01:16:13,643 - INFO -   Parking Right: OFF
+2025-05-25 01:16:13,643 - INFO -   Hazard Lights: OFF
+2025-05-25 01:16:13,643 - INFO -   Right Turn: ON
+2025-05-25 01:16:13,643 - INFO -   Left Turn: OFF
+2025-05-25 01:16:44,087 - INFO - Shutting down...
+2025-05-25 01:18:18,046 - INFO - GPIO initialized - All pins set to LOW
+2025-05-25 01:18:18,048 - INFO - LIN Slave Node - Listening for frames...
+2025-05-25 01:18:39,659 - INFO - Controlled LED: Right Turn = ON (0x1)
+2025-05-25 01:18:39,698 - INFO - Sent status response:
+2025-05-25 01:18:39,699 - INFO -   Low Beam: OFF
+2025-05-25 01:18:39,699 - INFO -   High Beam: OFF
+2025-05-25 01:18:39,700 - INFO -   Parking Left: OFF
+2025-05-25 01:18:39,700 - INFO -   Parking Right: OFF
+2025-05-25 01:18:39,701 - INFO -   Hazard Lights: OFF
+2025-05-25 01:18:39,701 - INFO -   Right Turn: ON
+2025-05-25 01:18:39,701 - INFO -   Left Turn: OFF
+2025-05-25 01:18:39,780 - INFO - Received status request
+2025-05-25 01:18:39,810 - INFO - Sent status response:
+2025-05-25 01:18:39,810 - INFO -   Low Beam: OFF
+2025-05-25 01:18:39,811 - INFO -   High Beam: OFF
+2025-05-25 01:18:39,811 - INFO -   Parking Left: OFF
+2025-05-25 01:18:39,811 - INFO -   Parking Right: OFF
+2025-05-25 01:18:39,811 - INFO -   Hazard Lights: OFF
+2025-05-25 01:18:39,811 - INFO -   Right Turn: ON
+2025-05-25 01:18:39,812 - INFO -   Left Turn: OFF
+2025-05-25 01:19:27,974 - INFO - Controlled LED: Left Turn = ON (0x1)
+2025-05-25 01:19:28,010 - INFO - Sent status response:
+2025-05-25 01:19:28,010 - INFO -   Low Beam: OFF
+2025-05-25 01:19:28,011 - INFO -   High Beam: OFF
+2025-05-25 01:19:28,011 - INFO -   Parking Left: OFF
+2025-05-25 01:19:28,011 - INFO -   Parking Right: OFF
+2025-05-25 01:19:28,011 - INFO -   Hazard Lights: OFF
+2025-05-25 01:19:28,011 - INFO -   Right Turn: ON
+2025-05-25 01:19:28,012 - INFO -   Left Turn: ON
+2025-05-25 01:19:28,096 - INFO - Received status request
+2025-05-25 01:19:28,134 - INFO - Sent status response:
+2025-05-25 01:19:28,134 - INFO -   Low Beam: OFF
+2025-05-25 01:19:28,135 - INFO -   High Beam: OFF
+2025-05-25 01:19:28,135 - INFO -   Parking Left: OFF
+2025-05-25 01:19:28,135 - INFO -   Parking Right: OFF
+2025-05-25 01:19:28,135 - INFO -   Hazard Lights: OFF
+2025-05-25 01:19:28,135 - INFO -   Right Turn: ON
+2025-05-25 01:19:28,136 - INFO -   Left Turn: ON
+2025-05-25 01:19:44,117 - INFO - Controlled LED: Left Turn = OFF (0x0)
+2025-05-25 01:19:44,154 - INFO - Sent status response:
+2025-05-25 01:19:44,154 - INFO -   Low Beam: OFF
+2025-05-25 01:19:44,155 - INFO -   High Beam: OFF
+2025-05-25 01:19:44,155 - INFO -   Parking Left: OFF
+2025-05-25 01:19:44,155 - INFO -   Parking Right: OFF
+2025-05-25 01:19:44,155 - INFO -   Hazard Lights: OFF
+2025-05-25 01:19:44,155 - INFO -   Right Turn: ON
+2025-05-25 01:19:44,156 - INFO -   Left Turn: OFF
+2025-05-25 01:19:44,158 - INFO - Received status request
+2025-05-25 01:19:44,186 - INFO - Sent status response:
+2025-05-25 01:19:44,186 - INFO -   Low Beam: OFF
+2025-05-25 01:19:44,187 - INFO -   High Beam: OFF
+2025-05-25 01:19:44,188 - INFO -   Parking Left: OFF
+2025-05-25 01:19:44,188 - INFO -   Parking Right: OFF
+2025-05-25 01:19:44,189 - INFO -   Hazard Lights: OFF
+2025-05-25 01:19:44,189 - INFO -   Right Turn: ON
+2025-05-25 01:19:44,189 - INFO -   Left Turn: OFF
+2025-05-25 01:20:10,505 - INFO - Controlled LED: Right Turn = OFF (0x0)
+2025-05-25 01:20:10,542 - INFO - Sent status response:
+2025-05-25 01:20:10,543 - INFO -   Low Beam: OFF
+2025-05-25 01:20:10,543 - INFO -   High Beam: OFF
+2025-05-25 01:20:10,543 - INFO -   Parking Left: OFF
+2025-05-25 01:20:10,543 - INFO -   Parking Right: OFF
+2025-05-25 01:20:10,543 - INFO -   Hazard Lights: OFF
+2025-05-25 01:20:10,544 - INFO -   Right Turn: OFF
+2025-05-25 01:20:10,544 - INFO -   Left Turn: OFF
+2025-05-25 01:20:10,547 - INFO - Received status request
+2025-05-25 01:20:10,574 - INFO - Sent status response:
+2025-05-25 01:20:10,574 - INFO -   Low Beam: OFF
+2025-05-25 01:20:10,575 - INFO -   High Beam: OFF
+2025-05-25 01:20:10,575 - INFO -   Parking Left: OFF
+2025-05-25 01:20:10,575 - INFO -   Parking Right: OFF
+2025-05-25 01:20:10,575 - INFO -   Hazard Lights: OFF
+2025-05-25 01:20:10,575 - INFO -   Right Turn: OFF
+2025-05-25 01:20:10,576 - INFO -   Left Turn: OFF
+2025-05-25 01:20:48,213 - INFO - Controlled LED: Low Beam = ON (0x1)
+2025-05-25 01:20:48,250 - INFO - Sent status response:
+2025-05-25 01:20:48,250 - INFO -   Low Beam: ON
+2025-05-25 01:20:48,251 - INFO -   High Beam: OFF
+2025-05-25 01:20:48,251 - INFO -   Parking Left: OFF
+2025-05-25 01:20:48,251 - INFO -   Parking Right: OFF
+2025-05-25 01:20:48,251 - INFO -   Hazard Lights: OFF
+2025-05-25 01:20:48,252 - INFO -   Right Turn: OFF
+2025-05-25 01:20:48,252 - INFO -   Left Turn: OFF
+2025-05-25 01:20:48,336 - INFO - Received status request
+2025-05-25 01:20:48,366 - INFO - Sent status response:
+2025-05-25 01:20:48,366 - INFO -   Low Beam: ON
+2025-05-25 01:20:48,367 - INFO -   High Beam: OFF
+2025-05-25 01:20:48,367 - INFO -   Parking Left: OFF
+2025-05-25 01:20:48,367 - INFO -   Parking Right: OFF
+2025-05-25 01:20:48,367 - INFO -   Hazard Lights: OFF
+2025-05-25 01:20:48,367 - INFO -   Right Turn: OFF
+2025-05-25 01:20:48,367 - INFO -   Left Turn: OFF
+2025-05-25 01:21:00,881 - INFO - Controlled LED: High Beam = ON (0x1)
+2025-05-25 01:21:00,918 - INFO - Sent status response:
+2025-05-25 01:21:00,918 - INFO -   Low Beam: ON
+2025-05-25 01:21:00,919 - INFO -   High Beam: ON
+2025-05-25 01:21:00,919 - INFO -   Parking Left: OFF
+2025-05-25 01:21:00,919 - INFO -   Parking Right: OFF
+2025-05-25 01:21:00,919 - INFO -   Hazard Lights: OFF
+2025-05-25 01:21:00,919 - INFO -   Right Turn: OFF
+2025-05-25 01:21:00,919 - INFO -   Left Turn: OFF
+2025-05-25 01:21:01,004 - INFO - Received status request
+2025-05-25 01:21:01,030 - INFO - Sent status response:
+2025-05-25 01:21:01,030 - INFO -   Low Beam: ON
+2025-05-25 01:21:01,031 - INFO -   High Beam: ON
+2025-05-25 01:21:01,031 - INFO -   Parking Left: OFF
+2025-05-25 01:21:01,031 - INFO -   Parking Right: OFF
+2025-05-25 01:21:01,031 - INFO -   Hazard Lights: OFF
+2025-05-25 01:21:01,031 - INFO -   Right Turn: OFF
+2025-05-25 01:21:01,032 - INFO -   Left Turn: OFF
+2025-05-25 01:23:59,032 - INFO - Received keyboard interrupt
+2025-05-25 01:23:59,033 - INFO - Shutting down...
+2025-05-25 01:24:00,459 - INFO - GPIO initialized - All pins set to LOW
+2025-05-25 01:24:00,460 - INFO - LIN Slave Node - Listening for frames...
+2025-05-25 01:24:19,341 - INFO - Shutting down...
+2025-05-25 01:32:41,045 - INFO - GPIO initialization completed successfully
+2025-05-25 01:32:41,048 - INFO - Serial communication initialized
+2025-05-25 01:32:41,049 - INFO - Slave node initialized
+2025-05-25 01:32:41,050 - INFO - Starting LIN message processing...
+2025-05-25 01:33:01,024 - ERROR - Error in receive_messages: name 'LIGHT_IDS' is not defined
+2025-05-25 01:33:01,025 - INFO - Starting shutdown sequence...
+2025-05-25 01:33:01,025 - ERROR - Failed to turn off pin 18 for Hazard Lights: The GPIO channel has not been set up as an OUTPUT
+2025-05-25 01:33:01,026 - INFO - Shutdown complete
+2025-05-25 01:35:15,198 - INFO - GPIO initialization completed successfully
+2025-05-25 01:35:15,200 - INFO - Serial communication initialized
+2025-05-25 01:35:15,200 - INFO - Slave node initialized
+2025-05-25 01:35:15,200 - INFO - Starting LIN message processing...
+2025-05-25 01:36:05,769 - INFO - Keyboard interrupt received
+2025-05-25 01:36:05,770 - INFO - Starting shutdown sequence...
+2025-05-25 01:36:05,772 - ERROR - Failed to turn off pin 18 for Hazard Lights: The GPIO channel has not been set up as an OUTPUT
+2025-05-25 01:36:05,773 - INFO - Shutdown complete
+2025-05-25 01:36:12,224 - INFO - GPIO initialization completed successfully
+2025-05-25 01:36:12,226 - INFO - Serial communication initialized
+2025-05-25 01:36:12,226 - INFO - Slave node initialized
+2025-05-25 01:36:12,226 - INFO - Starting LIN message processing...
+2025-05-25 01:36:40,157 - INFO - Keyboard interrupt received
+2025-05-25 01:36:40,157 - INFO - Starting shutdown sequence...
+2025-05-25 01:36:40,158 - ERROR - Failed to turn off pin 18 for Hazard Lights: The GPIO channel has not been set up as an OUTPUT
+2025-05-25 01:36:40,158 - INFO - Shutdown complete
+2025-05-25 02:05:29,337 - INFO - GPIO initialization completed successfully
+2025-05-25 02:05:29,339 - INFO - Serial communication initialized
+2025-05-25 02:05:29,340 - INFO - Slave node initialized
+2025-05-25 02:05:29,340 - INFO - Starting LIN message processing...
+2025-05-25 02:05:57,267 - INFO - Processing High Beam command: 0x1
+2025-05-25 02:05:57,267 - INFO - High Beam set to ON
+2025-05-25 02:05:57,306 - INFO - Sent LIN response: ID=0x18, Data=00010000000000
+2025-05-25 02:05:57,390 - INFO - Received status request
+2025-05-25 02:05:57,420 - INFO - Sent LIN response: ID=0x18, Data=00010000000000
+2025-05-25 02:06:24,157 - INFO - Processing High Beam command: 0x0
+2025-05-25 02:06:24,157 - INFO - High Beam set to OFF
+2025-05-25 02:06:24,194 - INFO - Sent LIN response: ID=0x18, Data=00000000000000
+2025-05-25 02:06:24,310 - INFO - Received status request
+2025-05-25 02:06:24,338 - INFO - Sent LIN response: ID=0x18, Data=00000000000000
+2025-05-25 02:09:42,220 - INFO - Processing High Beam command: 0x1
+2025-05-25 02:09:42,220 - INFO - High Beam set to ON
+2025-05-25 02:09:42,258 - INFO - Sent LIN response: ID=0x18, Data=00010000000000
+2025-05-25 02:09:42,343 - INFO - Received status request
+2025-05-25 02:09:42,370 - INFO - Sent LIN response: ID=0x18, Data=00010000000000
+2025-05-25 02:10:44,160 - INFO - Processing Left Turn command: 0x1
+2025-05-25 02:10:44,161 - INFO - Left turn signal started
+2025-05-25 02:10:44,162 - INFO - Left Turn set to ON
+2025-05-25 02:10:44,198 - INFO - Sent LIN response: ID=0x18, Data=00010000000001
+2025-05-25 02:10:44,283 - INFO - Received status request
+2025-05-25 02:10:44,310 - INFO - Sent LIN response: ID=0x18, Data=00010000000001
+2025-05-25 02:10:51,523 - INFO - Processing Right Turn command: 0x1
+2025-05-25 02:10:51,524 - INFO - Right turn signal started
+2025-05-25 02:10:51,525 - INFO - Right Turn set to ON
+2025-05-25 02:10:51,562 - INFO - Sent LIN response: ID=0x18, Data=00010000000101
+2025-05-25 02:10:51,847 - INFO - Received status request
+2025-05-25 02:10:51,875 - INFO - Sent LIN response: ID=0x18, Data=00010000000101
+2025-05-25 02:12:21,800 - INFO - Processing Hazard Lights command: 0x1
+2025-05-25 02:12:21,801 - ERROR - Hazard effect error: The GPIO channel has not been set up as an OUTPUT
+2025-05-25 02:12:21,801 - INFO - Hazard lights started
+2025-05-25 02:12:21,802 - INFO - Hazard Lights set to ON
+2025-05-25 02:12:21,842 - INFO - Sent LIN response: ID=0x18, Data=00010000010101
+2025-05-25 02:12:21,927 - INFO - Received status request
+2025-05-25 02:12:21,954 - INFO - Sent LIN response: ID=0x18, Data=00010000010101
+2025-05-25 02:12:49,861 - INFO - Keyboard interrupt received
+2025-05-25 02:12:49,861 - INFO - Starting shutdown sequence...
+2025-05-25 02:12:49,862 - ERROR - Failed to turn off pin 18 for Hazard Lights: The GPIO channel has not been set up as an OUTPUT
+2025-05-25 02:12:49,862 - INFO - Hazard lights stopped
+2025-05-25 02:12:50,221 - INFO - Left turn signal stopped
+2025-05-25 02:12:50,382 - INFO - Right turn signal stopped
+2025-05-25 02:12:50,383 - ERROR - Failed to turn off pin 18 for Hazard Lights: The GPIO channel has not been set up as an OUTPUT
+2025-05-25 02:12:50,383 - INFO - Shutdown complete
+2025-05-25 02:15:39,114 - INFO - GPIO initialized - All pins set to LOW
+2025-05-25 02:15:39,116 - INFO - LIN Slave Node - Listening for frames...
+2025-05-25 02:16:10,163 - INFO - Shutting down...
+2025-05-25 02:31:33,672 - INFO - GPIO initialized - All pins set to LOW
+2025-05-25 02:31:33,673 - INFO - LIN Slave Node - Listening for frames...
+2025-05-25 02:31:45,121 - INFO - Controlled LED: Hazard Lights = ON (0x1)
+2025-05-25 02:31:45,158 - INFO - Sent status response:
+2025-05-25 02:31:45,158 - INFO -   Low Beam: OFF
+2025-05-25 02:31:45,159 - INFO -   High Beam: OFF
+2025-05-25 02:31:45,159 - INFO -   Parking Left: OFF
+2025-05-25 02:31:45,159 - INFO -   Parking Right: OFF
+2025-05-25 02:31:45,159 - INFO -   Hazard Lights: ON
+2025-05-25 02:31:45,160 - INFO -   Right Turn: OFF
+2025-05-25 02:31:45,160 - INFO -   Left Turn: OFF
+2025-05-25 02:31:45,243 - INFO - Received status request
+2025-05-25 02:31:45,270 - INFO - Sent status response:
+2025-05-25 02:31:45,270 - INFO -   Low Beam: OFF
+2025-05-25 02:31:45,271 - INFO -   High Beam: OFF
+2025-05-25 02:31:45,271 - INFO -   Parking Left: OFF
+2025-05-25 02:31:45,271 - INFO -   Parking Right: OFF
+2025-05-25 02:31:45,271 - INFO -   Hazard Lights: ON
+2025-05-25 02:31:45,271 - INFO -   Right Turn: OFF
+2025-05-25 02:31:45,271 - INFO -   Left Turn: OFF
+2025-05-25 02:32:32,059 - INFO - Received keyboard interrupt
+2025-05-25 02:32:32,059 - INFO - Shutting down...
+2025-05-25 02:32:32,131 - INFO - Shutdown complete
+2025-05-25 02:33:32,041 - INFO - GPIO initialized - All pins set to LOW
+2025-05-25 02:33:32,042 - INFO - LIN Slave Node - Listening for frames...
+2025-05-25 02:34:16,942 - INFO - Received keyboard interrupt
+2025-05-25 02:34:16,943 - INFO - Shutting down...
+2025-05-25 02:34:16,944 - INFO - Shutdown complete
+2025-05-25 02:34:53,894 - INFO - GPIO initialized - All pins set to LOW
+2025-05-25 02:34:53,896 - INFO - LIN Slave Node - Listening for frames...
+2025-05-25 02:35:11,113 - INFO - Controlled LED: Right Turn = ON (0x1)
+2025-05-25 02:35:11,150 - INFO - Sent status response:
+2025-05-25 02:35:11,151 - INFO -   Low Beam: OFF
+2025-05-25 02:35:11,151 - INFO -   High Beam: OFF
+2025-05-25 02:35:11,152 - INFO -   Parking Left: OFF
+2025-05-25 02:35:11,152 - INFO -   Parking Right: OFF
+2025-05-25 02:35:11,153 - INFO -   Hazard Lights: OFF
+2025-05-25 02:35:11,153 - INFO -   Right Turn: ON
+2025-05-25 02:35:11,154 - INFO -   Left Turn: OFF
+2025-05-25 02:35:11,234 - INFO - Received status request
+2025-05-25 02:35:11,266 - INFO - Sent status response:
+2025-05-25 02:35:11,267 - INFO -   Low Beam: OFF
+2025-05-25 02:35:11,267 - INFO -   High Beam: OFF
+2025-05-25 02:35:11,268 - INFO -   Parking Left: OFF
+2025-05-25 02:35:11,268 - INFO -   Parking Right: OFF
+2025-05-25 02:35:11,269 - INFO -   Hazard Lights: OFF
+2025-05-25 02:35:11,270 - INFO -   Right Turn: ON
+2025-05-25 02:35:11,271 - INFO -   Left Turn: OFF
+2025-05-25 02:35:30,591 - INFO - Controlled LED: Hazard Lights = ON (0x1)
+2025-05-25 02:35:30,630 - INFO - Sent status response:
+2025-05-25 02:35:30,630 - INFO -   Low Beam: OFF
+2025-05-25 02:35:30,631 - INFO -   High Beam: OFF
+2025-05-25 02:35:30,631 - INFO -   Parking Left: OFF
+2025-05-25 02:35:30,632 - INFO -   Parking Right: OFF
+2025-05-25 02:35:30,632 - INFO -   Hazard Lights: ON
+2025-05-25 02:35:30,633 - INFO -   Right Turn: ON
+2025-05-25 02:35:30,634 - INFO -   Left Turn: OFF
+2025-05-25 02:35:30,714 - INFO - Received status request
+2025-05-25 02:35:30,743 - INFO - Sent status response:
+2025-05-25 02:35:30,745 - INFO -   Low Beam: OFF
+2025-05-25 02:35:30,747 - INFO -   High Beam: OFF
+2025-05-25 02:35:30,748 - INFO -   Parking Left: OFF
+2025-05-25 02:35:30,748 - INFO -   Parking Right: OFF
+2025-05-25 02:35:30,748 - INFO -   Hazard Lights: ON
+2025-05-25 02:35:30,749 - INFO -   Right Turn: ON
+2025-05-25 02:35:30,749 - INFO -   Left Turn: OFF
+2025-05-25 02:35:48,595 - INFO - Controlled LED: Hazard Lights = OFF (0x0)
+2025-05-25 02:35:48,626 - INFO - Sent status response:
+2025-05-25 02:35:48,627 - INFO -   Low Beam: OFF
+2025-05-25 02:35:48,627 - INFO -   High Beam: OFF
+2025-05-25 02:35:48,627 - INFO -   Parking Left: OFF
+2025-05-25 02:35:48,627 - INFO -   Parking Right: OFF
+2025-05-25 02:35:48,627 - INFO -   Hazard Lights: OFF
+2025-05-25 02:35:48,628 - INFO -   Right Turn: ON
+2025-05-25 02:35:48,628 - INFO -   Left Turn: OFF
+2025-05-25 02:35:48,638 - INFO - Received status request
+2025-05-25 02:35:48,670 - INFO - Sent status response:
+2025-05-25 02:35:48,670 - INFO -   Low Beam: OFF
+2025-05-25 02:35:48,671 - INFO -   High Beam: OFF
+2025-05-25 02:35:48,671 - INFO -   Parking Left: OFF
+2025-05-25 02:35:48,671 - INFO -   Parking Right: OFF
+2025-05-25 02:35:48,672 - INFO -   Hazard Lights: OFF
+2025-05-25 02:35:48,672 - INFO -   Right Turn: ON
+2025-05-25 02:35:48,672 - INFO -   Left Turn: OFF
+2025-05-25 02:38:00,401 - INFO - Controlled LED: Right Turn = OFF (0x0)
+2025-05-25 02:38:00,438 - INFO - Sent status response:
+2025-05-25 02:38:00,438 - INFO -   Low Beam: OFF
+2025-05-25 02:38:00,439 - INFO -   High Beam: OFF
+2025-05-25 02:38:00,439 - INFO -   Parking Left: OFF
+2025-05-25 02:38:00,439 - INFO -   Parking Right: OFF
+2025-05-25 02:38:00,439 - INFO -   Hazard Lights: OFF
+2025-05-25 02:38:00,439 - INFO -   Right Turn: OFF
+2025-05-25 02:38:00,440 - INFO -   Left Turn: OFF
+2025-05-25 02:38:00,442 - INFO - Received status request
+2025-05-25 02:38:00,470 - INFO - Sent status response:
+2025-05-25 02:38:00,470 - INFO -   Low Beam: OFF
+2025-05-25 02:38:00,471 - INFO -   High Beam: OFF
+2025-05-25 02:38:00,471 - INFO -   Parking Left: OFF
+2025-05-25 02:38:00,471 - INFO -   Parking Right: OFF
+2025-05-25 02:38:00,471 - INFO -   Hazard Lights: OFF
+2025-05-25 02:38:00,471 - INFO -   Right Turn: OFF
+2025-05-25 02:38:00,472 - INFO -   Left Turn: OFF
+2025-05-25 02:38:11,927 - INFO - Received keyboard interrupt
+2025-05-25 02:38:11,927 - INFO - Shutting down...
+2025-05-25 02:38:11,928 - INFO - Shutdown complete
+2025-05-25 02:38:13,132 - INFO - GPIO initialized - All pins set to LOW
+2025-05-25 02:38:13,134 - INFO - LIN Slave Node - Listening for frames...
+2025-05-25 02:38:30,435 - INFO - Controlled LED: Hazard Lights = ON (0x1)
+2025-05-25 02:38:30,474 - INFO - Sent status response:
+2025-05-25 02:38:30,476 - INFO -   Low Beam: OFF
+2025-05-25 02:38:30,478 - INFO -   High Beam: OFF
+2025-05-25 02:38:30,480 - INFO -   Parking Left: OFF
+2025-05-25 02:38:30,482 - INFO -   Parking Right: OFF
+2025-05-25 02:38:30,483 - INFO -   Hazard Lights: ON
+2025-05-25 02:38:30,484 - INFO -   Right Turn: OFF
+2025-05-25 02:38:30,484 - INFO -   Left Turn: OFF
+2025-05-25 02:38:30,557 - INFO - Received status request
+2025-05-25 02:38:30,586 - INFO - Sent status response:
+2025-05-25 02:38:30,586 - INFO -   Low Beam: OFF
+2025-05-25 02:38:30,587 - INFO -   High Beam: OFF
+2025-05-25 02:38:30,587 - INFO -   Parking Left: OFF
+2025-05-25 02:38:30,587 - INFO -   Parking Right: OFF
+2025-05-25 02:38:30,587 - INFO -   Hazard Lights: ON
+2025-05-25 02:38:30,587 - INFO -   Right Turn: OFF
+2025-05-25 02:38:30,587 - INFO -   Left Turn: OFF
+2025-05-25 02:38:35,376 - INFO - Received keyboard interrupt
+2025-05-25 02:38:35,377 - INFO - Shutting down...
+2025-05-25 02:38:35,437 - INFO - Shutdown complete
