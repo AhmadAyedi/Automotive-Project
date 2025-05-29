@@ -17,12 +17,20 @@ LIGHT_IDS = {
     "Left Turn": 0x107
 }
 
-# Status codes for CAN communication (1 byte) - Using uppercase keys to match input file
+# Status codes for CAN communication
 STATUS_CODES = {
     "ACTIVATED": 0x01,
     "DEACTIVATED": 0x00,
     "FAILED": 0xFF,
     "INVALID": 0xFE
+}
+
+# Mode codes (for mode indicator LEDs only)
+MODE_CODES = {
+    "FAHREN": 0x01,
+    "STAND": 0x02,
+    "PARKING": 0x03,
+    "WOHNEN": 0x04
 }
 
 # Database event IDs
@@ -36,7 +44,7 @@ EVENT_IDS = {
     0x107: 14   # Left Turn
 }
 
-# Reverse mappings for response parsing
+# Reverse mappings
 LIGHT_NAMES = {
     0x101: "Low Beam",
     0x102: "High Beam",
@@ -54,6 +62,13 @@ STATUS_NAMES = {
     0xFE: "INVALID"
 }
 
+MODE_NAMES = {
+    0x01: "Fahren",
+    0x02: "Stand",
+    0x03: "Parking",
+    0x04: "Wohnen"
+}
+
 class CANLightMaster:
     def __init__(self, filename):
         self.filename = filename
@@ -66,6 +81,7 @@ class CANLightMaster:
         self.db_cursor = None
         self.last_modified_light = None
         self.last_processed_status = {light: None for light in LIGHT_IDS}
+        self.last_processed_mode = {light: None for light in LIGHT_IDS}
         
         self.init_can_bus()
         self.init_db_connection()
@@ -86,7 +102,7 @@ class CANLightMaster:
     def init_db_connection(self):
         try:
             self.db_connection = mysql.connector.connect(
-                host="10.20.0.119",
+                host="192.168.1.119",
                 user="monuserr",
                 password="khalil",
                 database="khalil"
@@ -126,15 +142,16 @@ class CANLightMaster:
             print(f"Error connecting to MySQL: {e}")
             raise
     
-    def send_can_message(self, light, status):
+    def send_can_message(self, light, status, mode):
         try:
             msg = can.Message(
                 arbitration_id=LIGHT_IDS[light],
-                data=[STATUS_CODES[status]],
+                data=[STATUS_CODES[status], MODE_CODES[mode]],
                 is_extended_id=False
             )
             self.bus.send(msg)
-            print(f"Sent: {light} - {status} (ID: {hex(LIGHT_IDS[light])}, Data: {hex(STATUS_CODES[status])})")
+            print(f"Sent: {light} - {status} - {mode} (ID: {hex(LIGHT_IDS[light])}, Data: {[hex(STATUS_CODES[status]), hex(MODE_CODES[mode])]})")
+            self.last_modified_light = (light, LIGHT_IDS[light])
         except Exception as e:
             print(f"Error sending CAN message: {e}")
     
@@ -245,26 +262,35 @@ class CANLightMaster:
                         new_content = f.read()
                         self.last_size = current_size
                         
-                        lines = new_content.split('\n')
-                        for line in lines:
-                            if line.strip() and line.startswith("Light:") and "Result:" in line:
+                        for line in new_content.split('\n'):
+                            if line.strip() and line.startswith("Light:"):
                                 try:
-                                    parts = line.split('|')
+                                    parts = [p.strip() for p in line.split('|')]
+                                    if len(parts) < 3:
+                                        print(f"Skipping incomplete line: {line}")
+                                        continue
+                                        
                                     light = parts[0].split(':')[1].strip()
-                                    status = parts[1].split(':')[1].strip().upper()  # Convert to uppercase
+                                    status = parts[1].split(':')[1].strip().upper()
+                                    mode = parts[2].split(':')[1].strip().upper()
                                     
-                                    if light in LIGHT_IDS and status in STATUS_CODES:
-                                        if self.last_processed_status[light] != status:
-                                            self.last_modified_light = (light, LIGHT_IDS[light])
-                                            self.send_can_message(light, status)
+                                    if (light in LIGHT_IDS and 
+                                        status in STATUS_CODES and 
+                                        mode in MODE_CODES):
+                                        
+                                        if (self.last_processed_status[light] != status or 
+                                            self.last_processed_mode[light] != mode):
+                                            
+                                            self.send_can_message(light, status, mode)
                                             self.last_processed_status[light] = status
-                                            print(f"Processed status change for {light}: {status}")
+                                            self.last_processed_mode[light] = mode
+                                            print(f"Processed status/mode change for {light}: {status}/{mode}")
                                         else:
-                                            print(f"No change in {light} status: {status}, skipping")
+                                            print(f"No change in {light} status/mode, skipping")
                                     else:
-                                        print(f"Ignoring unknown light/status: {line}")
-                                except IndexError:
-                                    print(f"Malformed line: {line}")
+                                        print(f"Ignoring unknown light/status/mode: {line}")
+                                except (IndexError, ValueError) as e:
+                                    print(f"Malformed line: {line} - Error: {e}")
                 
                 time.sleep(0.1)
                 
@@ -273,7 +299,7 @@ class CANLightMaster:
     
     def shutdown(self):
         self.running = False
-        if self.response_thread.is_alive():
+        if hasattr(self, 'response_thread') and self.response_thread.is_alive():
             self.response_thread.join(timeout=0.5)
         if self.bus:
             self.bus.shutdown()
