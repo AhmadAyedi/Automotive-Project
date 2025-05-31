@@ -44,18 +44,18 @@ STATUS_NAMES = {
 
 # GPIO pins for LEDs with new configuration
 LED_GROUPS = {
-    "Low Beam": [3, 22],
-    "High Beam": [3, 22, 2, 27],
-    "Parking Left": [19, 26],
-    "Parking Right": [20, 21],
-    "Hazard Lights": [18, 24, 7],
+    "Low Beam": [1, 0],
+    "High Beam": [1, 0, 17, 5],
+    "Parking Left": [6, 13],
+    "Parking Right": [12, 16],
+    "Hazard Lights": [18, 23, 24],
     "Left Turn": {
-        "group1": [23, 17],
-        "group2": [6, 13]
+        "group1": [3, 2],
+        "group2": [26, 19]
     },
     "Right Turn": {
-        "group1": [0, 5],
-        "group2": [12, 16]
+        "group1": [22, 27],
+        "group2": [21, 20]
     }
 }
 

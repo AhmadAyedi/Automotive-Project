@@ -45,27 +45,27 @@ MODE_CODES = {
 
 # GPIO pins for LEDs with new configuration
 LED_GROUPS = {
-    "Low Beam": [3, 22],
-    "High Beam": [3, 22, 2, 27],
-    "Parking Left": [19, 26],
-    "Parking Right": [20, 21],
-    "Hazard Lights": [23, 17, 6, 13, 0, 5, 12, 16],  # Updated hazard lights
+    "Low Beam": [1, 0],
+    "High Beam": [1, 0, 17, 5],
+    "Parking Left": [6, 13],
+    "Parking Right": [12, 16],
+    "Hazard Lights": [2, 3, 27, 22, 19, 26, 20, 21],
     "Left Turn": {
-        "group1": [23, 17],
-        "group2": [6, 13]
+        "group1": [3, 2],
+        "group2": [26, 19]
     },
     "Right Turn": {
-        "group1": [0, 5],
-        "group2": [12, 16]
+        "group1": [22, 27],
+        "group2": [21, 20]
     }
 }
 
 # Mode indicator LEDs
 MODE_LEDS = {
-    "Fahren": 1,
-    "Stand": 24,
-    "Parking": 7,
-    "Wohnen": 18
+    "Fahren": 7,
+    "Stand": 23,
+    "Parking": 18,
+    "Wohnen": 24
 }
 
 # Configure logging

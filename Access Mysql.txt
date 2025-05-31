@@ -1,0 +1,2 @@
+CREATE USER 'myuser1'@'192.168.1.12' IDENTIFIED BY 'root';
+GRANT ALL PRIVILEGES ON khalil.* TO 'myuser1'@'192.168.1.12';

@@ -24,7 +24,7 @@ RESPONSE_IDS = {
 
 # GPIO pins for each window's LEDs
 WINDOW_LEDS = {
-    "DR": [2, 3, 23, 17],
+    "DR": [2, 3, 1, 17],
     "PS": [27, 22, 0, 5],
     "DRS": [6, 13, 19, 26],
     "PRS": [12, 16, 20, 21]
@@ -32,8 +32,8 @@ WINDOW_LEDS = {
 
 # Status indicator LEDs
 RED_LED = 18
-GREEN_LED = 24
-YELLOW_LED = 7
+GREEN_LED = 7
+YELLOW_LED = 23
 
 # Result codes
 RESULT_CODES = ["OP", "CL", "OPG", "CLG", "FOP", "OP_D", "CL_D", "OPG_D", "CLG_D", "FOP_D", 
