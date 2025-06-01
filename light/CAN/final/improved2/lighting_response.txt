@@ -1,0 +1,8 @@
+High Beam | ON | Fahren
+High Beam | ON | Wohnen
+High Beam | ON | Wohnen
+High Beam | OFF | Wohnen
+Hazard Lights | ON | Stand
+Hazard Lights | OFF | Stand
+Left Turn | ON | Wohnen
+Left Turn | ON | Fahren

@@ -5,7 +5,7 @@ import os
 import time
 import threading
 
-# Light ID definitions
+# Light ID definitions (matches master)
 LIGHT_IDS = {
     0x101: "Low Beam",
     0x102: "High Beam",
@@ -16,15 +16,26 @@ LIGHT_IDS = {
     0x107: "Left Turn"
 }
 
+# Response IDs (same as light IDs for two-way communication)
+RESPONSE_IDS = {
+    "Low Beam": 0x101,
+    "High Beam": 0x102,
+    "Parking Left": 0x103,
+    "Parking Right": 0x104,
+    "Hazard Lights": 0x105,
+    "Right Turn": 0x106,
+    "Left Turn": 0x107
+}
+
 # Status codes
 STATUS_CODES = {
-    0x01: "activated",
-    0x00: "desactivated",
+    0x01: "ON",
+    0x00: "OFF",
     0xFF: "FAILED",
     0xFE: "INVALID"
 }
 
-# Mode codes (for mode indicator LEDs only)
+# Mode codes
 MODE_CODES = {
     0x01: "Fahren",
     0x02: "Stand",
@@ -34,27 +45,27 @@ MODE_CODES = {
 
 # GPIO pins for LEDs with new configuration
 LED_GROUPS = {
-    "Low Beam": [3, 22],
-    "High Beam": [3, 22, 2, 27],
-    "Parking Left": [19, 26],
-    "Parking Right": [20, 21],
-    "Hazard Lights": [23, 17, 6, 13, 0, 5, 12, 16],  # Updated hazard lights
+    "Low Beam": [1, 0],
+    "High Beam": [1, 0, 17, 5],
+    "Parking Left": [6, 13],
+    "Parking Right": [12, 16],
+    "Hazard Lights": [2, 3, 27, 22, 19, 26, 20, 21],
     "Left Turn": {
-        "group1": [23, 17],
-        "group2": [6, 13]
+        "group1": [3, 2],
+        "group2": [26, 19]
     },
     "Right Turn": {
-        "group1": [0, 5],
-        "group2": [12, 16]
+        "group1": [22, 27],
+        "group2": [21, 20]
     }
 }
 
-# Mode indicator LEDs (only these depend on mode)
+# Mode indicator LEDs
 MODE_LEDS = {
-    "Fahren": 1,
-    "Stand": 24,
-    "Parking": 7,
-    "Wohnen": 18
+    "Fahren": 7,
+    "Stand": 23,
+    "Parking": 18,
+    "Wohnen": 24
 }
 
 # Configure logging
@@ -70,45 +81,35 @@ logging.basicConfig(
 class CANLightSlave:
     def __init__(self):
         self.channel = 'can0'
+        self.bustype = 'socketcan'
         self.bus = None
         self.running = True
-        self.RESPONSE_ID = 0x200
-        self.light_statuses = {
-            "Low Beam": 0,
-            "High Beam": 0,
-            "Parking Left": 0,
-            "Parking Right": 0,
-            "Hazard Lights": 0,
-            "Right Turn": 0,
-            "Left Turn": 0
+        self.light_status = {
+            "Low Beam": {"status": 0, "mode": "Stand"},
+            "High Beam": {"status": 0, "mode": "Stand"},
+            "Parking Left": {"status": 0, "mode": "Stand"},
+            "Parking Right": {"status": 0, "mode": "Stand"},
+            "Hazard Lights": {"status": 0, "mode": "Stand"},
+            "Right Turn": {"status": 0, "mode": "Stand"},
+            "Left Turn": {"status": 0, "mode": "Stand"}
         }
-        self.current_mode = "Stand"  # Default mode
-        self.led_states = {
-            "Low Beam": False,
-            "High Beam": False,
-            "Parking Left": False,
-            "Parking Right": False,
-            "Hazard Lights": False,
-            "Right Turn": False,
-            "Left Turn": False
-        }
+        self.led_states = {light: False for light in LIGHT_IDS.values()}
         self.hazard_thread = None
         self.left_turn_thread = None
         self.right_turn_thread = None
         self.hazard_running = False
         self.left_turn_running = False
         self.right_turn_running = False
+        self.current_mode = "Stand"
         
         self.init_can_bus()
         self.setup_gpio()
     
     def init_can_bus(self):
         try:
-            os.system(f'sudo /sbin/ip link set {self.channel} down 2>/dev/null')
-            time.sleep(0.1)
             os.system(f'sudo /sbin/ip link set {self.channel} up type can bitrate 500000')
             time.sleep(0.1)
-            self.bus = can.interface.Bus(interface='socketcan', channel=self.channel)
+            self.bus = can.interface.Bus(channel=self.channel, bustype=self.bustype)
             logging.info("CAN initialized")
         except Exception as e:
             logging.error(f"CAN init failed: {e}")
@@ -136,34 +137,25 @@ class CANLightSlave:
             GPIO.setup(pin, GPIO.OUT)
             GPIO.output(pin, GPIO.LOW)
         
-        # Initialize mode indicator
-        self.update_mode_indicator(self.current_mode)
-        
         logging.info("GPIO initialized - All pins set to LOW")
     
-    def update_mode_indicator(self, mode):
-        """Update the mode indicator LED based on current mode."""
+    def update_mode_leds(self, mode_name):
+        """Update the mode indicator LEDs based on current mode."""
         # Turn off all mode indicator LEDs first
         for pin in MODE_LEDS.values():
             GPIO.output(pin, GPIO.LOW)
         
         # Turn on the current mode LED
-        if mode in MODE_LEDS:
-            GPIO.output(MODE_LEDS[mode], GPIO.HIGH)
-            logging.info(f"Mode indicator set to {mode} (GPIO {MODE_LEDS[mode]})")
+        if mode_name in MODE_LEDS:
+            GPIO.output(MODE_LEDS[mode_name], GPIO.HIGH)
+            self.current_mode = mode_name
+            logging.info(f"Mode indicator set to {mode_name} (GPIO {MODE_LEDS[mode_name]})")
     
-    def control_led(self, light, status_code, mode_code):
-        """Control the LED based on the light type and status code."""
+    def control_light_status(self, light, status_code):
+        """Control the light based only on status code (ON/OFF/FAILED/INVALID)."""
         if status_code not in [0x01, 0x00, 0xFF, 0xFE]:
             logging.warning(f"Invalid status code received for {light}: {hex(status_code)}")
             return
-        
-        # Update mode if valid
-        if mode_code in MODE_CODES:
-            new_mode = MODE_CODES[mode_code]
-            if new_mode != self.current_mode:
-                self.current_mode = new_mode
-                self.update_mode_indicator(self.current_mode)
         
         # Stop any running effects first
         if light == "Hazard Lights":
@@ -173,7 +165,7 @@ class CANLightSlave:
         elif light == "Right Turn":
             self.stop_right_turn()
         
-        if status_code == 0x01:  # activated
+        if status_code == 0x01:  # ON
             if light == "Hazard Lights":
                 self.start_hazard_lights()
             elif light == "Left Turn":
@@ -183,24 +175,39 @@ class CANLightSlave:
             else:
                 self.turn_on_light(light)
             
-            self.light_statuses[light] = 1
+            self.light_status[light]["status"] = 1
             self.led_states[light] = True
             
-        elif status_code == 0x00:  # desactivated
+        elif status_code == 0x00:  # OFF
             self.turn_off_light(light)
-            self.light_statuses[light] = 0
+            self.light_status[light]["status"] = 0
             self.led_states[light] = False
             
         elif status_code == 0xFF:  # FAILED
             self.turn_off_light(light)
-            self.light_statuses[light] = 0
+            self.light_status[light]["status"] = 0
             self.led_states[light] = False
             
         elif status_code == 0xFE:  # INVALID - keep previous state
-            pass
+            return
         
-        status_name = STATUS_CODES.get(status_code, f"Unknown code: {hex(status_code)}")
-        logging.info(f"Controlled LED: {light} = {status_name} ({hex(status_code)}), Mode: {self.current_mode}")
+        status_name = STATUS_CODES.get(status_code, f"Unknown: {hex(status_code)}")
+        logging.info(f"Controlled {light}: {status_name}")
+    
+    def control_mode(self, mode_code):
+        """Control the mode indicator LEDs based only on mode code."""
+        if mode_code not in [0x01, 0x02, 0x03, 0x04]:
+            logging.warning(f"Invalid mode code received: {hex(mode_code)}")
+            return
+        
+        mode_name = MODE_CODES.get(mode_code, "Stand")
+        self.update_mode_leds(mode_name)
+        
+        # Update mode in all light statuses
+        for light in self.light_status:
+            self.light_status[light]["mode"] = mode_name
+        
+        logging.info(f"Updated mode to: {mode_name}")
     
     def turn_on_light(self, light):
         """Turn on a simple light (non-blinking, non-flowing)."""
@@ -327,47 +334,29 @@ class CANLightSlave:
             GPIO.output(group2[1], GPIO.LOW)
             time.sleep(0.3)
     
-    def create_response_frame(self):
-        """Create CAN frame with status of all lights."""
-        light_order = [
-            "Low Beam", "High Beam", "Parking Left", "Parking Right",
-            "Hazard Lights", "Right Turn", "Left Turn"
-        ]
-        data = bytearray(7)
-        for i, light in enumerate(light_order):
-            data[i] = self.light_statuses[light]  # 1 for ON, 0 for OFF
-        return data
-    
-    def send_response(self):
-        """Send response signals back to master."""
+    def send_light_response(self, light):
+        """Send response for a specific light"""
         try:
-            data = self.create_response_frame()
+            status_data = self.light_status[light]
+            msg_data = [
+                0x01 if status_data["status"] else 0x00,  # Status
+                [k for k, v in MODE_CODES.items() if v == status_data["mode"]][0]  # Mode code
+            ]
+            
             msg = can.Message(
-                arbitration_id=self.RESPONSE_ID,
-                data=data,
+                arbitration_id=RESPONSE_IDS[light],
+                data=msg_data,
                 is_extended_id=False
             )
+            
             self.bus.send(msg)
-            
-            print("\nSent Response Signals (Raw):")
-            light_order = [
-                0x101,  # Low Beam
-                0x102,  # High Beam
-                0x103,  # Parking Left
-                0x104,  # Parking Right
-                0x105,  # Hazard Lights
-                0x106,  # Right Turn
-                0x107   # Left Turn
-            ]
-            for i, light_id in enumerate(light_order):
-                print(f"ID: {hex(light_id)}, Status: {hex(data[i])}")
-            
-            logging.info(f"Sent response CAN: {data.hex()}")
+            logging.info(f"Sent response for {light}: Status={msg_data[0]}, Mode={msg_data[1]}")
+            print(f"Sent Response: {light} | {'ON' if msg_data[0] else 'OFF'} | {status_data['mode']}")
         except Exception as e:
-            logging.error(f"CAN response send error: {e}")
+            logging.error(f"Error sending {light} response: {e}")
     
     def receive_messages(self):
-        print("Listening for CAN messages and controlling LEDs...")
+        print("Listening for CAN messages and controlling lights...")
         try:
             while self.running:
                 msg = self.bus.recv(timeout=1.0)
@@ -378,8 +367,11 @@ class CANLightSlave:
                         mode_code = msg.data[1]
                         
                         print(f"Received: {light} | {STATUS_CODES.get(status_code, 'UNKNOWN')} | {MODE_CODES.get(mode_code, 'UNKNOWN')}")
-                        self.control_led(light, status_code, mode_code)
-                        self.send_response()
+                        
+                        # Handle status and mode separately
+                        self.control_light_status(light, status_code)
+                        self.control_mode(mode_code)
+                        self.send_light_response(light)
                 
         except KeyboardInterrupt:
             logging.info("Received keyboard interrupt")
@@ -396,7 +388,7 @@ class CANLightSlave:
         self.stop_right_turn()
         
         # Turn off all LEDs
-        for light in self.light_statuses:
+        for light in self.light_status:
             self.turn_off_light(light)
         
         # Turn off mode indicators
