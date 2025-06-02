@@ -1,2 +1,2 @@
 part1(enis):https://chat.deepseek.com/a/chat/s/a308f4b9-233a-4c4b-a317-6b1ce989a546
-part2(unix):https://chat.deepseek.com/a/chat/s/7770d245-c813-4b44-80c1-61f912fe4a10
+part2(lunix):https://chat.deepseek.com/a/chat/s/7770d245-c813-4b44-80c1-61f912fe4a10

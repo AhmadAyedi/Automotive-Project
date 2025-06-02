@@ -1,35 +1,34 @@
-import serial
+import can
 import time
 import os
 import threading
 from datetime import datetime
 import mysql.connector
 from mysql.connector import Error
-import RPi.GPIO as GPIO
 
-# LIN Frame IDs for each light type
+# CAN IDs for each light type
 LIGHT_IDS = {
-    "Low Beam": 0x10,
-    "High Beam": 0x11,
-    "Parking Left": 0x12,
-    "Parking Right": 0x13,
-    "Hazard Lights": 0x14,
-    "Right Turn": 0x15,
-    "Left Turn": 0x16
+    "Low Beam": 0x101,
+    "High Beam": 0x102,
+    "Parking Left": 0x103,
+    "Parking Right": 0x104,
+    "Hazard Lights": 0x105,
+    "Right Turn": 0x106,
+    "Left Turn": 0x107
 }
 
 # Response IDs (same as light IDs for two-way communication)
 RESPONSE_IDS = {
-    "Low Beam": 0x10,
-    "High Beam": 0x11,
-    "Parking Left": 0x12,
-    "Parking Right": 0x13,
-    "Hazard Lights": 0x14,
-    "Right Turn": 0x15,
-    "Left Turn": 0x16
+    "Low Beam": 0x101,
+    "High Beam": 0x102,
+    "Parking Left": 0x103,
+    "Parking Right": 0x104,
+    "Hazard Lights": 0x105,
+    "Right Turn": 0x106,
+    "Left Turn": 0x107
 }
 
-# Status codes for LIN communication
+# Status codes for CAN communication
 STATUS_CODES = {
     "ACTIVATED": 0x01,
     "DEACTIVATED": 0x00,
@@ -62,25 +61,21 @@ MODE_NAMES = {
 
 # Database event IDs
 EVENT_IDS = {
-    0x10: 5,  # Low Beam
-    0x11: 6,  # High Beam
-    0x12: 3,  # Parking Left
-    0x13: 4,  # Parking Right
-    0x14: 7,  # Hazard Lights
-    0x15: 9,  # Right Turn
-    0x16: 8   # Left Turn
+    0x101: 5,  # Low Beam
+    0x102: 6,  # High Beam
+    0x103: 3,  # Parking Left
+    0x104: 4,  # Parking Right
+    0x105: 7,  # Hazard Lights
+    0x106: 9,  # Right Turn
+    0x107: 8   # Left Turn
 }
 
-# LIN Constants
-SERIAL_PORT = '/dev/serial0'
-BAUD_RATE = 19200
-WAKEUP_PIN = 4
-SYNC_BYTE = 0x55
-BREAK_BYTE = 0x00
-
-class LINLightMaster:
+class CANLightMaster:
     def __init__(self, filename):
         self.filename = filename
+        self.channel = 'can0'
+        self.bustype = 'socketcan'
+        self.bus = None
         self.last_size = os.path.getsize(filename)
         self.running = True
         self.db_connection = None
@@ -89,19 +84,24 @@ class LINLightMaster:
         self.last_processed_status = {light: None for light in LIGHT_IDS}
         self.last_processed_mode = {light: None for light in LIGHT_IDS}
         
-        # Initialize GPIO and serial
-        GPIO.setmode(GPIO.BCM)
-        GPIO.setup(WAKEUP_PIN, GPIO.OUT)
-        GPIO.output(WAKEUP_PIN, GPIO.HIGH)
-        
-        self.ser = serial.Serial(SERIAL_PORT, baudrate=BAUD_RATE, timeout=0)
+        self.init_can_bus()
         self.init_db_connection()
         self.start_response_monitor()
+    
+    def init_can_bus(self):
+        try:
+            os.system(f'sudo /sbin/ip link set {self.channel} up type can bitrate 500000')
+            time.sleep(0.1)
+            self.bus = can.interface.Bus(channel=self.channel, bustype=self.bustype)
+            print("CAN initialized")
+        except Exception as e:
+            print(f"CAN init failed: {e}")
+            raise
     
     def init_db_connection(self):
         try:
             self.db_connection = mysql.connector.connect(
-                host="192.168.1.15",
+                host="10.20.0.23",
                 user="myuser1",
                 password="root",
                 database="khalil"
@@ -141,76 +141,36 @@ class LINLightMaster:
             print(f"Error connecting to MySQL: {e}")
             raise
     
-    def calculate_pid(self, frame_id):
-        if frame_id > 0x3F:
-            raise ValueError("Frame ID must be 6 bits (0-63)")
-        p0 = (frame_id ^ (frame_id >> 1) ^ (frame_id >> 2) ^ (frame_id >> 4)) & 0x01
-        p1 = ~((frame_id >> 1) ^ (frame_id >> 3) ^ (frame_id >> 4) ^ (frame_id >> 5)) & 0x01
-        return (frame_id & 0x3F) | (p0 << 6) | (p1 << 7)
-    
-    def calculate_checksum(self, pid, data):
-        checksum = pid
-        for byte in data:
-            checksum += byte
-            if checksum > 0xFF:
-                checksum -= 0xFF
-        return (0xFF - checksum) & 0xFF
-    
-    def send_break(self):
-        self.ser.baudrate = BAUD_RATE // 4
-        self.ser.write(bytes([BREAK_BYTE]))
-        self.ser.flush()
-        time.sleep(13 * (1.0 / (BAUD_RATE // 4)))
-        self.ser.baudrate = BAUD_RATE
-    
-    def wakeup_slave(self):
-        GPIO.output(WAKEUP_PIN, GPIO.LOW)
-        time.sleep(0.01)
-        GPIO.output(WAKEUP_PIN, GPIO.HIGH)
-    
-    def send_light_command(self, light, status, mode):
-        """Send a LIN frame to control a specific light with status and mode"""
+    def send_can_message(self, light, status, mode):
         try:
-            self.wakeup_slave()
-            self.send_break()
-            
-            self.ser.write(bytes([SYNC_BYTE]))
-            pid = self.calculate_pid(LIGHT_IDS[light])
-            self.ser.write(bytes([pid]))
-            
-            data = bytes([STATUS_CODES[status], MODE_CODES[mode]])
-            self.ser.write(data)
-            
-            checksum = self.calculate_checksum(pid, data)
-            self.ser.write(bytes([checksum]))
-            self.ser.flush()
-            
-            print(f"Sent LIN frame: {light} - {status} - {mode} (ID: {hex(LIGHT_IDS[light])}, Data: {[hex(STATUS_CODES[status]), hex(MODE_CODES[mode])]})")
+            msg = can.Message(
+                arbitration_id=LIGHT_IDS[light],
+                data=[STATUS_CODES[status], MODE_CODES[mode]],
+                is_extended_id=False
+            )
+            self.bus.send(msg)
+            print(f"Sent: {light} - {status} - {mode} (ID: {hex(LIGHT_IDS[light])}, Data: {[hex(STATUS_CODES[status]), hex(MODE_CODES[mode])]})")
             self.last_modified_light = (light, LIGHT_IDS[light])
-            
         except Exception as e:
-            print(f"Error sending LIN message: {e}")
+            print(f"Error sending CAN message: {e}")
     
-    def parse_response_frame(self, data):
-        """Parse the response frame from slave (2 bytes per light - status and mode)"""
-        if len(data) != 14:  # 7 lights * 2 bytes each
-            print(f"Invalid response frame length: {len(data)} bytes")
-            return None
-        
-        signals = {}
-        light_order = [
-            "Low Beam", "High Beam", "Parking Left", "Parking Right",
-            "Hazard Lights", "Right Turn", "Left Turn"
-        ]
-        
-        for i, light in enumerate(light_order):
-            status_code = data[i*2]
-            mode_code = data[i*2 + 1]
-            signals[light] = {
-                "status": STATUS_NAMES.get(status_code, f"Unknown: {hex(status_code)}"),
-                "mode": MODE_NAMES.get(mode_code, f"Unknown: {hex(mode_code)}")
-            }
-        return signals
+    def parse_response_frame(self, msg):
+        """Parse response CAN message from slave"""
+        try:
+            light = next((name for name, can_id in RESPONSE_IDS.items() if can_id == msg.arbitration_id), None)
+            if light and len(msg.data) >= 2:
+                status_code = msg.data[0]
+                mode_code = msg.data[1]
+                
+                return {
+                    light: {
+                        "status": STATUS_NAMES.get(status_code, f"Unknown: {hex(status_code)}"),
+                        "mode": MODE_NAMES.get(mode_code, f"Unknown: {hex(mode_code)}")
+                    }
+                }
+        except (IndexError, ValueError) as e:
+            print(f"Error parsing response: {e}")
+        return None
     
     def write_response_to_file(self, status):
         """Write response status to lighting_response.txt"""
@@ -223,7 +183,7 @@ class LINLightMaster:
             print(f"Error writing to lighting_response.txt: {e}")
     
     def update_database(self, status):
-        """Update the database with light status"""
+        """Update the database with light status (simplified to match previous version)"""
         timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
         
         try:
@@ -267,87 +227,30 @@ class LINLightMaster:
                 print("Database connection lost; will attempt to reconnect on next update")
     
     def monitor_responses(self):
-        """Monitor for response frames from slave"""
-        print("Listening for response LIN messages...")
-        buffer = bytes()
-        
+        """Monitor CAN bus for response messages from slave"""
+        print("Listening for response CAN messages...")
         try:
             while self.running:
-                if self.ser.in_waiting:
-                    byte = self.ser.read(1)
-                    buffer += byte
-                    
-                    # Check for break character (start of LIN frame)
-                    if byte == bytes([BREAK_BYTE]):
-                        buffer = bytes([BREAK_BYTE])  # Start fresh frame
-                        continue
-                        
-                    # Only proceed if we have break + sync
-                    if len(buffer) >= 2 and buffer[0] == BREAK_BYTE and buffer[1] == SYNC_BYTE:
-                        if len(buffer) >= 3:
-                            pid_byte = buffer[2]
-                            frame_id = pid_byte & 0x3F
-                            
-                            # Check if this is a status response (ID 0x18)
-                            if frame_id == 0x18:
-                                data_length = 14  # 7 lights * 2 bytes each
-                                total_length = 3 + data_length + 1  # Break+Sync+PID + data + checksum
-                                
-                                # Read remaining bytes if needed
-                                while len(buffer) < total_length and self.running:
-                                    if self.ser.in_waiting:
-                                        buffer += self.ser.read(1)
-                                    time.sleep(0.001)
-                                
-                                if len(buffer) >= total_length:
-                                    data = buffer[3:3+data_length]
-                                    checksum = buffer[3+data_length]
-                                    
-                                    # Verify checksum
-                                    calc_checksum = self.calculate_checksum(pid_byte, data)
-                                    if checksum == calc_checksum:
-                                        signals = self.parse_response_frame(data)
-                                        if signals:
-                                            print("\nReceived Response Signals:")
-                                            for light, data in signals.items():
-                                                print(f"{light}: {data['status']} | {data['mode']}")
-                                            self.write_response_to_file(signals)
-                                            self.update_database(signals)
-                                    else:
-                                        print(f"Checksum mismatch: received {hex(checksum)}, calculated {hex(calc_checksum)}")
-                                    
-                                    buffer = bytes()  # Clear buffer after processing
-                time.sleep(0.001)
-                
+                msg = self.bus.recv(timeout=1.0)
+                if msg and msg.arbitration_id in RESPONSE_IDS.values():
+                    status = self.parse_response_frame(msg)
+                    if status:
+                        print("\nReceived Light Status:")
+                        for light, data in status.items():
+                            print(f"{light}: {data['status']} | {data['mode']}")
+                        self.write_response_to_file(status)
+                        self.update_database(status)
         except Exception as e:
             print(f"Response monitoring error: {e}")
     
     def start_response_monitor(self):
+        """Start a thread to monitor response messages"""
         self.response_thread = threading.Thread(target=self.monitor_responses, daemon=True)
         self.response_thread.start()
     
-    def request_status_report(self):
-        """Send a LIN frame to request status report from slave"""
-        try:
-            self.wakeup_slave()
-            self.send_break()
-            
-            self.ser.write(bytes([SYNC_BYTE]))
-            pid = self.calculate_pid(0x17)  # Special ID for status request
-            self.ser.write(bytes([pid]))
-            
-            checksum = self.calculate_checksum(pid, bytes())
-            self.ser.write(bytes([checksum]))
-            self.ser.flush()
-            
-            print("Sent status request frame")
-            
-        except Exception as e:
-            print(f"Error sending status request: {e}")
-    
     def monitor_file(self):
         print(f"Monitoring {self.filename} for new light status updates...")
-        print("Add new lines to the file to send LIN messages")
+        print("Add new lines to the file to send CAN messages")
         
         try:
             while self.running:
@@ -378,14 +281,10 @@ class LINLightMaster:
                                         if (self.last_processed_status[light] != status or 
                                             self.last_processed_mode[light] != mode):
                                             
-                                            self.send_light_command(light, status, mode)
+                                            self.send_can_message(light, status, mode)
                                             self.last_processed_status[light] = status
                                             self.last_processed_mode[light] = mode
                                             print(f"Processed status/mode change for {light}: {status}/{mode}")
-                                            
-                                            # Request updated status after sending command
-                                            time.sleep(0.1)
-                                            self.request_status_report()
                                         else:
                                             print(f"No change in {light} status/mode, skipping")
                                     else:
@@ -402,15 +301,15 @@ class LINLightMaster:
         self.running = False
         if hasattr(self, 'response_thread') and self.response_thread.is_alive():
             self.response_thread.join(timeout=0.5)
-        if self.ser:
-            self.ser.close()
+        if self.bus:
+            self.bus.shutdown()
         if self.db_connection and self.db_connection.is_connected():
             self.db_cursor.close()
             self.db_connection.close()
             print("MySQL connection closed")
-        GPIO.cleanup()
+        os.system(f'sudo /sbin/ip link set {self.channel} down')
         print("Shutdown complete")
 
 if __name__ == "__main__":
-    master = LINLightMaster("analysis_results.txt")
+    master = CANLightMaster("light_analysis.txt")
     master.monitor_file()

@@ -1,151 +1,28 @@
-2025-05-25 02:58:53,653 - INFO - GPIO initialized
-2025-05-25 02:58:53,654 - INFO - Window slave initialized
-2025-05-25 02:58:53,655 - INFO - LIN Window Slave - Listening for frames...
-2025-05-25 03:02:01,340 - INFO - Received command for DR: CL | 100% | MANUAL | FAHREN | safety_ON
-2025-05-25 03:02:01,342 - INFO - Safety ON detected, turning on red LED
-2025-05-25 03:02:01,342 - INFO - Updating DR from 0 LEDs to 4 LEDs (Level: 100%)
-2025-05-25 03:02:01,343 - INFO - Turned on DR LED 1 (GPIO 2)
-2025-05-25 03:02:02,343 - INFO - Turned on DR LED 2 (GPIO 3)
-2025-05-25 03:02:03,344 - INFO - Turned on DR LED 3 (GPIO 23)
-2025-05-25 03:02:04,344 - INFO - Turned on DR LED 4 (GPIO 17)
-2025-05-25 03:02:05,369 - INFO - Sent response for DR: {'level': 100, 'result': 'CL', 'level_type': 'MANUAL', 'mode': 'FAHREN', 'safety': 'ON'}
-2025-05-25 03:03:02,452 - INFO - Received command for DR: CL | 100% | MANUAL | FAHREN | safety_OFF
-2025-05-25 03:03:02,453 - INFO - Normal operation, turning on green LED
-2025-05-25 03:03:02,453 - INFO - Updating DR from 4 LEDs to 4 LEDs (Level: 100%)
-2025-05-25 03:03:02,477 - INFO - Sent response for DR: {'level': 100, 'result': 'CL', 'level_type': 'MANUAL', 'mode': 'FAHREN', 'safety': 'OFF'}
-2025-05-25 03:04:10,073 - INFO - Received command for PS: CL | 100% | MANUAL | FAHREN | safety_ON
-2025-05-25 03:04:10,074 - INFO - Safety ON detected, turning on red LED
-2025-05-25 03:04:10,075 - INFO - Updating PS from 0 LEDs to 4 LEDs (Level: 100%)
-2025-05-25 03:04:10,075 - INFO - Turned on PS LED 1 (GPIO 27)
-2025-05-25 03:04:11,075 - INFO - Turned on PS LED 2 (GPIO 22)
-2025-05-25 03:04:12,076 - INFO - Turned on PS LED 3 (GPIO 0)
-2025-05-25 03:04:13,077 - INFO - Turned on PS LED 4 (GPIO 5)
-2025-05-25 03:04:14,101 - INFO - Sent response for PS: {'level': 100, 'result': 'CL', 'level_type': 'MANUAL', 'mode': 'FAHREN', 'safety': 'ON'}
-2025-05-25 03:09:31,547 - INFO - Received command for PS: CL | 20% | MANUAL | FAHREN | safety_ON
-2025-05-25 03:09:31,548 - INFO - Safety ON detected, turning on red LED
-2025-05-25 03:09:31,549 - INFO - Updating PS from 4 LEDs to 0 LEDs (Level: 20%)
-2025-05-25 03:09:31,549 - INFO - Turned off PS LED 4 (GPIO 5)
-2025-05-25 03:09:32,550 - INFO - Turned off PS LED 3 (GPIO 0)
-2025-05-25 03:09:33,551 - INFO - Turned off PS LED 2 (GPIO 22)
-2025-05-25 03:09:34,552 - INFO - Turned off PS LED 1 (GPIO 27)
-2025-05-25 03:09:35,577 - INFO - Sent response for PS: {'level': 20, 'result': 'CL', 'level_type': 'MANUAL', 'mode': 'FAHREN', 'safety': 'ON'}
-2025-05-25 03:18:13,741 - INFO - Received keyboard interrupt
-2025-05-25 03:18:13,741 - INFO - Shutting down...
-2025-05-25 03:18:13,742 - INFO - Shutdown complete
-2025-05-25 03:18:15,430 - INFO - GPIO initialized
-2025-05-25 03:18:15,431 - INFO - Window slave initialized
-2025-05-25 03:18:15,432 - INFO - LIN Window Slave - Listening for frames...
-2025-05-25 03:18:42,571 - INFO - Received command for PS: CL | 100% | MANUAL | FAHREN | safety_ON
-2025-05-25 03:18:42,572 - INFO - Safety ON detected, turning on red LED
-2025-05-25 03:18:42,573 - INFO - Updating PS from 0 LEDs to 4 LEDs (Level: 100%)
-2025-05-25 03:18:42,573 - INFO - Turned on PS LED 1 (GPIO 27)
-2025-05-25 03:18:43,574 - INFO - Turned on PS LED 2 (GPIO 22)
-2025-05-25 03:18:44,575 - INFO - Turned on PS LED 3 (GPIO 0)
-2025-05-25 03:18:45,578 - INFO - Turned on PS LED 4 (GPIO 5)
-2025-05-25 03:18:46,605 - INFO - Sent response for PS: {'level': 100, 'result': 'CL', 'level_type': 'MANUAL', 'mode': 'FAHREN', 'safety': 'ON'}
-2025-05-25 03:26:36,201 - INFO - Received keyboard interrupt
-2025-05-25 03:26:36,202 - INFO - Shutting down...
-2025-05-25 03:26:36,203 - INFO - Shutdown complete
-2025-05-25 03:28:08,508 - ERROR - LIN init failed: Could not configure port: (5, 'Input/output error')
-2025-05-25 03:31:20,485 - INFO - LIN interface initialized
-2025-05-25 03:31:20,486 - INFO - GPIO initialized
-2025-05-25 03:31:37,494 - WARNING - Checksum mismatch: received 0x1, calculated 0x76
-2025-05-25 03:31:56,712 - INFO - Received keyboard interrupt
-2025-05-25 03:31:56,713 - INFO - Shutting down...
-2025-05-25 03:31:56,714 - INFO - Shutdown complete
-2025-05-25 03:32:52,781 - INFO - GPIO initialized
-2025-05-25 03:32:52,783 - INFO - Window slave initialized
-2025-05-25 03:32:52,784 - INFO - LIN Window Slave - Listening for frames...
-2025-05-25 03:33:08,608 - INFO - Received command for PS: CL | 100% | MANUAL | FAHREN | safety_ON
-2025-05-25 03:33:08,609 - INFO - Safety ON detected, turning on red LED
-2025-05-25 03:33:08,610 - INFO - Updating PS from 0 LEDs to 4 LEDs (Level: 100%)
-2025-05-25 03:33:08,611 - INFO - Turned on PS LED 1 (GPIO 27)
-2025-05-25 03:33:09,611 - INFO - Turned on PS LED 2 (GPIO 22)
-2025-05-25 03:33:10,612 - INFO - Turned on PS LED 3 (GPIO 0)
-2025-05-25 03:33:11,613 - INFO - Turned on PS LED 4 (GPIO 5)
-2025-05-25 03:33:12,642 - INFO - Sent response for PS: {'level': 100, 'result': 'CL', 'level_type': 'MANUAL', 'mode': 'FAHREN', 'safety': 'ON'}
-2025-05-25 03:33:18,086 - INFO - Received keyboard interrupt
-2025-05-25 03:33:18,087 - INFO - Shutting down...
-2025-05-25 03:33:18,088 - INFO - Shutdown complete
-2025-05-25 14:52:10,760 - INFO - GPIO initialized
-2025-05-25 14:52:10,763 - INFO - Window slave initialized
-2025-05-25 14:52:10,764 - INFO - LIN Window Slave - Listening for frames...
-2025-05-25 14:59:46,586 - INFO - Received keyboard interrupt
-2025-05-25 14:59:46,587 - INFO - Shutting down...
-2025-05-25 14:59:46,587 - INFO - Shutdown complete
-2025-05-25 14:59:47,997 - INFO - GPIO initialized
-2025-05-25 14:59:47,998 - INFO - Window slave initialized
-2025-05-25 14:59:47,999 - INFO - LIN Window Slave - Listening for frames...
-2025-05-25 15:00:13,124 - INFO - Received command for PRS: OP | 100% | MANUAL | FAHREN | safety_ON
-2025-05-25 15:00:13,125 - INFO - Safety ON detected, turning on red LED
-2025-05-25 15:00:13,208 - INFO - Updating PRS from 0 LEDs to 4 LEDs (Level: 100%)
-2025-05-25 15:00:13,208 - INFO - Turned on PRS LED 1 (GPIO 12)
-2025-05-25 15:00:14,209 - INFO - Turned on PRS LED 2 (GPIO 16)
-2025-05-25 15:00:15,210 - INFO - Turned on PRS LED 3 (GPIO 20)
-2025-05-25 15:00:16,211 - INFO - Turned on PRS LED 4 (GPIO 21)
-2025-05-25 15:00:17,234 - INFO - Sent response for PRS: {'level': 100, 'result': 'OP', 'level_type': 'MANUAL', 'mode': 'FAHREN', 'safety': 'ON'}
-2025-05-25 15:00:43,295 - INFO - Received command for PRS: OP | 0% | MANUAL | FAHREN | safety_OFF
-2025-05-25 15:00:43,296 - INFO - Normal operation, turning on green LED
-2025-05-25 15:00:43,297 - INFO - Updating PRS from 4 LEDs to 0 LEDs (Level: 0%)
-2025-05-25 15:00:43,297 - INFO - Turned off PRS LED 4 (GPIO 21)
-2025-05-25 15:00:44,298 - INFO - Turned off PRS LED 3 (GPIO 20)
-2025-05-25 15:00:45,299 - INFO - Turned off PRS LED 2 (GPIO 16)
-2025-05-25 15:00:46,299 - INFO - Turned off PRS LED 1 (GPIO 12)
-2025-05-25 15:00:47,330 - INFO - Sent response for PRS: {'level': 0, 'result': 'OP', 'level_type': 'MANUAL', 'mode': 'FAHREN', 'safety': 'OFF'}
-2025-05-25 15:12:52,828 - INFO - Received command for PRS: OP | 100% | MANUAL | FAHREN | safety_OFF
-2025-05-25 15:12:52,829 - INFO - Normal operation, turning on green LED
-2025-05-25 15:12:52,829 - INFO - Updating PRS from 0 LEDs to 4 LEDs (Level: 100%)
-2025-05-25 15:12:52,830 - INFO - Turned on PRS LED 1 (GPIO 12)
-2025-05-25 15:12:53,830 - INFO - Turned on PRS LED 2 (GPIO 16)
-2025-05-25 15:12:54,831 - INFO - Turned on PRS LED 3 (GPIO 20)
-2025-05-25 15:12:55,831 - INFO - Turned on PRS LED 4 (GPIO 21)
-2025-05-25 15:12:56,854 - INFO - Sent response for PRS: {'level': 100, 'result': 'OP', 'level_type': 'MANUAL', 'mode': 'FAHREN', 'safety': 'OFF'}
-2025-05-25 15:26:11,671 - INFO - Received keyboard interrupt
-2025-05-25 15:26:11,671 - INFO - Shutting down...
-2025-05-25 15:26:11,672 - INFO - Shutdown complete
-2025-05-25 15:28:09,262 - INFO - GPIO initialized
-2025-05-25 15:28:09,264 - INFO - Window slave initialized
-2025-05-25 15:28:09,264 - INFO - LIN Window Slave - Listening for frames...
-2025-05-25 15:28:37,681 - ERROR - Error in receive_messages: bytearray index out of range
-2025-05-25 15:28:37,682 - INFO - Shutting down...
-2025-05-25 15:28:37,683 - INFO - Shutdown complete
-2025-05-25 15:34:00,502 - INFO - GPIO initialized
-2025-05-25 15:34:00,504 - INFO - Window slave initialized
-2025-05-25 15:34:00,504 - INFO - LIN Window Slave - Listening for frames...
-2025-05-25 15:34:17,882 - INFO - Received command for PRS: OP | 100% | MANUAL | FAHREN | safety_OFF
-2025-05-25 15:34:17,883 - INFO - Normal operation, turning on green LED
-2025-05-25 15:34:17,884 - INFO - Updating PRS from 0 LEDs to 4 LEDs (Level: 100%)
-2025-05-25 15:34:17,884 - INFO - Turned on PRS LED 1 (GPIO 12)
-2025-05-25 15:34:18,885 - INFO - Turned on PRS LED 2 (GPIO 16)
-2025-05-25 15:34:19,885 - INFO - Turned on PRS LED 3 (GPIO 20)
-2025-05-25 15:34:20,886 - INFO - Turned on PRS LED 4 (GPIO 21)
-2025-05-25 15:34:21,910 - INFO - Sent response for PRS: {'level': 100, 'result': 'OP', 'level_type': 'MANUAL', 'mode': 'FAHREN', 'safety': 'OFF'}
-2025-05-25 15:39:49,131 - INFO - Received keyboard interrupt
-2025-05-25 15:39:49,132 - INFO - Shutting down...
-2025-05-25 15:39:49,132 - INFO - Shutdown complete
-2025-05-25 15:39:51,300 - INFO - GPIO initialized
-2025-05-25 15:39:51,302 - INFO - Window slave initialized
-2025-05-25 15:39:51,302 - INFO - LIN Window Slave - Listening for frames...
-2025-05-25 15:40:15,639 - INFO - Received command for PRS: OP | 100% | MANUAL | FAHREN | safety_OFF
-2025-05-25 15:40:15,640 - INFO - Normal operation, turning on green LED
-2025-05-25 15:40:15,641 - INFO - Updating PRS from 0 LEDs to 4 LEDs (Level: 100%)
-2025-05-25 15:40:15,641 - INFO - Turned on PRS LED 1 (GPIO 12)
-2025-05-25 15:40:16,641 - INFO - Turned on PRS LED 2 (GPIO 16)
-2025-05-25 15:40:17,642 - INFO - Turned on PRS LED 3 (GPIO 20)
-2025-05-25 15:40:18,643 - INFO - Turned on PRS LED 4 (GPIO 21)
-2025-05-25 15:40:19,666 - INFO - Sent response for PRS: {'level': 100, 'result': 'OP', 'level_type': 'MANUAL', 'mode': 'FAHREN', 'safety': 'OFF'}
-2025-05-25 15:42:18,438 - INFO - Received command for PRS: OP | 0% | MANUAL | FAHREN | safety_OFF
-2025-05-25 15:42:18,439 - INFO - Normal operation, turning on green LED
-2025-05-25 15:42:18,440 - INFO - Updating PRS from 4 LEDs to 0 LEDs (Level: 0%)
-2025-05-25 15:42:18,440 - INFO - Turned off PRS LED 4 (GPIO 21)
-2025-05-25 15:42:19,441 - INFO - Turned off PRS LED 3 (GPIO 20)
-2025-05-25 15:42:20,441 - INFO - Turned off PRS LED 2 (GPIO 16)
-2025-05-25 15:42:21,442 - INFO - Turned off PRS LED 1 (GPIO 12)
-2025-05-25 15:42:22,474 - INFO - Sent response for PRS: {'level': 0, 'result': 'OP', 'level_type': 'MANUAL', 'mode': 'FAHREN', 'safety': 'OFF'}
-2025-05-25 15:43:23,726 - INFO - Received command for PS: OP | 80% | MANUAL | FAHREN | safety_ON
-2025-05-25 15:43:23,727 - INFO - Safety ON detected, turning on red LED
-2025-05-25 15:43:23,728 - INFO - Updating PS from 0 LEDs to 3 LEDs (Level: 80%)
-2025-05-25 15:43:23,728 - INFO - Turned on PS LED 1 (GPIO 27)
-2025-05-25 15:43:24,729 - INFO - Turned on PS LED 2 (GPIO 22)
-2025-05-25 15:43:25,729 - INFO - Turned on PS LED 3 (GPIO 0)
-2025-05-25 15:43:26,750 - INFO - Sent response for PS: {'level': 80, 'result': 'OP', 'level_type': 'MANUAL', 'mode': 'FAHREN', 'safety': 'ON'}
+2025-06-01 19:21:09,437 - INFO - GPIO initialized
+2025-06-01 19:21:09,438 - INFO - Window slave initialized
+2025-06-01 19:21:09,439 - INFO - LIN Window Slave - Listening for frames...
+2025-06-01 19:22:24,053 - INFO - Received command for PRS: CL | 100% | MANUAL | FAHREN | safety_ON
+2025-06-01 19:22:24,055 - INFO - Safety ON detected, turning on red LED
+2025-06-01 19:22:24,056 - INFO - Updating PRS from 0 LEDs to 4 LEDs (Level: 100%)
+2025-06-01 19:22:24,057 - INFO - Turned on PRS LED 1 (GPIO 12)
+2025-06-01 19:22:25,058 - INFO - Turned on PRS LED 2 (GPIO 16)
+2025-06-01 19:22:26,059 - INFO - Turned on PRS LED 3 (GPIO 20)
+2025-06-01 19:22:27,060 - INFO - Turned on PRS LED 4 (GPIO 21)
+2025-06-01 19:22:28,076 - INFO - Sent response for PRS: {'level': 100, 'result': 'CL', 'level_type': 'MANUAL', 'mode': 'FAHREN', 'safety': 'ON'}
+2025-06-01 19:23:09,034 - INFO - Received command for PRS: OP | 30% | MANUAL | FAHREN | safety_OFF
+2025-06-01 19:23:09,035 - INFO - Normal operation, turning on green LED
+2025-06-01 19:23:09,036 - INFO - Updating PRS from 4 LEDs to 1 LEDs (Level: 30%)
+2025-06-01 19:23:09,036 - INFO - Turned off PRS LED 4 (GPIO 21)
+2025-06-01 19:23:10,037 - INFO - Turned off PRS LED 3 (GPIO 20)
+2025-06-01 19:23:11,038 - INFO - Turned off PRS LED 2 (GPIO 16)
+2025-06-01 19:23:12,052 - INFO - Sent response for PRS: {'level': 30, 'result': 'OP', 'level_type': 'MANUAL', 'mode': 'FAHREN', 'safety': 'OFF'}
+2025-06-01 19:23:32,597 - INFO - Received command for DR: OP | 80% | MANUAL | FAHREN | safety_OFF
+2025-06-01 19:23:32,599 - INFO - Normal operation, turning on green LED
+2025-06-01 19:23:32,599 - INFO - Updating DR from 0 LEDs to 3 LEDs (Level: 80%)
+2025-06-01 19:23:32,600 - INFO - Turned on DR LED 1 (GPIO 2)
+2025-06-01 19:23:33,600 - INFO - Turned on DR LED 2 (GPIO 3)
+2025-06-01 19:23:34,602 - INFO - Turned on DR LED 3 (GPIO 1)
+2025-06-01 19:23:35,616 - INFO - Sent response for DR: {'level': 80, 'result': 'OP', 'level_type': 'MANUAL', 'mode': 'FAHREN', 'safety': 'OFF'}
+2025-06-01 19:23:46,513 - INFO - Received keyboard interrupt
+2025-06-01 19:23:46,514 - INFO - Shutting down...
+2025-06-01 19:23:46,515 - INFO - Shutdown complete

@@ -1,0 +1,4 @@
+Left Turn | ON | Fahren
+Left Turn | OFF | Fahren
+High Beam | ON | Wohnen
+High Beam | OFF | Wohnen

@@ -1,0 +1,295 @@
+Door Analysis started at 2025-05-24 19:58:22.486218
+Key | key_zone: 0, key_button: 0, FlashLight: 0, HornBeeping: 0
+FR Door | State: Locked, Outside: , Inside: 
+RR Door | State: Locked, Outside: , Inside: 
+FL Door | State: Locked, Outside: , Inside: 
+RL Door | State: Locked, Outside: , Inside: 
+RESULT: PASSED
+Key | key_zone: 0, key_button: 0, FlashLight: 0, HornBeeping: 0
+FR Door | State: Locked, Outside: , Inside: 
+RR Door | State: Locked, Outside: , Inside: 
+FL Door | State: Locked, Outside: , Inside: 
+RL Door | State: Locked, Outside: , Inside: 
+RESULT: PASSED
+Key | key_zone: 0, key_button: 0, FlashLight: 0, HornBeeping: 0
+FR Door | State: Locked, Outside: , Inside: 
+RR Door | State: Locked, Outside: , Inside: 
+FL Door | State: Locked, Outside: , Inside: 
+RL Door | State: Locked, Outside: , Inside: 
+RESULT: PASSED
+Key | key_zone: 0, key_button: 0, FlashLight: 0, HornBeeping: 0
+FR Door | State: Locked, Outside: , Inside: 
+RR Door | State: Locked, Outside: , Inside: 
+FL Door | State: Locked, Outside: , Inside: 
+RL Door | State: Locked, Outside: , Inside: 
+RESULT: PASSED
+Key | key_zone: 0, key_button: 0, FlashLight: 0, HornBeeping: 0
+FR Door | State: Locked, Outside: , Inside: 
+RR Door | State: Locked, Outside: , Inside: 
+FL Door | State: Locked, Outside: , Inside: 
+RL Door | State: Locked, Outside: , Inside: 
+RESULT: PASSED
+Key | key_zone: 0, key_button: 0, FlashLight: 0, HornBeeping: 0
+FR Door | State: Locked, Outside: , Inside: 
+RR Door | State: Locked, Outside: , Inside: 
+FL Door | State: Locked, Outside: , Inside: 
+RL Door | State: Locked, Outside: , Inside: 
+RESULT: PASSED
+Key | key_zone: 0, key_button: 0, FlashLight: 0, HornBeeping: 0
+FR Door | State: Locked, Outside: , Inside: 
+RR Door | State: Locked, Outside: , Inside: 
+FL Door | State: Locked, Outside: , Inside: 
+RL Door | State: Locked, Outside: , Inside: 
+RESULT: PASSED
+Key | key_zone: 0, key_button: 0, FlashLight: 0, HornBeeping: 0
+FR Door | State: Locked, Outside: , Inside: 
+RR Door | State: Locked, Outside: , Inside: 
+FL Door | State: Locked, Outside: , Inside: 
+RL Door | State: Locked, Outside: , Inside: 
+RESULT: PASSED
+Key | key_zone: 0, key_button: 0, FlashLight: 0, HornBeeping: 0
+FR Door | State: Locked, Outside: , Inside: 
+RR Door | State: Locked, Outside: , Inside: 
+FL Door | State: Locked, Outside: , Inside: 
+RL Door | State: Locked, Outside: , Inside: 
+RESULT: PASSED
+Key | key_zone: 0, key_button: 0, FlashLight: 0, HornBeeping: 0
+FR Door | State: Locked, Outside: , Inside: 
+RR Door | State: Locked, Outside: , Inside: 
+FL Door | State: Locked, Outside: , Inside: 
+RL Door | State: Locked, Outside: , Inside: 
+RESULT: PASSED
+Key | key_zone: 1, key_button: 0, FlashLight: 0, HornBeeping: 0
+FR Door | State: Locked, Outside: , Inside: 
+RR Door | State: Locked, Outside: , Inside: 
+FL Door | State: Locked, Outside: , Inside: 
+RL Door | State: Locked, Outside: , Inside: 
+RESULT: PASSED
+Key | key_zone: 1, key_button: 0, FlashLight: 0, HornBeeping: 0
+FR Door | State: Unlocked, Outside: , Inside: 
+RR Door | State: Locked, Outside: , Inside: 
+FL Door | State: Unlocked, Outside: , Inside: 
+RL Door | State: Locked, Outside: , Inside: 
+RESULT: FAILED
+Key | key_zone: 1, key_button: 0, FlashLight: 0, HornBeeping: 0
+FR Door | State: Unlocked, Outside: , Inside: 
+RR Door | State: Locked, Outside: , Inside: 
+FL Door | State: Unlocked, Outside: , Inside: 
+RL Door | State: Unlocked, Outside: , Inside: 
+RESULT: FAILED
+Key | key_zone: 1, key_button: 0, FlashLight: 0, HornBeeping: 0
+FR Door | State: Unlocked, Outside: , Inside: 
+RR Door | State: Unlocked, Outside: , Inside: 
+FL Door | State: Unlocked, Outside: , Inside: 
+RL Door | State: Unlocked, Outside: , Inside: 
+RESULT: FAILED
+Key | key_zone: 1, key_button: 0, FlashLight: 0, HornBeeping: 0
+FR Door | State: Unlocked, Outside: open, Inside: 
+RR Door | State: Unlocked, Outside: , Inside: 
+FL Door | State: Unlocked, Outside: , Inside: 
+RL Door | State: Unlocked, Outside: , Inside: 
+RESULT: PASSED
+Key | key_zone: 1, key_button: 0, FlashLight: 0, HornBeeping: 0
+FR Door | State: Unlocked, Outside: open, Inside: 
+RR Door | State: Unlocked, Outside: , Inside: 
+FL Door | State: Unlocked, Outside: open, Inside: 
+RL Door | State: Unlocked, Outside: open, Inside: 
+RESULT: PASSED
+Key | key_zone: 1, key_button: 0, FlashLight: 0, HornBeeping: 0
+FR Door | State: Unlocked, Outside: open, Inside: 
+RR Door | State: Unlocked, Outside: open, Inside: 
+FL Door | State: Unlocked, Outside: open, Inside: 
+RL Door | State: Unlocked, Outside: open, Inside: 
+RESULT: PASSED
+Key | key_zone: 1, key_button: 0, FlashLight: 0, HornBeeping: 0
+FR Door | State: Unlocked, Outside: open, Inside: 
+RR Door | State: Unlocked, Outside: close, Inside: 
+FL Door | State: Unlocked, Outside: open, Inside: 
+RL Door | State: Unlocked, Outside: open, Inside: 
+RESULT: PASSED
+Key | key_zone: 1, key_button: 0, FlashLight: 0, HornBeeping: 0
+FR Door | State: Unlocked, Outside: close, Inside: 
+RR Door | State: Unlocked, Outside: close, Inside: 
+FL Door | State: Unlocked, Outside: close, Inside: 
+RL Door | State: Unlocked, Outside: open, Inside: 
+RESULT: PASSED
+Key | key_zone: 1, key_button: 0, FlashLight: 0, HornBeeping: 0
+FR Door | State: Unlocked, Outside: close, Inside: 
+RR Door | State: Unlocked, Outside: close, Inside: 
+FL Door | State: Unlocked, Outside: close, Inside: 
+RL Door | State: Unlocked, Outside: close, Inside: 
+RESULT: FAILED
+Key | key_zone: 1, key_button: 0, FlashLight: 0, HornBeeping: 0
+FR Door | State: Locked, Outside: , Inside: 
+RR Door | State: Unlocked, Outside: close, Inside: 
+FL Door | State: Unlocked, Outside: close, Inside: 
+RL Door | State: Unlocked, Outside: close, Inside: 
+RESULT: FAILED
+Key | key_zone: 1, key_button: 0, FlashLight: 0, HornBeeping: 0
+FR Door | State: Locked, Outside: , Inside: 
+RR Door | State: Locked, Outside: , Inside: 
+FL Door | State: Locked, Outside: , Inside: 
+RL Door | State: Unlocked, Outside: close, Inside: 
+RESULT: FAILED
+Key | key_zone: 1, key_button: 0, FlashLight: 0, HornBeeping: 0
+FR Door | State: Locked, Outside: , Inside: 
+RR Door | State: Locked, Outside: , Inside: 
+FL Door | State: Locked, Outside: , Inside: 
+RL Door | State: Locked, Outside: , Inside: 
+RESULT: PASSED
+Key | key_zone: 1, key_button: 0, FlashLight: 0, HornBeeping: 0
+FR Door | State: Locked, Outside: , Inside: 
+RR Door | State: Unlocked, Outside: , Inside: 
+FL Door | State: Unlocked, Outside: , Inside: 
+RL Door | State: Unlocked, Outside: , Inside: 
+RESULT: FAILED
+Key | key_zone: 1, key_button: 1, FlashLight: 1, HornBeeping: 1
+FR Door | State: Unlocked, Outside: , Inside: 
+RR Door | State: Unlocked, Outside: , Inside: 
+FL Door | State: Unlocked, Outside: , Inside: 
+RL Door | State: Unlocked, Outside: , Inside: 
+RESULT: PASSED
+Key | key_zone: 1, key_button: 1, FlashLight: 1, HornBeeping: 1
+FR Door | State: Unlocked, Outside: open, Inside: 
+RR Door | State: Unlocked, Outside: , Inside: 
+FL Door | State: Unlocked, Outside: , Inside: 
+RL Door | State: Unlocked, Outside: , Inside: 
+RESULT: PASSED
+Key | key_zone: 1, key_button: 1, FlashLight: 1, HornBeeping: 1
+FR Door | State: Unlocked, Outside: open, Inside: 
+RR Door | State: Unlocked, Outside: , Inside: 
+FL Door | State: Unlocked, Outside: , Inside: 
+RL Door | State: Unlocked, Outside: , Inside: 
+RESULT: PASSED
+Key | key_zone: 1, key_button: 1, FlashLight: 1, HornBeeping: 1
+FR Door | State: Unlocked, Outside: , Inside: close
+RR Door | State: Unlocked, Outside: , Inside: 
+FL Door | State: Unlocked, Outside: , Inside: 
+RL Door | State: Unlocked, Outside: , Inside: 
+RESULT: PASSED
+Key | key_zone: 1, key_button: 1, FlashLight: 1, HornBeeping: 1
+FR Door | State: Unlocked, Outside: , Inside: close
+RR Door | State: Unlocked, Outside: , Inside: 
+FL Door | State: Unlocked, Outside: , Inside: close
+RL Door | State: Unlocked, Outside: , Inside: 
+RESULT: PASSED
+Key | key_zone: 1, key_button: 1, FlashLight: 1, HornBeeping: 1
+FR Door | State: Unlocked, Outside: , Inside: close
+RR Door | State: Unlocked, Outside: , Inside: 
+FL Door | State: Unlocked, Outside: , Inside: close
+RL Door | State: Unlocked, Outside: , Inside: close
+RESULT: PASSED
+Key | key_zone: 1, key_button: 1, FlashLight: 1, HornBeeping: 1
+FR Door | State: Unlocked, Outside: , Inside: close
+RR Door | State: Unlocked, Outside: , Inside: close
+FL Door | State: Unlocked, Outside: , Inside: close
+RL Door | State: Unlocked, Outside: , Inside: close
+RESULT: PASSED
+Key | key_zone: 1, key_button: 1, FlashLight: 1, HornBeeping: 1
+FR Door | State: Unlocked, Outside: , Inside: close
+RR Door | State: Locked, Outside: , Inside: close
+FL Door | State: Unlocked, Outside: , Inside: close
+RL Door | State: Unlocked, Outside: , Inside: close
+RESULT: FAILED
+Key | key_zone: 1, key_button: 0, FlashLight: 1, HornBeeping: 1
+FR Door | State: Locked, Outside: , Inside: close
+RR Door | State: Locked, Outside: , Inside: close
+FL Door | State: Locked, Outside: , Inside: close
+RL Door | State: Locked, Outside: , Inside: close
+RESULT: FAILED
+Key | key_zone: 0, key_button: 0, FlashLight: 0, HornBeeping: 0
+FR Door | State: Locked, Outside: , Inside: close
+RR Door | State: Locked, Outside: , Inside: close
+FL Door | State: Locked, Outside: , Inside: close
+RL Door | State: Locked, Outside: , Inside: close
+RESULT: PASSED
+Key | key_zone: 0, key_button: 0, FlashLight: 0, HornBeeping: 0
+FR Door | State: Locked, Outside: , Inside: close
+RR Door | State: Locked, Outside: , Inside: close
+FL Door | State: Locked, Outside: , Inside: close
+RL Door | State: Locked, Outside: , Inside: close
+RESULT: PASSED
+Key | key_zone: 1, key_button: 0, FlashLight: 0, HornBeeping: 0
+FR Door | State: Unlocked, Outside: , Inside: close
+RR Door | State: Locked, Outside: , Inside: close
+FL Door | State: Locked, Outside: , Inside: close
+RL Door | State: Locked, Outside: , Inside: close
+RESULT: FAILED
+Key | key_zone: 1, key_button: 0, FlashLight: 0, HornBeeping: 0
+FR Door | State: Unlocked, Outside: , Inside: close
+RR Door | State: Locked, Outside: , Inside: close
+FL Door | State: Unlocked, Outside: , Inside: close
+RL Door | State: Locked, Outside: , Inside: close
+RESULT: FAILED
+Key | key_zone: 1, key_button: 0, FlashLight: 0, HornBeeping: 0
+FR Door | State: Unlocked, Outside: , Inside: close
+RR Door | State: Locked, Outside: , Inside: close
+FL Door | State: Unlocked, Outside: , Inside: close
+RL Door | State: Unlocked, Outside: , Inside: close
+RESULT: FAILED
+Key | key_zone: 1, key_button: 0, FlashLight: 0, HornBeeping: 0
+FR Door | State: Unlocked, Outside: , Inside: close
+RR Door | State: Unlocked, Outside: , Inside: close
+FL Door | State: Unlocked, Outside: , Inside: close
+RL Door | State: Unlocked, Outside: , Inside: close
+RESULT: FAILED
+Key | key_zone: 1, key_button: 0, FlashLight: 0, HornBeeping: 0
+FR Door | State: Unlocked, Outside: , Inside: close
+RR Door | State: Unlocked, Outside: , Inside: close
+FL Door | State: Unlocked, Outside: , Inside: close
+RL Door | State: Unlocked, Outside: , Inside: close
+RESULT: FAILED
+Key | key_zone: 1, key_button: 0, FlashLight: 0, HornBeeping: 0
+FR Door | State: Unlocked, Outside: , Inside: close
+RR Door | State: Unlocked, Outside: , Inside: close
+FL Door | State: Unlocked, Outside: , Inside: close
+RL Door | State: Unlocked, Outside: , Inside: close
+RESULT: FAILED
+Key | key_zone: 1, key_button: 0, FlashLight: 0, HornBeeping: 0
+FR Door | State: Unlocked, Outside: open, Inside: 
+RR Door | State: Unlocked, Outside: , Inside: close
+FL Door | State: Unlocked, Outside: , Inside: close
+RL Door | State: Unlocked, Outside: , Inside: close
+RESULT: PASSED
+Key | key_zone: 1, key_button: 0, FlashLight: 0, HornBeeping: 0
+FR Door | State: Unlocked, Outside: , Inside: close
+RR Door | State: Unlocked, Outside: , Inside: close
+FL Door | State: Unlocked, Outside: open, Inside: 
+RL Door | State: Unlocked, Outside: , Inside: close
+RESULT: PASSED
+Key | key_zone: 1, key_button: 0, FlashLight: 0, HornBeeping: 0
+FR Door | State: Unlocked, Outside: , Inside: close
+RR Door | State: Unlocked, Outside: , Inside: close
+FL Door | State: Unlocked, Outside: , Inside: close
+RL Door | State: Unlocked, Outside: , Inside: close
+RESULT: FAILED
+Key | key_zone: 1, key_button: 0, FlashLight: 0, HornBeeping: 0
+FR Door | State: Unlocked, Outside: , Inside: close
+RR Door | State: Unlocked, Outside: , Inside: close
+FL Door | State: Unlocked, Outside: , Inside: close
+RL Door | State: Unlocked, Outside: , Inside: close
+RESULT: FAILED
+Key | key_zone: 1, key_button: 1, FlashLight: 1, HornBeeping: 1
+FR Door | State: Unlocked, Outside: , Inside: close
+RR Door | State: Unlocked, Outside: , Inside: close
+FL Door | State: Unlocked, Outside: , Inside: close
+RL Door | State: Unlocked, Outside: , Inside: close
+RESULT: PASSED
+Key | key_zone: 1, key_button: 0, FlashLight: 1, HornBeeping: 1
+FR Door | State: Locked, Outside: , Inside: close
+RR Door | State: Locked, Outside: , Inside: close
+FL Door | State: Locked, Outside: , Inside: close
+RL Door | State: Locked, Outside: , Inside: close
+RESULT: FAILED
+Key | key_zone: 0, key_button: 0, FlashLight: 0, HornBeeping: 0
+FR Door | State: Locked, Outside: , Inside: close
+RR Door | State: Locked, Outside: , Inside: close
+FL Door | State: Locked, Outside: , Inside: close
+RL Door | State: Locked, Outside: , Inside: close
+RESULT: PASSED
+Key | key_zone: 0, key_button: 0, FlashLight: 0, HornBeeping: 0
+FR Door | State: Locked, Outside: , Inside: 
+RR Door | State: Locked, Outside: , Inside: 
+FL Door | State: Locked, Outside: , Inside: 
+RL Door | State: Locked, Outside: , Inside: 
+RESULT: PASSED

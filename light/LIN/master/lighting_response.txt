@@ -1,71 +1,7 @@
 Low Beam = OFF
 High Beam = OFF
 Parking Left = OFF
-Parking Right = OFF
-Hazard Lights = OFF
-Right Turn = ON
-Left Turn = OFF
-
-Low Beam = OFF
-High Beam = OFF
-Parking Left = OFF
-Parking Right = OFF
-Hazard Lights = OFF
-Right Turn = ON
-Left Turn = OFF
-
-Low Beam = OFF
-High Beam = OFF
-Parking Left = OFF
-Parking Right = OFF
-Hazard Lights = OFF
-Right Turn = ON
-Left Turn = OFF
-
-Low Beam = OFF
-High Beam = OFF
-Parking Left = OFF
-Parking Right = OFF
-Hazard Lights = OFF
-Right Turn = ON
-Left Turn = OFF
-
-Low Beam = OFF
-High Beam = OFF
-Parking Left = OFF
-Parking Right = OFF
-Hazard Lights = OFF
-Right Turn = ON
-Left Turn = ON
-
-Low Beam = OFF
-High Beam = OFF
-Parking Left = OFF
-Parking Right = OFF
-Hazard Lights = OFF
-Right Turn = ON
-Left Turn = ON
-
-Low Beam = OFF
-High Beam = OFF
-Parking Left = OFF
-Parking Right = OFF
-Hazard Lights = OFF
-Right Turn = ON
-Left Turn = OFF
-
-Low Beam = OFF
-High Beam = OFF
-Parking Left = OFF
-Parking Right = OFF
-Hazard Lights = OFF
-Right Turn = ON
-Left Turn = OFF
-
-Low Beam = OFF
-High Beam = OFF
-Parking Left = OFF
-Parking Right = OFF
+Parking Right = ON
 Hazard Lights = OFF
 Right Turn = OFF
 Left Turn = OFF
@@ -73,55 +9,7 @@ Left Turn = OFF
 Low Beam = OFF
 High Beam = OFF
 Parking Left = OFF
-Parking Right = OFF
-Hazard Lights = OFF
-Right Turn = OFF
-Left Turn = OFF
-
-Low Beam = ON
-High Beam = OFF
-Parking Left = OFF
-Parking Right = OFF
-Hazard Lights = OFF
-Right Turn = OFF
-Left Turn = OFF
-
-Low Beam = ON
-High Beam = OFF
-Parking Left = OFF
-Parking Right = OFF
-Hazard Lights = OFF
-Right Turn = OFF
-Left Turn = OFF
-
-Low Beam = ON
-High Beam = ON
-Parking Left = OFF
-Parking Right = OFF
-Hazard Lights = OFF
-Right Turn = OFF
-Left Turn = OFF
-
-Low Beam = ON
-High Beam = ON
-Parking Left = OFF
-Parking Right = OFF
-Hazard Lights = OFF
-Right Turn = OFF
-Left Turn = OFF
-
-Low Beam = OFF
-High Beam = ON
-Parking Left = OFF
-Parking Right = OFF
-Hazard Lights = OFF
-Right Turn = OFF
-Left Turn = OFF
-
-Low Beam = OFF
-High Beam = ON
-Parking Left = OFF
-Parking Right = OFF
+Parking Right = ON
 Hazard Lights = OFF
 Right Turn = OFF
 Left Turn = OFF
@@ -129,87 +17,39 @@ Left Turn = OFF
 Low Beam = OFF
 High Beam = OFF
 Parking Left = OFF
-Parking Right = OFF
-Hazard Lights = OFF
-Right Turn = OFF
-Left Turn = OFF
-
-Low Beam = OFF
-High Beam = OFF
-Parking Left = OFF
-Parking Right = OFF
-Hazard Lights = OFF
-Right Turn = OFF
-Left Turn = OFF
-
-Low Beam = OFF
-High Beam = ON
-Parking Left = OFF
-Parking Right = OFF
-Hazard Lights = OFF
-Right Turn = OFF
-Left Turn = OFF
-
-Low Beam = OFF
-High Beam = ON
-Parking Left = OFF
-Parking Right = OFF
-Hazard Lights = OFF
-Right Turn = OFF
-Left Turn = OFF
-
-Low Beam = OFF
-High Beam = ON
-Parking Left = OFF
-Parking Right = OFF
+Parking Right = ON
 Hazard Lights = OFF
 Right Turn = OFF
 Left Turn = ON
 
 Low Beam = OFF
-High Beam = ON
+High Beam = OFF
 Parking Left = OFF
-Parking Right = OFF
+Parking Right = ON
 Hazard Lights = OFF
 Right Turn = OFF
 Left Turn = ON
 
 Low Beam = OFF
-High Beam = ON
+High Beam = OFF
 Parking Left = OFF
-Parking Right = OFF
+Parking Right = ON
 Hazard Lights = OFF
-Right Turn = ON
-Left Turn = ON
-
-Low Beam = OFF
-High Beam = ON
-Parking Left = OFF
-Parking Right = OFF
-Hazard Lights = OFF
-Right Turn = ON
-Left Turn = ON
-
-Low Beam = OFF
-High Beam = ON
-Parking Left = OFF
-Parking Right = OFF
-Hazard Lights = ON
-Right Turn = ON
-Left Turn = ON
-
-Low Beam = OFF
-High Beam = ON
-Parking Left = OFF
-Parking Right = OFF
-Hazard Lights = ON
-Right Turn = ON
-Left Turn = ON
+Right Turn = OFF
+Left Turn = OFF
 
 Low Beam = OFF
 High Beam = OFF
 Parking Left = OFF
-Parking Right = OFF
+Parking Right = ON
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = ON
 Hazard Lights = ON
 Right Turn = OFF
 Left Turn = OFF
@@ -217,72 +57,8 @@ Left Turn = OFF
 Low Beam = OFF
 High Beam = OFF
 Parking Left = OFF
-Parking Right = OFF
+Parking Right = ON
 Hazard Lights = ON
-Right Turn = OFF
-Left Turn = OFF
-
-Low Beam = OFF
-High Beam = OFF
-Parking Left = OFF
-Parking Right = OFF
-Hazard Lights = OFF
-Right Turn = ON
-Left Turn = OFF
-
-Low Beam = OFF
-High Beam = OFF
-Parking Left = OFF
-Parking Right = OFF
-Hazard Lights = OFF
-Right Turn = ON
-Left Turn = OFF
-
-Low Beam = OFF
-High Beam = OFF
-Parking Left = OFF
-Parking Right = OFF
-Hazard Lights = ON
-Right Turn = ON
-Left Turn = OFF
-
-Low Beam = OFF
-High Beam = OFF
-Parking Left = OFF
-Parking Right = OFF
-Hazard Lights = ON
-Right Turn = ON
-Left Turn = OFF
-
-Low Beam = OFF
-High Beam = OFF
-Parking Left = OFF
-Parking Right = OFF
-Hazard Lights = OFF
-Right Turn = ON
-Left Turn = OFF
-
-Low Beam = OFF
-High Beam = OFF
-Parking Left = OFF
-Parking Right = OFF
-Hazard Lights = OFF
-Right Turn = ON
-Left Turn = OFF
-
-Low Beam = OFF
-High Beam = OFF
-Parking Left = OFF
-Parking Right = OFF
-Hazard Lights = OFF
-Right Turn = OFF
-Left Turn = OFF
-
-Low Beam = OFF
-High Beam = OFF
-Parking Left = OFF
-Parking Right = OFF
-Hazard Lights = OFF
 Right Turn = OFF
 Left Turn = OFF
 
@@ -302,3 +78,157 @@ Hazard Lights = ON
 Right Turn = OFF
 Left Turn = OFF
 
+Low Beam | OFF | Stand
+High Beam | OFF | Stand
+Parking Left | OFF | Stand
+Parking Right | OFF | Stand
+Hazard Lights | ON | Stand
+Right Turn | OFF | Stand
+Left Turn | OFF | Stand
+Low Beam | OFF | Stand
+High Beam | OFF | Stand
+Parking Left | OFF | Stand
+Parking Right | OFF | Stand
+Hazard Lights | ON | Stand
+Right Turn | OFF | Stand
+Left Turn | OFF | Stand
+Low Beam | OFF | Stand
+High Beam | OFF | Stand
+Parking Left | OFF | Stand
+Parking Right | OFF | Stand
+Hazard Lights | OFF | Stand
+Right Turn | OFF | Stand
+Left Turn | OFF | Stand
+Low Beam | OFF | Stand
+High Beam | OFF | Stand
+Parking Left | OFF | Stand
+Parking Right | OFF | Stand
+Hazard Lights | OFF | Stand
+Right Turn | OFF | Stand
+Left Turn | OFF | Stand
+Low Beam | OFF | Wohnen
+High Beam | OFF | Wohnen
+Parking Left | OFF | Wohnen
+Parking Right | OFF | Wohnen
+Hazard Lights | OFF | Wohnen
+Right Turn | OFF | Wohnen
+Left Turn | ON | Wohnen
+Low Beam | OFF | Wohnen
+High Beam | OFF | Wohnen
+Parking Left | OFF | Wohnen
+Parking Right | OFF | Wohnen
+Hazard Lights | OFF | Wohnen
+Right Turn | OFF | Wohnen
+Left Turn | ON | Wohnen
+Low Beam | OFF | Fahren
+High Beam | ON | Fahren
+Parking Left | OFF | Fahren
+Parking Right | OFF | Fahren
+Hazard Lights | OFF | Fahren
+Right Turn | OFF | Fahren
+Left Turn | OFF | Fahren
+Low Beam | OFF | Fahren
+High Beam | ON | Fahren
+Parking Left | OFF | Fahren
+Parking Right | OFF | Fahren
+Hazard Lights | OFF | Fahren
+Right Turn | OFF | Fahren
+Left Turn | OFF | Fahren
+Low Beam | ON | Fahren
+High Beam | ON | Fahren
+Parking Left | OFF | Fahren
+Parking Right | OFF | Fahren
+Hazard Lights | OFF | Fahren
+Right Turn | OFF | Fahren
+Left Turn | OFF | Fahren
+Low Beam | ON | Fahren
+High Beam | ON | Fahren
+Parking Left | OFF | Fahren
+Parking Right | OFF | Fahren
+Hazard Lights | OFF | Fahren
+Right Turn | OFF | Fahren
+Left Turn | OFF | Fahren
+Low Beam | ON | Fahren
+High Beam | OFF | Fahren
+Parking Left | OFF | Fahren
+Parking Right | OFF | Fahren
+Hazard Lights | OFF | Fahren
+Right Turn | OFF | Fahren
+Left Turn | OFF | Fahren
+Low Beam | ON | Fahren
+High Beam | OFF | Fahren
+Parking Left | OFF | Fahren
+Parking Right | OFF | Fahren
+Hazard Lights | OFF | Fahren
+Right Turn | OFF | Fahren
+Left Turn | OFF | Fahren
+Low Beam | ON | Fahren
+High Beam | OFF | Fahren
+Parking Left | OFF | Fahren
+Parking Right | OFF | Fahren
+Hazard Lights | OFF | Fahren
+Right Turn | OFF | Fahren
+Left Turn | OFF | Fahren
+Low Beam | ON | Fahren
+High Beam | OFF | Fahren
+Parking Left | OFF | Fahren
+Parking Right | OFF | Fahren
+Hazard Lights | OFF | Fahren
+Right Turn | OFF | Fahren
+Left Turn | OFF | Fahren
+Low Beam | ON | Fahren
+High Beam | ON | Fahren
+Parking Left | OFF | Fahren
+Parking Right | OFF | Fahren
+Hazard Lights | OFF | Fahren
+Right Turn | OFF | Fahren
+Left Turn | OFF | Fahren
+Low Beam | ON | Fahren
+High Beam | ON | Fahren
+Parking Left | OFF | Fahren
+Parking Right | OFF | Fahren
+Hazard Lights | OFF | Fahren
+Right Turn | OFF | Fahren
+Left Turn | OFF | Fahren
+Low Beam | ON | Fahren
+High Beam | OFF | Fahren
+Parking Left | OFF | Fahren
+Parking Right | OFF | Fahren
+Hazard Lights | OFF | Fahren
+Right Turn | OFF | Fahren
+Left Turn | OFF | Fahren
+Low Beam | ON | Fahren
+High Beam | OFF | Fahren
+Parking Left | OFF | Fahren
+Parking Right | OFF | Fahren
+Hazard Lights | OFF | Fahren
+Right Turn | OFF | Fahren
+Left Turn | OFF | Fahren
+Low Beam | OFF | Fahren
+High Beam | OFF | Fahren
+Parking Left | OFF | Fahren
+Parking Right | OFF | Fahren
+Hazard Lights | OFF | Fahren
+Right Turn | OFF | Fahren
+Left Turn | OFF | Fahren
+Low Beam | OFF | Fahren
+High Beam | OFF | Fahren
+Parking Left | OFF | Fahren
+Parking Right | OFF | Fahren
+Hazard Lights | OFF | Fahren
+Right Turn | OFF | Fahren
+Left Turn | OFF | Fahren
+Low Beam | ON | Fahren
+High Beam | OFF | Fahren
+Parking Left | OFF | Fahren
+Parking Right | OFF | Fahren
+Hazard Lights | OFF | Fahren
+Right Turn | OFF | Fahren
+Left Turn | OFF | Fahren
+Low Beam | ON | Fahren
+High Beam | OFF | Fahren
+Parking Left | OFF | Fahren
+Parking Right | OFF | Fahren
+Hazard Lights | OFF | Fahren
+Right Turn | OFF | Fahren
+Left Turn | OFF | Fahren

@@ -1,29 +1,30 @@
-import serial
+import can
 import RPi.GPIO as GPIO
+import logging
+import os
 import time
 import threading
-import logging
 
-# LIN Frame IDs for each light type
+# Light ID definitions (matches master)
 LIGHT_IDS = {
-    0x10: "Low Beam",
-    0x11: "High Beam",
-    0x12: "Parking Left",
-    0x13: "Parking Right",
-    0x14: "Hazard Lights",
-    0x15: "Right Turn",
-    0x16: "Left Turn"
+    0x101: "Low Beam",
+    0x102: "High Beam",
+    0x103: "Parking Left",
+    0x104: "Parking Right",
+    0x105: "Hazard Lights",
+    0x106: "Right Turn",
+    0x107: "Left Turn"
 }
 
 # Response IDs (same as light IDs for two-way communication)
 RESPONSE_IDS = {
-    "Low Beam": 0x10,
-    "High Beam": 0x11,
-    "Parking Left": 0x12,
-    "Parking Right": 0x13,
-    "Hazard Lights": 0x14,
-    "Right Turn": 0x15,
-    "Left Turn": 0x16
+    "Low Beam": 0x101,
+    "High Beam": 0x102,
+    "Parking Left": 0x103,
+    "Parking Right": 0x104,
+    "Hazard Lights": 0x105,
+    "Right Turn": 0x106,
+    "Left Turn": 0x107
 }
 
 # Status codes
@@ -67,13 +68,6 @@ MODE_LEDS = {
     "Wohnen": 24
 }
 
-# LIN Constants
-SERIAL_PORT = '/dev/serial0'
-BAUD_RATE = 19200
-WAKEUP_PIN = 4
-SYNC_BYTE = 0x55
-BREAK_BYTE = 0x00
-
 # Configure logging
 logging.basicConfig(
     level=logging.INFO,
@@ -84,11 +78,14 @@ logging.basicConfig(
     ]
 )
 
-class LINLightSlave:
+class CANLightSlave:
     def __init__(self):
+        self.channel = 'can0'
+        self.bustype = 'socketcan'
+        self.bus = None
         self.running = True
         self.light_status = {
-            "Low Beam": {"status": 0, "mode": "Stand"},
+            "Low Beam": {"status": 0, "mode": "Stand", "should_be_on": False},
             "High Beam": {"status": 0, "mode": "Stand"},
             "Parking Left": {"status": 0, "mode": "Stand"},
             "Parking Right": {"status": 0, "mode": "Stand"},
@@ -105,10 +102,18 @@ class LINLightSlave:
         self.right_turn_running = False
         self.current_mode = "Stand"
         
+        self.init_can_bus()
         self.setup_gpio()
-        self.ser = serial.Serial(SERIAL_PORT, baudrate=BAUD_RATE, timeout=0.1)
-        GPIO.setmode(GPIO.BCM)
-        GPIO.setup(WAKEUP_PIN, GPIO.IN, pull_up_down=GPIO.PUD_UP)
+    
+    def init_can_bus(self):
+        try:
+            os.system(f'sudo /sbin/ip link set {self.channel} up type can bitrate 500000')
+            time.sleep(0.1)
+            self.bus = can.interface.Bus(channel=self.channel, bustype=self.bustype)
+            logging.info("CAN initialized")
+        except Exception as e:
+            logging.error(f"CAN init failed: {e}")
+            raise
     
     def setup_gpio(self):
         """Initialize all GPIO pins for LEDs."""
@@ -145,50 +150,15 @@ class LINLightSlave:
             GPIO.output(MODE_LEDS[mode_name], GPIO.HIGH)
             self.current_mode = mode_name
             logging.info(f"Mode indicator set to {mode_name} (GPIO {MODE_LEDS[mode_name]})")
-    
-    def calculate_pid(self, frame_id):
-        if frame_id > 0x3F:
-            raise ValueError("Frame ID must be 6 bits (0-63)")
-        p0 = (frame_id ^ (frame_id >> 1) ^ (frame_id >> 2) ^ (frame_id >> 4)) & 0x01
-        p1 = ~((frame_id >> 1) ^ (frame_id >> 3) ^ (frame_id >> 4) ^ (frame_id >> 5)) & 0x01
-        return (frame_id & 0x3F) | (p0 << 6) | (p1 << 7)
-    
-    def calculate_checksum(self, pid, data):
-        checksum = pid
-        for byte in data:
-            checksum += byte
-            if checksum > 0xFF:
-                checksum -= 0xFF
-        return (0xFF - checksum) & 0xFF
-    
-    def parse_pid(self, pid_byte):
-        frame_id = pid_byte & 0x3F
-        p0 = (pid_byte >> 6) & 0x01
-        p1 = (pid_byte >> 7) & 0x01
-        calc_p0 = (frame_id ^ (frame_id >> 1) ^ (frame_id >> 2) ^ (frame_id >> 4)) & 0x01
-        calc_p1 = ~((frame_id >> 1) ^ (frame_id >> 3) ^ (frame_id >> 4) ^ (frame_id >> 5)) & 0x01
-        if p0 != calc_p0 or p1 != calc_p1:
-            return None
-        return frame_id
-    
-    def send_break(self):
-        self.ser.baudrate = BAUD_RATE // 4
-        self.ser.write(bytes([BREAK_BYTE]))
-        self.ser.flush()
-        time.sleep(13 * (1.0 / (BAUD_RATE // 4)))
-        self.ser.baudrate = BAUD_RATE
-    
-    def send_lin_response(self, frame_id, data):
-        """Send a complete LIN response frame (with break and sync)"""
-        self.send_break()
-        self.ser.write(bytes([SYNC_BYTE]))
-        pid = self.calculate_pid(frame_id)
-        self.ser.write(bytes([pid]))
-        self.ser.write(data)
-        checksum = self.calculate_checksum(pid, data)
-        self.ser.write(bytes([checksum]))
-        self.ser.flush()
-        time.sleep(0.005)
+            
+            # Special handling for Low Beam based on mode change
+            if self.light_status["Low Beam"]["should_be_on"]:
+                if mode_name in ["Fahren", "Wohnen"]:
+                    self.turn_on_light("Low Beam")
+                    self.light_status["Low Beam"]["status"] = 1
+                else:
+                    self.turn_off_light("Low Beam")
+                    self.light_status["Low Beam"]["status"] = 0
     
     def control_light_status(self, light, status_code):
         """Control the light based only on status code (ON/OFF/FAILED/INVALID)."""
@@ -205,24 +175,41 @@ class LINLightSlave:
             self.stop_right_turn()
         
         if status_code == 0x01:  # ON
-            if light == "Hazard Lights":
-                self.start_hazard_lights()
-            elif light == "Left Turn":
-                self.start_left_turn()
-            elif light == "Right Turn":
-                self.start_right_turn()
+            if light == "Low Beam":
+                # Mark that Low Beam should be on (if in correct mode)
+                self.light_status["Low Beam"]["should_be_on"] = True
+                if self.current_mode in ["Fahren", "Wohnen"]:
+                    self.turn_on_light(light)
+                    self.light_status[light]["status"] = 1
+                    self.led_states[light] = True
+                else:
+                    self.turn_off_light(light)
+                    self.light_status[light]["status"] = 0
+                    self.led_states[light] = False
             else:
-                self.turn_on_light(light)
-            
-            self.light_status[light]["status"] = 1
-            self.led_states[light] = True
+                # Normal behavior for other lights
+                if light == "Hazard Lights":
+                    self.start_hazard_lights()
+                elif light == "Left Turn":
+                    self.start_left_turn()
+                elif light == "Right Turn":
+                    self.start_right_turn()
+                else:
+                    self.turn_on_light(light)
+                
+                self.light_status[light]["status"] = 1
+                self.led_states[light] = True
             
         elif status_code == 0x00:  # OFF
+            if light == "Low Beam":
+                self.light_status["Low Beam"]["should_be_on"] = False
             self.turn_off_light(light)
             self.light_status[light]["status"] = 0
             self.led_states[light] = False
             
         elif status_code == 0xFF:  # FAILED
+            if light == "Low Beam":
+                self.light_status["Low Beam"]["should_be_on"] = False
             self.turn_off_light(light)
             self.light_status[light]["status"] = 0
             self.led_states[light] = False
@@ -373,117 +360,44 @@ class LINLightSlave:
             GPIO.output(group2[1], GPIO.LOW)
             time.sleep(0.3)
     
-    def create_status_response(self):
-        """Create data frame with status of all lights (2 bytes per light - status and mode)"""
-        light_order = [
-            "Low Beam", "High Beam", "Parking Left", "Parking Right",
-            "Hazard Lights", "Right Turn", "Left Turn"
-        ]
-        data = bytearray(14)  # 7 lights * 2 bytes each
-        for i, light in enumerate(light_order):
-            status = self.light_status[light]
-            data[i*2] = 0x01 if status["status"] else 0x00  # Status byte
-            # Mode byte
-            if status["mode"] == "Fahren":
-                data[i*2 + 1] = 0x01
-            elif status["mode"] == "Stand":
-                data[i*2 + 1] = 0x02
-            elif status["mode"] == "Parking":
-                data[i*2 + 1] = 0x03
-            elif status["mode"] == "Wohnen":
-                data[i*2 + 1] = 0x04
-            else:
-                data[i*2 + 1] = 0x02  # Default to Stand
-        return data
-    
-    def process_light_command(self, frame_id, data):
-        """Process a light control command from master"""
-        if len(data) != 2:  # Expecting status and mode bytes
-            logging.warning(f"Invalid data length for light command: {len(data)}")
-            return
-        
-        status_code = data[0]
-        mode_code = data[1]
-        light = LIGHT_IDS.get(frame_id)
-        
-        if light:
-            # Handle status and mode separately
-            self.control_light_status(light, status_code)
-            self.control_mode(mode_code)
-            
-            # Send status response after processing command
-            time.sleep(0.01)
-            self.send_status_response()
-        else:
-            logging.warning(f"Unknown frame ID received: {hex(frame_id)}")
-    
-    def send_status_response(self):
-        """Send current status of all lights to master"""
+    def send_light_response(self, light):
+        """Send response for a specific light"""
         try:
-            data = self.create_status_response()
-            self.send_lin_response(0x18, data)  # 0x18 is our status response ID
+            status_data = self.light_status[light]
+            msg_data = [
+                0x01 if status_data["status"] else 0x00,  # Status
+                [k for k, v in MODE_CODES.items() if v == status_data["mode"]][0]  # Mode code
+            ]
             
-            logging.info("Sent status response:")
-            for i, light in enumerate([
-                "Low Beam", "High Beam", "Parking Left", "Parking Right",
-                "Hazard Lights", "Right Turn", "Left Turn"
-            ]):
-                status = "ON" if data[i*2] == 0x01 else "OFF"
-                mode = MODE_CODES.get(data[i*2 + 1], "Unknown")
-                logging.info(f"  {light}: {status} | {mode}")
-                
+            msg = can.Message(
+                arbitration_id=RESPONSE_IDS[light],
+                data=msg_data,
+                is_extended_id=False
+            )
+            
+            self.bus.send(msg)
+            logging.info(f"Sent response for {light}: Status={msg_data[0]}, Mode={msg_data[1]}")
+            print(f"Sent Response: {light} | {'ON' if msg_data[0] else 'OFF'} | {status_data['mode']}")
         except Exception as e:
-            logging.error(f"Error sending status response: {e}")
+            logging.error(f"Error sending {light} response: {e}")
     
     def receive_messages(self):
-        """Main loop to receive and process LIN messages"""
-        buffer = bytes()
-        logging.info("LIN Slave Node - Listening for frames...")
-        
+        print("Listening for CAN messages and controlling lights...")
         try:
             while self.running:
-                if self.ser.in_waiting:
-                    byte = self.ser.read(1)
-                    buffer += byte
-                    
-                    # Check for break character (start of LIN frame)
-                    if byte == bytes([BREAK_BYTE]):
-                        buffer = bytes([BREAK_BYTE])  # Start fresh frame
-                        continue
+                msg = self.bus.recv(timeout=1.0)
+                if msg:
+                    light = LIGHT_IDS.get(msg.arbitration_id)
+                    if light and len(msg.data) >= 2:
+                        status_code = msg.data[0]
+                        mode_code = msg.data[1]
                         
-                    # Only proceed if we have break + sync
-                    if len(buffer) >= 2 and buffer[0] == BREAK_BYTE and buffer[1] == SYNC_BYTE:
-                        if len(buffer) >= 3:
-                            pid_byte = buffer[2]
-                            frame_id = self.parse_pid(pid_byte)
-                            
-                            if frame_id is not None:
-                                # Check if this is a status request (ID 0x17)
-                                if frame_id == 0x17:
-                                    checksum = ord(self.ser.read(1)) if self.ser.in_waiting else None
-                                    if checksum is not None:
-                                        calc_checksum = self.calculate_checksum(pid_byte, bytes())
-                                        if checksum == calc_checksum:
-                                            logging.info("Received status request")
-                                            self.send_status_response()
-                                        else:
-                                            logging.warning(f"Checksum mismatch in status request: received {hex(checksum)}, calculated {hex(calc_checksum)}")
-                                    buffer = bytes()
-                                
-                                # Check if this is a light control command
-                                elif frame_id in LIGHT_IDS:
-                                    data = self.ser.read(2) if self.ser.in_waiting else None
-                                    if data and len(data) == 2:
-                                        checksum = ord(self.ser.read(1)) if self.ser.in_waiting else None
-                                        if checksum is not None:
-                                            calc_checksum = self.calculate_checksum(pid_byte, data)
-                                            if checksum == calc_checksum:
-                                                self.process_light_command(frame_id, data)
-                                            else:
-                                                logging.warning(f"Checksum mismatch in light command: received {hex(checksum)}, calculated {hex(calc_checksum)}")
-                                        buffer = bytes()
-                
-                time.sleep(0.001)
+                        print(f"Received: {light} | {STATUS_CODES.get(status_code, 'UNKNOWN')} | {MODE_CODES.get(mode_code, 'UNKNOWN')}")
+                        
+                        # Handle status and mode separately
+                        self.control_light_status(light, status_code)
+                        self.control_mode(mode_code)
+                        self.send_light_response(light)
                 
         except KeyboardInterrupt:
             logging.info("Received keyboard interrupt")
@@ -507,11 +421,12 @@ class LINLightSlave:
         for pin in MODE_LEDS.values():
             GPIO.output(pin, GPIO.LOW)
         
-        if self.ser:
-            self.ser.close()
+        if self.bus:
+            self.bus.shutdown()
+        os.system(f'sudo /sbin/ip link set {self.channel} down')
         GPIO.cleanup()
         logging.info("Shutdown complete")
 
 if __name__ == "__main__":
-    slave = LINLightSlave()
+    slave = CANLightSlave()
     slave.receive_messages()

@@ -1,26 +1,25 @@
-import serial
+import can
 import time
 import os
 import threading
 from datetime import datetime
 import mysql.connector
 from mysql.connector import Error
-import RPi.GPIO as GPIO
 
-# LIN Frame IDs for each window type
+# CAN IDs for each window type
 WINDOW_IDS = {
-    "DR": 0x10,
-    "PS": 0x11,
-    "DRS": 0x12,
-    "PRS": 0x13
+    "DR": 0x201,
+    "PS": 0x202,
+    "DRS": 0x203,
+    "PRS": 0x204
 }
 
 # Response IDs (same as window IDs for two-way communication)
 RESPONSE_IDS = {
-    0x10: "DR",
-    0x11: "PS",
-    0x12: "DRS",
-    0x13: "PRS"
+    "DR": 0x201,
+    "PS": 0x202,
+    "DRS": 0x203,
+    "PRS": 0x204
 }
 
 # Result codes mapping
@@ -39,33 +38,36 @@ EVENT_IDS = {
 LEVEL_TYPES = ["AUTO", "MANUAL"]
 MODES = ["WHONEN", "FAHREN"]
 
-# LIN Constants
-SERIAL_PORT = '/dev/serial0'
-BAUD_RATE = 19200
-WAKEUP_PIN = 4
-SYNC_BYTE = 0x55
-BREAK_BYTE = 0x00
-
-class LINWindowMaster:
+class CANWindowMaster:
     def __init__(self, filename):
         self.filename = filename
+        self.channel = 'can0'
+        self.bustype = 'socketcan'
+        self.bus = None
         self.last_size = os.path.getsize(filename)
         self.running = True
+        self.db_connection = None
+        self.db_cursor = None
         self.last_processed_status = {window: None for window in WINDOW_IDS}
         
-        # Initialize GPIO and serial
-        GPIO.setmode(GPIO.BCM)
-        GPIO.setup(WAKEUP_PIN, GPIO.OUT)
-        GPIO.output(WAKEUP_PIN, GPIO.HIGH)
-        
-        self.ser = serial.Serial(SERIAL_PORT, baudrate=BAUD_RATE, timeout=0.1)
+        self.init_can_bus()
         self.init_db_connection()
         self.start_response_monitor()
+    
+    def init_can_bus(self):
+        try:
+            os.system(f'sudo /sbin/ip link set {self.channel} up type can bitrate 500000')
+            time.sleep(0.1)
+            self.bus = can.interface.Bus(channel=self.channel, bustype=self.bustype)
+            print("CAN initialized")
+        except Exception as e:
+            print(f"CAN init failed: {e}")
+            raise
     
     def init_db_connection(self):
         try:
             self.db_connection = mysql.connector.connect(
-                host="192.168.1.15",
+                host="10.20.0.23",
                 user="myuser1",
                 password="root",
                 database="khalil"
@@ -102,109 +104,50 @@ class LINWindowMaster:
             print(f"Error connecting to MySQL: {e}")
             raise
     
-    def calculate_pid(self, frame_id):
-        if frame_id > 0x3F:
-            raise ValueError("Frame ID must be 6 bits (0-63)")
-        p0 = (frame_id ^ (frame_id >> 1) ^ (frame_id >> 2) ^ (frame_id >> 4)) & 0x01
-        p1 = ~((frame_id >> 1) ^ (frame_id >> 3) ^ (frame_id >> 4) ^ (frame_id >> 5)) & 0x01
-        return (frame_id & 0x3F) | (p0 << 6) | (p1 << 7)
-    
-    def calculate_checksum(self, pid, data):
-        checksum = pid
-        for byte in data:
-            checksum += byte
-            if checksum > 0xFF:
-                checksum -= 0xFF
-        return (0xFF - checksum) & 0xFF
-    
-    def send_break(self):
-        self.ser.baudrate = BAUD_RATE // 4
-        self.ser.write(bytes([BREAK_BYTE]))
-        self.ser.flush()
-        time.sleep(13 * (1.0 / (BAUD_RATE // 4)))
-        self.ser.baudrate = BAUD_RATE
-    
-    def wakeup_slave(self):
-        GPIO.output(WAKEUP_PIN, GPIO.LOW)
-        time.sleep(0.01)
-        GPIO.output(WAKEUP_PIN, GPIO.HIGH)
-    
-    def send_window_command(self, window, result, level, level_type, mode, safety):
-        """Send a LIN frame to control a window"""
+    def send_can_message(self, window, result, level, level_type, mode, safety):
         try:
-            self.wakeup_slave()
-            self.send_break()
-            
-            self.ser.write(bytes([SYNC_BYTE]))
-            pid = self.calculate_pid(WINDOW_IDS[window])
-            self.ser.write(bytes([pid]))
-            
             result_index = RESULT_CODES.index(result)
-            msg_data = bytes([
-                result_index,
-                level,
-                LEVEL_TYPES.index(level_type),
+            msg_data = [
+                result_index, 
+                level, 
+                LEVEL_TYPES.index(level_type), 
                 MODES.index(mode.upper()),
                 1 if safety == "ON" else 0
-            ])
+            ]
             
-            self.ser.write(msg_data)
-            checksum = self.calculate_checksum(pid, msg_data)
-            self.ser.write(bytes([checksum]))
-            self.ser.flush()
-            
-            print(f"Sent LIN frame: {window} | {result} | {level}% | {level_type} | {mode} | safety_{safety}")
-            
+            msg = can.Message(
+                arbitration_id=WINDOW_IDS[window],
+                data=msg_data,
+                is_extended_id=False
+            )
+            self.bus.send(msg)
+            print(f"Sent: {window} | {result} | {level}% | {level_type} | {mode} | safety_{safety} (ID: {hex(WINDOW_IDS[window])}, Data: {msg_data})")
         except Exception as e:
-            print(f"Error sending LIN message: {e}")
+            print(f"Error sending CAN message: {e}")
     
-    def parse_response_frame(self, buffer):
-        """Parse response frame from slave"""
+    def parse_response_frame(self, msg):
+        """Parse response CAN message from slave"""
         try:
-            # Frame structure: [BREAK, SYNC, PID, DATA(5), CHECKSUM]
-            if len(buffer) < 9:
-                return None
-            
-            # Verify break and sync bytes
-            if buffer[0] != BREAK_BYTE or buffer[1] != SYNC_BYTE:
-                return None
-            
-            pid = buffer[2]
-            data = buffer[3:8]
-            received_checksum = buffer[8]
-            
-            # Verify checksum
-            calc_checksum = self.calculate_checksum(pid, data)
-            if received_checksum != calc_checksum:
-                print(f"Checksum mismatch: received {hex(received_checksum)}, calculated {hex(calc_checksum)}")
-                return None
-            
-            frame_id = pid & 0x3F
-            window = RESPONSE_IDS.get(frame_id)
-            
-            if not window:
-                print(f"Unknown response frame ID: {frame_id}")
-                return None
-            
-            result = RESULT_CODES[data[0]]
-            level = data[1]
-            level_type = LEVEL_TYPES[data[2]] if data[2] < len(LEVEL_TYPES) else "AUTO"
-            mode = MODES[data[3]] if data[3] < len(MODES) else "WHONEN"
-            safety = "ON" if data[4] == 1 else "OFF"
-            
-            return {
-                window: {
-                    "result": result,
-                    "level": level,
-                    "level_type": level_type,
-                    "mode": mode,
-                    "safety": safety
+            window = next((name for name, can_id in RESPONSE_IDS.items() if can_id == msg.arbitration_id), None)
+            if window and len(msg.data) >= 5:
+                result = RESULT_CODES[msg.data[0]]
+                level = msg.data[1]
+                level_type = LEVEL_TYPES[msg.data[2]] if len(msg.data) > 2 else "AUTO"
+                mode = MODES[msg.data[3]] if len(msg.data) > 3 else "WHONEN"
+                safety = "ON" if msg.data[4] == 1 else "OFF"
+                
+                return {
+                    window: {
+                        "result": result,
+                        "level": level,
+                        "level_type": level_type,
+                        "mode": mode,
+                        "safety": safety
+                    }
                 }
-            }
-            
         except (IndexError, ValueError) as e:
-            print(f"Error parsing response frame: {e}")
-            return None
+            print(f"Error parsing response: {e}")
+        return None
     
     def write_response_to_file(self, status):
         """Write response status to window_response.txt"""
@@ -247,36 +190,21 @@ class LINWindowMaster:
                 print("Database connection lost; will attempt to reconnect on next update")
     
     def monitor_responses(self):
-        """Monitor for response frames from slave"""
-        print("Listening for response LIN messages...")
-        buffer = bytearray()
-        
+        """Monitor CAN bus for response messages from slave"""
+        print("Listening for response CAN messages...")
         try:
             while self.running:
-                if self.ser.in_waiting:
-                    byte = self.ser.read(1)
-                    if byte:
-                        buffer += byte
-                    
-                    # Process complete frames in buffer
-                    while len(buffer) >= 9:
-                        status = self.parse_response_frame(buffer[:9])
-                        if status:
-                            print("\nReceived Window Status:")
-                            for window, data in status.items():
-                                print(f"{window}: {data['result']} | {data['level']}% | {data['level_type']} | {data['mode']} | safety_{data['safety']}")
-                            self.write_response_to_file(status)
-                            self.update_database(status)
-                        
-                        # Remove processed bytes from buffer
-                        buffer = buffer[9:]
-                
-                time.sleep(0.001)
-                
+                msg = self.bus.recv(timeout=1.0)
+                if msg and msg.arbitration_id in RESPONSE_IDS.values():
+                    status = self.parse_response_frame(msg)
+                    if status:
+                        print("\nReceived Window Status:")
+                        for window, data in status.items():
+                            print(f"{window}: {data['result']} | {data['level']}% | {data['level_type']} | {data['mode']} | safety_{data['safety']}")
+                        self.write_response_to_file(status)
+                        self.update_database(status)
         except Exception as e:
             print(f"Response monitoring error: {e}")
-        finally:
-            self.ser.close()
     
     def start_response_monitor(self):
         """Start a thread to monitor response messages"""
@@ -285,7 +213,7 @@ class LINWindowMaster:
     
     def monitor_file(self):
         print(f"Monitoring {self.filename} for new window status updates...")
-        print("Add new lines to the file to send LIN messages")
+        print("Add new lines to the file to send CAN messages")
         
         try:
             while self.running:
@@ -300,6 +228,7 @@ class LINWindowMaster:
                         for line in new_content.split('\n'):
                             if line.strip() and line.startswith("Window:"):
                                 try:
+                                    # Split and clean all parts
                                     parts = [p.strip() for p in line.split('|')]
                                     if len(parts) < 6:
                                         print(f"Skipping incomplete line: {line}")
@@ -312,33 +241,40 @@ class LINWindowMaster:
                                     mode = parts[4].split(':')[1].strip().upper()
                                     safety = parts[5].split(':')[1].strip().upper()
                                     
+                                    # Validate window
                                     if window not in WINDOW_IDS:
                                         print(f"Invalid window: {window}")
                                         continue
                                         
+                                    # Validate result
                                     if result not in RESULT_CODES:
                                         print(f"Invalid result: {result}")
                                         continue
                                         
+                                    # Validate level
                                     if not 0 <= level <= 100:
                                         print(f"Invalid level: {level}")
                                         continue
                                         
+                                    # Validate level_type
                                     if level_type not in LEVEL_TYPES:
                                         print(f"Invalid level_type: {level_type}")
                                         continue
                                         
+                                    # Validate mode (case insensitive)
                                     if mode.upper() not in [m.upper() for m in MODES]:
                                         print(f"Invalid mode: {mode}")
                                         continue
                                         
+                                    # Validate safety
                                     if safety not in ["ON", "OFF"]:
                                         print(f"Invalid safety value: {safety}")
                                         continue
                                     
+                                    # Convert mode to standard case
                                     mode = MODES[[m.upper() for m in MODES].index(mode.upper())]
                                     
-                                    self.send_window_command(window, result, level, level_type, mode, safety)
+                                    self.send_can_message(window, result, level, level_type, mode, safety)
                                 except (IndexError, ValueError) as e:
                                     print(f"Malformed line: {line} - Error: {e}")
                 
@@ -351,15 +287,15 @@ class LINWindowMaster:
         self.running = False
         if hasattr(self, 'response_thread') and self.response_thread.is_alive():
             self.response_thread.join(timeout=0.5)
-        if self.ser and self.ser.is_open:
-            self.ser.close()
-        if hasattr(self, 'db_connection') and self.db_connection.is_connected():
+        if self.bus:
+            self.bus.shutdown()
+        if self.db_connection and self.db_connection.is_connected():
             self.db_cursor.close()
             self.db_connection.close()
             print("MySQL connection closed")
-        GPIO.cleanup()
+        os.system(f'sudo /sbin/ip link set {self.channel} down')
         print("Shutdown complete")
 
 if __name__ == "__main__":
-    master = LINWindowMaster("windows_analysis.txt")
+    master = CANWindowMaster("windows_analysis.txt")
     master.monitor_file()
