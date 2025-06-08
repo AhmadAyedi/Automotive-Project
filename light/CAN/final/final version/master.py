@@ -63,8 +63,8 @@ MODE_NAMES = {
 EVENT_IDS = {
     0x101: 11,  # Low Beam
     0x102: 12,  # High Beam
-    0x103: 17,  # Parking Left
-    0x104: 18,  # Parking Right
+    0x103: 18,  # Parking Left
+    0x104: 17,  # Parking Right
     0x105: 13,  # Hazard Lights
     0x106: 15,  # Right Turn
     0x107: 14   # Left Turn

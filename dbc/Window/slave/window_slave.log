@@ -1,0 +1,193 @@
+2025-06-05 18:46:28,498 - INFO - Created a socket
+2025-06-05 18:46:28,501 - INFO - CAN bus initialized successfully
+2025-06-05 18:46:28,507 - INFO - GPIO initialized successfully
+2025-06-05 18:46:28,509 - INFO - Shift register cleared
+2025-06-05 18:46:28,518 - INFO - Starting CAN message receiver
+2025-06-07 11:52:28,754 - INFO - Created a socket
+2025-06-07 11:52:28,757 - INFO - CAN bus initialized successfully
+2025-06-07 11:52:28,760 - INFO - GPIO initialized successfully
+2025-06-07 11:52:28,761 - INFO - Shift register cleared
+2025-06-07 11:52:28,765 - INFO - Starting CAN message receiver
+2025-06-07 12:03:48,703 - INFO - Processing DR command: CL 100% MANUAL FAHREN safety_ON
+2025-06-07 12:03:48,704 - INFO - Safety active - Red LED activated
+2025-06-07 12:03:48,705 - INFO - Safety LED turned ON
+2025-06-07 12:03:48,714 - INFO - Updating DR from 0 to 4 LEDs (Level: 100%)
+2025-06-07 12:03:48,723 - INFO - Turned on DR LED 1
+2025-06-07 12:03:49,033 - INFO - Turned on DR LED 2
+2025-06-07 12:03:49,342 - INFO - Turned on DR LED 3
+2025-06-07 12:03:49,651 - INFO - Turned on DR LED 4
+2025-06-07 12:03:49,953 - INFO - Sent DR status response: {'DR_LEVEL': 100, 'DR_RESULT': 'CL', 'DR_TYPE': 'MANUAL', 'DR_MODE': 'FAHREN', 'DR_SAFETY': 'ON'}
+2025-06-07 12:04:16,241 - INFO - Processing DR command: CL 0% MANUAL FAHREN safety_ON
+2025-06-07 12:04:16,243 - INFO - Safety active - Red LED activated
+2025-06-07 12:04:16,243 - INFO - Safety LED turned ON
+2025-06-07 12:04:16,252 - INFO - Updating DR from 4 to 0 LEDs (Level: 0%)
+2025-06-07 12:04:16,261 - INFO - Turned off DR LED 4
+2025-06-07 12:04:16,570 - INFO - Turned off DR LED 3
+2025-06-07 12:04:16,879 - INFO - Turned off DR LED 2
+2025-06-07 12:04:17,188 - INFO - Turned off DR LED 1
+2025-06-07 12:04:17,490 - INFO - Sent DR status response: {'DR_LEVEL': 0, 'DR_RESULT': 'CL', 'DR_TYPE': 'MANUAL', 'DR_MODE': 'FAHREN', 'DR_SAFETY': 'ON'}
+2025-06-07 12:04:33,767 - INFO - Processing DR command: CL 100% MANUAL FAHREN safety_ON
+2025-06-07 12:04:33,768 - INFO - Safety active - Red LED activated
+2025-06-07 12:04:33,769 - INFO - Safety LED turned ON
+2025-06-07 12:04:33,778 - INFO - Updating DR from 0 to 4 LEDs (Level: 100%)
+2025-06-07 12:04:33,786 - INFO - Turned on DR LED 1
+2025-06-07 12:04:34,095 - INFO - Turned on DR LED 2
+2025-06-07 12:04:34,404 - INFO - Turned on DR LED 3
+2025-06-07 12:04:34,713 - INFO - Turned on DR LED 4
+2025-06-07 12:04:35,015 - INFO - Sent DR status response: {'DR_LEVEL': 100, 'DR_RESULT': 'CL', 'DR_TYPE': 'MANUAL', 'DR_MODE': 'FAHREN', 'DR_SAFETY': 'ON'}
+2025-06-07 12:05:57,790 - INFO - Processing DRS command: CL 80% MANUAL FAHREN safety_ON
+2025-06-07 12:05:57,792 - INFO - Safety active - Red LED activated
+2025-06-07 12:05:57,795 - INFO - Processing PS command: CL 100% MANUAL FAHREN safety_ON
+2025-06-07 12:05:57,796 - INFO - Safety LED turned ON
+2025-06-07 12:05:57,798 - INFO - Safety active - Red LED activated
+2025-06-07 12:05:57,800 - INFO - Processing PRS command: CL 100% MANUAL FAHREN safety_ON
+2025-06-07 12:05:57,811 - INFO - Updating DRS from 0 to 3 LEDs (Level: 80%)
+2025-06-07 12:05:57,812 - INFO - Processing DR command: CL 30% MANUAL FAHREN safety_ON
+2025-06-07 12:05:57,812 - INFO - Safety LED turned ON
+2025-06-07 12:05:57,814 - INFO - Safety active - Red LED activated
+2025-06-07 12:05:57,815 - INFO - Safety active - Red LED activated
+2025-06-07 12:05:57,825 - INFO - Updating PS from 0 to 4 LEDs (Level: 100%)
+2025-06-07 12:05:57,834 - INFO - Turned on DRS LED 1
+2025-06-07 12:05:57,835 - INFO - Safety LED turned ON
+2025-06-07 12:05:57,842 - INFO - Safety LED turned ON
+2025-06-07 12:05:57,854 - INFO - Updating PRS from 0 to 4 LEDs (Level: 100%)
+2025-06-07 12:05:57,856 - INFO - Updating DR from 4 to 1 LEDs (Level: 30%)
+2025-06-07 12:05:57,864 - INFO - Turned on PS LED 1
+2025-06-07 12:05:57,871 - INFO - Turned on PRS LED 1
+2025-06-07 12:05:57,878 - INFO - Turned off DR LED 4
+2025-06-07 12:05:58,145 - INFO - Turned on DRS LED 2
+2025-06-07 12:05:58,184 - INFO - Turned on PS LED 2
+2025-06-07 12:05:58,192 - INFO - Turned off DR LED 3
+2025-06-07 12:05:58,199 - INFO - Turned on PRS LED 2
+2025-06-07 12:05:58,454 - INFO - Turned on DRS LED 3
+2025-06-07 12:05:58,500 - INFO - Turned on PS LED 3
+2025-06-07 12:05:58,508 - INFO - Turned off DR LED 2
+2025-06-07 12:05:58,515 - INFO - Turned on PRS LED 3
+2025-06-07 12:05:58,757 - INFO - Sent DRS status response: {'DRS_LEVEL': 80, 'DRS_RESULT': 'CL', 'DRS_TYPE': 'MANUAL', 'DRS_MODE': 'FAHREN', 'DRS_SAFETY': 'ON'}
+2025-06-07 12:05:58,817 - INFO - Turned on PS LED 4
+2025-06-07 12:05:58,819 - INFO - Sent DR status response: {'DR_LEVEL': 30, 'DR_RESULT': 'CL', 'DR_TYPE': 'MANUAL', 'DR_MODE': 'FAHREN', 'DR_SAFETY': 'ON'}
+2025-06-07 12:05:58,827 - INFO - Turned on PRS LED 4
+2025-06-07 12:05:59,120 - INFO - Sent PS status response: {'PS_LEVEL': 100, 'PS_RESULT': 'CL', 'PS_TYPE': 'MANUAL', 'PS_MODE': 'FAHREN', 'PS_SAFETY': 'ON'}
+2025-06-07 12:05:59,129 - INFO - Sent PRS status response: {'PRS_LEVEL': 100, 'PRS_RESULT': 'CL', 'PRS_TYPE': 'MANUAL', 'PRS_MODE': 'FAHREN', 'PRS_SAFETY': 'ON'}
+2025-06-07 12:08:24,235 - INFO - Received shutdown signal
+2025-06-07 12:08:24,236 - INFO - Initiating shutdown sequence
+2025-06-07 12:08:24,402 - INFO - Shutdown complete
+2025-06-07 12:12:58,097 - INFO - Created a socket
+2025-06-07 12:12:58,098 - INFO - CAN bus initialized successfully
+2025-06-07 12:12:58,101 - INFO - GPIO initialized successfully
+2025-06-07 12:12:58,102 - INFO - Shift register cleared
+2025-06-07 12:12:58,106 - INFO - Starting CAN message receiver
+2025-06-07 12:13:36,571 - INFO - Processing DRS command: CL 80% MANUAL FAHREN safety_ON
+2025-06-07 12:13:36,573 - INFO - Safety active - Red LED activated
+2025-06-07 12:13:36,576 - INFO - Processing PS command: CL 100% MANUAL FAHREN safety_ON
+2025-06-07 12:13:36,577 - INFO - Safety LED turned ON
+2025-06-07 12:13:36,579 - INFO - Safety active - Red LED activated
+2025-06-07 12:13:36,581 - INFO - Processing PRS command: CL 100% MANUAL FAHREN safety_ON
+2025-06-07 12:13:36,590 - INFO - Updating DRS from 0 to 3 LEDs (Level: 80%)
+2025-06-07 12:13:36,591 - INFO - Safety LED turned ON
+2025-06-07 12:13:36,594 - INFO - Processing DR command: CL 30% MANUAL FAHREN safety_ON
+2025-06-07 12:13:36,594 - INFO - Safety active - Red LED activated
+2025-06-07 12:13:36,609 - INFO - Updating PS from 0 to 4 LEDs (Level: 100%)
+2025-06-07 12:13:36,611 - INFO - Turned on DRS LED 1
+2025-06-07 12:13:36,612 - INFO - Safety active - Red LED activated
+2025-06-07 12:13:36,614 - INFO - Safety LED turned ON
+2025-06-07 12:13:36,621 - INFO - Safety LED turned ON
+2025-06-07 12:13:36,629 - INFO - Updating PRS from 0 to 4 LEDs (Level: 100%)
+2025-06-07 12:13:36,631 - INFO - Turned on PS LED 1
+2025-06-07 12:13:36,639 - INFO - Updating DR from 0 to 1 LEDs (Level: 30%)
+2025-06-07 12:13:36,646 - INFO - Turned on PRS LED 1
+2025-06-07 12:13:36,654 - INFO - Turned on DR LED 1
+2025-06-07 12:13:37,623 - INFO - Turned on DRS LED 2
+2025-06-07 12:13:37,647 - INFO - Turned on PS LED 2
+2025-06-07 12:13:37,663 - INFO - Turned on PRS LED 2
+2025-06-07 12:13:37,663 - INFO - Sent DR status response: {'DR_LEVEL': 30, 'DR_RESULT': 'CL', 'DR_TYPE': 'MANUAL', 'DR_MODE': 'FAHREN', 'DR_SAFETY': 'ON'}
+2025-06-07 12:13:38,632 - INFO - Turned on DRS LED 3
+2025-06-07 12:13:38,656 - INFO - Turned on PS LED 3
+2025-06-07 12:13:38,671 - INFO - Turned on PRS LED 3
+2025-06-07 12:13:39,635 - INFO - Sent DRS status response: {'DRS_LEVEL': 80, 'DRS_RESULT': 'CL', 'DRS_TYPE': 'MANUAL', 'DRS_MODE': 'FAHREN', 'DRS_SAFETY': 'ON'}
+2025-06-07 12:13:39,665 - INFO - Turned on PS LED 4
+2025-06-07 12:13:39,680 - INFO - Turned on PRS LED 4
+2025-06-07 12:13:40,667 - INFO - Sent PS status response: {'PS_LEVEL': 100, 'PS_RESULT': 'CL', 'PS_TYPE': 'MANUAL', 'PS_MODE': 'FAHREN', 'PS_SAFETY': 'ON'}
+2025-06-07 12:13:40,681 - INFO - Sent PRS status response: {'PRS_LEVEL': 100, 'PRS_RESULT': 'CL', 'PRS_TYPE': 'MANUAL', 'PRS_MODE': 'FAHREN', 'PRS_SAFETY': 'ON'}
+2025-06-07 12:13:55,910 - INFO - Processing DR command: CL 80% MANUAL FAHREN safety_ON
+2025-06-07 12:13:55,911 - INFO - Safety active - Red LED activated
+2025-06-07 12:13:55,912 - INFO - Safety LED turned ON
+2025-06-07 12:13:55,921 - INFO - Updating DR from 1 to 3 LEDs (Level: 80%)
+2025-06-07 12:13:55,929 - INFO - Turned on DR LED 2
+2025-06-07 12:13:56,938 - INFO - Turned on DR LED 3
+2025-06-07 12:13:57,940 - INFO - Sent DR status response: {'DR_LEVEL': 80, 'DR_RESULT': 'CL', 'DR_TYPE': 'MANUAL', 'DR_MODE': 'FAHREN', 'DR_SAFETY': 'ON'}
+2025-06-07 12:14:15,540 - INFO - Processing DR command: CL 0% MANUAL FAHREN safety_ON
+2025-06-07 12:14:15,541 - INFO - Safety active - Red LED activated
+2025-06-07 12:14:15,542 - INFO - Safety LED turned ON
+2025-06-07 12:14:15,550 - INFO - Updating DR from 3 to 0 LEDs (Level: 0%)
+2025-06-07 12:14:15,559 - INFO - Turned off DR LED 3
+2025-06-07 12:14:16,568 - INFO - Turned off DR LED 2
+2025-06-07 12:14:17,577 - INFO - Turned off DR LED 1
+2025-06-07 12:14:18,579 - INFO - Sent DR status response: {'DR_LEVEL': 0, 'DR_RESULT': 'CL', 'DR_TYPE': 'MANUAL', 'DR_MODE': 'FAHREN', 'DR_SAFETY': 'ON'}
+2025-06-07 12:30:19,540 - INFO - Received shutdown signal
+2025-06-07 12:30:19,541 - INFO - Initiating shutdown sequence
+2025-06-07 12:30:19,701 - INFO - Shutdown complete
+2025-06-07 14:31:53,220 - INFO - Created a socket
+2025-06-07 14:31:53,221 - INFO - CAN bus initialized successfully
+2025-06-07 14:31:53,225 - INFO - GPIO initialized successfully
+2025-06-07 14:31:53,226 - INFO - Shift register cleared
+2025-06-07 14:31:53,230 - INFO - Starting CAN message receiver
+2025-06-07 14:32:12,469 - INFO - Processing DR command: CL 0% MANUAL FAHREN safety_ON
+2025-06-07 14:32:12,471 - INFO - Safety active - Red LED activated
+2025-06-07 14:32:12,471 - INFO - Safety LED turned ON
+2025-06-07 14:32:12,480 - INFO - Updating DR from 0 to 0 LEDs (Level: 0%)
+2025-06-07 14:32:12,482 - INFO - Sent DR status response: {'DR_LEVEL': 0, 'DR_RESULT': 'CL', 'DR_TYPE': 'MANUAL', 'DR_MODE': 'FAHREN', 'DR_SAFETY': 'ON'}
+2025-06-07 14:32:18,580 - INFO - Processing DR command: CL 100% MANUAL FAHREN safety_ON
+2025-06-07 14:32:18,581 - INFO - Safety active - Red LED activated
+2025-06-07 14:32:18,582 - INFO - Safety LED turned ON
+2025-06-07 14:32:18,591 - INFO - Updating DR from 0 to 4 LEDs (Level: 100%)
+2025-06-07 14:32:18,599 - INFO - Turned on DR LED 1
+2025-06-07 14:32:19,609 - INFO - Turned on DR LED 2
+2025-06-07 14:32:20,618 - INFO - Turned on DR LED 3
+2025-06-07 14:32:21,627 - INFO - Turned on DR LED 4
+2025-06-07 14:32:22,629 - INFO - Sent DR status response: {'DR_LEVEL': 100, 'DR_RESULT': 'CL', 'DR_TYPE': 'MANUAL', 'DR_MODE': 'FAHREN', 'DR_SAFETY': 'ON'}
+2025-06-07 14:33:57,141 - INFO - Received shutdown signal
+2025-06-07 14:33:57,142 - INFO - Initiating shutdown sequence
+2025-06-07 15:30:14,649 - INFO - Created a socket
+2025-06-07 15:30:14,649 - INFO - CAN bus initialized successfully
+2025-06-07 15:30:14,653 - INFO - GPIO initialized successfully
+2025-06-07 15:30:14,654 - INFO - Shift register cleared
+2025-06-07 15:30:14,658 - INFO - Starting CAN message receiver
+2025-06-07 15:31:53,951 - INFO - Processing DR command: CL 100% MANUAL FAHREN safety_ON
+2025-06-07 15:31:53,953 - INFO - Safety active - Red LED activated
+2025-06-07 15:31:53,955 - INFO - Safety LED turned ON
+2025-06-07 15:31:53,957 - INFO - Processing DRS command: CL 50% MANUAL FAHREN safety_ON
+2025-06-07 15:31:53,967 - INFO - Updating DR from 0 to 4 LEDs (Level: 100%)
+2025-06-07 15:31:53,969 - INFO - Safety active - Red LED activated
+2025-06-07 15:31:53,970 - INFO - Processing PS command: CL 80% MANUAL FAHREN safety_ON
+2025-06-07 15:31:53,980 - INFO - Turned on DR LED 1
+2025-06-07 15:31:53,981 - INFO - Safety LED turned ON
+2025-06-07 15:31:53,983 - INFO - Processing PRS command: CL 30% MANUAL FAHREN safety_ON
+2025-06-07 15:31:53,984 - INFO - Safety active - Red LED activated
+2025-06-07 15:31:53,994 - INFO - Updating DRS from 0 to 2 LEDs (Level: 50%)
+2025-06-07 15:31:53,995 - INFO - Safety active - Red LED activated
+2025-06-07 15:31:53,996 - INFO - Safety LED turned ON
+2025-06-07 15:31:54,002 - INFO - Safety LED turned ON
+2025-06-07 15:31:54,010 - INFO - Turned on DRS LED 1
+2025-06-07 15:31:54,015 - INFO - Updating PS from 0 to 3 LEDs (Level: 80%)
+2025-06-07 15:31:54,017 - INFO - Updating PRS from 0 to 1 LEDs (Level: 30%)
+2025-06-07 15:31:54,024 - INFO - Turned on PS LED 1
+2025-06-07 15:31:54,030 - INFO - Turned on PRS LED 1
+2025-06-07 15:31:54,994 - INFO - Turned on DR LED 2
+2025-06-07 15:31:55,024 - INFO - Turned on DRS LED 2
+2025-06-07 15:31:55,039 - INFO - Turned on PS LED 2
+2025-06-07 15:31:55,039 - INFO - Sent PRS status response: {'PRS_LEVEL': 30, 'PRS_RESULT': 'CL', 'PRS_TYPE': 'MANUAL', 'PRS_MODE': 'FAHREN', 'PRS_SAFETY': 'ON'}
+2025-06-07 15:31:56,003 - INFO - Turned on DR LED 3
+2025-06-07 15:31:56,026 - INFO - Sent DRS status response: {'DRS_LEVEL': 50, 'DRS_RESULT': 'CL', 'DRS_TYPE': 'MANUAL', 'DRS_MODE': 'FAHREN', 'DRS_SAFETY': 'ON'}
+2025-06-07 15:31:56,047 - INFO - Turned on PS LED 3
+2025-06-07 15:31:57,012 - INFO - Turned on DR LED 4
+2025-06-07 15:31:57,049 - INFO - Sent PS status response: {'PS_LEVEL': 80, 'PS_RESULT': 'CL', 'PS_TYPE': 'MANUAL', 'PS_MODE': 'FAHREN', 'PS_SAFETY': 'ON'}
+2025-06-07 15:31:58,013 - INFO - Sent DR status response: {'DR_LEVEL': 100, 'DR_RESULT': 'CL', 'DR_TYPE': 'MANUAL', 'DR_MODE': 'FAHREN', 'DR_SAFETY': 'ON'}
+2025-06-07 15:32:40,342 - INFO - Received shutdown signal
+2025-06-07 15:32:40,343 - INFO - Initiating shutdown sequence
+2025-06-07 15:32:40,504 - INFO - Shutdown complete
+2025-06-07 16:19:36,553 - INFO - Created a socket
+2025-06-07 16:19:36,557 - INFO - CAN bus initialized successfully
+2025-06-07 16:19:36,560 - INFO - GPIO initialized successfully
+2025-06-07 16:19:36,561 - INFO - Shift register cleared
+2025-06-07 16:19:36,565 - INFO - Starting CAN message receiver
