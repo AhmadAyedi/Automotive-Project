@@ -1,0 +1,4 @@
+consumedPower = 98
+isWiperBlocked = 0
+blockageReason = 0
+hwError = 0

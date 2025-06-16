@@ -1,0 +1,495 @@
+2025-06-09 15:18:46,600 - INFO - Created a socket
+2025-06-09 15:18:46,601 - INFO - CAN bus initialized successfully
+2025-06-09 15:18:46,602 - INFO - GPIO initialized successfully
+2025-06-09 15:18:46,603 - INFO - Shift register cleared
+2025-06-09 15:18:46,604 - INFO - Starting CAN message receiver
+2025-06-09 15:30:32,282 - INFO - Processing HL command: ON | STAND
+2025-06-09 15:41:45,146 - INFO - Received shutdown signal
+2025-06-09 15:41:45,147 - INFO - Initiating shutdown sequence
+2025-06-09 15:41:45,148 - INFO - Shift register cleared
+2025-06-09 15:41:45,230 - INFO - Shutdown complete
+2025-06-09 15:41:50,222 - INFO - Created a socket
+2025-06-09 15:41:50,224 - INFO - CAN bus initialized successfully
+2025-06-09 15:41:50,226 - INFO - GPIO initialized successfully
+2025-06-09 15:41:50,227 - INFO - Shift register cleared
+2025-06-09 15:41:50,229 - INFO - Starting CAN message receiver
+2025-06-09 15:42:24,816 - INFO - Processing HL command: 1 | 2
+2025-06-09 15:42:24,818 - INFO - Controlled HL: 1
+2025-06-09 15:42:24,820 - INFO - Sent HL status response: {'HL_STATUS': 'OFF', 'HL_MODE': 2}
+2025-06-09 15:42:46,150 - INFO - Processing LT command: 1 | 1
+2025-06-09 15:42:46,152 - INFO - Controlled LT: 1
+2025-06-09 15:42:46,153 - INFO - Sent LT status response: {'LT_STATUS': 'OFF', 'LT_MODE': 1}
+2025-06-09 15:42:58,975 - INFO - Processing PL command: 1 | 3
+2025-06-09 15:42:58,977 - INFO - Controlled PL: 1
+2025-06-09 15:42:58,979 - INFO - Sent PL status response: {'PL_STATUS': 'OFF', 'PL_MODE': 3}
+2025-06-09 15:43:14,817 - INFO - Processing PL command: 0 | 3
+2025-06-09 15:43:14,818 - INFO - Controlled PL: 0
+2025-06-09 15:43:14,820 - INFO - Sent PL status response: {'PL_STATUS': 'OFF', 'PL_MODE': 3}
+2025-06-09 15:43:27,553 - INFO - Processing PL command: 1 | 3
+2025-06-09 15:43:27,554 - INFO - Controlled PL: 1
+2025-06-09 15:43:27,556 - INFO - Sent PL status response: {'PL_STATUS': 'OFF', 'PL_MODE': 3}
+2025-06-09 15:43:56,029 - INFO - Received shutdown signal
+2025-06-09 15:43:56,030 - INFO - Initiating shutdown sequence
+2025-06-09 15:43:56,032 - INFO - Shift register cleared
+2025-06-09 15:43:56,110 - INFO - Shutdown complete
+2025-06-09 15:44:07,475 - INFO - Created a socket
+2025-06-09 15:44:07,478 - INFO - CAN bus initialized successfully
+2025-06-09 15:44:07,481 - INFO - GPIO initialized successfully
+2025-06-09 15:44:07,483 - INFO - Shift register cleared
+2025-06-09 15:44:07,486 - INFO - Starting CAN message receiver
+2025-06-09 15:44:24,250 - INFO - Processing PL command: 1 | 3
+2025-06-09 15:44:24,252 - INFO - Controlled PL: 1
+2025-06-09 15:44:24,254 - INFO - Sent PL status response: {'PL_STATUS': 'OFF', 'PL_MODE': 3}
+2025-06-09 15:54:47,540 - INFO - Received shutdown signal
+2025-06-09 15:54:47,542 - INFO - Initiating shutdown sequence
+2025-06-09 15:54:47,544 - INFO - Shift register cleared
+2025-06-09 15:54:47,627 - INFO - Shutdown complete
+2025-06-09 15:55:49,250 - INFO - Created a socket
+2025-06-09 15:55:49,252 - INFO - CAN bus initialized successfully
+2025-06-09 15:55:49,253 - INFO - GPIO initialized successfully
+2025-06-09 15:55:49,254 - INFO - Shift register cleared
+2025-06-09 15:55:49,256 - INFO - Starting CAN message receiver
+2025-06-09 15:56:31,357 - INFO - Processing LT command: 1 | 1
+2025-06-09 15:56:31,359 - INFO - Controlled LT: 1
+2025-06-09 15:56:31,361 - INFO - Sent LT status response: {'LT_STATUS': 'OFF', 'LT_MODE': 1}
+2025-06-09 15:56:53,891 - INFO - Processing HL command: 1 | 2
+2025-06-09 15:56:53,894 - INFO - Controlled HL: 1
+2025-06-09 15:56:53,896 - INFO - Sent HL status response: {'HL_STATUS': 'OFF', 'HL_MODE': 2}
+2025-06-09 16:21:59,646 - INFO - Received shutdown signal
+2025-06-09 16:21:59,648 - INFO - Initiating shutdown sequence
+2025-06-09 16:21:59,650 - INFO - Shift register cleared
+2025-06-09 16:21:59,864 - INFO - Shutdown complete
+2025-06-09 16:49:59,534 - INFO - Created a socket
+2025-06-09 16:49:59,536 - INFO - CAN initialized
+2025-06-09 16:49:59,538 - INFO - Shift register initialized - All LEDs OFF
+2025-06-09 16:50:20,901 - ERROR - Error processing control message: unhashable type: 'NamedSignalValue'
+2025-06-09 16:50:43,446 - ERROR - Error processing control message: unhashable type: 'NamedSignalValue'
+2025-06-09 17:00:21,927 - INFO - Received keyboard interrupt
+2025-06-09 17:00:21,930 - INFO - Shutting down...
+2025-06-09 17:00:22,033 - INFO - Shutdown complete
+2025-06-09 17:37:24,623 - INFO - Created a socket
+2025-06-09 17:37:24,625 - INFO - CAN initialized
+2025-06-09 17:37:24,654 - ERROR - Error loading DBC file: DBC: "Invalid syntax at line 37, column 26: "VAL_TABLE_ STATUS_CODES 0>>!<<x01 "ACTIVATED" 0x00 "DEACTIVATED" 0xFF "FAILED" 0xFE "INVALID";""
+2025-06-10 00:57:40,897 - INFO - Created a socket
+2025-06-10 00:57:40,899 - ERROR - CAN init failed: [Errno 19] No such device
+2025-06-10 01:39:20,915 - INFO - Created a socket
+2025-06-10 01:39:20,919 - INFO - CAN initialized
+2025-06-10 01:39:20,921 - INFO - Shift register initialized - All LEDs OFF
+2025-06-10 01:46:22,652 - INFO - Received keyboard interrupt
+2025-06-10 01:46:22,653 - INFO - Shutting down...
+2025-06-10 01:46:22,716 - INFO - Shutdown complete
+2025-06-10 01:46:30,704 - INFO - Created a socket
+2025-06-10 01:46:30,706 - INFO - CAN initialized
+2025-06-10 01:46:30,708 - INFO - Shift register initialized - All LEDs OFF
+2025-06-10 01:51:51,572 - INFO - Received keyboard interrupt
+2025-06-10 01:51:51,573 - INFO - Shutting down...
+2025-06-10 01:51:51,631 - INFO - Shutdown complete
+2025-06-10 01:51:58,089 - INFO - Created a socket
+2025-06-10 01:51:58,091 - INFO - CAN initialized
+2025-06-10 01:51:58,093 - INFO - Shift register initialized - All LEDs OFF
+2025-06-10 01:52:21,489 - ERROR - Error processing control message: unhashable type: 'NamedSignalValue'
+2025-06-10 01:54:04,433 - ERROR - Error processing control message: unhashable type: 'NamedSignalValue'
+2025-06-10 01:56:16,035 - INFO - Received keyboard interrupt
+2025-06-10 01:56:16,036 - INFO - Shutting down...
+2025-06-10 01:56:16,095 - INFO - Shutdown complete
+2025-06-10 01:56:23,129 - INFO - Created a socket
+2025-06-10 01:56:23,131 - INFO - CAN initialized
+2025-06-10 01:56:23,133 - INFO - Shift register initialized - All LEDs OFF
+2025-06-10 01:56:42,510 - INFO - Mode indicator set to FAHREN (LED 5)
+2025-06-10 01:56:42,511 - INFO - Updated mode to: FAHREN
+2025-06-10 01:56:42,512 - INFO - Controlled Low Beam: ACTIVATED
+2025-06-10 01:56:42,514 - INFO - Sent response for Low Beam: Status=ACTIVATED, Mode=FAHREN
+2025-06-10 01:56:42,515 - INFO - Controlled High Beam: ACTIVATED
+2025-06-10 01:56:42,517 - INFO - Sent response for High Beam: Status=ACTIVATED, Mode=FAHREN
+2025-06-10 01:56:42,518 - INFO - Controlled Parking Left: ACTIVATED
+2025-06-10 01:56:42,520 - INFO - Sent response for Parking Left: Status=ACTIVATED, Mode=FAHREN
+2025-06-10 01:56:42,521 - INFO - Controlled Parking Right: ACTIVATED
+2025-06-10 01:56:42,523 - INFO - Sent response for Parking Right: Status=ACTIVATED, Mode=FAHREN
+2025-06-10 01:56:42,526 - INFO - Controlled Hazard Lights: ACTIVATED
+2025-06-10 01:56:42,528 - INFO - Sent response for Hazard Lights: Status=ACTIVATED, Mode=FAHREN
+2025-06-10 01:56:42,531 - INFO - Controlled Right Turn: ACTIVATED
+2025-06-10 01:56:42,545 - INFO - Sent response for Right Turn: Status=ACTIVATED, Mode=FAHREN
+2025-06-10 01:56:42,548 - INFO - Controlled Left Turn: ACTIVATED
+2025-06-10 01:56:42,549 - INFO - Sent response for Left Turn: Status=ACTIVATED, Mode=FAHREN
+2025-06-10 01:57:03,366 - INFO - Mode indicator set to FAHREN (LED 5)
+2025-06-10 01:57:03,368 - INFO - Updated mode to: FAHREN
+2025-06-10 01:57:03,369 - INFO - Controlled Low Beam: DEACTIVATED
+2025-06-10 01:57:03,370 - INFO - Sent response for Low Beam: Status=DEACTIVATED, Mode=FAHREN
+2025-06-10 01:57:03,372 - INFO - Controlled High Beam: DEACTIVATED
+2025-06-10 01:57:03,373 - INFO - Sent response for High Beam: Status=DEACTIVATED, Mode=FAHREN
+2025-06-10 01:57:03,375 - INFO - Controlled Parking Left: DEACTIVATED
+2025-06-10 01:57:03,376 - INFO - Sent response for Parking Left: Status=DEACTIVATED, Mode=FAHREN
+2025-06-10 01:57:03,378 - INFO - Controlled Parking Right: DEACTIVATED
+2025-06-10 01:57:03,379 - INFO - Sent response for Parking Right: Status=DEACTIVATED, Mode=FAHREN
+2025-06-10 01:57:03,544 - INFO - Controlled Hazard Lights: DEACTIVATED
+2025-06-10 01:57:03,546 - INFO - Sent response for Hazard Lights: Status=DEACTIVATED, Mode=FAHREN
+2025-06-10 01:57:04,048 - INFO - Controlled Right Turn: DEACTIVATED
+2025-06-10 01:57:04,049 - INFO - Sent response for Right Turn: Status=DEACTIVATED, Mode=FAHREN
+2025-06-10 01:57:04,177 - INFO - Controlled Left Turn: DEACTIVATED
+2025-06-10 01:57:04,178 - INFO - Sent response for Left Turn: Status=DEACTIVATED, Mode=FAHREN
+2025-06-10 01:57:19,528 - INFO - Mode indicator set to STAND (LED 37)
+2025-06-10 01:57:19,529 - INFO - Updated mode to: STAND
+2025-06-10 01:57:19,530 - INFO - Controlled Low Beam: ACTIVATED
+2025-06-10 01:57:19,531 - INFO - Sent response for Low Beam: Status=DEACTIVATED, Mode=STAND
+2025-06-10 01:57:19,533 - INFO - Controlled High Beam: ACTIVATED
+2025-06-10 01:57:19,534 - INFO - Sent response for High Beam: Status=ACTIVATED, Mode=STAND
+2025-06-10 01:57:19,535 - INFO - Controlled Parking Left: ACTIVATED
+2025-06-10 01:57:19,537 - INFO - Sent response for Parking Left: Status=ACTIVATED, Mode=STAND
+2025-06-10 01:57:19,538 - INFO - Controlled Parking Right: ACTIVATED
+2025-06-10 01:57:19,540 - INFO - Sent response for Parking Right: Status=ACTIVATED, Mode=STAND
+2025-06-10 01:57:19,542 - INFO - Controlled Hazard Lights: ACTIVATED
+2025-06-10 01:57:19,544 - INFO - Sent response for Hazard Lights: Status=ACTIVATED, Mode=STAND
+2025-06-10 01:57:19,546 - INFO - Controlled Right Turn: ACTIVATED
+2025-06-10 01:57:19,548 - INFO - Sent response for Right Turn: Status=ACTIVATED, Mode=STAND
+2025-06-10 01:57:19,550 - INFO - Controlled Left Turn: ACTIVATED
+2025-06-10 01:57:19,552 - INFO - Sent response for Left Turn: Status=ACTIVATED, Mode=STAND
+2025-06-10 01:57:56,417 - INFO - Mode indicator set to STAND (LED 37)
+2025-06-10 01:57:56,418 - INFO - Updated mode to: STAND
+2025-06-10 01:57:56,418 - INFO - Controlled Low Beam: DEACTIVATED
+2025-06-10 01:57:56,419 - INFO - Sent response for Low Beam: Status=DEACTIVATED, Mode=STAND
+2025-06-10 01:57:56,422 - INFO - Controlled High Beam: DEACTIVATED
+2025-06-10 01:57:56,424 - INFO - Sent response for High Beam: Status=DEACTIVATED, Mode=STAND
+2025-06-10 01:57:56,426 - INFO - Controlled Parking Left: DEACTIVATED
+2025-06-10 01:57:56,428 - INFO - Sent response for Parking Left: Status=DEACTIVATED, Mode=STAND
+2025-06-10 01:57:56,429 - INFO - Controlled Parking Right: DEACTIVATED
+2025-06-10 01:57:56,430 - INFO - Sent response for Parking Right: Status=DEACTIVATED, Mode=STAND
+2025-06-10 01:57:56,574 - INFO - Controlled Hazard Lights: DEACTIVATED
+2025-06-10 01:57:56,576 - INFO - Sent response for Hazard Lights: Status=DEACTIVATED, Mode=STAND
+2025-06-10 01:57:56,803 - INFO - Controlled Right Turn: DEACTIVATED
+2025-06-10 01:57:56,805 - INFO - Sent response for Right Turn: Status=DEACTIVATED, Mode=STAND
+2025-06-10 01:57:57,307 - INFO - Controlled Left Turn: DEACTIVATED
+2025-06-10 01:57:57,309 - INFO - Sent response for Left Turn: Status=DEACTIVATED, Mode=STAND
+2025-06-10 01:58:06,402 - INFO - Mode indicator set to WOHNEN (LED 23)
+2025-06-10 01:58:06,403 - INFO - Updated mode to: WOHNEN
+2025-06-10 01:58:06,404 - INFO - Controlled Low Beam: ACTIVATED
+2025-06-10 01:58:06,405 - INFO - Sent response for Low Beam: Status=ACTIVATED, Mode=WOHNEN
+2025-06-10 01:58:06,407 - INFO - Controlled High Beam: ACTIVATED
+2025-06-10 01:58:06,408 - INFO - Sent response for High Beam: Status=ACTIVATED, Mode=WOHNEN
+2025-06-10 01:58:06,410 - INFO - Controlled Parking Left: ACTIVATED
+2025-06-10 01:58:06,411 - INFO - Sent response for Parking Left: Status=ACTIVATED, Mode=WOHNEN
+2025-06-10 01:58:06,413 - INFO - Controlled Parking Right: ACTIVATED
+2025-06-10 01:58:06,414 - INFO - Sent response for Parking Right: Status=ACTIVATED, Mode=WOHNEN
+2025-06-10 01:58:06,417 - INFO - Controlled Hazard Lights: ACTIVATED
+2025-06-10 01:58:06,419 - INFO - Sent response for Hazard Lights: Status=ACTIVATED, Mode=WOHNEN
+2025-06-10 01:58:06,422 - INFO - Controlled Right Turn: ACTIVATED
+2025-06-10 01:58:06,423 - INFO - Sent response for Right Turn: Status=ACTIVATED, Mode=WOHNEN
+2025-06-10 01:58:06,426 - INFO - Controlled Left Turn: ACTIVATED
+2025-06-10 01:58:06,427 - INFO - Sent response for Left Turn: Status=ACTIVATED, Mode=WOHNEN
+2025-06-10 01:58:23,682 - INFO - Received keyboard interrupt
+2025-06-10 01:58:23,683 - INFO - Shutting down...
+2025-06-10 01:58:25,008 - INFO - Shutdown complete
+2025-06-10 02:06:21,071 - INFO - Created a socket
+2025-06-10 02:06:21,073 - INFO - CAN initialized
+2025-06-10 02:06:21,075 - INFO - Shift register initialized - All LEDs OFF
+2025-06-10 02:06:34,286 - INFO - Mode indicator set to WOHNEN (LED 23)
+2025-06-10 02:06:34,287 - INFO - Updated mode to: WOHNEN
+2025-06-10 02:06:34,289 - INFO - Controlled Low Beam: ACTIVATED
+2025-06-10 02:06:34,290 - INFO - Sent response for Low Beam: Status=ACTIVATED, Mode=WOHNEN
+2025-06-10 02:06:34,292 - INFO - Controlled High Beam: ACTIVATED
+2025-06-10 02:06:34,294 - INFO - Sent response for High Beam: Status=ACTIVATED, Mode=WOHNEN
+2025-06-10 02:06:34,296 - INFO - Controlled Parking Left: ACTIVATED
+2025-06-10 02:06:34,298 - INFO - Sent response for Parking Left: Status=ACTIVATED, Mode=WOHNEN
+2025-06-10 02:06:34,299 - INFO - Controlled Parking Right: ACTIVATED
+2025-06-10 02:06:34,301 - INFO - Sent response for Parking Right: Status=ACTIVATED, Mode=WOHNEN
+2025-06-10 02:06:34,303 - INFO - Controlled Hazard Lights: ACTIVATED
+2025-06-10 02:06:34,305 - INFO - Sent response for Hazard Lights: Status=ACTIVATED, Mode=WOHNEN
+2025-06-10 02:06:34,308 - INFO - Controlled Right Turn: ACTIVATED
+2025-06-10 02:06:34,322 - INFO - Sent response for Right Turn: Status=ACTIVATED, Mode=WOHNEN
+2025-06-10 02:06:34,325 - INFO - Controlled Left Turn: ACTIVATED
+2025-06-10 02:06:34,327 - INFO - Sent response for Left Turn: Status=ACTIVATED, Mode=WOHNEN
+2025-06-10 02:08:05,799 - INFO - Received keyboard interrupt
+2025-06-10 02:08:05,800 - INFO - Shutting down...
+2025-06-10 02:08:06,895 - INFO - Shutdown complete
+2025-06-10 02:08:13,100 - INFO - Created a socket
+2025-06-10 02:08:13,101 - INFO - CAN initialized
+2025-06-10 02:08:13,102 - INFO - Shift register initialized - All LEDs OFF
+2025-06-10 02:09:04,270 - INFO - Received keyboard interrupt
+2025-06-10 02:09:04,271 - INFO - Shutting down...
+2025-06-10 02:09:04,330 - INFO - Shutdown complete
+2025-06-10 02:09:13,989 - INFO - Created a socket
+2025-06-10 02:09:13,990 - INFO - CAN initialized
+2025-06-10 02:09:13,992 - INFO - Shift register initialized - All LEDs OFF
+2025-06-10 02:11:04,182 - INFO - Received keyboard interrupt
+2025-06-10 02:11:04,184 - INFO - Shutting down...
+2025-06-10 02:11:04,242 - INFO - Shutdown complete
+2025-06-10 02:11:11,373 - INFO - Created a socket
+2025-06-10 02:11:11,375 - INFO - CAN initialized
+2025-06-10 02:11:11,377 - INFO - Shift register initialized - All LEDs OFF
+2025-06-10 02:15:42,161 - INFO - Received keyboard interrupt
+2025-06-10 02:15:42,162 - INFO - Shutting down...
+2025-06-10 02:15:42,222 - INFO - Shutdown complete
+2025-06-10 02:15:48,080 - INFO - Created a socket
+2025-06-10 02:15:48,081 - INFO - CAN initialized
+2025-06-10 02:15:48,083 - INFO - Shift register initialized - All LEDs OFF
+2025-06-10 02:31:41,904 - INFO - Received keyboard interrupt
+2025-06-10 02:31:41,905 - INFO - Shutting down...
+2025-06-10 02:31:41,962 - INFO - Shutdown complete
+2025-06-10 02:31:46,815 - INFO - Created a socket
+2025-06-10 02:31:46,816 - INFO - CAN initialized
+2025-06-10 02:31:46,817 - INFO - Shift register initialized - All LEDs OFF
+2025-06-10 02:54:13,287 - INFO - Received keyboard interrupt
+2025-06-10 02:54:13,288 - INFO - Shutting down...
+2025-06-10 02:54:13,346 - INFO - Shutdown complete
+2025-06-13 16:48:50,491 - INFO - Created a socket
+2025-06-13 16:48:50,496 - INFO - CAN initialized
+2025-06-13 16:48:50,498 - INFO - Shift register initialized - All LEDs OFF
+2025-06-13 16:56:16,572 - ERROR - Error processing message: unhashable type: 'NamedSignalValue'
+2025-06-13 17:00:45,189 - INFO - Received keyboard interrupt
+2025-06-13 17:00:45,190 - INFO - Shutting down...
+2025-06-13 17:00:45,249 - INFO - Shutdown complete
+2025-06-13 17:00:51,785 - INFO - Created a socket
+2025-06-13 17:00:51,787 - INFO - CAN initialized
+2025-06-13 17:00:51,788 - INFO - Shift register initialized - All LEDs OFF
+2025-06-13 17:00:51,789 - INFO - Listening for CAN messages and controlling lights...
+2025-06-13 17:01:09,812 - ERROR - Error processing CAN message: unhashable type: 'NamedSignalValue'
+2025-06-13 17:12:19,175 - INFO - Received keyboard interrupt
+2025-06-13 17:12:19,176 - INFO - Shutting down...
+2025-06-13 17:13:38,338 - INFO - Created a socket
+2025-06-13 17:13:38,340 - INFO - CAN bus initialized successfully
+2025-06-13 17:13:38,342 - INFO - GPIO initialized successfully
+2025-06-13 17:13:38,343 - INFO - Shift register cleared
+2025-06-13 17:13:38,344 - INFO - Starting CAN message receiver
+2025-06-13 17:14:14,542 - INFO - Processing HIGH_BEAM command: ON | FAHREN
+2025-06-13 17:14:43,187 - INFO - Processing PARKING_LEFT command: ON | PARKING
+2025-06-13 17:14:49,233 - INFO - Received shutdown signal
+2025-06-13 17:14:49,234 - INFO - Initiating shutdown sequence
+2025-06-13 17:14:49,235 - INFO - Shift register cleared
+2025-06-13 17:14:49,291 - INFO - Shutdown complete
+2025-06-13 17:15:03,775 - INFO - Created a socket
+2025-06-13 17:15:03,776 - INFO - CAN bus initialized successfully
+2025-06-13 17:15:03,778 - INFO - GPIO initialized successfully
+2025-06-13 17:15:03,779 - INFO - Shift register cleared
+2025-06-13 17:15:03,779 - INFO - Starting CAN message receiver
+2025-06-13 17:15:12,440 - INFO - Processing HIGH_BEAM command: ON | FAHREN
+2025-06-13 17:15:12,443 - INFO - Processing PARKING_LEFT command: ON | PARKING
+2025-06-13 17:15:25,272 - INFO - Processing LEFT_TURN command: ON | FAHREN
+2025-06-13 17:50:04,650 - INFO - Received shutdown signal
+2025-06-13 17:50:04,651 - INFO - Initiating shutdown sequence
+2025-06-13 17:50:04,652 - INFO - Shift register cleared
+2025-06-13 17:50:04,714 - INFO - Shutdown complete
+2025-06-13 17:50:11,134 - INFO - Created a socket
+2025-06-13 17:50:11,136 - INFO - CAN bus initialized successfully
+2025-06-13 17:50:11,137 - INFO - GPIO initialized successfully
+2025-06-13 17:50:11,138 - INFO - Shift register cleared
+2025-06-13 17:50:11,139 - INFO - Starting CAN message receiver
+2025-06-13 17:50:28,887 - INFO - Processing LEFT_TURN command: 1 | 1
+2025-06-13 17:50:28,890 - INFO - Sent LEFT_TURN status response: {'LEFT_TURN_STATE': 0, 'LEFT_TURN_CURRENT_MODE': 2}
+2025-06-13 17:51:44,515 - INFO - Processing HIGH_BEAM command: 1 | 1
+2025-06-13 17:51:44,517 - INFO - Sent HIGH_BEAM status response: {'HIGH_BEAM_STATE': 0, 'HIGH_BEAM_CURRENT_MODE': 2}
+2025-06-13 18:18:06,097 - INFO - Processing HIGH_BEAM command: 1 | 1
+2025-06-13 18:18:06,099 - INFO - Sent HIGH_BEAM status response: {'HIGH_BEAM_STATE': 0, 'HIGH_BEAM_CURRENT_MODE': 2}
+2025-06-13 18:18:23,730 - INFO - Received shutdown signal
+2025-06-13 18:18:23,731 - INFO - Initiating shutdown sequence
+2025-06-13 18:18:23,731 - INFO - Shift register cleared
+2025-06-13 18:18:23,788 - INFO - Shutdown complete
+2025-06-13 18:18:30,042 - INFO - Created a socket
+2025-06-13 18:18:30,045 - INFO - CAN bus initialized successfully
+2025-06-13 18:18:30,046 - INFO - GPIO initialized successfully
+2025-06-13 18:18:30,047 - INFO - Shift register cleared
+2025-06-13 18:18:30,048 - INFO - Starting CAN message receiver
+2025-06-13 18:18:42,654 - ERROR - Message processing error: unhashable type: 'NamedSignalValue'
+2025-06-13 18:19:44,438 - INFO - Received shutdown signal
+2025-06-13 18:19:44,439 - INFO - Initiating shutdown sequence
+2025-06-13 18:19:44,441 - INFO - Shift register cleared
+2025-06-13 18:19:44,502 - INFO - Shutdown complete
+2025-06-13 18:19:49,180 - INFO - Created a socket
+2025-06-13 18:19:49,182 - INFO - CAN initialized
+2025-06-13 18:19:49,183 - INFO - Shift register initialized - All LEDs OFF
+2025-06-13 18:20:45,824 - INFO - Controlled High Beam: ON
+2025-06-13 18:20:45,826 - INFO - Mode indicator set to Fahren (LED 5)
+2025-06-13 18:20:45,827 - INFO - Updated mode to: Fahren
+2025-06-13 18:20:45,829 - INFO - Sent response for High Beam: Status=1, Mode=1
+2025-06-13 18:38:52,852 - INFO - Received keyboard interrupt
+2025-06-13 18:38:52,854 - INFO - Shutting down...
+2025-06-13 18:38:52,920 - INFO - Shutdown complete
+2025-06-13 18:47:54,590 - INFO - Created a socket
+2025-06-13 18:47:54,593 - INFO - CAN bus initialized successfully
+2025-06-13 18:47:54,596 - INFO - GPIO initialized successfully
+2025-06-13 18:47:54,597 - INFO - Shift register cleared
+2025-06-13 18:47:54,598 - INFO - Starting CAN message receiver
+2025-06-13 18:49:29,835 - ERROR - Message processing error: unhashable type: 'NamedSignalValue'
+2025-06-13 18:49:50,570 - ERROR - Message processing error: unhashable type: 'NamedSignalValue'
+2025-06-13 18:50:08,596 - ERROR - Message processing error: unhashable type: 'NamedSignalValue'
+2025-06-13 18:50:35,552 - ERROR - Message processing error: unhashable type: 'NamedSignalValue'
+2025-06-13 18:50:53,188 - ERROR - Message processing error: unhashable type: 'NamedSignalValue'
+2025-06-13 18:51:12,725 - ERROR - Message processing error: unhashable type: 'NamedSignalValue'
+2025-06-13 18:51:32,744 - ERROR - Message processing error: unhashable type: 'NamedSignalValue'
+2025-06-16 13:34:26,826 - INFO - Created a socket
+2025-06-16 13:34:26,831 - INFO - CAN bus initialized successfully
+2025-06-16 13:34:26,833 - INFO - GPIO initialized successfully
+2025-06-16 13:34:26,834 - INFO - Shift register cleared
+2025-06-16 13:34:26,835 - INFO - Starting CAN message receiver
+2025-06-16 13:35:12,822 - ERROR - Message processing error: unhashable type: 'NamedSignalValue'
+2025-06-16 13:35:30,348 - ERROR - Message processing error: unhashable type: 'NamedSignalValue'
+2025-06-16 13:35:37,762 - ERROR - Message processing error: unhashable type: 'NamedSignalValue'
+2025-06-16 13:35:52,387 - ERROR - Message processing error: unhashable type: 'NamedSignalValue'
+2025-06-16 13:36:08,213 - ERROR - Message processing error: unhashable type: 'NamedSignalValue'
+2025-06-16 13:36:29,445 - ERROR - Message processing error: unhashable type: 'NamedSignalValue'
+2025-06-16 13:42:57,349 - INFO - Received shutdown signal
+2025-06-16 13:42:57,350 - INFO - Initiating shutdown sequence
+2025-06-16 13:42:57,352 - INFO - Shift register cleared
+2025-06-16 13:42:57,417 - INFO - Shutdown complete
+2025-06-16 13:43:04,113 - INFO - Created a socket
+2025-06-16 13:43:04,114 - INFO - CAN bus initialized successfully
+2025-06-16 13:43:04,115 - INFO - GPIO initialized successfully
+2025-06-16 13:43:04,115 - INFO - Shift register cleared
+2025-06-16 13:43:04,116 - INFO - Starting CAN message receiver
+2025-06-16 13:43:24,468 - INFO - Mode indicator set to FAHREN
+2025-06-16 13:43:24,469 - INFO - Processed LEFT_TURN command: ON | FAHREN
+2025-06-16 13:43:24,471 - INFO - Sent LEFT_TURN status response: {'LEFT_TURN_STATUS': 'ON', 'LEFT_TURN_MODE': 'FAHREN'}
+2025-06-16 13:43:39,702 - INFO - Mode indicator set to FAHREN
+2025-06-16 13:43:39,703 - INFO - Processed LEFT_TURN command: OFF | FAHREN
+2025-06-16 13:43:39,704 - INFO - Sent LEFT_TURN status response: {'LEFT_TURN_STATUS': 'OFF', 'LEFT_TURN_MODE': 'FAHREN'}
+2025-06-16 13:44:27,275 - INFO - Mode indicator set to WOHNEN
+2025-06-16 13:44:27,276 - INFO - Processed LOW_BEAM command: ON | WOHNEN
+2025-06-16 13:44:27,277 - INFO - Sent LOW_BEAM status response: {'LOW_BEAM_STATUS': 'ON', 'LOW_BEAM_MODE': 'WOHNEN'}
+2025-06-16 13:44:41,899 - INFO - Mode indicator set to WOHNEN
+2025-06-16 13:44:41,900 - INFO - Processed LOW_BEAM command: OFF | WOHNEN
+2025-06-16 13:44:41,901 - INFO - Sent LOW_BEAM status response: {'LOW_BEAM_STATUS': 'OFF', 'LOW_BEAM_MODE': 'WOHNEN'}
+2025-06-16 13:50:43,240 - INFO - Received shutdown signal
+2025-06-16 13:50:43,241 - INFO - Initiating shutdown sequence
+2025-06-16 13:50:43,242 - INFO - Shift register cleared
+2025-06-16 13:50:43,302 - INFO - Shutdown complete
+2025-06-16 13:50:47,533 - INFO - Created a socket
+2025-06-16 13:50:47,535 - INFO - CAN bus initialized successfully
+2025-06-16 13:50:47,536 - ERROR - Fatal error: 'CANLightSlave' object has no attribute 'Clock'
+2025-06-16 13:50:54,264 - INFO - Created a socket
+2025-06-16 13:50:54,265 - INFO - CAN bus initialized successfully
+2025-06-16 13:50:54,266 - ERROR - Fatal error: 'CANLightSlave' object has no attribute 'Clock'
+2025-06-16 13:52:16,361 - INFO - Created a socket
+2025-06-16 13:52:16,363 - INFO - CAN bus initialized successfully
+2025-06-16 13:52:16,365 - INFO - GPIO initialized successfully
+2025-06-16 13:52:16,366 - INFO - Shift register cleared
+2025-06-16 13:52:16,367 - INFO - Starting CAN message receiver
+2025-06-16 13:53:06,387 - INFO - Received shutdown signal
+2025-06-16 13:53:06,388 - INFO - Initiating shutdown sequence
+2025-06-16 13:53:06,389 - INFO - Shift register cleared
+2025-06-16 13:53:06,456 - INFO - Shutdown complete
+2025-06-16 13:55:47,001 - INFO - Created a socket
+2025-06-16 13:55:47,008 - INFO - CAN bus initialized successfully
+2025-06-16 13:55:47,009 - INFO - GPIO initialized successfully
+2025-06-16 13:55:47,010 - INFO - Shift register cleared
+2025-06-16 13:55:47,012 - INFO - Starting CAN message receiver
+2025-06-16 13:56:06,638 - INFO - Received shutdown signal
+2025-06-16 13:56:06,639 - INFO - Initiating shutdown sequence
+2025-06-16 13:56:06,641 - INFO - Shift register cleared
+2025-06-16 13:56:06,699 - INFO - Shutdown complete
+2025-06-16 14:27:20,774 - INFO - Created a socket
+2025-06-16 14:27:20,780 - INFO - CAN bus initialized successfully
+2025-06-16 14:27:20,782 - INFO - GPIO initialized successfully
+2025-06-16 14:27:20,783 - INFO - Shift register cleared
+2025-06-16 14:27:20,784 - INFO - Starting CAN message receiver
+2025-06-16 14:28:03,173 - INFO - Received shutdown signal
+2025-06-16 14:28:03,174 - INFO - Initiating shutdown sequence
+2025-06-16 14:28:03,176 - INFO - Shift register cleared
+2025-06-16 14:28:03,468 - INFO - Shutdown complete
+2025-06-16 14:36:39,657 - INFO - Created a socket
+2025-06-16 14:36:39,669 - INFO - CAN bus initialized successfully
+2025-06-16 14:36:39,670 - INFO - GPIO initialized successfully
+2025-06-16 14:36:39,671 - INFO - Shift register cleared
+2025-06-16 14:36:39,673 - INFO - Starting CAN message receiver
+2025-06-16 14:37:34,742 - INFO - Received shutdown signal
+2025-06-16 14:37:34,743 - INFO - Initiating shutdown sequence
+2025-06-16 14:37:34,745 - INFO - Shift register cleared
+2025-06-16 14:37:34,813 - INFO - Shutdown complete
+2025-06-16 14:43:01,622 - INFO - Created a socket
+2025-06-16 14:43:01,626 - INFO - CAN bus initialized successfully
+2025-06-16 14:43:01,627 - INFO - GPIO initialized successfully
+2025-06-16 14:43:01,628 - INFO - Shift register cleared
+2025-06-16 14:43:01,629 - INFO - Starting CAN message receiver
+2025-06-16 14:43:47,881 - INFO - Received shutdown signal
+2025-06-16 14:43:47,882 - INFO - Initiating shutdown sequence
+2025-06-16 14:43:47,884 - INFO - Shift register cleared
+2025-06-16 14:43:47,951 - INFO - Shutdown complete
+2025-06-16 14:46:47,293 - INFO - Created a socket
+2025-06-16 14:46:47,299 - INFO - CAN bus initialized successfully
+2025-06-16 14:46:47,301 - INFO - GPIO initialized successfully
+2025-06-16 14:46:47,302 - INFO - Shift register cleared
+2025-06-16 14:46:47,303 - INFO - Starting CAN message receiver
+2025-06-16 14:46:54,045 - INFO - Mode indicator set to FAHREN
+2025-06-16 14:46:54,047 - INFO - Processed LEFT_TURN command: ON | FAHREN
+2025-06-16 14:46:54,048 - INFO - Sent LEFT_TURN status response: {'LEFT_TURN_STATUS': 'ON', 'LEFT_TURN_MODE': 'FAHREN'}
+2025-06-16 14:47:28,365 - INFO - Received shutdown signal
+2025-06-16 14:47:28,366 - INFO - Initiating shutdown sequence
+2025-06-16 14:47:28,867 - INFO - Shift register cleared
+2025-06-16 14:47:28,925 - INFO - Shutdown complete
+2025-06-16 14:50:53,426 - INFO - Created a socket
+2025-06-16 14:50:53,428 - INFO - CAN bus initialized successfully
+2025-06-16 14:50:53,430 - INFO - GPIO initialized successfully
+2025-06-16 14:50:53,431 - INFO - Shift register cleared
+2025-06-16 14:50:53,432 - INFO - Starting CAN message receiver
+2025-06-16 14:51:05,214 - INFO - Mode indicator set to FAHREN
+2025-06-16 14:51:05,215 - INFO - Processed LEFT_TURN command: ON | FAHREN
+2025-06-16 14:51:05,217 - INFO - Sent LEFT_TURN status response: {'LEFT_TURN_STATUS': 'ON', 'LEFT_TURN_MODE': 'FAHREN'}
+2025-06-16 14:51:21,492 - INFO - Received shutdown signal
+2025-06-16 14:51:21,493 - INFO - Initiating shutdown sequence
+2025-06-16 14:51:21,995 - INFO - Shift register cleared
+2025-06-16 14:51:22,054 - INFO - Shutdown complete
+2025-06-16 14:56:35,665 - INFO - Created a socket
+2025-06-16 14:56:35,666 - INFO - CAN bus initialized successfully
+2025-06-16 14:56:35,668 - INFO - GPIO initialized successfully
+2025-06-16 14:56:35,669 - INFO - Shift register cleared
+2025-06-16 14:56:35,670 - INFO - Starting CAN message receiver
+2025-06-16 14:56:43,709 - INFO - Mode indicator set to FAHREN
+2025-06-16 14:56:43,711 - INFO - Processed LEFT_TURN command: ON | FAHREN
+2025-06-16 14:56:43,712 - INFO - Sent LEFT_TURN status response: {'LEFT_TURN_STATUS': 'ON', 'LEFT_TURN_MODE': 'FAHREN'}
+2025-06-16 14:57:03,912 - INFO - Received shutdown signal
+2025-06-16 14:57:03,913 - INFO - Initiating shutdown sequence
+2025-06-16 14:57:04,140 - INFO - Shift register cleared
+2025-06-16 14:57:04,200 - INFO - Shutdown complete
+2025-06-16 15:02:52,426 - INFO - Created a socket
+2025-06-16 15:02:52,427 - INFO - CAN bus initialized successfully
+2025-06-16 15:02:52,429 - INFO - GPIO initialized successfully
+2025-06-16 15:02:52,430 - INFO - Shift register cleared
+2025-06-16 15:02:52,431 - INFO - Starting CAN message receiver
+2025-06-16 15:03:00,277 - INFO - Mode indicator set to FAHREN
+2025-06-16 15:03:00,279 - INFO - Processed LEFT_TURN command: ON | FAHREN
+2025-06-16 15:03:00,281 - INFO - Sent LEFT_TURN status response: {'LEFT_TURN_STATUS': 'ON', 'LEFT_TURN_MODE': 'FAHREN'}
+2025-06-16 15:03:20,306 - INFO - Mode indicator set to FAHREN
+2025-06-16 15:03:20,307 - INFO - Processed LEFT_TURN command: OFF | FAHREN
+2025-06-16 15:03:20,309 - INFO - Sent LEFT_TURN status response: {'LEFT_TURN_STATUS': 'OFF', 'LEFT_TURN_MODE': 'FAHREN'}
+2025-06-16 15:03:35,631 - INFO - Mode indicator set to PARKING
+2025-06-16 15:03:35,632 - INFO - Processed PARKING_LEFT command: ON | PARKING
+2025-06-16 15:03:35,634 - INFO - Sent PARKING_LEFT status response: {'PARKING_LEFT_STATUS': 'ON', 'PARKING_LEFT_MODE': 'PARKING'}
+2025-06-16 15:03:46,648 - INFO - Mode indicator set to PARKING
+2025-06-16 15:03:46,649 - INFO - Processed PARKING_LEFT command: OFF | PARKING
+2025-06-16 15:03:46,651 - INFO - Sent PARKING_LEFT status response: {'PARKING_LEFT_STATUS': 'OFF', 'PARKING_LEFT_MODE': 'PARKING'}
+2025-06-16 15:04:06,180 - INFO - Mode indicator set to FAHREN
+2025-06-16 15:04:06,181 - INFO - Processed HIGH_BEAM command: ON | FAHREN
+2025-06-16 15:04:06,183 - INFO - Sent HIGH_BEAM status response: {'HIGH_BEAM_STATUS': 'ON', 'HIGH_BEAM_MODE': 'FAHREN'}
+2025-06-16 15:04:25,710 - INFO - Mode indicator set to FAHREN
+2025-06-16 15:04:25,711 - INFO - Processed HIGH_BEAM command: OFF | FAHREN
+2025-06-16 15:04:25,712 - INFO - Sent HIGH_BEAM status response: {'HIGH_BEAM_STATUS': 'OFF', 'HIGH_BEAM_MODE': 'FAHREN'}
+2025-06-16 15:04:46,454 - INFO - Mode indicator set to STAND
+2025-06-16 15:04:46,455 - INFO - Processed HAZARD_LIGHTS command: ON | STAND
+2025-06-16 15:04:46,457 - INFO - Sent HAZARD_LIGHTS status response: {'HAZARD_LIGHTS_STATUS': 'ON', 'HAZARD_LIGHTS_MODE': 'STAND'}
+2025-06-16 15:05:27,315 - INFO - Mode indicator set to STAND
+2025-06-16 15:05:27,316 - INFO - Processed HAZARD_LIGHTS command: OFF | STAND
+2025-06-16 15:05:27,318 - INFO - Sent HAZARD_LIGHTS status response: {'HAZARD_LIGHTS_STATUS': 'OFF', 'HAZARD_LIGHTS_MODE': 'STAND'}
+2025-06-16 15:08:23,111 - INFO - Received shutdown signal
+2025-06-16 15:08:23,112 - INFO - Initiating shutdown sequence
+2025-06-16 15:08:23,114 - INFO - Shift register cleared
+2025-06-16 15:08:23,175 - INFO - Shutdown complete
+2025-06-16 15:08:38,496 - INFO - Created a socket
+2025-06-16 15:08:38,498 - INFO - CAN bus initialized successfully
+2025-06-16 15:08:38,499 - INFO - GPIO initialized successfully
+2025-06-16 15:08:38,500 - INFO - Shift register cleared
+2025-06-16 15:08:38,502 - INFO - Starting CAN message receiver
+2025-06-16 15:08:46,303 - INFO - Mode indicator set to STAND
+2025-06-16 15:08:46,305 - INFO - Processed HAZARD_LIGHTS command: ON | STAND
+2025-06-16 15:08:46,307 - INFO - Sent HAZARD_LIGHTS status response: {'HAZARD_LIGHTS_STATUS': 'ON', 'HAZARD_LIGHTS_MODE': 'STAND'}
+2025-06-16 15:08:54,311 - INFO - Mode indicator set to STAND
+2025-06-16 15:08:54,313 - INFO - Processed HAZARD_LIGHTS command: FAILED | STAND
+2025-06-16 15:08:54,314 - INFO - Sent HAZARD_LIGHTS status response: {'HAZARD_LIGHTS_STATUS': 'OFF', 'HAZARD_LIGHTS_MODE': 'STAND'}
+2025-06-16 15:15:12,942 - INFO - Received shutdown signal
+2025-06-16 15:15:12,943 - INFO - Initiating shutdown sequence
+2025-06-16 15:15:12,945 - INFO - Shift register cleared
+2025-06-16 15:15:13,007 - INFO - Shutdown complete
+2025-06-16 15:15:18,925 - INFO - Created a socket
+2025-06-16 15:15:18,927 - INFO - CAN bus initialized successfully
+2025-06-16 15:15:18,928 - INFO - GPIO initialized successfully
+2025-06-16 15:15:18,929 - INFO - Shift register cleared
+2025-06-16 15:15:18,931 - INFO - Starting CAN message receiver
+2025-06-16 15:18:11,293 - INFO - Mode indicator set to STAND
+2025-06-16 15:18:11,294 - INFO - Processed HAZARD_LIGHTS command: ON | STAND
+2025-06-16 15:18:11,295 - INFO - Sent HAZARD_LIGHTS status response: {'HAZARD_LIGHTS_STATUS': 'ON', 'HAZARD_LIGHTS_MODE': 'STAND'}

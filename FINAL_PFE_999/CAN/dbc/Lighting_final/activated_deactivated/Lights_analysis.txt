@@ -1,0 +1,977 @@
+Vehicle Lighting System Analysis Results
+==================================================
+
+=== Initial Analysis ===
+Light: Low Beam | Result: desactivated
+Light: Low Beam | Result: desactivated
+Light: Low Beam | Result: desactivated
+Light: Low Beam | Result: desactivated
+Light: Low Beam | Result: desactivated
+Light: Low Beam | Result: desactivated
+Light: Low Beam | Result: desactivated
+Light: Low Beam | Result: desactivated
+Light: Low Beam | Result: desactivated
+Light: Low Beam | Result: desactivated
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: Parking Left | Result: desactivated
+Light: Parking Left | Result: desactivated
+Light: Parking Left | Result: desactivated
+Light: Parking Left | Result: desactivated
+Light: Parking Left | Result: desactivated
+Light: Parking Left | Result: desactivated
+Light: Parking Left | Result: desactivated
+Light: Parking Left | Result: desactivated
+Light: Parking Left | Result: desactivated
+Light: Parking Right | Result: desactivated
+Light: Parking Right | Result: desactivated
+Light: Parking Right | Result: desactivated
+Light: Parking Right | Result: desactivated
+Light: Parking Right | Result: desactivated
+Light: Parking Right | Result: desactivated
+Light: Parking Right | Result: desactivated
+Light: Parking Right | Result: desactivated
+Light: Parking Right | Result: desactivated
+Light: Hazard Lights | Result: desactivated
+Light: Hazard Lights | Result: desactivated
+Light: Hazard Lights | Result: desactivated
+Light: Hazard Lights | Result: desactivated
+Light: Hazard Lights | Result: desactivated
+Light: Hazard Lights | Result: desactivated
+Light: Hazard Lights | Result: desactivated
+Light: Hazard Lights | Result: desactivated
+Light: Hazard Lights | Result: desactivated
+Light: Hazard Lights | Result: desactivated
+Light: Right Turn | Result: desactivated
+Light: Right Turn | Result: desactivated
+Light: Right Turn | Result: desactivated
+Light: Right Turn | Result: desactivated
+Light: Right Turn | Result: desactivated
+Light: Right Turn | Result: desactivated
+Light: Right Turn | Result: desactivated
+Light: Right Turn | Result: desactivated
+Light: Right Turn | Result: desactivated
+Light: Right Turn | Result: desactivated
+Light: Left Turn | Result: desactivated
+Light: Left Turn | Result: desactivated
+Light: Left Turn | Result: desactivated
+Light: Left Turn | Result: desactivated
+Light: Left Turn | Result: desactivated
+Light: Left Turn | Result: desactivated
+Light: Left Turn | Result: desactivated
+Light: Left Turn | Result: desactivated
+Light: Left Turn | Result: desactivated
+
+
+=== New Monitoring Session === Mon May 12 13:58:04 2025
+Light: Left Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Right Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Low Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Parking Right | Result: activated
+Light: Parking Left | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Right Turn | Result: desactivated
+Light: Left Turn | Result: desactivated
+Light: Low Beam | Result: desactivated
+Light: High Beam | Result: desactivated
+Light: Parking Right | Result: desactivated
+Light: Parking Left | Result: desactivated
+Light: Hazard Lights | Result: desactivated
+Light: Right Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Low Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Parking Right | Result: activated
+Light: Parking Left | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Right Turn | Result: desactivated
+Light: Left Turn | Result: desactivated
+Light: Low Beam | Result: desactivated
+Light: High Beam | Result: desactivated
+Light: Parking Right | Result: desactivated
+Light: Parking Left | Result: desactivated
+Light: Hazard Lights | Result: desactivated
+Light: Right Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Hazard Lights | Result: FAILED
+Light: Right Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Low Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Parking Right | Result: activated
+Light: Parking Left | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Right Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Hazard Lights | Result: FAILED
+Light: Right Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Low Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Parking Right | Result: activated
+Light: Parking Left | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Right Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Hazard Lights | Result: FAILED
+Light: Right Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Low Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Parking Right | Result: activated
+Light: Parking Left | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Right Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Hazard Lights | Result: FAILED
+Light: Right Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Low Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Parking Right | Result: activated
+Light: Parking Left | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Right Turn | Result: desactivated
+Light: Left Turn | Result: desactivated
+Light: Low Beam | Result: desactivated
+Light: High Beam | Result: desactivated
+Light: Parking Right | Result: desactivated
+Light: Parking Left | Result: desactivated
+Light: Hazard Lights | Result: desactivated
+Light: Right Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Low Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Parking Right | Result: activated
+Light: Parking Left | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Right Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Low Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Parking Right | Result: activated
+Light: Parking Left | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Right Turn | Result: desactivated
+Light: Left Turn | Result: desactivated
+Light: Low Beam | Result: desactivated
+Light: High Beam | Result: desactivated
+Light: Parking Right | Result: desactivated
+Light: Parking Left | Result: desactivated
+Light: Hazard Lights | Result: desactivated
+Light: Right Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Hazard Lights | Result: FAILED
+Light: Right Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Low Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Parking Right | Result: activated
+Light: Parking Left | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Right Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Hazard Lights | Result: FAILED
+Light: Right Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Low Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Parking Right | Result: activated
+Light: Parking Left | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Right Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Low Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Parking Right | Result: activated
+Light: Parking Left | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Right Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Low Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Right Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Low Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Low Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Low Beam | Result: activated
+Light: Low Beam | Result: desactivated
+Light: Low Beam | Result: desactivated
+Light: Low Beam | Result: activated
+Light: Parking Right | Result: activated
+Light: Parking Left | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Right Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Low Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Parking Right | Result: activated
+Light: Parking Left | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Right Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Low Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Right Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Low Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Right Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Low Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Right Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Low Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Right Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Low Beam | Result: activated
+Light: High Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Right Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Low Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Right Turn | Result: desactivated
+Light: Left Turn | Result: desactivated
+Light: Low Beam | Result: desactivated
+Light: High Beam | Result: desactivated
+Light: Parking Right | Result: desactivated
+Light: Parking Left | Result: desactivated
+Light: Hazard Lights | Result: desactivated
+Light: Right Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Low Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Parking Right | Result: activated
+Light: Parking Left | Result: activated
+Light: Left Turn | Result: activated
+Light: Low Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Parking Right | Result: activated
+Light: Parking Left | Result: activated
+Light: High Beam | Result: activated
+Light: High Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Hazard Lights | Result: activated
+Light: High Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Right Turn | Result: desactivated
+Light: Left Turn | Result: desactivated
+Light: Low Beam | Result: desactivated
+Light: High Beam | Result: desactivated
+Light: Parking Right | Result: desactivated
+Light: Parking Left | Result: desactivated
+Light: Hazard Lights | Result: desactivated
+Light: Hazard Lights | Result: activated
+Light: High Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Parking Right | Result: activated
+Light: Parking Left | Result: activated
+Light: Left Turn | Result: activated
+Light: Low Beam | Result: activated
+Light: Hazard Lights | Result: activated
+Light: High Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Parking Right | Result: activated
+Light: Parking Left | Result: activated
+Light: Left Turn | Result: activated
+Light: Right Turn | Result: activated
+Light: Right Turn | Result: desactivated
+Light: Left Turn | Result: desactivated
+Light: Low Beam | Result: desactivated
+Light: High Beam | Result: desactivated
+Light: Parking Right | Result: desactivated
+Light: Parking Left | Result: desactivated
+Light: Hazard Lights | Result: desactivated
+Light: Hazard Lights | Result: activated
+Light: High Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Parking Right | Result: activated
+Light: Parking Left | Result: activated
+Light: Left Turn | Result: activated
+Light: Right Turn | Result: activated
+Light: Right Turn | Result: desactivated
+Light: Left Turn | Result: desactivated
+Light: Low Beam | Result: desactivated
+Light: High Beam | Result: desactivated
+Light: Parking Right | Result: desactivated
+Light: Parking Left | Result: desactivated
+Light: Hazard Lights | Result: desactivated
+Light: Hazard Lights | Result: activated
+Light: High Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Parking Right | Result: activated
+Light: Parking Left | Result: activated
+Light: Left Turn | Result: activated
+Light: Right Turn | Result: activated
+Light: Hazard Lights | Result: desactivated
+Light: Left Turn | Result: activated
+Light: Right Turn | Result: activated
+Light: High Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Left Turn | Result: activated
+Light: Right Turn | Result: activated
+Light: High Beam | Result: activated
+Light: High Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Right Turn | Result: desactivated
+Light: Left Turn | Result: desactivated
+Light: Low Beam | Result: desactivated
+Light: High Beam | Result: desactivated
+Light: Parking Right | Result: desactivated
+Light: Parking Left | Result: desactivated
+Light: Hazard Lights | Result: activated
+Light: Right Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Low Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Parking Right | Result: activated
+Light: Parking Left | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Right Turn | Result: desactivated
+Light: Left Turn | Result: desactivated
+Light: Low Beam | Result: desactivated
+Light: High Beam | Result: desactivated
+Light: Parking Right | Result: desactivated
+Light: Parking Left | Result: desactivated
+Light: Hazard Lights | Result: desactivated
+Light: Right Turn | Result: desactivated
+Light: Left Turn | Result: desactivated
+Light: Low Beam | Result: desactivated
+Light: High Beam | Result: desactivated
+Light: Parking Right | Result: desactivated
+Light: Parking Left | Result: desactivated
+Light: Hazard Lights | Result: desactivated
+Light: Right Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Low Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Parking Right | Result: activated
+Light: Parking Left | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Parking Left | Result: desactivated
+Light: Hazard Lights | Result: desactivated
+Light: Right Turn | Result: desactivated
+Light: Left Turn | Result: desactivated
+Light: Low Beam | Result: desactivated
+Light: High Beam | Result: desactivated
+Light: Parking Right | Result: desactivated
+Light: Right Turn | Result: activated
+Light: Right Turn | Result: activated
+Light: Parking Right | Result: activated
+Light: Right Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Low Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Parking Right | Result: activated
+Light: Parking Left | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Parking Left | Result: desactivated
+Light: Hazard Lights | Result: desactivated
+Light: Right Turn | Result: desactivated
+Light: Left Turn | Result: desactivated
+Light: Low Beam | Result: desactivated
+Light: High Beam | Result: desactivated
+Light: Parking Right | Result: desactivated
+Light: Right Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Low Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Parking Right | Result: activated
+Light: Parking Left | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Right Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Low Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Parking Right | Result: activated
+Light: Parking Left | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Parking Left | Result: desactivated
+Light: Hazard Lights | Result: desactivated
+Light: Right Turn | Result: desactivated
+Light: Left Turn | Result: desactivated
+Light: Low Beam | Result: desactivated
+Light: High Beam | Result: desactivated
+Light: Parking Right | Result: desactivated
+Light: Right Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Low Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Parking Right | Result: activated
+Light: Parking Left | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Parking Left | Result: desactivated
+Light: Hazard Lights | Result: desactivated
+Light: Right Turn | Result: desactivated
+Light: Left Turn | Result: desactivated
+Light: Low Beam | Result: desactivated
+Light: High Beam | Result: desactivated
+Light: Parking Right | Result: desactivated
+Light: Right Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Low Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Parking Right | Result: activated
+Light: Parking Left | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Parking Left | Result: desactivated
+Light: Hazard Lights | Result: desactivated
+Light: Right Turn | Result: desactivated
+Light: Left Turn | Result: desactivated
+Light: Low Beam | Result: desactivated
+Light: High Beam | Result: desactivated
+Light: Parking Right | Result: desactivated
+Light: Hazard Lights | Result: activated
+Light: Parking Right | Result: activated
+Light: Hazard Lights | Result: desactivated
+Light: Parking Right | Result: desactivated
+Light: Hazard Lights | Result: activated
+Light: Parking Right | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Parking Right | Result: activated
+Light: Right Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Low Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Parking Right | Result: activated
+Light: Parking Left | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Right Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Low Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Parking Right | Result: activated
+Light: Parking Left | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Right Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Low Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Parking Right | Result: activated
+Light: Parking Left | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Hazard Lights | Result: desactivated
+Light: Parking Right | Result: desactivated
+Light: Hazard Lights | Result: activated
+Light: Right Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Low Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Parking Right | Result: activated
+Light: Parking Left | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Right Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Low Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Parking Right | Result: activated
+Light: Parking Left | Result: activated
+Light: Hazard Lights | Result: desactivated
+Light: Parking Right | Result: desactivated
+Light: Right Turn | Result: desactivated
+Light: Left Turn | Result: desactivated
+Light: Low Beam | Result: desactivated
+Light: High Beam | Result: desactivated
+Light: Parking Right | Result: desactivated
+Light: Parking Left | Result: desactivated
+Light: Hazard Lights | Result: desactivated
+Light: Hazard Lights | Result: activated
+Light: Right Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Low Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Parking Right | Result: activated
+Light: Parking Left | Result: activated
+Light: Right Turn | Result: desactivated
+Light: Left Turn | Result: desactivated
+Light: Low Beam | Result: desactivated
+Light: High Beam | Result: desactivated
+Light: Parking Right | Result: desactivated
+Light: Parking Left | Result: desactivated
+Light: Hazard Lights | Result: desactivated
+Light: Low Beam | Result: desactivated
+Light: Low Beam | Result: activated
+Light: Low Beam | Result: activated
+Light: High Beam | Result: activated
+Light: High Beam | Result: desactivated
+Light: Right Turn | Result: desactivated
+Light: Left Turn | Result: desactivated
+Light: Low Beam | Result: desactivated
+Light: High Beam | Result: desactivated
+Light: Parking Right | Result: desactivated
+Light: Parking Left | Result: desactivated
+Light: Hazard Lights | Result: desactivated
+Light: High Beam | Result: activated
+Light: Right Turn | Result: desactivated
+Light: Left Turn | Result: desactivated
+Light: Low Beam | Result: desactivated
+Light: High Beam | Result: desactivated
+Light: Parking Right | Result: desactivated
+Light: Parking Left | Result: desactivated
+Light: Hazard Lights | Result: desactivated
+Light: Low Beam | Result: activated
+Light: Low Beam | Result: activated
+Light: High Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Low Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Low Beam | Result: desactivated
+Light: High Beam | Result: desactivated
+Light: Low Beam | Result: activated
+Light: Low Beam | Result: desactivated
+Light: Low Beam | Result: activated
+Light: High Beam | Result: activated
+Light: High Beam | Result: activated
+Light: High Beam | Result: desactivated
+Light: Low Beam | Result: activated
+Light: Low Beam | Result: desactivated
+Light: Right Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Hazard Lights | Result: desactivated
+Light: Left Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Right Turn | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Hazard Lights | Result: desactivated
+Light: Low Beam | Result: desactivated
+Light: Left Turn | Result: activated
+Light: Right Turn | Result: activated
+Light: Left Turn | Result: desactivated
+Light: Left Turn | Result: desactivated
+Light: Left Turn | Result: desactivated
+Light: Right Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Low Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Parking Right | Result: activated
+Light: Parking Left | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Right Turn | Result: desactivated
+Light: Left Turn | Result: desactivated
+Light: Low Beam | Result: desactivated
+Light: High Beam | Result: desactivated
+Light: Parking Right | Result: desactivated
+Light: Parking Left | Result: desactivated
+Light: Hazard Lights | Result: desactivated
+Light: Hazard Lights | Result: activated
+Light: Hazard Lights | Result: desactivated
+Light: Hazard Lights | Result: activated
+Light: Hazard Lights | Result: desactivated
+Light: Hazard Lights | Result: activated
+Light: Hazard Lights | Result: desactivated
+Light: Hazard Lights | Result: activated
+Light: Parking Right | Result: activated
+Light: Left Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Left Turn | Result: desactivated
+Light: Left Turn | Result: activated
+Light: Left Turn | Result: desactivated
+Light: Parking Right | Result: activated
+Light: Parking Right | Result: activated
+Light: Parking Right | Result: INVALID
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: activated
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: desactivated
+Light: Parking Right | Result: activated
+Light: Parking Right | Result: INVALID
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: INVALID
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: activated
+Light: Parking Right | Result: INVALID
+Light: Parking Right | Result: desactivated
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: desactivated
+Light: Parking Right | Result: activated
+Light: Parking Right | Result: desactivated
+Light: Parking Right | Result: desactivated
+Light: Parking Right | Result: desactivated
+Light: Parking Right | Result: desactivated
+Light: Hazard Lights | Result: desactivated
+Light: Parking Right | Result: desactivated
+Light: Parking Right | Result: activated
+Light: Parking Right | Result: deactivated
+Light: Parking Right | Result: activated
+Light: Parking Right | Result: deactivated
+Light: Parking Right | Result: activated
+Light: Parking Right | Result: INVALID
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: INVALID
+Light: Low Beam | Result: activated
+Light: High Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Low Beam | Result: activated
+Light: Low Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Parking Right | Result: activated
+Light: Parking Left | Result: desactivated
+Light: Parking Right | Result: activated
+Light: Parking Left | Result: desactivated
+Light: Parking Left | Result: activated
+Light: Parking Right | Result: deactivated
+Light: Parking Left | Result: deactivated
+Light: Left Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Low Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Left Turn | Result: activated
+Light: Right Turn | Result: activated
+Light: Right Turn | Result: activated
+Light: High Beam | Result: activated
+Light: High Beam | Result: activated
+Light: Right Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Right Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Right Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Right Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Right Turn | Result: deactivated
+Light: Left Turn | Result: deactivated
+Light: Hazard Lights | Result: deactivated
+Light: Right Turn | Result: deactivated
+Light: Left Turn | Result: deactivated
+Light: Hazard Lights | Result: deactivated
+Light: Right Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Right Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Right Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Hazard Lights | Result: deactivated
+Light: Right Turn | Result: deactivated
+Light: Left Turn | Result: deactivated
+Light: Left Turn | Result: deactivated
+Light: Left Turn | Result: deactivated
+Light: Right Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Left Turn | Result: deactivated
+Light: High Beam | Result: activated
+Light: High Beam | Result: deactivated
+Light: Parking Right | Result: activated
+Light: Parking Left | Result: activated
+Light: Parking Right | Result: deactivated
+Light: Parking Left | Result: deactivated
+Light: Hazard Lights | Result: deactivated
+Light: Hazard Lights | Result: FAILED
+Light: Right Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Right Turn | Result: deactivated
+Light: Left Turn | Result: deactivated
+Light: Hazard Lights | Result: deactivated
+Light: High Beam | Result: activated
+Light: High Beam | Result: deactivated
+Light: High Beam | Result: deactivated
+Light: High Beam | Result: activated
+Light: High Beam | Result: deactivated
+Light: High Beam | Result: activated
+Light: High Beam | Result: deactivated
+Light: High Beam | Result: activated
+Light: High Beam | Result: deactivated
+Light: Right Turn | Result: activated
+Light: Left Turn | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Right Turn | Result: deactivated
+Light: Left Turn | Result: deactivated
+Light: Hazard Lights | Result: deactivated
+Light: Left Turn | Result: deactivated
+Light: Right Turn | Result: deactivated
+Light: Hazard Lights | Result: activated
+Light: Hazard Lights | Result: deactivated
+Light: Left Turn | Result: activated
+Light: Right Turn | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Hazard Lights | Result: deactivated
+Light: Left Turn | Result: deactivated
+Light: Right Turn | Result: deactivated
+Light: Right Turn | Result: deactivated
+Light: Hazard Lights | Result: deactivated
+Light: Hazard Lights | Result: deactivated
+Light: Left Turn | Result: activated
+Light: Right Turn | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Right Turn | Result: deactivated
+Light: Hazard Lights | Result: deactivated
+Light: Hazard Lights | Result: deactivated
+Light: Left Turn | Result: activated
+Light: Right Turn | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Left Turn | Result: deactivated
+Light: Right Turn | Result: deactivated
+Light: Hazard Lights | Result: deactivated
+Light: High Beam | Result: activated
+Light: High Beam | Result: deactivated
+Light: Parking Right | Result: activated
+Light: Parking Left | Result: activated
+Light: Parking Right | Result: deactivated
+Light: Parking Left | Result: deactivated
+Light: Hazard Lights | Result: activated
+Light: Hazard Lights | Result: deactivated
+Light: Left Turn | Result: activated
+Light: Right Turn | Result: activated
+Light: Left Turn | Result: deactivated
+Light: Right Turn | Result: deactivated
+Light: Right Turn | Result: activated
+Light: Hazard Lights | Result: activated
+Light: Right Turn | Result: deactivated
+Light: Hazard Lights | Result: deactivated
+Light: Low Beam | Result: activated | Mode: Fahren
+Light: Low Beam | Result: deactivated | Mode: Fahren
+Light: Hazard Lights | Result: activated | Mode: Stand
+Light: Hazard Lights | Result: deactivated | Mode: Stand
+Light: Left Turn | Result: activated | Mode: Wohnen
+Light: High Beam | Result: activated | Mode: Fahren
+Light: High Beam | Result: activated | Mode: Fahren
+Light: High Beam | Result: deactivated | Mode: Fahren
+Light: Hazard Lights | Result: activated | Mode: Stand
+Light: Hazard Lights | Result: deactivated | Mode: Stand
+Light: Right Turn | Result: activated
+Light: Left Turn | Result: activated | Mode: Wohnen
+Light: Left Turn | Result: activated | Mode: Wohnen
+Light: Left Turn | Result: activated | Mode: Stand
+Light: Left Turn | Result: deactivated | Mode: Wohnen
+Light: High Beam | Result: activated | Mode: Fahren
+Light: High Beam | Result: deactivated | Mode: Fahren
+Light: Hazard Lights | Result: activated | Mode: Stand
+Light: Parking Right | Result: activated | Mode: Fahren
+Light: Hazard Lights | Result: deactivated | Mode: Stand
+Light: Parking Right | Result: deactivated | Mode: Fahren
+Light: Hazard Lights | Result: deactivated | Mode: Stand
+Light: Hazard Lights | Result: deactivated | Mode: Stand
+Light: High Beam | Result: deactivated | Mode: Fahren
+Light: Parking Right | Result: activated | Mode: Fahren
+Light: High Beam | Result: activated | Mode: Fahren
+Light: Hazard Lights | Result: activated | Mode: Stand
+Light: Hazard Lights | Result: deactivated | Mode: Stand
+Light: Left Turn | Result: deactivated | Mode: Wohnen
+Light: Left Turn | Result: activated | Mode: Wohnen
+Light: Left Turn | Result: deactivated | Mode: Wohnen
+Light: High Beam | Result: deactivated | Mode: Fahren
+Light: Parking Right | Result: deactivated | Mode: Fahren
+Light: Parking Right | Result: activated | Mode: Fahren
+Light: Parking Right | Result: activated | Mode: Wohnen
+Light: High Beam | Result: activated | Mode: Fahren
+Light: Hazard Lights | Result: activated | Mode: Stand
+Light: Hazard Lights | Result: deactivated | Mode: Stand
+Light: High Beam | Result: activated | Mode: Fahren
+Light: High Beam | Result: deactivated | Mode: Fahren
+Light: Hazard Lights | Result: activated | Mode: Stand
+Light: Hazard Lights | Result: activated | Mode: Stand
+Light: Hazard Lights | Result: activated | Mode: Stand
+Light: Hazard Lights | Result: activated | Mode: Stand
+Light: High Beam | Result: activated | Mode: Fahren
+Light: High Beam | Result: activated | Mode: Wohnen
+Light: High Beam | Result: activated | Mode: Wohnen
+Light: High Beam | Result: deactivated | Mode: Wohnen
+Light: Hazard Lights | Result: activated | Mode: Stand
+Light: Hazard Lights | Result: deactivated | Mode: Stand
+Light: Left Turn | Result: activated | Mode: Wohnen
+Light: Left Turn | Result: activated | Mode: Fahren
+Light: Left Turn | Result: activated | Mode: Fahren
+Light: Hazard Lights | Result: activated | Mode: Stand
+Light: High Beam | Result: activated | Mode: Wohnen
+Light: Parking Right | Result: activated | Mode: Fahren
+Light: Parking Left | Result: activated | Mode: Fahren
+Light: Right Turn | Result: activated | Mode: Fahren
+Light: Low Beam | Result: activated | Mode: Wohnen
+Light: High Beam | Result: deactivated | Mode: Wohnen
+Light: Parking Right | Result: activated | Mode: Fahren
+Light: Parking Left | Result: activated | Mode: Parking
+Light: Right Turn | Result: activated | Mode: Fahren
+Light: Left Turn | Result: activated | Mode: Fahren
+Light: Hazard Lights | Result: activated | Mode: Stand
+Light: Hazard Lights | Result: activated | Mode: Stand
+Light: Hazard Lights | Result: activated | Mode: Stand
+Light: Hazard Lights | Result: activated | Mode: Stand
+Light: Left Turn | Result: activated | Mode: Fahren
+Light: Parking Left | Result: activated | Mode: Parking
+Light: Parking Left | Result: deactivated | Mode: Parking
+Light: Parking Left | Result: activated | Mode: Parking
+Light: Parking Left | Result: activated | Mode: Parking
+Light: Parking Left | Result: activated | Mode: Parking
+Light: Left Turn | Result: activated | Mode: Fahren
+Light: Hazard Lights | Result: activated | Mode: Stand
+Light: Hazard Lights | Result: activated | Mode: Stand
+Light: Left Turn | Result: activated | Mode: Fahren
+Light: Left Turn | Result: activated | Mode: Fahren
+Light: Left Turn | Result: activated | Mode: Fahren
+Light: Left Turn | Result: activated | Mode: Fahren
+Light: Left Turn | Result: activated | Mode: Fahren
+Light: Right Turn | Result: activated | Mode: Fahren
+Light: Hazard Lights | Result: activated | Mode: Stand
+Light: Parking Right | Result: activated | Mode: Fahren
+Light: Parking Left | Result: activated | Mode: Parking
+Light: High Beam | Result: deactivated | Mode: Wohnen
+Light: Low Beam | Result: activated | Mode: Wohnen
+Light: Low Beam | Result: ON | Mode: Wohnen
+Light: Low Beam | Result: OFF | Mode: Wohnen
+Light: Low Beam | Result: ON | Mode: Wohnen
+Light: Low Beam | Result: ON | Mode: Wohnen
+Light: High Beam | Result: ON | Mode: Wohnen
+Light: High Beam | Result: OFF | Mode: Wohnen
+Light: Hazard Lights | Result: activated | Mode: Stand
+Light: Hazard Lights | Result: ON | Mode: Stand
+Light: Hazard Lights | Result: ON | Mode: Stand
+Light: Hazard Lights | Result: ON | Mode: Stand
+Light: Hazard Lights | Result: ON | Mode: Stand
+Light: Hazard Lights | Result: ON | Mode: Stand
+Light: Parking Left | Result: activated | Mode: Parking
+Light: Hazard Lights | Result: ON | Mode: Stand
+Light: Hazard Lights | Result: OFF | Mode: Stand
+Light: Left Turn | Result: ON | Mode: Fahren
+Light: Left Turn | Result: OFF | Mode: Fahren
+Light: Left Turn | Result: ON | Mode: Fahren
+Light: Left Turn | Result: OFF | Mode: Fahren
+Light: High Beam | Result: ON | Mode: Fahren
+Light: High Beam | Result: OFF | Mode: Fahren
+Light: Parking Left | Result: ON | Mode: Parking
+Light: Parking Left | Result: ON | Mode: Parking
+Light: Hazard Lights | Result: ON | Mode: Stand
+Light: Parking Left | Result: activated | Mode: Parking
+Light: Hazard Lights | Result: ON | Mode: Stand
+Light: High Beam | Result: activated | Mode: Fahren
+Light: High Beam | activated | Fahren
+Light: High Beam | activated | Fahren
+Light: High_Beam | ACTIVATED | Fahren
+Light: High Beam | Result: activated | Mode: Fahren
+Light: High Beam | Result: activated | Mode: Fahren
+Light: High_Beam | ACTIVATED | Fahren
+Light: High_Beam | ACTIVATED | Fahren
+Light: High Beam | Result: activated | Mode: Fahren
+Light: High Beam | Result: activated | Mode: Fahren
+Light: High Beam | Result: ON | Mode: Fahren
+Light: Parking Left | Result: ON | Mode: Parking
+Light: High Beam | Result: ON | Mode: Fahren
+Light: Parking Left | Result: ON | Mode: Parking
+Light: Left Turn | Result: ON | Mode: Fahren
+Light: Left Turn | Result: ON | Mode: Fahren
+Light: High_Beam | Result: ON | Fahren
+Light: High Beam | Result: ON | Mode: Fahren
+Light: High Beam | Result: activated | Mode: Fahren
+Light: High Beam | Result: ON | Mode: Fahren
+Light: High Beam | Result: ON | Mode: Fahren
+Light: High Beam | Result: ON | Mode: Fahren
+Light: High Beam | Result: activated | Mode: Fahren
+Light: High Beam | Result: ON | Mode: Fahren
+Light: High Beam | Result: ACTIVATED | Mode: Fahren
+Light: High Beam | Result: ON | Mode: Fahren
+Light: Left Turn | Result: ON | Mode: Fahren
+Light: Left Turn | Result: OFF | Mode: Fahren
+Light: Left Turn | Result: OFF | Mode: Fahren
+Light: High Beam | Result: OFF | Mode: Fahren
+Light: Parking Left | Result: ON | Mode: Parking
+Light: Hazard Lights | Result: ON | Mode: Stand
+Light: Hazard Lights | Result: ON | Mode: Stand
+Light: Hazard Lights | Result: OFF | Mode: Stand
+Light: Hazard Lights | Result: ON | Mode: Stand
+Light: Hazard Lights | Result: OFF | Mode: Stand
+Light: Parking Left | Result: ON | Mode: Parking
+Light: Parking Left | Result: OFF | Mode: Parking
+Light: Left Turn | Result: ON | Mode: Fahren
+Light: Left Turn | Result: OFF | Mode: Fahren
+Light: Left Turn | Result: ON | Mode: Fahren
+Light: Left Turn | Result: OFF | Mode: Fahren
+Light: Low Beam | Result: ON | Mode: Wohnen
+Light: Low Beam | Result: OFF | Mode: Wohnen
+Light: Low Beam | Result: ON | Mode: Wohnen
+Light: Low Beam | Result: OFF | Mode: Wohnen
+Light: Left Turn | Result: ON | Mode: Fahren
+Light: Left Turn | Result: ON | Mode: Fahren
+Light: Left Turn | Result: ON | Mode: Fahren
+Light: Left Turn | Result: ON | Mode: Fahren
+Light: Left Turn | Result: ON | Mode: Fahren
+Light: Left Turn | Result: ON | Mode: Fahren
+Light: Left Turn | Result: ON | Mode: Fahren
+Light: Left Turn | Result: ON | Mode: Fahren
+Light: Left Turn | Result: ON | Mode: Fahren
+Light: Left Turn | Result: OFF | Mode: Fahren
+Light: Parking Left | Result: ON | Mode: Parking
+Light: Parking Left | Result: OFF | Mode: Parking
+Light: High Beam | Result: ON | Mode: Fahren
+Light: High Beam | Result: OFF | Mode: Fahren
+Light: Hazard Lights | Result: OFF | Mode: Stand
+Light: Hazard Lights | Result: ON | Mode: Stand
+Light: Hazard Lights | Result: FAILED | Mode: Stand
+Light: Hazard Lights | Result: ON | Mode: Stand
+Light: Hazard Lights | Result: FAILED | Mode: Stand
+Light: Hazard Lights | Result: activated | Mode: Stand
+Light: Hazard Lights | Result: ON | Mode: Stand
+Light: Hazard Lights | Result: activated | Mode: Stand
+Light: Hazard Lights | Result: ACTIVATED | Mode: Stand
+Light: Hazard Lights | Result: activated | Mode: Stand
+Light: Hazard Lights | Result: ON | Mode: Stand
+Light: Hazard Lights | Result: ACTIVATED | Mode: Stand
+Light: Hazard Lights | Result: activated | Mode: Stand
+Light: Hazard Lights | Result: ON | Mode: Stand
+Light: Hazard Lights | Result: ACTIVATED | Mode: Stand
+Light: Hazard Lights | Result: DEACTIVATED | Mode: Stand
+Light: Left Turn | Result: ACTIVATED | Mode: Fahren
+Light: Left Turn | Result: FAILED | Mode: Fahren
+Light: High Beam | Result: ACTIVATED | Mode: Fahren
+Light: High Beam | Result: DEACTIVATED | Mode: Fahren
