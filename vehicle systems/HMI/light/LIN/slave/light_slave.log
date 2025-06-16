@@ -1,0 +1,335 @@
+2025-06-01 00:53:47,136 - INFO - GPIO initialized - All pins set to LOW
+2025-06-01 00:53:47,137 - INFO - LIN Slave Node - Listening for frames...
+2025-06-01 00:54:43,890 - INFO - Controlled LED: Parking Right = ON (0x1)
+2025-06-01 00:54:43,928 - INFO - Sent status response:
+2025-06-01 00:54:43,929 - INFO -   Low Beam: OFF
+2025-06-01 00:54:43,929 - INFO -   High Beam: OFF
+2025-06-01 00:54:43,930 - INFO -   Parking Left: OFF
+2025-06-01 00:54:43,930 - INFO -   Parking Right: ON
+2025-06-01 00:54:43,930 - INFO -   Hazard Lights: OFF
+2025-06-01 00:54:43,930 - INFO -   Right Turn: OFF
+2025-06-01 00:54:43,930 - INFO -   Left Turn: OFF
+2025-06-01 00:54:44,013 - INFO - Received status request
+2025-06-01 00:54:44,040 - INFO - Sent status response:
+2025-06-01 00:54:44,041 - INFO -   Low Beam: OFF
+2025-06-01 00:54:44,041 - INFO -   High Beam: OFF
+2025-06-01 00:54:44,042 - INFO -   Parking Left: OFF
+2025-06-01 00:54:44,042 - INFO -   Parking Right: ON
+2025-06-01 00:54:44,043 - INFO -   Hazard Lights: OFF
+2025-06-01 00:54:44,043 - INFO -   Right Turn: OFF
+2025-06-01 00:54:44,044 - INFO -   Left Turn: OFF
+2025-06-01 00:55:11,385 - INFO - Controlled LED: Left Turn = ON (0x1)
+2025-06-01 00:55:11,424 - INFO - Sent status response:
+2025-06-01 00:55:11,425 - INFO -   Low Beam: OFF
+2025-06-01 00:55:11,426 - INFO -   High Beam: OFF
+2025-06-01 00:55:11,427 - INFO -   Parking Left: OFF
+2025-06-01 00:55:11,427 - INFO -   Parking Right: ON
+2025-06-01 00:55:11,428 - INFO -   Hazard Lights: OFF
+2025-06-01 00:55:11,428 - INFO -   Right Turn: OFF
+2025-06-01 00:55:11,429 - INFO -   Left Turn: ON
+2025-06-01 00:55:11,505 - INFO - Received status request
+2025-06-01 00:55:11,532 - INFO - Sent status response:
+2025-06-01 00:55:11,533 - INFO -   Low Beam: OFF
+2025-06-01 00:55:11,534 - INFO -   High Beam: OFF
+2025-06-01 00:55:11,534 - INFO -   Parking Left: OFF
+2025-06-01 00:55:11,534 - INFO -   Parking Right: ON
+2025-06-01 00:55:11,535 - INFO -   Hazard Lights: OFF
+2025-06-01 00:55:11,535 - INFO -   Right Turn: OFF
+2025-06-01 00:55:11,536 - INFO -   Left Turn: ON
+2025-06-01 00:55:35,393 - INFO - Controlled LED: Left Turn = OFF (0x0)
+2025-06-01 00:55:35,433 - INFO - Sent status response:
+2025-06-01 00:55:35,434 - INFO -   Low Beam: OFF
+2025-06-01 00:55:35,434 - INFO -   High Beam: OFF
+2025-06-01 00:55:35,435 - INFO -   Parking Left: OFF
+2025-06-01 00:55:35,435 - INFO -   Parking Right: ON
+2025-06-01 00:55:35,435 - INFO -   Hazard Lights: OFF
+2025-06-01 00:55:35,436 - INFO -   Right Turn: OFF
+2025-06-01 00:55:35,437 - INFO -   Left Turn: OFF
+2025-06-01 00:55:35,565 - INFO - Received status request
+2025-06-01 00:55:35,592 - INFO - Sent status response:
+2025-06-01 00:55:35,593 - INFO -   Low Beam: OFF
+2025-06-01 00:55:35,594 - INFO -   High Beam: OFF
+2025-06-01 00:55:35,594 - INFO -   Parking Left: OFF
+2025-06-01 00:55:35,595 - INFO -   Parking Right: ON
+2025-06-01 00:55:35,596 - INFO -   Hazard Lights: OFF
+2025-06-01 00:55:35,597 - INFO -   Right Turn: OFF
+2025-06-01 00:55:35,597 - INFO -   Left Turn: OFF
+2025-06-01 00:55:41,602 - INFO - Controlled LED: Hazard Lights = ON (0x1)
+2025-06-01 00:55:41,640 - INFO - Sent status response:
+2025-06-01 00:55:41,641 - INFO -   Low Beam: OFF
+2025-06-01 00:55:41,641 - INFO -   High Beam: OFF
+2025-06-01 00:55:41,642 - INFO -   Parking Left: OFF
+2025-06-01 00:55:41,642 - INFO -   Parking Right: ON
+2025-06-01 00:55:41,642 - INFO -   Hazard Lights: ON
+2025-06-01 00:55:41,643 - INFO -   Right Turn: OFF
+2025-06-01 00:55:41,643 - INFO -   Left Turn: OFF
+2025-06-01 00:55:41,725 - INFO - Received status request
+2025-06-01 00:55:41,752 - INFO - Sent status response:
+2025-06-01 00:55:41,753 - INFO -   Low Beam: OFF
+2025-06-01 00:55:41,753 - INFO -   High Beam: OFF
+2025-06-01 00:55:41,754 - INFO -   Parking Left: OFF
+2025-06-01 00:55:41,754 - INFO -   Parking Right: ON
+2025-06-01 00:55:41,754 - INFO -   Hazard Lights: ON
+2025-06-01 00:55:41,755 - INFO -   Right Turn: OFF
+2025-06-01 00:55:41,755 - INFO -   Left Turn: OFF
+2025-06-01 00:56:19,405 - INFO - Received keyboard interrupt
+2025-06-01 00:56:19,406 - INFO - Shutting down...
+2025-06-01 19:28:59,614 - INFO - GPIO initialized - All pins set to LOW
+2025-06-01 19:28:59,616 - INFO - LIN Slave Node - Listening for frames...
+2025-06-01 19:29:30,731 - INFO - Controlled LED: Hazard Lights = ON (0x1)
+2025-06-01 19:29:30,770 - INFO - Sent status response:
+2025-06-01 19:29:30,771 - INFO -   Low Beam: OFF
+2025-06-01 19:29:30,772 - INFO -   High Beam: OFF
+2025-06-01 19:29:30,774 - INFO -   Parking Left: OFF
+2025-06-01 19:29:30,775 - INFO -   Parking Right: OFF
+2025-06-01 19:29:30,776 - INFO -   Hazard Lights: ON
+2025-06-01 19:29:30,777 - INFO -   Right Turn: OFF
+2025-06-01 19:29:30,777 - INFO -   Left Turn: OFF
+2025-06-01 19:29:30,851 - INFO - Received status request
+2025-06-01 19:29:30,881 - INFO - Sent status response:
+2025-06-01 19:29:30,882 - INFO -   Low Beam: OFF
+2025-06-01 19:29:30,883 - INFO -   High Beam: OFF
+2025-06-01 19:29:30,883 - INFO -   Parking Left: OFF
+2025-06-01 19:29:30,883 - INFO -   Parking Right: OFF
+2025-06-01 19:29:30,884 - INFO -   Hazard Lights: ON
+2025-06-01 19:29:30,884 - INFO -   Right Turn: OFF
+2025-06-01 19:29:30,885 - INFO -   Left Turn: OFF
+2025-06-01 19:30:21,824 - INFO - Received keyboard interrupt
+2025-06-01 19:30:21,825 - INFO - Shutting down...
+2025-06-01 19:47:14,278 - INFO - GPIO initialized - All pins set to LOW
+2025-06-01 19:47:14,280 - INFO - LIN Slave Node - Listening for frames...
+2025-06-01 19:47:36,301 - INFO - Controlled Hazard Lights: ON
+2025-06-01 19:47:36,302 - INFO - Mode indicator set to Stand (GPIO 23)
+2025-06-01 19:47:36,303 - INFO - Updated mode to: Stand
+2025-06-01 19:47:36,342 - INFO - Sent status response:
+2025-06-01 19:47:36,342 - INFO -   Low Beam: OFF | Stand
+2025-06-01 19:47:36,343 - INFO -   High Beam: OFF | Stand
+2025-06-01 19:47:36,344 - INFO -   Parking Left: OFF | Stand
+2025-06-01 19:47:36,345 - INFO -   Parking Right: OFF | Stand
+2025-06-01 19:47:36,345 - INFO -   Hazard Lights: ON | Stand
+2025-06-01 19:47:36,346 - INFO -   Right Turn: OFF | Stand
+2025-06-01 19:47:36,346 - INFO -   Left Turn: OFF | Stand
+2025-06-01 19:47:36,422 - INFO - Received status request
+2025-06-01 19:47:36,449 - INFO - Sent status response:
+2025-06-01 19:47:36,450 - INFO -   Low Beam: OFF | Stand
+2025-06-01 19:47:36,451 - INFO -   High Beam: OFF | Stand
+2025-06-01 19:47:36,452 - INFO -   Parking Left: OFF | Stand
+2025-06-01 19:47:36,452 - INFO -   Parking Right: OFF | Stand
+2025-06-01 19:47:36,453 - INFO -   Hazard Lights: ON | Stand
+2025-06-01 19:47:36,454 - INFO -   Right Turn: OFF | Stand
+2025-06-01 19:47:36,455 - INFO -   Left Turn: OFF | Stand
+2025-06-01 19:48:07,092 - INFO - Controlled Hazard Lights: OFF
+2025-06-01 19:48:07,093 - INFO - Mode indicator set to Stand (GPIO 23)
+2025-06-01 19:48:07,093 - INFO - Updated mode to: Stand
+2025-06-01 19:48:07,134 - INFO - Sent status response:
+2025-06-01 19:48:07,134 - INFO -   Low Beam: OFF | Stand
+2025-06-01 19:48:07,135 - INFO -   High Beam: OFF | Stand
+2025-06-01 19:48:07,135 - INFO -   Parking Left: OFF | Stand
+2025-06-01 19:48:07,136 - INFO -   Parking Right: OFF | Stand
+2025-06-01 19:48:07,136 - INFO -   Hazard Lights: OFF | Stand
+2025-06-01 19:48:07,137 - INFO -   Right Turn: OFF | Stand
+2025-06-01 19:48:07,138 - INFO -   Left Turn: OFF | Stand
+2025-06-01 19:48:07,142 - INFO - Received status request
+2025-06-01 19:48:07,170 - INFO - Sent status response:
+2025-06-01 19:48:07,170 - INFO -   Low Beam: OFF | Stand
+2025-06-01 19:48:07,171 - INFO -   High Beam: OFF | Stand
+2025-06-01 19:48:07,171 - INFO -   Parking Left: OFF | Stand
+2025-06-01 19:48:07,172 - INFO -   Parking Right: OFF | Stand
+2025-06-01 19:48:07,172 - INFO -   Hazard Lights: OFF | Stand
+2025-06-01 19:48:07,173 - INFO -   Right Turn: OFF | Stand
+2025-06-01 19:48:07,173 - INFO -   Left Turn: OFF | Stand
+2025-06-01 19:48:14,500 - INFO - Controlled Left Turn: ON
+2025-06-01 19:48:14,500 - INFO - Mode indicator set to Wohnen (GPIO 24)
+2025-06-01 19:48:14,500 - INFO - Updated mode to: Wohnen
+2025-06-01 19:48:14,537 - INFO - Sent status response:
+2025-06-01 19:48:14,538 - INFO -   Low Beam: OFF | Wohnen
+2025-06-01 19:48:14,538 - INFO -   High Beam: OFF | Wohnen
+2025-06-01 19:48:14,539 - INFO -   Parking Left: OFF | Wohnen
+2025-06-01 19:48:14,539 - INFO -   Parking Right: OFF | Wohnen
+2025-06-01 19:48:14,539 - INFO -   Hazard Lights: OFF | Wohnen
+2025-06-01 19:48:14,539 - INFO -   Right Turn: OFF | Wohnen
+2025-06-01 19:48:14,540 - INFO -   Left Turn: ON | Wohnen
+2025-06-01 19:48:14,622 - INFO - Received status request
+2025-06-01 19:48:14,649 - INFO - Sent status response:
+2025-06-01 19:48:14,650 - INFO -   Low Beam: OFF | Wohnen
+2025-06-01 19:48:14,650 - INFO -   High Beam: OFF | Wohnen
+2025-06-01 19:48:14,651 - INFO -   Parking Left: OFF | Wohnen
+2025-06-01 19:48:14,652 - INFO -   Parking Right: OFF | Wohnen
+2025-06-01 19:48:14,652 - INFO -   Hazard Lights: OFF | Wohnen
+2025-06-01 19:48:14,653 - INFO -   Right Turn: OFF | Wohnen
+2025-06-01 19:48:14,654 - INFO -   Left Turn: ON | Wohnen
+2025-06-01 19:48:35,179 - INFO - Shutting down...
+2025-06-01 19:48:59,516 - INFO - GPIO initialized - All pins set to LOW
+2025-06-01 19:48:59,518 - INFO - LIN Slave Node - Listening for frames...
+2025-06-01 19:49:24,005 - INFO - Received keyboard interrupt
+2025-06-01 19:49:24,006 - INFO - Shutting down...
+2025-06-01 19:49:25,336 - INFO - GPIO initialized - All pins set to LOW
+2025-06-01 19:49:25,338 - INFO - LIN Slave Node - Listening for frames...
+2025-06-01 19:49:41,912 - INFO - Shutting down...
+2025-06-01 19:50:24,019 - INFO - GPIO initialized - All pins set to LOW
+2025-06-01 19:50:24,021 - INFO - LIN Slave Node - Listening for frames...
+2025-06-01 19:50:44,504 - INFO - Controlled High Beam: ON
+2025-06-01 19:50:44,505 - INFO - Mode indicator set to Fahren (GPIO 7)
+2025-06-01 19:50:44,506 - INFO - Updated mode to: Fahren
+2025-06-01 19:50:44,546 - INFO - Sent status response:
+2025-06-01 19:50:44,546 - INFO -   Low Beam: OFF | Fahren
+2025-06-01 19:50:44,547 - INFO -   High Beam: ON | Fahren
+2025-06-01 19:50:44,548 - INFO -   Parking Left: OFF | Fahren
+2025-06-01 19:50:44,549 - INFO -   Parking Right: OFF | Fahren
+2025-06-01 19:50:44,549 - INFO -   Hazard Lights: OFF | Fahren
+2025-06-01 19:50:44,550 - INFO -   Right Turn: OFF | Fahren
+2025-06-01 19:50:44,551 - INFO -   Left Turn: OFF | Fahren
+2025-06-01 19:50:44,626 - INFO - Received status request
+2025-06-01 19:50:44,653 - INFO - Sent status response:
+2025-06-01 19:50:44,654 - INFO -   Low Beam: OFF | Fahren
+2025-06-01 19:50:44,655 - INFO -   High Beam: ON | Fahren
+2025-06-01 19:50:44,656 - INFO -   Parking Left: OFF | Fahren
+2025-06-01 19:50:44,656 - INFO -   Parking Right: OFF | Fahren
+2025-06-01 19:50:44,657 - INFO -   Hazard Lights: OFF | Fahren
+2025-06-01 19:50:44,658 - INFO -   Right Turn: OFF | Fahren
+2025-06-01 19:50:44,659 - INFO -   Left Turn: OFF | Fahren
+2025-06-01 19:51:21,300 - INFO - Controlled Low Beam: ON
+2025-06-01 19:51:21,300 - INFO - Mode indicator set to Fahren (GPIO 7)
+2025-06-01 19:51:21,301 - INFO - Updated mode to: Fahren
+2025-06-01 19:51:21,341 - INFO - Sent status response:
+2025-06-01 19:51:21,342 - INFO -   Low Beam: ON | Fahren
+2025-06-01 19:51:21,343 - INFO -   High Beam: ON | Fahren
+2025-06-01 19:51:21,345 - INFO -   Parking Left: OFF | Fahren
+2025-06-01 19:51:21,346 - INFO -   Parking Right: OFF | Fahren
+2025-06-01 19:51:21,347 - INFO -   Hazard Lights: OFF | Fahren
+2025-06-01 19:51:21,348 - INFO -   Right Turn: OFF | Fahren
+2025-06-01 19:51:21,349 - INFO -   Left Turn: OFF | Fahren
+2025-06-01 19:51:21,427 - INFO - Received status request
+2025-06-01 19:51:21,457 - INFO - Sent status response:
+2025-06-01 19:51:21,458 - INFO -   Low Beam: ON | Fahren
+2025-06-01 19:51:21,459 - INFO -   High Beam: ON | Fahren
+2025-06-01 19:51:21,460 - INFO -   Parking Left: OFF | Fahren
+2025-06-01 19:51:21,460 - INFO -   Parking Right: OFF | Fahren
+2025-06-01 19:51:21,461 - INFO -   Hazard Lights: OFF | Fahren
+2025-06-01 19:51:21,461 - INFO -   Right Turn: OFF | Fahren
+2025-06-01 19:51:21,462 - INFO -   Left Turn: OFF | Fahren
+2025-06-01 19:51:42,648 - INFO - Controlled High Beam: OFF
+2025-06-01 19:51:42,649 - INFO - Mode indicator set to Fahren (GPIO 7)
+2025-06-01 19:51:42,649 - INFO - Updated mode to: Fahren
+2025-06-01 19:51:42,689 - INFO - Sent status response:
+2025-06-01 19:51:42,690 - INFO -   Low Beam: ON | Fahren
+2025-06-01 19:51:42,691 - INFO -   High Beam: OFF | Fahren
+2025-06-01 19:51:42,692 - INFO -   Parking Left: OFF | Fahren
+2025-06-01 19:51:42,693 - INFO -   Parking Right: OFF | Fahren
+2025-06-01 19:51:42,694 - INFO -   Hazard Lights: OFF | Fahren
+2025-06-01 19:51:42,695 - INFO -   Right Turn: OFF | Fahren
+2025-06-01 19:51:42,697 - INFO -   Left Turn: OFF | Fahren
+2025-06-01 19:51:42,775 - INFO - Received status request
+2025-06-01 19:51:42,806 - INFO - Sent status response:
+2025-06-01 19:51:42,806 - INFO -   Low Beam: ON | Fahren
+2025-06-01 19:51:42,807 - INFO -   High Beam: OFF | Fahren
+2025-06-01 19:51:42,808 - INFO -   Parking Left: OFF | Fahren
+2025-06-01 19:51:42,808 - INFO -   Parking Right: OFF | Fahren
+2025-06-01 19:51:42,809 - INFO -   Hazard Lights: OFF | Fahren
+2025-06-01 19:51:42,810 - INFO -   Right Turn: OFF | Fahren
+2025-06-01 19:51:42,810 - INFO -   Left Turn: OFF | Fahren
+2025-06-01 19:52:22,082 - INFO - Received keyboard interrupt
+2025-06-01 19:52:22,083 - INFO - Shutting down...
+2025-06-01 19:52:22,084 - INFO - Shutdown complete
+2025-06-01 19:52:23,765 - INFO - GPIO initialized - All pins set to LOW
+2025-06-01 19:52:23,767 - INFO - LIN Slave Node - Listening for frames...
+2025-06-01 19:52:45,113 - INFO - Controlled Low Beam: ON
+2025-06-01 19:52:45,113 - INFO - Mode indicator set to Fahren (GPIO 7)
+2025-06-01 19:52:45,114 - INFO - Updated mode to: Fahren
+2025-06-01 19:52:45,154 - INFO - Sent status response:
+2025-06-01 19:52:45,155 - INFO -   Low Beam: ON | Fahren
+2025-06-01 19:52:45,156 - INFO -   High Beam: OFF | Fahren
+2025-06-01 19:52:45,157 - INFO -   Parking Left: OFF | Fahren
+2025-06-01 19:52:45,158 - INFO -   Parking Right: OFF | Fahren
+2025-06-01 19:52:45,159 - INFO -   Hazard Lights: OFF | Fahren
+2025-06-01 19:52:45,159 - INFO -   Right Turn: OFF | Fahren
+2025-06-01 19:52:45,160 - INFO -   Left Turn: OFF | Fahren
+2025-06-01 19:52:45,235 - INFO - Received status request
+2025-06-01 19:52:45,261 - INFO - Sent status response:
+2025-06-01 19:52:45,262 - INFO -   Low Beam: ON | Fahren
+2025-06-01 19:52:45,263 - INFO -   High Beam: OFF | Fahren
+2025-06-01 19:52:45,264 - INFO -   Parking Left: OFF | Fahren
+2025-06-01 19:52:45,264 - INFO -   Parking Right: OFF | Fahren
+2025-06-01 19:52:45,265 - INFO -   Hazard Lights: OFF | Fahren
+2025-06-01 19:52:45,266 - INFO -   Right Turn: OFF | Fahren
+2025-06-01 19:52:45,267 - INFO -   Left Turn: OFF | Fahren
+2025-06-01 19:53:02,989 - INFO - Controlled High Beam: ON
+2025-06-01 19:53:02,989 - INFO - Mode indicator set to Fahren (GPIO 7)
+2025-06-01 19:53:02,990 - INFO - Updated mode to: Fahren
+2025-06-01 19:53:03,029 - INFO - Sent status response:
+2025-06-01 19:53:03,030 - INFO -   Low Beam: ON | Fahren
+2025-06-01 19:53:03,031 - INFO -   High Beam: ON | Fahren
+2025-06-01 19:53:03,032 - INFO -   Parking Left: OFF | Fahren
+2025-06-01 19:53:03,033 - INFO -   Parking Right: OFF | Fahren
+2025-06-01 19:53:03,033 - INFO -   Hazard Lights: OFF | Fahren
+2025-06-01 19:53:03,034 - INFO -   Right Turn: OFF | Fahren
+2025-06-01 19:53:03,034 - INFO -   Left Turn: OFF | Fahren
+2025-06-01 19:53:03,115 - INFO - Received status request
+2025-06-01 19:53:03,145 - INFO - Sent status response:
+2025-06-01 19:53:03,146 - INFO -   Low Beam: ON | Fahren
+2025-06-01 19:53:03,147 - INFO -   High Beam: ON | Fahren
+2025-06-01 19:53:03,148 - INFO -   Parking Left: OFF | Fahren
+2025-06-01 19:53:03,148 - INFO -   Parking Right: OFF | Fahren
+2025-06-01 19:53:03,149 - INFO -   Hazard Lights: OFF | Fahren
+2025-06-01 19:53:03,150 - INFO -   Right Turn: OFF | Fahren
+2025-06-01 19:53:03,150 - INFO -   Left Turn: OFF | Fahren
+2025-06-01 19:53:12,757 - INFO - Controlled High Beam: OFF
+2025-06-01 19:53:12,757 - INFO - Mode indicator set to Fahren (GPIO 7)
+2025-06-01 19:53:12,758 - INFO - Updated mode to: Fahren
+2025-06-01 19:53:12,797 - INFO - Sent status response:
+2025-06-01 19:53:12,798 - INFO -   Low Beam: ON | Fahren
+2025-06-01 19:53:12,799 - INFO -   High Beam: OFF | Fahren
+2025-06-01 19:53:12,800 - INFO -   Parking Left: OFF | Fahren
+2025-06-01 19:53:12,800 - INFO -   Parking Right: OFF | Fahren
+2025-06-01 19:53:12,801 - INFO -   Hazard Lights: OFF | Fahren
+2025-06-01 19:53:12,802 - INFO -   Right Turn: OFF | Fahren
+2025-06-01 19:53:12,802 - INFO -   Left Turn: OFF | Fahren
+2025-06-01 19:53:12,879 - INFO - Received status request
+2025-06-01 19:53:12,909 - INFO - Sent status response:
+2025-06-01 19:53:12,911 - INFO -   Low Beam: ON | Fahren
+2025-06-01 19:53:12,912 - INFO -   High Beam: OFF | Fahren
+2025-06-01 19:53:12,913 - INFO -   Parking Left: OFF | Fahren
+2025-06-01 19:53:12,913 - INFO -   Parking Right: OFF | Fahren
+2025-06-01 19:53:12,914 - INFO -   Hazard Lights: OFF | Fahren
+2025-06-01 19:53:12,915 - INFO -   Right Turn: OFF | Fahren
+2025-06-01 19:53:12,915 - INFO -   Left Turn: OFF | Fahren
+2025-06-01 19:54:28,313 - INFO - Controlled Low Beam: OFF
+2025-06-01 19:54:28,313 - INFO - Mode indicator set to Fahren (GPIO 7)
+2025-06-01 19:54:28,314 - INFO - Updated mode to: Fahren
+2025-06-01 19:54:28,353 - INFO - Sent status response:
+2025-06-01 19:54:28,354 - INFO -   Low Beam: OFF | Fahren
+2025-06-01 19:54:28,355 - INFO -   High Beam: OFF | Fahren
+2025-06-01 19:54:28,356 - INFO -   Parking Left: OFF | Fahren
+2025-06-01 19:54:28,356 - INFO -   Parking Right: OFF | Fahren
+2025-06-01 19:54:28,357 - INFO -   Hazard Lights: OFF | Fahren
+2025-06-01 19:54:28,358 - INFO -   Right Turn: OFF | Fahren
+2025-06-01 19:54:28,358 - INFO -   Left Turn: OFF | Fahren
+2025-06-01 19:54:28,484 - INFO - Received status request
+2025-06-01 19:54:28,513 - INFO - Sent status response:
+2025-06-01 19:54:28,514 - INFO -   Low Beam: OFF | Fahren
+2025-06-01 19:54:28,515 - INFO -   High Beam: OFF | Fahren
+2025-06-01 19:54:28,516 - INFO -   Parking Left: OFF | Fahren
+2025-06-01 19:54:28,516 - INFO -   Parking Right: OFF | Fahren
+2025-06-01 19:54:28,517 - INFO -   Hazard Lights: OFF | Fahren
+2025-06-01 19:54:28,518 - INFO -   Right Turn: OFF | Fahren
+2025-06-01 19:54:28,519 - INFO -   Left Turn: OFF | Fahren
+2025-06-01 19:54:41,429 - INFO - Controlled Low Beam: ON
+2025-06-01 19:54:41,429 - INFO - Mode indicator set to Fahren (GPIO 7)
+2025-06-01 19:54:41,430 - INFO - Updated mode to: Fahren
+2025-06-01 19:54:41,469 - INFO - Sent status response:
+2025-06-01 19:54:41,471 - INFO -   Low Beam: ON | Fahren
+2025-06-01 19:54:41,472 - INFO -   High Beam: OFF | Fahren
+2025-06-01 19:54:41,472 - INFO -   Parking Left: OFF | Fahren
+2025-06-01 19:54:41,473 - INFO -   Parking Right: OFF | Fahren
+2025-06-01 19:54:41,473 - INFO -   Hazard Lights: OFF | Fahren
+2025-06-01 19:54:41,474 - INFO -   Right Turn: OFF | Fahren
+2025-06-01 19:54:41,474 - INFO -   Left Turn: OFF | Fahren
+2025-06-01 19:54:41,735 - INFO - Received status request
+2025-06-01 19:54:41,765 - INFO - Sent status response:
+2025-06-01 19:54:41,766 - INFO -   Low Beam: ON | Fahren
+2025-06-01 19:54:41,767 - INFO -   High Beam: OFF | Fahren
+2025-06-01 19:54:41,767 - INFO -   Parking Left: OFF | Fahren
+2025-06-01 19:54:41,767 - INFO -   Parking Right: OFF | Fahren
+2025-06-01 19:54:41,768 - INFO -   Hazard Lights: OFF | Fahren
+2025-06-01 19:54:41,768 - INFO -   Right Turn: OFF | Fahren
+2025-06-01 19:54:41,769 - INFO -   Left Turn: OFF | Fahren

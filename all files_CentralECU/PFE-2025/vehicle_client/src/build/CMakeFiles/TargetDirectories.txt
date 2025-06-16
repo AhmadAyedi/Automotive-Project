@@ -1,3 +1,0 @@
-/home/pi/vsomeip/PFE-2025/vehicle_client/src/build/CMakeFiles/main.dir
-/home/pi/vsomeip/PFE-2025/vehicle_client/src/build/CMakeFiles/edit_cache.dir
-/home/pi/vsomeip/PFE-2025/vehicle_client/src/build/CMakeFiles/rebuild_cache.dir

@@ -1,1 +1,0 @@
-/home/pi/vsomeip/PFE-2025/mockupWindow/src/

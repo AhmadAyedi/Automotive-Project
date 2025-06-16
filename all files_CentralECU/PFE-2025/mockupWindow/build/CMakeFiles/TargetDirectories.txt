@@ -1,3 +1,0 @@
-/home/pi/vsomeip/PFE-2025/mockupWindow/build/CMakeFiles/client-mockupWindow.dir
-/home/pi/vsomeip/PFE-2025/mockupWindow/build/CMakeFiles/edit_cache.dir
-/home/pi/vsomeip/PFE-2025/mockupWindow/build/CMakeFiles/rebuild_cache.dir
