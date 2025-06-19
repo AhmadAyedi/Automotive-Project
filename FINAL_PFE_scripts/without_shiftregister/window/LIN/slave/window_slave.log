@@ -1,0 +1,28 @@
+2025-06-01 19:21:09,437 - INFO - GPIO initialized
+2025-06-01 19:21:09,438 - INFO - Window slave initialized
+2025-06-01 19:21:09,439 - INFO - LIN Window Slave - Listening for frames...
+2025-06-01 19:22:24,053 - INFO - Received command for PRS: CL | 100% | MANUAL | FAHREN | safety_ON
+2025-06-01 19:22:24,055 - INFO - Safety ON detected, turning on red LED
+2025-06-01 19:22:24,056 - INFO - Updating PRS from 0 LEDs to 4 LEDs (Level: 100%)
+2025-06-01 19:22:24,057 - INFO - Turned on PRS LED 1 (GPIO 12)
+2025-06-01 19:22:25,058 - INFO - Turned on PRS LED 2 (GPIO 16)
+2025-06-01 19:22:26,059 - INFO - Turned on PRS LED 3 (GPIO 20)
+2025-06-01 19:22:27,060 - INFO - Turned on PRS LED 4 (GPIO 21)
+2025-06-01 19:22:28,076 - INFO - Sent response for PRS: {'level': 100, 'result': 'CL', 'level_type': 'MANUAL', 'mode': 'FAHREN', 'safety': 'ON'}
+2025-06-01 19:23:09,034 - INFO - Received command for PRS: OP | 30% | MANUAL | FAHREN | safety_OFF
+2025-06-01 19:23:09,035 - INFO - Normal operation, turning on green LED
+2025-06-01 19:23:09,036 - INFO - Updating PRS from 4 LEDs to 1 LEDs (Level: 30%)
+2025-06-01 19:23:09,036 - INFO - Turned off PRS LED 4 (GPIO 21)
+2025-06-01 19:23:10,037 - INFO - Turned off PRS LED 3 (GPIO 20)
+2025-06-01 19:23:11,038 - INFO - Turned off PRS LED 2 (GPIO 16)
+2025-06-01 19:23:12,052 - INFO - Sent response for PRS: {'level': 30, 'result': 'OP', 'level_type': 'MANUAL', 'mode': 'FAHREN', 'safety': 'OFF'}
+2025-06-01 19:23:32,597 - INFO - Received command for DR: OP | 80% | MANUAL | FAHREN | safety_OFF
+2025-06-01 19:23:32,599 - INFO - Normal operation, turning on green LED
+2025-06-01 19:23:32,599 - INFO - Updating DR from 0 LEDs to 3 LEDs (Level: 80%)
+2025-06-01 19:23:32,600 - INFO - Turned on DR LED 1 (GPIO 2)
+2025-06-01 19:23:33,600 - INFO - Turned on DR LED 2 (GPIO 3)
+2025-06-01 19:23:34,602 - INFO - Turned on DR LED 3 (GPIO 1)
+2025-06-01 19:23:35,616 - INFO - Sent response for DR: {'level': 80, 'result': 'OP', 'level_type': 'MANUAL', 'mode': 'FAHREN', 'safety': 'OFF'}
+2025-06-01 19:23:46,513 - INFO - Received keyboard interrupt
+2025-06-01 19:23:46,514 - INFO - Shutting down...
+2025-06-01 19:23:46,515 - INFO - Shutdown complete

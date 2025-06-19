@@ -1,0 +1,16 @@
+Window: DRS           | Result:  CL     | Level: 100%
+Window: DRS           | Result:  CL     | Level: 100%
+Window: DRS           | Result:  CL     | Level: 75%
+Window: DRS           | Result:  CL     | Level: 75%
+Window: DRS           | Result:  CL     | Level: 75%
+Window: DRS           | Result:  CL     | Level: 75%
+Window: DRS           | Result:  CL     | Level: 75%
+Window: DRS           | Result:  CL     | Level: 75%
+Window: DRS           | Result:  CL     | Level: 75%
+Window: DRS           | Result:  CL     | Level: 75%
+Window: DRS           | Result:  CL     | Level: 40%
+Window: DRS           | Result:  CL     | Level: 100%
+Window: DR           | Result:  CL     | Level: 100%
+Window: PR           | Result:  CL     | Level: 90%
+Window: PS           | Result:  CL     | Level: 90%
+Window: PRS           | Result:  CL     | Level: 90%

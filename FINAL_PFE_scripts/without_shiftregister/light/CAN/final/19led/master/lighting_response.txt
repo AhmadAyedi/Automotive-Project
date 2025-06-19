@@ -1,0 +1,888 @@
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = ON
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = ON
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = ON
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = ON
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = ON
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = ON
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = ON
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = ON
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = ON
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = ON
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = ON
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = ON
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = ON
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = ON
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = ON
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = ON
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = ON
+High Beam = ON
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = ON
+High Beam = ON
+Parking Left = OFF
+Parking Right = ON
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = ON
+High Beam = ON
+Parking Left = OFF
+Parking Right = ON
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = ON
+High Beam = ON
+Parking Left = ON
+Parking Right = ON
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = ON
+High Beam = ON
+Parking Left = ON
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = ON
+High Beam = ON
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = ON
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = ON
+High Beam = ON
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = ON
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = ON
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = ON
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = ON
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = ON
+Left Turn = ON
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = ON
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = ON
+Left Turn = ON
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = ON
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = ON
+Left Turn = ON
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = ON
+Right Turn = ON
+Left Turn = ON
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = ON
+Right Turn = OFF
+Left Turn = ON
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = ON
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = ON
+Left Turn = ON
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = ON
+Right Turn = ON
+Left Turn = ON
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = ON
+Left Turn = ON
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = ON
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = ON
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = ON
+Left Turn = ON
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = ON
+Right Turn = ON
+Left Turn = ON
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = ON
+Right Turn = ON
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = ON
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = ON
+Right Turn = ON
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = ON
+Right Turn = ON
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = ON
+Hazard Lights = ON
+Right Turn = ON
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = ON
+Parking Right = ON
+Hazard Lights = ON
+Right Turn = ON
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = ON
+Parking Right = OFF
+Hazard Lights = ON
+Right Turn = ON
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = ON
+Right Turn = ON
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = ON
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = ON
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = ON
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = ON
+Left Turn = ON
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = ON
+Right Turn = ON
+Left Turn = ON
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = ON
+Right Turn = OFF
+Left Turn = ON
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = ON
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = ON
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = ON
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = ON
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = ON
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = ON
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = ON
+Left Turn = ON
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = ON
+Right Turn = ON
+Left Turn = ON
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = ON
+Right Turn = OFF
+Left Turn = ON
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = ON
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = ON
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = ON
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = ON
+Left Turn = ON
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = ON
+Right Turn = ON
+Left Turn = ON
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = ON
+Left Turn = ON
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = ON
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = ON
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = ON
+Left Turn = ON
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = ON
+Right Turn = ON
+Left Turn = ON
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = ON
+Right Turn = OFF
+Left Turn = ON
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = ON
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = ON
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = ON
+Left Turn = ON
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = ON
+Right Turn = ON
+Left Turn = ON
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = ON
+Right Turn = ON
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = ON
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = ON
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = ON
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = ON
+Parking Right = ON
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = ON
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = ON
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = ON
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = ON
+Left Turn = ON
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = ON
+Left Turn = OFF
+
+Low Beam = OFF
+High Beam = OFF
+Parking Left = OFF
+Parking Right = OFF
+Hazard Lights = OFF
+Right Turn = OFF
+Left Turn = OFF
+

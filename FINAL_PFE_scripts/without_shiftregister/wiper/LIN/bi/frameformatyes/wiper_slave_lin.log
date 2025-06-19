@@ -1,0 +1,318 @@
+2025-05-18 00:34:31,958 - ERROR - LIN init failed: [Errno 2] could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'
+2025-05-18 00:39:36,440 - WARNING - response.txt not found, using defaults
+2025-05-18 00:39:47,288 - INFO - LIN interface initialized on /dev/serial0
+2025-05-18 00:39:47,289 - INFO - Listening for LIN messages...
+2025-05-18 00:39:47,291 - INFO - Monitoring response.txt...
+2025-05-18 00:39:47,291 - INFO - Wiper slave (LIN) initialized
+2025-05-18 00:39:51,540 - ERROR - LIN checksum error
+2025-05-18 00:40:07,157 - ERROR - LIN checksum error
+2025-05-18 00:40:28,177 - ERROR - LIN checksum error
+2025-05-18 00:40:42,589 - ERROR - LIN checksum error
+2025-05-18 00:41:01,683 - INFO - Received keyboard interrupt
+2025-05-18 00:41:01,684 - INFO - Shutting down...
+2025-05-18 00:41:01,685 - INFO - Wipers fully stopped
+2025-05-18 00:41:01,686 - INFO - Sent LIN frame: PID=0x31, Data=010100006f000000
+2025-05-18 00:41:02,188 - INFO - Shutdown complete
+2025-05-18 00:41:02,188 - ERROR - LIN monitoring error: 'NoneType' object cannot be interpreted as an integer
+2025-05-18 00:48:39,890 - WARNING - response.txt not found, using defaults
+2025-05-18 00:48:46,191 - INFO - LIN interface initialized on /dev/serial0
+2025-05-18 00:48:46,193 - INFO - Listening for LIN messages...
+2025-05-18 00:48:46,194 - INFO - Monitoring response.txt...
+2025-05-18 00:48:46,194 - INFO - Wiper slave (LIN) initialized
+2025-05-18 00:48:53,164 - INFO - Processing signals: {'wiperMode': 1, 'wiperSpeed': 1, 'wiperCycleCount': 1, 'Wiper_Function_Enabled': 1}
+2025-05-18 00:48:53,165 - INFO - Wipers fully stopped
+2025-05-18 00:48:53,179 - INFO - Sent LIN frame: PID=0x31, Data=010100006f000000, Checksum=0x5d
+2025-05-18 00:48:53,181 - INFO - Started touch mode (single wipe)
+2025-05-18 00:48:53,194 - INFO - Sent LIN frame: PID=0x31, Data=010110016f000000, Checksum=0x4c
+2025-05-18 00:48:53,797 - INFO - Sent LIN frame: PID=0x31, Data=010100016f000000, Checksum=0x5c
+2025-05-18 00:49:07,591 - INFO - Processing signals: {'wiperMode': 4, 'wiperSpeed': 1, 'Wiper_Function_Enabled': 1}
+2025-05-18 00:49:07,592 - INFO - Wipers fully stopped
+2025-05-18 00:49:07,605 - INFO - Sent LIN frame: PID=0x31, Data=010100016f000000, Checksum=0x5c
+2025-05-18 00:49:07,608 - INFO - Started continuous front wiper (speed=normal)
+2025-05-18 00:49:07,622 - INFO - Sent LIN frame: PID=0x31, Data=010110046f000000, Checksum=0x49
+2025-05-18 00:49:20,217 - INFO - Processing signals: {'wiperMode': 4, 'wiperSpeed': 2, 'Wiper_Function_Enabled': 1}
+2025-05-18 00:49:22,055 - INFO - Sent LIN frame: PID=0x31, Data=010100046f000000, Checksum=0x59
+2025-05-18 00:49:22,056 - INFO - Wipers fully stopped
+2025-05-18 00:49:22,070 - INFO - Sent LIN frame: PID=0x31, Data=010100046f000000, Checksum=0x59
+2025-05-18 00:49:22,072 - INFO - Started continuous front wiper (speed=fast)
+2025-05-18 00:49:22,086 - INFO - Sent LIN frame: PID=0x31, Data=010210046f000000, Checksum=0x48
+2025-05-18 00:49:31,041 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1, 'WiperIntermittent': 1, 'wipingCycle': 1700, 'Wiper_Function_Enabled': 1}
+2025-05-18 00:49:31,077 - INFO - Sent LIN frame: PID=0x31, Data=010200046f000000, Checksum=0x58
+2025-05-18 00:49:31,078 - INFO - Wipers fully stopped
+2025-05-18 00:49:31,093 - INFO - Sent LIN frame: PID=0x31, Data=010200046f000000, Checksum=0x58
+2025-05-18 00:49:31,096 - INFO - Started intermittent rear wiper
+2025-05-18 00:49:31,097 - INFO - Started continuous front wiper (speed=normal)
+2025-05-18 00:49:31,111 - INFO - Sent LIN frame: PID=0x31, Data=010120026f000000, Checksum=0x3b
+2025-05-18 00:49:46,366 - INFO - Processing signals: {'Wiper_Function_Enabled': 0}
+2025-05-18 00:49:46,457 - INFO - Sent LIN frame: PID=0x31, Data=010100026f000000, Checksum=0x5b
+2025-05-18 00:49:46,559 - INFO - Wipers fully stopped
+2025-05-18 00:49:46,573 - INFO - Sent LIN frame: PID=0x31, Data=010100026f000000, Checksum=0x5b
+2025-05-18 00:49:46,587 - INFO - Sent LIN frame: PID=0x31, Data=000000006f000000, Checksum=0x5f
+2025-05-18 00:49:47,822 - INFO - Sent LIN frame: PID=0x31, Data=000000006f000000, Checksum=0x5f
+2025-05-18 00:54:50,692 - INFO - response.txt changed, updating signals
+2025-05-18 00:54:50,707 - INFO - Sent LIN frame: PID=0x31, Data=000000004d000000, Checksum=0x81
+2025-05-18 00:55:07,521 - INFO - response.txt changed, updating signals
+2025-05-18 00:55:07,536 - INFO - Sent LIN frame: PID=0x31, Data=000000000b000000, Checksum=0xc3
+2025-05-18 00:55:16,248 - INFO - response.txt changed, updating signals
+2025-05-18 00:55:16,263 - INFO - Sent LIN frame: PID=0x31, Data=000000000c000000, Checksum=0xc2
+2025-05-18 01:01:26,593 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1, 'WiperIntermittent': 1, 'wipingCycle': 1700, 'Wiper_Function_Enabled': 1}
+2025-05-18 01:01:26,594 - INFO - Wipers fully stopped
+2025-05-18 01:01:26,609 - INFO - Sent LIN frame: PID=0x31, Data=000000000c000000, Checksum=0xc2
+2025-05-18 01:01:26,611 - INFO - Started intermittent rear wiper
+2025-05-18 01:01:26,612 - INFO - Started continuous front wiper (speed=normal)
+2025-05-18 01:01:26,626 - INFO - Sent LIN frame: PID=0x31, Data=010120020c000000, Checksum=0x9e
+2025-05-18 01:01:34,417 - INFO - Processing signals: {'wiperMode': 4, 'wiperSpeed': 2, 'Wiper_Function_Enabled': 1}
+2025-05-18 01:01:34,440 - INFO - Sent LIN frame: PID=0x31, Data=010100020c000000, Checksum=0xbe
+2025-05-18 01:01:34,542 - INFO - Wipers fully stopped
+2025-05-18 01:01:34,556 - INFO - Sent LIN frame: PID=0x31, Data=010100020c000000, Checksum=0xbe
+2025-05-18 01:01:34,557 - INFO - Started continuous front wiper (speed=fast)
+2025-05-18 01:01:34,571 - INFO - Sent LIN frame: PID=0x31, Data=010210040c000000, Checksum=0xab
+2025-05-18 01:01:36,428 - INFO - Sent LIN frame: PID=0x31, Data=010200040c000000, Checksum=0xbb
+2025-05-18 01:01:42,536 - INFO - Processing signals: {'Wiper_Function_Enabled': 0}
+2025-05-18 01:01:42,598 - INFO - Sent LIN frame: PID=0x31, Data=010200040c000000, Checksum=0xbb
+2025-05-18 01:01:42,600 - INFO - Wipers fully stopped
+2025-05-18 01:01:42,614 - INFO - Sent LIN frame: PID=0x31, Data=010200040c000000, Checksum=0xbb
+2025-05-18 01:01:42,628 - INFO - Sent LIN frame: PID=0x31, Data=000000000c000000, Checksum=0xc2
+2025-05-18 01:02:33,878 - INFO - Processing signals: {'wiperMode': 4, 'wiperSpeed': 2, 'Wiper_Function_Enabled': 1}
+2025-05-18 01:02:33,879 - INFO - Wipers fully stopped
+2025-05-18 01:02:33,892 - INFO - Sent LIN frame: PID=0x31, Data=000000000c000000, Checksum=0xc2
+2025-05-18 01:02:33,894 - INFO - Started continuous front wiper (speed=fast)
+2025-05-18 01:02:33,909 - INFO - Sent LIN frame: PID=0x31, Data=010210040c000000, Checksum=0xab
+2025-05-18 01:06:04,908 - INFO - Received keyboard interrupt
+2025-05-18 01:06:04,909 - INFO - Shutting down...
+2025-05-18 01:06:04,942 - INFO - Sent LIN frame: PID=0x31, Data=010200040c000000, Checksum=0xbb
+2025-05-18 01:06:04,943 - INFO - Wipers fully stopped
+2025-05-18 01:06:04,957 - INFO - Sent LIN frame: PID=0x31, Data=010200040c000000, Checksum=0xbb
+2025-05-18 01:16:36,936 - INFO - LIN interface initialized on /dev/serial0
+2025-05-18 01:16:36,938 - INFO - Listening for LIN messages...
+2025-05-18 01:16:36,939 - INFO - Monitoring response.txt...
+2025-05-18 01:16:36,939 - INFO - Wiper slave (LIN) initialized
+2025-05-18 01:16:36,941 - INFO - response.txt changed, updating signals
+2025-05-18 01:16:36,942 - INFO - 
+Sending LIN frame:
+2025-05-18 01:16:36,942 - INFO - Break field (13+ dominant bits)
+2025-05-18 01:16:36,945 - INFO - Sync byte: 0x55
+2025-05-18 01:16:36,947 - INFO - PID: 0x31
+2025-05-18 01:16:36,949 - INFO - Data: 010100000c000000
+2025-05-18 01:16:36,958 - INFO - Checksum: 0xc0
+2025-05-18 01:16:36,959 - INFO - Frame sent completely
+2025-05-18 01:17:01,565 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 2, 'Wiper_Function_Enabled': 1}
+2025-05-18 01:17:01,565 - INFO - Wipers fully stopped
+2025-05-18 01:17:01,566 - INFO - 
+Sending LIN frame:
+2025-05-18 01:17:01,566 - INFO - Break field (13+ dominant bits)
+2025-05-18 01:17:01,568 - INFO - Sync byte: 0x55
+2025-05-18 01:17:01,570 - INFO - PID: 0x31
+2025-05-18 01:17:01,572 - INFO - Data: 010100000c000000
+2025-05-18 01:17:01,581 - INFO - Checksum: 0xc0
+2025-05-18 01:17:01,582 - INFO - Frame sent completely
+2025-05-18 01:17:01,584 - INFO - Started continuous front wiper (speed=fast)
+2025-05-18 01:17:01,585 - INFO - 
+Sending LIN frame:
+2025-05-18 01:17:01,585 - INFO - Break field (13+ dominant bits)
+2025-05-18 01:17:01,588 - INFO - Sync byte: 0x55
+2025-05-18 01:17:01,590 - INFO - PID: 0x31
+2025-05-18 01:17:01,592 - INFO - Data: 010210020c000000
+2025-05-18 01:17:01,601 - INFO - Checksum: 0xad
+2025-05-18 01:17:01,602 - INFO - Frame sent completely
+2025-05-18 01:17:12,696 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1, 'Wiper_Function_Enabled': 1}
+2025-05-18 01:17:12,719 - INFO - 
+Sending LIN frame:
+2025-05-18 01:17:12,720 - INFO - Break field (13+ dominant bits)
+2025-05-18 01:17:12,723 - INFO - Sync byte: 0x55
+2025-05-18 01:17:12,725 - INFO - PID: 0x31
+2025-05-18 01:17:12,727 - INFO - Data: 010200020c000000
+2025-05-18 01:17:12,736 - INFO - Checksum: 0xbd
+2025-05-18 01:17:12,737 - INFO - Frame sent completely
+2025-05-18 01:17:12,738 - INFO - Wipers fully stopped
+2025-05-18 01:17:12,739 - INFO - 
+Sending LIN frame:
+2025-05-18 01:17:12,739 - INFO - Break field (13+ dominant bits)
+2025-05-18 01:17:12,742 - INFO - Sync byte: 0x55
+2025-05-18 01:17:12,744 - INFO - PID: 0x31
+2025-05-18 01:17:12,746 - INFO - Data: 010200020c000000
+2025-05-18 01:17:12,755 - INFO - Checksum: 0xbd
+2025-05-18 01:17:12,756 - INFO - Frame sent completely
+2025-05-18 01:17:12,758 - INFO - Started continuous front wiper (speed=normal)
+2025-05-18 01:17:12,759 - INFO - 
+Sending LIN frame:
+2025-05-18 01:17:12,759 - INFO - Break field (13+ dominant bits)
+2025-05-18 01:17:12,762 - INFO - Sync byte: 0x55
+2025-05-18 01:17:12,763 - INFO - PID: 0x31
+2025-05-18 01:17:12,765 - INFO - Data: 010110020c000000
+2025-05-18 01:17:12,774 - INFO - Checksum: 0xae
+2025-05-18 01:17:12,775 - INFO - Frame sent completely
+2025-05-18 01:17:19,317 - INFO - Processing signals: {'wiperMode': 4, 'wiperSpeed': 2, 'Wiper_Function_Enabled': 1}
+2025-05-18 01:17:19,368 - INFO - 
+Sending LIN frame:
+2025-05-18 01:17:19,369 - INFO - Break field (13+ dominant bits)
+2025-05-18 01:17:19,371 - INFO - Sync byte: 0x55
+2025-05-18 01:17:19,373 - INFO - PID: 0x31
+2025-05-18 01:17:19,375 - INFO - Data: 010100020c000000
+2025-05-18 01:17:19,387 - INFO - Checksum: 0xbe
+2025-05-18 01:17:19,387 - INFO - Frame sent completely
+2025-05-18 01:17:19,388 - INFO - Wipers fully stopped
+2025-05-18 01:17:19,389 - INFO - 
+Sending LIN frame:
+2025-05-18 01:17:19,389 - INFO - Break field (13+ dominant bits)
+2025-05-18 01:17:19,391 - INFO - Sync byte: 0x55
+2025-05-18 01:17:19,393 - INFO - PID: 0x31
+2025-05-18 01:17:19,394 - INFO - Data: 010100020c000000
+2025-05-18 01:17:19,404 - INFO - Checksum: 0xbe
+2025-05-18 01:17:19,404 - INFO - Frame sent completely
+2025-05-18 01:17:19,406 - INFO - Started continuous front wiper (speed=fast)
+2025-05-18 01:17:19,406 - INFO - 
+Sending LIN frame:
+2025-05-18 01:17:19,406 - INFO - Break field (13+ dominant bits)
+2025-05-18 01:17:19,409 - INFO - Sync byte: 0x55
+2025-05-18 01:17:19,411 - INFO - PID: 0x31
+2025-05-18 01:17:19,412 - INFO - Data: 010210040c000000
+2025-05-18 01:17:19,421 - INFO - Checksum: 0xab
+2025-05-18 01:17:19,422 - INFO - Frame sent completely
+2025-05-18 01:17:40,044 - INFO - Processing signals: {'Wiper_Function_Enabled': 0}
+2025-05-18 01:17:40,046 - INFO - 
+Sending LIN frame:
+2025-05-18 01:17:40,047 - INFO - Break field (13+ dominant bits)
+2025-05-18 01:17:40,049 - INFO - Sync byte: 0x55
+2025-05-18 01:17:40,051 - INFO - PID: 0x31
+2025-05-18 01:17:40,052 - INFO - Data: 010200040c000000
+2025-05-18 01:17:40,062 - INFO - Checksum: 0xbb
+2025-05-18 01:17:40,062 - INFO - Frame sent completely
+2025-05-18 01:17:40,063 - INFO - Wipers fully stopped
+2025-05-18 01:17:40,064 - INFO - 
+Sending LIN frame:
+2025-05-18 01:17:40,064 - INFO - Break field (13+ dominant bits)
+2025-05-18 01:17:40,066 - INFO - Sync byte: 0x55
+2025-05-18 01:17:40,068 - INFO - PID: 0x31
+2025-05-18 01:17:40,070 - INFO - Data: 010200040c000000
+2025-05-18 01:17:40,079 - INFO - Checksum: 0xbb
+2025-05-18 01:17:40,080 - INFO - Frame sent completely
+2025-05-18 01:17:40,081 - INFO - 
+Sending LIN frame:
+2025-05-18 01:17:40,082 - INFO - Break field (13+ dominant bits)
+2025-05-18 01:17:40,084 - INFO - Sync byte: 0x55
+2025-05-18 01:17:40,086 - INFO - PID: 0x31
+2025-05-18 01:17:40,088 - INFO - Data: 000000000c000000
+2025-05-18 01:17:40,097 - INFO - Checksum: 0xc2
+2025-05-18 01:17:40,098 - INFO - Frame sent completely
+2025-05-18 01:26:42,181 - INFO - LIN interface initialized on /dev/serial0
+2025-05-18 01:26:42,182 - INFO - Listening for LIN messages...
+2025-05-18 01:26:42,183 - INFO - Monitoring response.txt...
+2025-05-18 01:26:42,184 - INFO - Wiper slave (LIN) initialized
+2025-05-18 01:26:42,185 - INFO - response.txt changed, updating signals
+2025-05-18 01:26:42,187 - INFO - 
+Sending LIN frame:
+2025-05-18 01:26:42,188 - INFO - Break field (13+ dominant bits)
+2025-05-18 01:26:42,191 - INFO - Sync byte: 0x55
+2025-05-18 01:26:42,193 - INFO - PID: 0x31
+2025-05-18 01:26:42,195 - INFO - Data: 010100000c000000
+2025-05-18 01:26:42,205 - INFO - Checksum: 0xc0
+2025-05-18 01:26:42,205 - INFO - Frame sent completely
+2025-05-18 01:27:00,715 - INFO - Processing signals: {'wiperMode': 4, 'wiperSpeed': 2, 'Wiper_Function_Enabled': 1}
+2025-05-18 01:27:00,716 - INFO - Wipers fully stopped
+2025-05-18 01:27:00,716 - INFO - 
+Sending LIN frame:
+2025-05-18 01:27:00,717 - INFO - Break field (13+ dominant bits)
+2025-05-18 01:27:00,719 - INFO - Sync byte: 0x55
+2025-05-18 01:27:00,722 - INFO - PID: 0x31
+2025-05-18 01:27:00,724 - INFO - Data: 010100000c000000
+2025-05-18 01:27:00,733 - INFO - Checksum: 0xc0
+2025-05-18 01:27:00,734 - INFO - Frame sent completely
+2025-05-18 01:27:00,737 - INFO - Started continuous front wiper (speed=fast)
+2025-05-18 01:27:00,738 - INFO - 
+Sending LIN frame:
+2025-05-18 01:27:00,739 - INFO - Break field (13+ dominant bits)
+2025-05-18 01:27:00,742 - INFO - Sync byte: 0x55
+2025-05-18 01:27:00,744 - INFO - PID: 0x31
+2025-05-18 01:27:00,746 - INFO - Data: 010210040c000000
+2025-05-18 01:27:00,755 - INFO - Checksum: 0xab
+2025-05-18 01:27:00,756 - INFO - Frame sent completely
+2025-05-18 01:27:18,438 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1, 'WiperIntermittent': 1, 'wipingCycle': 1700, 'Wiper_Function_Enabled': 1}
+2025-05-18 01:27:18,439 - INFO - 
+Sending LIN frame:
+2025-05-18 01:27:18,440 - INFO - Break field (13+ dominant bits)
+2025-05-18 01:27:18,443 - INFO - Sync byte: 0x55
+2025-05-18 01:27:18,445 - INFO - PID: 0x31
+2025-05-18 01:27:18,447 - INFO - Data: 010200040c000000
+2025-05-18 01:27:18,456 - INFO - Checksum: 0xbb
+2025-05-18 01:27:18,457 - INFO - Frame sent completely
+2025-05-18 01:27:18,458 - INFO - Wipers fully stopped
+2025-05-18 01:27:18,459 - INFO - 
+Sending LIN frame:
+2025-05-18 01:27:18,459 - INFO - Break field (13+ dominant bits)
+2025-05-18 01:27:18,462 - INFO - Sync byte: 0x55
+2025-05-18 01:27:18,464 - INFO - PID: 0x31
+2025-05-18 01:27:18,466 - INFO - Data: 010200040c000000
+2025-05-18 01:27:18,475 - INFO - Checksum: 0xbb
+2025-05-18 01:27:18,476 - INFO - Frame sent completely
+2025-05-18 01:27:18,478 - INFO - Started intermittent rear wiper
+2025-05-18 01:27:18,479 - INFO - Started continuous front wiper (speed=normal)
+2025-05-18 01:27:18,480 - INFO - 
+Sending LIN frame:
+2025-05-18 01:27:18,480 - INFO - Break field (13+ dominant bits)
+2025-05-18 01:27:18,483 - INFO - Sync byte: 0x55
+2025-05-18 01:27:18,485 - INFO - PID: 0x31
+2025-05-18 01:27:18,487 - INFO - Data: 010120020c000000
+2025-05-18 01:27:18,496 - INFO - Checksum: 0x9e
+2025-05-18 01:27:18,497 - INFO - Frame sent completely
+2025-05-18 01:27:25,062 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1, 'Wiper_Function_Enabled': 1}
+2025-05-18 01:27:25,088 - INFO - 
+Sending LIN frame:
+2025-05-18 01:27:25,089 - INFO - Break field (13+ dominant bits)
+2025-05-18 01:27:25,092 - INFO - Sync byte: 0x55
+2025-05-18 01:27:25,096 - INFO - PID: 0x31
+2025-05-18 01:27:25,098 - INFO - Data: 010100020c000000
+2025-05-18 01:27:25,108 - INFO - Checksum: 0xbe
+2025-05-18 01:27:25,109 - INFO - Frame sent completely
+2025-05-18 01:27:25,211 - INFO - Wipers fully stopped
+2025-05-18 01:27:25,211 - INFO - 
+Sending LIN frame:
+2025-05-18 01:27:25,212 - INFO - Break field (13+ dominant bits)
+2025-05-18 01:27:25,215 - INFO - Sync byte: 0x55
+2025-05-18 01:27:25,218 - INFO - PID: 0x31
+2025-05-18 01:27:25,223 - INFO - Data: 010100020c000000
+2025-05-18 01:27:25,233 - INFO - Checksum: 0xbe
+2025-05-18 01:27:25,233 - INFO - Frame sent completely
+2025-05-18 01:27:25,234 - INFO - Started continuous front wiper (speed=normal)
+2025-05-18 01:27:25,235 - INFO - 
+Sending LIN frame:
+2025-05-18 01:27:25,235 - INFO - Break field (13+ dominant bits)
+2025-05-18 01:27:25,237 - INFO - Sync byte: 0x55
+2025-05-18 01:27:25,239 - INFO - PID: 0x31
+2025-05-18 01:27:25,241 - INFO - Data: 010110020c000000
+2025-05-18 01:27:25,250 - INFO - Checksum: 0xae
+2025-05-18 01:27:25,251 - INFO - Frame sent completely
+2025-05-18 01:27:25,983 - INFO - 
+Sending LIN frame:
+2025-05-18 01:27:25,984 - INFO - Break field (13+ dominant bits)
+2025-05-18 01:27:25,986 - INFO - Sync byte: 0x55
+2025-05-18 01:27:25,988 - INFO - PID: 0x31
+2025-05-18 01:27:25,989 - INFO - Data: 010100020c000000
+2025-05-18 01:27:25,999 - INFO - Checksum: 0xbe
+2025-05-18 01:27:26,000 - INFO - Frame sent completely
+2025-05-18 01:27:32,881 - INFO - Processing signals: {'Wiper_Function_Enabled': 0}
+2025-05-18 01:27:32,945 - INFO - 
+Sending LIN frame:
+2025-05-18 01:27:32,946 - INFO - Break field (13+ dominant bits)
+2025-05-18 01:27:32,948 - INFO - Sync byte: 0x55
+2025-05-18 01:27:32,950 - INFO - PID: 0x31
+2025-05-18 01:27:32,951 - INFO - Data: 010100020c000000
+2025-05-18 01:27:32,961 - INFO - Checksum: 0xbe
+2025-05-18 01:27:32,961 - INFO - Frame sent completely
+2025-05-18 01:27:32,962 - INFO - Wipers fully stopped
+2025-05-18 01:27:32,962 - INFO - 
+Sending LIN frame:
+2025-05-18 01:27:32,963 - INFO - Break field (13+ dominant bits)
+2025-05-18 01:27:32,966 - INFO - Sync byte: 0x55
+2025-05-18 01:27:32,967 - INFO - PID: 0x31
+2025-05-18 01:27:32,969 - INFO - Data: 010100020c000000
+2025-05-18 01:27:32,978 - INFO - Checksum: 0xbe
+2025-05-18 01:27:32,979 - INFO - Frame sent completely
+2025-05-18 01:27:32,980 - INFO - 
+Sending LIN frame:
+2025-05-18 01:27:32,980 - INFO - Break field (13+ dominant bits)
+2025-05-18 01:27:32,983 - INFO - Sync byte: 0x55
+2025-05-18 01:27:32,985 - INFO - PID: 0x31
+2025-05-18 01:27:32,986 - INFO - Data: 000000000c000000
+2025-05-18 01:27:32,996 - INFO - Checksum: 0xc2
+2025-05-18 01:27:32,996 - INFO - Frame sent completely

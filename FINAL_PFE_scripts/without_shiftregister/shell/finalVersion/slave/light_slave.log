@@ -1,0 +1,92 @@
+2025-06-02 11:24:39,322 - INFO - Created a socket
+2025-06-02 11:24:39,323 - INFO - Created a socket
+2025-06-02 11:24:39,324 - INFO - CAN initialized
+2025-06-02 11:24:39,326 - INFO - CAN initialized
+2025-06-02 11:24:39,328 - INFO - GPIO initialized - All pins set to LOW
+2025-06-02 11:24:39,331 - INFO - GPIO initialized
+2025-06-02 11:27:06,720 - INFO - Safety ON detected, turning on red LED
+2025-06-02 11:27:06,721 - INFO - Updating PRS from 0 LEDs to 4 LEDs (Level: 100%)
+2025-06-02 11:27:06,721 - INFO - Turned on PRS LED 1 (GPIO 12)
+2025-06-02 11:27:07,722 - INFO - Turned on PRS LED 2 (GPIO 16)
+2025-06-02 11:27:08,723 - INFO - Turned on PRS LED 3 (GPIO 20)
+2025-06-02 11:27:09,724 - INFO - Turned on PRS LED 4 (GPIO 21)
+2025-06-02 11:27:10,731 - INFO - Sent response for PRS: [1, 100, 1, 1, 1]
+2025-06-02 11:27:48,792 - INFO - Normal operation, turning on green LED
+2025-06-02 11:27:48,793 - INFO - Updating DR from 0 LEDs to 4 LEDs (Level: 100%)
+2025-06-02 11:27:48,793 - INFO - Turned on DR LED 1 (GPIO 2)
+2025-06-02 11:27:49,794 - INFO - Turned on DR LED 2 (GPIO 3)
+2025-06-02 11:27:50,795 - INFO - Turned on DR LED 3 (GPIO 1)
+2025-06-02 11:27:51,796 - INFO - Turned on DR LED 4 (GPIO 17)
+2025-06-02 11:27:52,798 - INFO - Sent response for DR: [1, 100, 1, 1, 0]
+2025-06-02 11:28:19,243 - INFO - Safety ON detected, turning on red LED
+2025-06-02 11:28:19,246 - INFO - Updating PRS from 4 LEDs to 0 LEDs (Level: 0%)
+2025-06-02 11:28:19,248 - INFO - Normal operation, turning on green LED
+2025-06-02 11:28:19,249 - INFO - Turned off PRS LED 4 (GPIO 21)
+2025-06-02 11:28:19,250 - INFO - Updating DR from 4 LEDs to 0 LEDs (Level: 0%)
+2025-06-02 11:28:19,251 - INFO - Turned off DR LED 4 (GPIO 17)
+2025-06-02 11:28:20,251 - INFO - Turned off PRS LED 3 (GPIO 20)
+2025-06-02 11:28:20,252 - INFO - Turned off DR LED 3 (GPIO 1)
+2025-06-02 11:28:21,252 - INFO - Turned off PRS LED 2 (GPIO 16)
+2025-06-02 11:28:21,254 - INFO - Turned off DR LED 2 (GPIO 3)
+2025-06-02 11:28:22,253 - INFO - Turned off PRS LED 1 (GPIO 12)
+2025-06-02 11:28:22,254 - INFO - Turned off DR LED 1 (GPIO 2)
+2025-06-02 11:28:23,256 - INFO - Sent response for PRS: [1, 0, 1, 1, 1]
+2025-06-02 11:28:23,259 - INFO - Sent response for DR: [1, 0, 1, 1, 0]
+2025-06-02 11:30:15,540 - INFO - Created a socket
+2025-06-02 11:30:15,540 - INFO - Created a socket
+2025-06-02 11:30:15,542 - INFO - CAN initialized
+2025-06-02 11:30:15,543 - INFO - CAN initialized
+2025-06-02 11:30:15,546 - INFO - GPIO initialized - All pins set to LOW
+2025-06-02 11:30:15,549 - INFO - GPIO initialized
+2025-06-02 11:33:02,663 - INFO - Controlled Left Turn: ON
+2025-06-02 11:33:02,665 - INFO - Mode indicator set to Fahren (GPIO 7)
+2025-06-02 11:33:02,666 - INFO - Updated mode to: Fahren
+2025-06-02 11:33:02,667 - INFO - Sent response for Left Turn: Status=1, Mode=1
+2025-06-02 11:33:18,986 - INFO - Controlled Left Turn: OFF
+2025-06-02 11:33:18,987 - INFO - Mode indicator set to Fahren (GPIO 7)
+2025-06-02 11:33:18,988 - INFO - Updated mode to: Fahren
+2025-06-02 11:33:18,990 - INFO - Sent response for Left Turn: Status=0, Mode=1
+2025-06-02 11:36:26,808 - INFO - Controlled High Beam: ON
+2025-06-02 11:36:26,809 - INFO - Mode indicator set to Wohnen (GPIO 24)
+2025-06-02 11:36:26,810 - INFO - Updated mode to: Wohnen
+2025-06-02 11:36:26,811 - INFO - Sent response for High Beam: Status=1, Mode=4
+2025-06-02 11:36:43,338 - INFO - Controlled High Beam: OFF
+2025-06-02 11:36:43,338 - INFO - Mode indicator set to Wohnen (GPIO 24)
+2025-06-02 11:36:43,339 - INFO - Updated mode to: Wohnen
+2025-06-02 11:36:43,340 - INFO - Sent response for High Beam: Status=0, Mode=4
+2025-06-02 11:36:59,160 - INFO - Normal operation, turning on green LED
+2025-06-02 11:36:59,161 - INFO - Updating DR from 0 LEDs to 3 LEDs (Level: 80%)
+2025-06-02 11:36:59,162 - INFO - Turned on DR LED 1 (GPIO 2)
+2025-06-02 11:37:00,163 - INFO - Turned on DR LED 2 (GPIO 3)
+2025-06-02 11:37:01,164 - INFO - Turned on DR LED 3 (GPIO 1)
+2025-06-02 11:37:02,166 - INFO - Sent response for DR: [1, 80, 1, 1, 0]
+2025-06-02 11:37:16,792 - INFO - Normal operation, turning on green LED
+2025-06-02 11:37:16,793 - INFO - Updating DR from 3 LEDs to 0 LEDs (Level: 0%)
+2025-06-02 11:37:16,794 - INFO - Turned off DR LED 3 (GPIO 1)
+2025-06-02 11:37:17,795 - INFO - Turned off DR LED 2 (GPIO 3)
+2025-06-02 11:37:18,796 - INFO - Turned off DR LED 1 (GPIO 2)
+2025-06-02 11:37:19,797 - INFO - Sent response for DR: [1, 0, 1, 1, 0]
+2025-06-02 11:54:09,159 - INFO - Normal operation, turning on green LED
+2025-06-02 11:54:09,161 - INFO - Updating PRS from 0 LEDs to 4 LEDs (Level: 100%)
+2025-06-02 11:54:09,163 - INFO - Turned on PRS LED 1 (GPIO 12)
+2025-06-02 11:54:09,164 - INFO - Normal operation, turning on green LED
+2025-06-02 11:54:09,167 - INFO - Normal operation, turning on green LED
+2025-06-02 11:54:09,167 - INFO - Updating DR from 0 LEDs to 0 LEDs (Level: 10%)
+2025-06-02 11:54:09,169 - INFO - Updating PS from 0 LEDs to 4 LEDs (Level: 100%)
+2025-06-02 11:54:09,171 - INFO - Normal operation, turning on green LED
+2025-06-02 11:54:09,173 - INFO - Sent response for DR: [1, 10, 1, 1, 0]
+2025-06-02 11:54:09,174 - INFO - Turned on PS LED 1 (GPIO 27)
+2025-06-02 11:54:09,176 - INFO - Updating DRS from 0 LEDs to 4 LEDs (Level: 100%)
+2025-06-02 11:54:09,177 - INFO - Turned on DRS LED 1 (GPIO 6)
+2025-06-02 11:54:10,165 - INFO - Turned on PRS LED 2 (GPIO 16)
+2025-06-02 11:54:10,177 - INFO - Turned on PS LED 2 (GPIO 22)
+2025-06-02 11:54:10,178 - INFO - Turned on DRS LED 2 (GPIO 13)
+2025-06-02 11:54:11,166 - INFO - Turned on PRS LED 3 (GPIO 20)
+2025-06-02 11:54:11,178 - INFO - Turned on PS LED 3 (GPIO 0)
+2025-06-02 11:54:11,179 - INFO - Turned on DRS LED 3 (GPIO 19)
+2025-06-02 11:54:12,167 - INFO - Turned on PRS LED 4 (GPIO 21)
+2025-06-02 11:54:12,178 - INFO - Turned on PS LED 4 (GPIO 5)
+2025-06-02 11:54:12,180 - INFO - Turned on DRS LED 4 (GPIO 26)
+2025-06-02 11:54:13,169 - INFO - Sent response for PRS: [1, 100, 1, 1, 0]
+2025-06-02 11:54:13,180 - INFO - Sent response for PS: [1, 100, 1, 1, 0]
+2025-06-02 11:54:13,182 - INFO - Sent response for DRS: [1, 100, 1, 1, 0]

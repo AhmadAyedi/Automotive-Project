@@ -1,0 +1,4 @@
+ignition = 'OFF'
+wiperRequestOperation = 4
+rainIntensity = 3
+ReverseGear = 0

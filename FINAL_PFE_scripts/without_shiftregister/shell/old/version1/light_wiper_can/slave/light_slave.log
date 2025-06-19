@@ -1,0 +1,105 @@
+2025-05-18 18:21:35,598 - INFO - Created a socket
+2025-05-18 18:21:35,600 - INFO - CAN initialized
+2025-05-18 18:21:35,601 - INFO - GPIO initialized
+2025-05-18 18:21:35,734 - INFO - Created a socket
+2025-05-18 18:21:35,736 - INFO - Listening for CAN messages...
+2025-05-18 18:21:35,737 - INFO - Monitoring response.txt...
+2025-05-18 18:21:35,738 - INFO - Wiper slave initialized
+2025-05-18 18:21:35,740 - INFO - response.txt changed, updating signals
+2025-05-18 18:21:35,751 - INFO - Sent response CAN: 010100004d000000
+2025-05-18 18:22:14,106 - INFO - Shutting down...
+2025-05-18 18:22:14,157 - ERROR - CAN monitoring error: Error receiving: Network is down [Error Code 100]
+2025-05-18 18:22:14,159 - INFO - Shutting down...
+2025-05-18 18:22:14,166 - INFO - Shutdown complete
+2025-05-18 18:22:14,167 - INFO - Shutting down...
+2025-05-18 18:22:16,285 - INFO - Created a socket
+2025-05-18 18:22:16,286 - INFO - CAN initialized
+2025-05-18 18:22:16,287 - INFO - GPIO initialized
+2025-05-18 18:22:16,421 - INFO - Created a socket
+2025-05-18 18:22:16,423 - INFO - Listening for CAN messages...
+2025-05-18 18:22:16,424 - INFO - Monitoring response.txt...
+2025-05-18 18:22:16,425 - INFO - Wiper slave initialized
+2025-05-18 18:22:16,425 - INFO - response.txt changed, updating signals
+2025-05-18 18:22:16,433 - INFO - Sent response CAN: 010100004d000000
+2025-05-18 18:22:21,334 - INFO - Controlled LED: Low Beam = activated
+2025-05-18 18:22:21,459 - INFO - Sent response CAN: 01000000000000
+2025-05-18 18:22:21,601 - INFO - Processing signals: {'Wiper_Function_Enabled': 0}
+2025-05-18 18:22:21,603 - INFO - Wipers fully stopped
+2025-05-18 18:22:21,604 - INFO - Sent response CAN: 010100004d000000
+2025-05-18 18:22:21,606 - INFO - Sent response CAN: 000000004d000000
+2025-05-18 18:22:21,608 - INFO - Controlled LED: Low Beam = activated
+2025-05-18 18:22:21,611 - INFO - Sent response CAN: 01000000000000
+2025-05-18 18:22:21,613 - INFO - Controlled LED: Low Beam = desactivated
+2025-05-18 18:22:21,616 - INFO - Sent response CAN: 00000000000000
+2025-05-18 18:22:57,347 - INFO - Controlled LED: Parking Right = activated
+2025-05-18 18:22:57,349 - INFO - Sent response CAN: 00000001000000
+2025-05-18 18:23:34,239 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1, 'WiperIntermittent': 1, 'wipingCycle': 1700, 'Wiper_Function_Enabled': 1}
+2025-05-18 18:23:34,240 - INFO - Wipers fully stopped
+2025-05-18 18:23:34,241 - INFO - Sent response CAN: 000000004d000000
+2025-05-18 18:23:34,246 - INFO - Controlled LED: Low Beam = desactivated
+2025-05-18 18:23:34,247 - INFO - Started intermittent rear wiper
+2025-05-18 18:23:34,248 - INFO - Started continuous front wiper (speed=normal)
+2025-05-18 18:23:34,250 - INFO - Sent response CAN: 010120024d000000
+2025-05-18 18:23:34,253 - INFO - Sent response CAN: 00000001000000
+2025-05-18 18:23:34,255 - INFO - Controlled LED: Low Beam = activated
+2025-05-18 18:23:34,257 - INFO - Sent response CAN: 01000001000000
+2025-05-18 18:25:05,424 - INFO - response.txt changed, updating signals
+2025-05-18 18:25:05,425 - INFO - Sent response CAN: 0101100263000000
+2025-05-18 18:25:05,426 - INFO - Controlled LED: Low Beam = activated
+2025-05-18 18:25:05,427 - INFO - Sent response CAN: 01000001000000
+2025-05-18 18:27:59,145 - INFO - Controlled LED: Hazard Lights = activated
+2025-05-18 18:27:59,146 - INFO - Sent response CAN: 01000001010000
+2025-05-18 18:27:59,148 - INFO - Controlled LED: Left Turn = activated
+2025-05-18 18:27:59,150 - INFO - Sent response CAN: 01000001010001
+2025-05-18 18:27:59,151 - INFO - Controlled LED: Right Turn = desactivated
+2025-05-18 18:27:59,152 - INFO - Sent response CAN: 01000001010001
+2025-05-18 18:27:59,154 - INFO - Controlled LED: Low Beam = activated
+2025-05-18 18:27:59,156 - INFO - Sent response CAN: 01000001010001
+2025-05-18 18:27:59,157 - INFO - Controlled LED: High Beam = activated
+2025-05-18 18:27:59,157 - INFO - Sent response CAN: 01010001010001
+2025-05-18 18:27:59,158 - INFO - Controlled LED: Parking Right = activated
+2025-05-18 18:27:59,158 - INFO - Sent response CAN: 01010001010001
+2025-05-18 18:27:59,159 - INFO - Controlled LED: Parking Left = activated
+2025-05-18 18:27:59,159 - INFO - Sent response CAN: 01010101010001
+2025-05-18 18:28:31,965 - INFO - Processing signals: {'Wiper_Function_Enabled': 0}
+2025-05-18 18:28:32,018 - INFO - Sent response CAN: 0101000263000000
+2025-05-18 18:28:32,021 - INFO - Controlled LED: Low Beam = activated
+2025-05-18 18:28:32,023 - INFO - Sent response CAN: 01010101010001
+2025-05-18 18:28:32,120 - INFO - Wipers fully stopped
+2025-05-18 18:28:32,121 - INFO - Sent response CAN: 0101000263000000
+2025-05-18 18:28:32,123 - INFO - Sent response CAN: 0000000063000000
+2025-05-18 18:28:32,125 - INFO - Controlled LED: Low Beam = activated
+2025-05-18 18:28:32,128 - INFO - Sent response CAN: 01010101010001
+2025-05-18 18:28:32,130 - INFO - Controlled LED: Low Beam = desactivated
+2025-05-18 18:28:32,132 - INFO - Sent response CAN: 00010101010001
+2025-05-18 18:28:33,939 - INFO - Sent response CAN: 0000000063000000
+2025-05-18 18:28:33,940 - INFO - Controlled LED: Low Beam = desactivated
+2025-05-18 18:28:33,942 - INFO - Sent response CAN: 00010101010001
+2025-05-18 18:29:12,255 - INFO - Controlled LED: Hazard Lights = activated
+2025-05-18 18:29:12,257 - INFO - Sent response CAN: 00010101010001
+2025-05-18 18:29:12,259 - INFO - Controlled LED: Left Turn = activated
+2025-05-18 18:29:12,260 - INFO - Sent response CAN: 00010101010001
+2025-05-18 18:29:12,261 - INFO - Controlled LED: Right Turn = activated
+2025-05-18 18:29:12,262 - INFO - Sent response CAN: 00010101010101
+2025-05-18 18:29:12,264 - INFO - Controlled LED: Low Beam = activated
+2025-05-18 18:29:12,265 - INFO - Sent response CAN: 01010101010101
+2025-05-18 18:29:12,266 - INFO - Controlled LED: High Beam = activated
+2025-05-18 18:29:12,268 - INFO - Sent response CAN: 01010101010101
+2025-05-18 18:29:12,269 - INFO - Controlled LED: Parking Right = activated
+2025-05-18 18:29:12,270 - INFO - Sent response CAN: 01010101010101
+2025-05-18 18:29:12,271 - INFO - Controlled LED: Parking Left = activated
+2025-05-18 18:29:12,271 - INFO - Sent response CAN: 01010101010101
+2025-05-18 18:31:10,451 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 2, 'Wiper_Function_Enabled': 1}
+2025-05-18 18:31:10,452 - INFO - Wipers fully stopped
+2025-05-18 18:31:10,464 - INFO - Sent response CAN: 0000000063000000
+2025-05-18 18:31:10,466 - INFO - Started continuous front wiper (speed=fast)
+2025-05-18 18:31:10,467 - INFO - Sent response CAN: 0102100263000000
+2025-05-18 18:31:10,467 - INFO - Controlled LED: Low Beam = desactivated
+2025-05-18 18:31:10,469 - INFO - Sent response CAN: 00010101010101
+2025-05-18 18:31:10,470 - INFO - Controlled LED: Low Beam = activated
+2025-05-18 18:31:10,472 - INFO - Sent response CAN: 01010101010101
+2025-05-18 18:31:38,994 - INFO - Shutting down...
+2025-05-18 18:31:39,043 - ERROR - CAN monitoring error: Error receiving: Network is down [Error Code 100]
+2025-05-18 18:31:39,044 - INFO - Shutting down...
+2025-05-18 18:31:39,052 - INFO - Shutdown complete
+2025-05-18 18:31:39,054 - INFO - Shutting down...

@@ -1,0 +1,2763 @@
+2025-05-06 10:09:10,704 - INFO - Created a socket
+2025-05-06 10:09:10,708 - INFO - Loaded status from respond.txt
+2025-05-06 10:09:10,711 - INFO - Listening for CAN messages...
+2025-05-06 10:09:10,713 - INFO - Wiper slave initialized
+2025-05-06 10:09:39,460 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1}
+2025-05-06 10:09:39,461 - INFO - Wipers fully stopped
+2025-05-06 10:09:39,464 - INFO - Started continuous front wiper (speed=normal)
+2025-05-06 10:10:59,559 - INFO - Received keyboard interrupt
+2025-05-06 10:10:59,560 - INFO - Shutting down...
+2025-05-06 10:10:59,608 - INFO - Wipers fully stopped
+2025-05-06 10:10:59,854 - INFO - Shutdown complete
+2025-05-06 10:11:02,902 - INFO - Created a socket
+2025-05-06 10:11:02,907 - INFO - Loaded status from respond.txt
+2025-05-06 10:11:02,909 - INFO - Listening for CAN messages...
+2025-05-06 10:11:02,912 - INFO - Wiper slave initialized
+2025-05-06 10:11:27,936 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:11:28,938 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:11:29,940 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:11:30,941 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:11:31,943 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:11:32,945 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:11:33,947 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:11:34,948 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:11:35,950 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:11:36,952 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:11:37,954 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:11:38,955 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:11:39,957 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:11:40,959 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:11:41,961 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:11:42,126 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1}
+2025-05-06 10:11:42,127 - INFO - Wipers fully stopped
+2025-05-06 10:11:42,129 - INFO - Started continuous front wiper (speed=normal)
+2025-05-06 10:11:42,130 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1}
+2025-05-06 10:11:42,229 - INFO - Wipers fully stopped
+2025-05-06 10:11:42,232 - INFO - Started continuous front wiper (speed=normal)
+2025-05-06 10:12:50,117 - INFO - Received keyboard interrupt
+2025-05-06 10:12:50,118 - INFO - Shutting down...
+2025-05-06 10:12:50,124 - INFO - Wipers fully stopped
+2025-05-06 10:12:50,871 - INFO - Shutdown complete
+2025-05-06 10:12:53,466 - INFO - Created a socket
+2025-05-06 10:12:53,471 - INFO - Loaded status from respond.txt
+2025-05-06 10:12:53,473 - INFO - Listening for CAN messages...
+2025-05-06 10:12:53,476 - INFO - Wiper slave initialized
+2025-05-06 10:13:27,498 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:13:28,499 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:13:29,501 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:13:30,503 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:13:31,505 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:13:32,507 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:13:33,508 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:13:34,510 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:13:35,512 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:13:36,514 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:13:37,515 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:13:38,517 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:13:39,519 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:13:40,520 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:13:41,522 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:13:42,524 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:13:43,525 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:13:44,527 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:13:45,529 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:13:46,531 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:13:47,532 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:13:48,534 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:13:49,536 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:13:50,537 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:13:51,539 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:13:52,541 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:13:53,542 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:13:54,544 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:13:55,546 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:13:56,548 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:13:57,550 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:13:58,551 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:13:59,553 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:14:00,555 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:14:01,556 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:14:02,558 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:14:03,559 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:14:04,561 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:14:05,563 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:14:06,564 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:14:07,566 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:14:08,570 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:14:09,572 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:14:10,574 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:14:11,577 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:14:12,579 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:14:13,581 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:14:14,583 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:14:15,585 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:14:16,586 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:14:17,588 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:14:18,589 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:14:19,591 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:14:20,593 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:14:21,594 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:14:22,597 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:14:23,598 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:14:24,601 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:14:25,602 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:14:26,605 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:14:27,607 - ERROR - Failed to send status: Failed to transmit: No buffer space available [Error Code 105]
+2025-05-06 10:14:28,468 - INFO - Received keyboard interrupt
+2025-05-06 10:14:28,470 - INFO - Shutting down...
+2025-05-06 10:14:28,470 - INFO - Wipers fully stopped
+2025-05-06 10:14:28,678 - INFO - Shutdown complete
+2025-05-06 10:19:39,507 - INFO - Created a socket
+2025-05-06 10:19:39,511 - INFO - Loaded status from respond.txt
+2025-05-06 10:19:39,514 - INFO - Listening for CAN messages...
+2025-05-06 10:19:39,517 - ERROR - CAN monitoring error: Error receiving: Network is down [Error Code 100]
+2025-05-06 10:19:39,517 - INFO - Wiper slave initialized
+2025-05-06 10:19:39,518 - WARNING - Status send attempt 1 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:39,621 - WARNING - Status send attempt 2 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:39,722 - WARNING - Status send attempt 3 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:39,723 - ERROR - Max retries reached for status update
+2025-05-06 10:19:40,224 - WARNING - Status send attempt 1 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:40,326 - WARNING - Status send attempt 2 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:40,427 - WARNING - Status send attempt 3 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:40,428 - ERROR - Max retries reached for status update
+2025-05-06 10:19:40,929 - WARNING - Status send attempt 1 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:41,031 - WARNING - Status send attempt 2 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:41,132 - WARNING - Status send attempt 3 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:41,133 - ERROR - Max retries reached for status update
+2025-05-06 10:19:41,634 - WARNING - Status send attempt 1 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:42,000 - WARNING - Status send attempt 2 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:42,102 - WARNING - Status send attempt 3 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:42,103 - ERROR - Max retries reached for status update
+2025-05-06 10:19:42,604 - WARNING - Status send attempt 1 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:42,705 - WARNING - Status send attempt 2 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:42,807 - WARNING - Status send attempt 3 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:42,807 - ERROR - Max retries reached for status update
+2025-05-06 10:19:43,309 - WARNING - Status send attempt 1 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:43,410 - WARNING - Status send attempt 2 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:43,511 - WARNING - Status send attempt 3 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:43,512 - ERROR - Max retries reached for status update
+2025-05-06 10:19:44,013 - WARNING - Status send attempt 1 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:44,115 - WARNING - Status send attempt 2 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:44,216 - WARNING - Status send attempt 3 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:44,217 - ERROR - Max retries reached for status update
+2025-05-06 10:19:44,718 - WARNING - Status send attempt 1 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:44,819 - WARNING - Status send attempt 2 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:44,920 - WARNING - Status send attempt 3 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:44,921 - ERROR - Max retries reached for status update
+2025-05-06 10:19:45,423 - WARNING - Status send attempt 1 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:45,524 - WARNING - Status send attempt 2 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:45,625 - WARNING - Status send attempt 3 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:45,626 - ERROR - Max retries reached for status update
+2025-05-06 10:19:46,127 - WARNING - Status send attempt 1 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:46,228 - WARNING - Status send attempt 2 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:46,330 - WARNING - Status send attempt 3 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:46,331 - ERROR - Max retries reached for status update
+2025-05-06 10:19:46,832 - WARNING - Status send attempt 1 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:46,933 - WARNING - Status send attempt 2 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:47,034 - WARNING - Status send attempt 3 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:47,035 - ERROR - Max retries reached for status update
+2025-05-06 10:19:47,536 - WARNING - Status send attempt 1 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:47,638 - WARNING - Status send attempt 2 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:47,739 - WARNING - Status send attempt 3 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:47,740 - ERROR - Max retries reached for status update
+2025-05-06 10:19:48,241 - WARNING - Status send attempt 1 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:48,342 - WARNING - Status send attempt 2 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:48,444 - WARNING - Status send attempt 3 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:48,444 - ERROR - Max retries reached for status update
+2025-05-06 10:19:48,945 - WARNING - Status send attempt 1 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:49,047 - WARNING - Status send attempt 2 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:49,148 - WARNING - Status send attempt 3 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:49,149 - ERROR - Max retries reached for status update
+2025-05-06 10:19:49,650 - WARNING - Status send attempt 1 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:49,751 - WARNING - Status send attempt 2 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:49,854 - WARNING - Status send attempt 3 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:49,854 - ERROR - Max retries reached for status update
+2025-05-06 10:19:50,356 - WARNING - Status send attempt 1 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:50,458 - WARNING - Status send attempt 2 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:50,559 - WARNING - Status send attempt 3 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:50,561 - ERROR - Max retries reached for status update
+2025-05-06 10:19:51,062 - WARNING - Status send attempt 1 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:51,164 - WARNING - Status send attempt 2 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:51,265 - WARNING - Status send attempt 3 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:51,266 - ERROR - Max retries reached for status update
+2025-05-06 10:19:51,767 - WARNING - Status send attempt 1 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:51,869 - WARNING - Status send attempt 2 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:51,970 - WARNING - Status send attempt 3 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:51,971 - ERROR - Max retries reached for status update
+2025-05-06 10:19:52,472 - WARNING - Status send attempt 1 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:52,573 - WARNING - Status send attempt 2 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:52,675 - WARNING - Status send attempt 3 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:52,675 - ERROR - Max retries reached for status update
+2025-05-06 10:19:53,176 - WARNING - Status send attempt 1 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:53,278 - WARNING - Status send attempt 2 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:53,379 - WARNING - Status send attempt 3 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:53,380 - ERROR - Max retries reached for status update
+2025-05-06 10:19:53,881 - WARNING - Status send attempt 1 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:53,982 - WARNING - Status send attempt 2 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:54,083 - WARNING - Status send attempt 3 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-06 10:19:54,084 - ERROR - Max retries reached for status update
+2025-05-06 10:19:54,536 - INFO - Received keyboard interrupt
+2025-05-06 10:19:54,538 - INFO - Shutting down...
+2025-05-06 10:19:54,539 - INFO - Wipers fully stopped
+2025-05-06 10:19:54,642 - INFO - Shutdown complete
+2025-05-06 10:30:27,386 - INFO - Created a socket
+2025-05-06 10:30:27,393 - INFO - Loaded status from respond.txt
+2025-05-06 10:30:27,395 - INFO - Listening for CAN messages...
+2025-05-06 10:30:27,399 - INFO - Wiper slave initialized
+2025-05-06 10:31:26,337 - INFO - Processing signals: {'wiperMode': 4, 'wiperSpeed': 1}
+2025-05-06 10:31:26,338 - INFO - Wipers fully stopped
+2025-05-06 10:31:26,341 - INFO - Started continuous front wiper (speed=normal)
+2025-05-06 10:31:35,981 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1, 'WiperIntermittent': 1, 'wipingCycle': 1700}
+2025-05-06 10:31:36,064 - INFO - Wipers fully stopped
+2025-05-06 10:31:36,068 - INFO - Started intermittent rear wiper
+2025-05-06 10:31:36,069 - INFO - Started continuous front wiper (speed=normal)
+2025-05-06 10:32:11,459 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1}
+2025-05-06 10:32:11,656 - INFO - Wipers fully stopped
+2025-05-06 10:32:11,659 - INFO - Started continuous front wiper (speed=normal)
+2025-05-06 10:33:09,092 - INFO - Received keyboard interrupt
+2025-05-06 10:33:09,094 - INFO - Shutting down...
+2025-05-06 10:33:09,143 - INFO - Wipers fully stopped
+2025-05-06 10:33:09,727 - ERROR - CAN monitoring error: Error receiving: Bad file descriptor [Error Code 9]
+2025-05-06 10:33:09,738 - INFO - Shutdown complete
+2025-05-06 10:36:41,947 - INFO - Created a socket
+2025-05-06 10:36:41,951 - INFO - Loaded status from respond.txt
+2025-05-06 10:36:41,954 - INFO - Listening for CAN messages...
+2025-05-06 10:36:41,956 - INFO - Wiper slave initialized
+2025-05-06 10:37:20,346 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 2}
+2025-05-06 10:37:20,347 - INFO - Wipers fully stopped
+2025-05-06 10:37:20,350 - INFO - Started continuous front wiper (speed=fast)
+2025-05-06 10:38:29,914 - INFO - Processing signals: {}
+2025-05-06 10:38:29,918 - INFO - Wipers fully stopped
+2025-05-06 10:39:16,747 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 2}
+2025-05-06 10:39:16,748 - INFO - Wipers fully stopped
+2025-05-06 10:39:16,750 - INFO - Started continuous front wiper (speed=fast)
+2025-05-06 10:39:34,478 - INFO - Processing signals: {'wiperMode': 1, 'wiperSpeed': 1, 'wiperCycleCount': 1}
+2025-05-06 10:39:34,492 - INFO - Wipers fully stopped
+2025-05-06 10:39:34,494 - INFO - Started touch mode (single wipe)
+2025-05-06 10:39:57,016 - INFO - Received keyboard interrupt
+2025-05-06 10:39:57,018 - INFO - Shutting down...
+2025-05-06 10:39:57,020 - INFO - Wipers fully stopped
+2025-05-06 10:39:57,525 - ERROR - CAN monitoring error: Error receiving: Bad file descriptor [Error Code 9]
+2025-05-06 10:39:57,583 - INFO - Shutdown complete
+2025-05-06 10:48:49,724 - INFO - Created a socket
+2025-05-06 10:48:49,730 - INFO - Listening for CAN messages...
+2025-05-06 10:48:49,732 - INFO - Starting status transmission...
+2025-05-06 10:48:49,735 - INFO - Wiper slave initialized
+2025-05-06 10:48:49,738 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 10:48:50,739 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 10:48:51,741 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 10:48:52,743 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 10:48:53,745 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 10:48:54,747 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 10:48:55,749 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 10:48:56,751 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 10:48:57,753 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 10:48:58,755 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 10:48:59,760 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 10:49:00,761 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 10:49:01,778 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 10:49:02,779 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 10:49:03,781 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 10:49:04,784 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 10:49:05,788 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 10:49:06,790 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 10:49:07,797 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 10:49:08,799 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 10:49:09,802 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 10:49:10,584 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1}
+2025-05-06 10:49:10,585 - INFO - Wipers fully stopped
+2025-05-06 10:49:10,587 - INFO - Started continuous front wiper (speed=normal)
+2025-05-06 10:49:10,803 - INFO - Sent status CAN: 0101320502000000
+2025-05-06 10:49:11,805 - INFO - Sent status CAN: 0101100502000000
+2025-05-06 10:49:12,807 - INFO - Sent status CAN: 0101530502000000
+2025-05-06 10:49:13,823 - INFO - Sent status CAN: 0101320502000000
+2025-05-06 10:49:14,827 - INFO - Sent status CAN: 0101100502000000
+2025-05-06 10:49:15,828 - INFO - Sent status CAN: 0101530502000000
+2025-05-06 10:49:16,831 - INFO - Sent status CAN: 0101320502000000
+2025-05-06 10:49:17,833 - INFO - Sent status CAN: 0101100502000000
+2025-05-06 10:49:18,835 - INFO - Sent status CAN: 0101530502000000
+2025-05-06 10:49:19,837 - INFO - Sent status CAN: 0101320502000000
+2025-05-06 10:49:20,839 - INFO - Sent status CAN: 0101100502000000
+2025-05-06 10:49:21,841 - INFO - Sent status CAN: 0101530502000000
+2025-05-06 10:49:22,843 - INFO - Sent status CAN: 0101320502000000
+2025-05-06 10:49:23,845 - INFO - Sent status CAN: 0101100502000000
+2025-05-06 10:49:24,846 - INFO - Sent status CAN: 0101530502000000
+2025-05-06 10:49:25,848 - INFO - Sent status CAN: 0101320502000000
+2025-05-06 10:49:26,850 - INFO - Sent status CAN: 0101100502000000
+2025-05-06 10:49:27,853 - INFO - Sent status CAN: 0101530502000000
+2025-05-06 10:49:28,854 - INFO - Sent status CAN: 0101320502000000
+2025-05-06 10:49:29,857 - INFO - Sent status CAN: 0101100502000000
+2025-05-06 10:49:30,859 - INFO - Sent status CAN: 0101530502000000
+2025-05-06 10:49:31,862 - INFO - Sent status CAN: 0101320502000000
+2025-05-06 10:49:32,864 - INFO - Sent status CAN: 0101100502000000
+2025-05-06 10:49:33,865 - INFO - Sent status CAN: 0101420502000000
+2025-05-06 10:49:34,867 - INFO - Sent status CAN: 0101210502000000
+2025-05-06 10:49:35,870 - INFO - Sent status CAN: 0101640502000000
+2025-05-06 10:49:36,871 - INFO - Sent status CAN: 0101420502000000
+2025-05-06 10:49:37,873 - INFO - Sent status CAN: 0101210502000000
+2025-05-06 10:49:38,874 - INFO - Sent status CAN: 0101640502000000
+2025-05-06 10:49:39,875 - INFO - Sent status CAN: 0101420502000000
+2025-05-06 10:49:40,877 - INFO - Sent status CAN: 0101210502000000
+2025-05-06 10:49:41,879 - INFO - Sent status CAN: 0101640502000000
+2025-05-06 10:49:42,881 - INFO - Sent status CAN: 0101420502000000
+2025-05-06 10:49:43,882 - INFO - Sent status CAN: 0101210502000000
+2025-05-06 10:49:44,884 - INFO - Sent status CAN: 0101640502000000
+2025-05-06 10:49:45,888 - INFO - Sent status CAN: 0101420502000000
+2025-05-06 10:49:46,889 - INFO - Sent status CAN: 0101210502000000
+2025-05-06 10:49:47,892 - INFO - Sent status CAN: 0101640502000000
+2025-05-06 10:49:48,894 - INFO - Sent status CAN: 0101420502000000
+2025-05-06 10:49:49,896 - INFO - Sent status CAN: 0101210502000000
+2025-05-06 10:49:50,898 - INFO - Sent status CAN: 0101640502000000
+2025-05-06 10:49:51,901 - INFO - Sent status CAN: 0101420502000000
+2025-05-06 10:49:52,903 - INFO - Sent status CAN: 0101210502000000
+2025-05-06 10:49:53,905 - INFO - Sent status CAN: 0101640502000000
+2025-05-06 10:49:54,907 - INFO - Sent status CAN: 0101420502000000
+2025-05-06 10:49:55,922 - INFO - Sent status CAN: 0101320502000000
+2025-05-06 10:49:56,923 - INFO - Sent status CAN: 0101640502000000
+2025-05-06 10:49:57,926 - INFO - Sent status CAN: 0101420502000000
+2025-05-06 10:49:58,928 - INFO - Sent status CAN: 0101210502000000
+2025-05-06 10:49:59,930 - INFO - Sent status CAN: 0101640502000000
+2025-05-06 10:50:00,933 - INFO - Sent status CAN: 0101420502000000
+2025-05-06 10:50:01,934 - INFO - Sent status CAN: 0101210502000000
+2025-05-06 10:50:02,937 - INFO - Sent status CAN: 0101640502000000
+2025-05-06 10:50:03,939 - INFO - Sent status CAN: 0101420502000000
+2025-05-06 10:50:04,942 - INFO - Sent status CAN: 0101210502000000
+2025-05-06 10:50:05,944 - INFO - Sent status CAN: 0101640502000000
+2025-05-06 10:50:06,946 - INFO - Sent status CAN: 0101420502000000
+2025-05-06 10:50:07,948 - INFO - Sent status CAN: 0101210502000000
+2025-05-06 10:50:08,950 - INFO - Sent status CAN: 0101640502000000
+2025-05-06 10:50:09,952 - INFO - Sent status CAN: 0101420502000000
+2025-05-06 10:50:10,954 - INFO - Sent status CAN: 0101210502000000
+2025-05-06 10:50:11,957 - INFO - Sent status CAN: 0101640502000000
+2025-05-06 10:50:12,959 - INFO - Sent status CAN: 0101420502000000
+2025-05-06 10:50:13,961 - INFO - Sent status CAN: 0101210502000000
+2025-05-06 10:50:14,963 - INFO - Sent status CAN: 0101640502000000
+2025-05-06 10:50:15,136 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 2}
+2025-05-06 10:50:15,172 - INFO - Wipers fully stopped
+2025-05-06 10:50:15,174 - INFO - Started continuous front wiper (speed=fast)
+2025-05-06 10:50:15,965 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 10:50:16,967 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 10:50:17,968 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 10:50:18,971 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 10:50:19,973 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 10:50:20,974 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 10:50:21,976 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 10:50:22,978 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 10:50:23,980 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 10:50:24,982 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 10:50:25,984 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 10:50:26,986 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 10:50:27,988 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 10:50:28,990 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 10:50:29,992 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 10:50:30,993 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 10:50:31,996 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 10:50:32,998 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 10:50:34,000 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 10:50:35,002 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 10:50:36,004 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 10:50:37,006 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 10:50:38,009 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 10:50:39,011 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 10:50:40,017 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 10:50:41,018 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 10:50:42,021 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 10:50:43,037 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 10:50:44,040 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 10:50:45,042 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 10:50:46,043 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 10:50:46,665 - INFO - Processing signals: {'wiperMode': 4, 'wiperSpeed': 1}
+2025-05-06 10:50:46,670 - INFO - Wipers fully stopped
+2025-05-06 10:50:46,672 - INFO - Started continuous front wiper (speed=normal)
+2025-05-06 10:50:47,045 - INFO - Sent status CAN: 0101420504000000
+2025-05-06 10:50:48,046 - INFO - Sent status CAN: 0101210504000000
+2025-05-06 10:50:49,048 - INFO - Sent status CAN: 0101640504000000
+2025-05-06 10:50:50,049 - INFO - Sent status CAN: 0101420504000000
+2025-05-06 10:50:51,051 - INFO - Sent status CAN: 0101210504000000
+2025-05-06 10:50:52,052 - INFO - Sent status CAN: 0101640504000000
+2025-05-06 10:50:53,053 - INFO - Sent status CAN: 0101420504000000
+2025-05-06 10:50:54,055 - INFO - Sent status CAN: 0101210504000000
+2025-05-06 10:50:55,056 - INFO - Sent status CAN: 0101640504000000
+2025-05-06 10:50:56,061 - INFO - Sent status CAN: 0101420504000000
+2025-05-06 10:50:57,062 - INFO - Sent status CAN: 0101210504000000
+2025-05-06 10:50:58,064 - INFO - Sent status CAN: 0101640504000000
+2025-05-06 10:50:59,066 - INFO - Sent status CAN: 0101420504000000
+2025-05-06 10:51:00,068 - INFO - Sent status CAN: 0101210504000000
+2025-05-06 10:51:01,070 - INFO - Sent status CAN: 0101640504000000
+2025-05-06 10:51:01,386 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1, 'WiperIntermittent': 1, 'wipingCycle': 1700}
+2025-05-06 10:51:01,406 - INFO - Wipers fully stopped
+2025-05-06 10:51:01,409 - INFO - Started intermittent rear wiper
+2025-05-06 10:51:01,409 - INFO - Started continuous front wiper (speed=normal)
+2025-05-06 10:51:02,072 - INFO - Sent status CAN: 0101000502000000
+2025-05-06 10:51:03,077 - INFO - Sent status CAN: 0101530502000000
+2025-05-06 10:51:04,078 - INFO - Sent status CAN: 0101320502000000
+2025-05-06 10:51:05,081 - INFO - Sent status CAN: 0101100502000000
+2025-05-06 10:51:06,083 - INFO - Sent status CAN: 0101530502000000
+2025-05-06 10:51:07,084 - INFO - Sent status CAN: 0101320502000000
+2025-05-06 10:51:08,086 - INFO - Sent status CAN: 0101100502000000
+2025-05-06 10:51:09,088 - INFO - Sent status CAN: 0101530502000000
+2025-05-06 10:51:10,090 - INFO - Sent status CAN: 0101320502000000
+2025-05-06 10:51:11,092 - INFO - Sent status CAN: 0101100502000000
+2025-05-06 10:51:12,095 - INFO - Sent status CAN: 0101530502000000
+2025-05-06 10:51:13,097 - INFO - Sent status CAN: 0101320502000000
+2025-05-06 10:51:14,099 - INFO - Sent status CAN: 0101100502000000
+2025-05-06 10:51:14,305 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1}
+2025-05-06 10:51:14,435 - INFO - Wipers fully stopped
+2025-05-06 10:51:14,437 - INFO - Started continuous front wiper (speed=normal)
+2025-05-06 10:51:15,101 - INFO - Sent status CAN: 0101100502000000
+2025-05-06 10:51:16,103 - INFO - Sent status CAN: 0101530502000000
+2025-05-06 10:51:17,105 - INFO - Sent status CAN: 0101320502000000
+2025-05-06 10:51:18,107 - INFO - Sent status CAN: 0101100502000000
+2025-05-06 10:51:19,110 - INFO - Sent status CAN: 0101530502000000
+2025-05-06 10:51:20,112 - INFO - Sent status CAN: 0101320502000000
+2025-05-06 10:51:21,114 - INFO - Sent status CAN: 0101100502000000
+2025-05-06 10:51:22,116 - INFO - Sent status CAN: 0101530502000000
+2025-05-06 10:51:23,118 - INFO - Sent status CAN: 0101320502000000
+2025-05-06 10:51:24,120 - INFO - Sent status CAN: 0101100502000000
+2025-05-06 10:51:25,122 - INFO - Sent status CAN: 0101530502000000
+2025-05-06 10:51:26,124 - INFO - Sent status CAN: 0101320502000000
+2025-05-06 10:51:27,126 - INFO - Sent status CAN: 0101100502000000
+2025-05-06 10:51:28,128 - INFO - Sent status CAN: 0101530502000000
+2025-05-06 10:51:29,131 - INFO - Sent status CAN: 0101320502000000
+2025-05-06 10:51:30,133 - INFO - Sent status CAN: 0101100502000000
+2025-05-06 10:51:31,136 - INFO - Sent status CAN: 0101530502000000
+2025-05-06 10:51:32,138 - INFO - Sent status CAN: 0101320502000000
+2025-05-06 10:51:33,140 - INFO - Sent status CAN: 0101100502000000
+2025-05-06 10:51:34,142 - INFO - Sent status CAN: 0101530502000000
+2025-05-06 10:51:35,144 - INFO - Sent status CAN: 0101320502000000
+2025-05-06 10:51:36,145 - INFO - Sent status CAN: 0101100502000000
+2025-05-06 10:51:37,147 - INFO - Sent status CAN: 0101530502000000
+2025-05-06 10:51:38,150 - INFO - Sent status CAN: 0101320502000000
+2025-05-06 10:51:39,152 - INFO - Sent status CAN: 0101100502000000
+2025-05-06 10:51:40,154 - INFO - Sent status CAN: 0101530502000000
+2025-05-06 10:51:41,156 - INFO - Sent status CAN: 0101320502000000
+2025-05-06 10:51:42,171 - INFO - Sent status CAN: 0101100502000000
+2025-05-06 10:51:43,172 - INFO - Sent status CAN: 0101530502000000
+2025-05-06 10:51:43,713 - INFO - Received keyboard interrupt
+2025-05-06 10:51:43,714 - INFO - Shutting down...
+2025-05-06 10:51:43,814 - INFO - Wipers fully stopped
+2025-05-06 10:51:44,368 - ERROR - CAN monitoring error: Error receiving: Bad file descriptor [Error Code 9]
+2025-05-06 10:51:44,379 - INFO - Shutdown complete
+2025-05-06 10:57:54,292 - INFO - Created a socket
+2025-05-06 10:57:54,298 - INFO - Listening for CAN messages...
+2025-05-06 10:57:54,300 - INFO - Starting status transmission...
+2025-05-06 10:57:54,301 - INFO - Wiper slave initialized
+2025-05-06 10:57:54,303 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 10:57:55,306 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 10:57:56,274 - INFO - Received keyboard interrupt
+2025-05-06 10:57:56,275 - INFO - Shutting down...
+2025-05-06 10:57:56,276 - INFO - Wipers fully stopped
+2025-05-06 10:57:56,369 - INFO - Shutdown complete
+2025-05-06 10:58:04,149 - INFO - Created a socket
+2025-05-06 10:58:04,217 - WARNING - SocketcanBus was not properly shut down
+2025-05-06 10:58:19,729 - INFO - Created a socket
+2025-05-06 10:58:19,801 - WARNING - SocketcanBus was not properly shut down
+2025-05-06 10:58:25,699 - INFO - Created a socket
+2025-05-06 10:58:25,705 - INFO - Listening for CAN messages...
+2025-05-06 10:58:25,707 - INFO - Starting status transmission...
+2025-05-06 10:58:25,708 - INFO - Wiper slave initialized
+2025-05-06 10:58:25,710 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 10:58:26,712 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 10:58:27,714 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 10:58:28,715 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 10:58:29,717 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 10:58:30,718 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 10:58:31,720 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 10:58:32,721 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 10:58:33,723 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 10:58:34,728 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 10:58:35,730 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 10:58:36,731 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 10:58:37,733 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 10:58:38,495 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 2}
+2025-05-06 10:58:38,497 - INFO - Wipers fully stopped
+2025-05-06 10:58:38,499 - INFO - Started continuous front wiper (speed=fast)
+2025-05-06 10:58:38,734 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 10:58:39,736 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 10:58:40,737 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 10:58:41,738 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 10:58:42,740 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 10:58:43,741 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 10:58:44,744 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 10:58:45,745 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 10:58:46,749 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 10:58:47,751 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 10:58:48,753 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 10:58:49,755 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 10:58:50,757 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 10:58:51,759 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 10:58:52,761 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 10:58:53,762 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 10:58:54,765 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 10:58:55,768 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 10:58:56,769 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 10:58:57,771 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 10:58:58,774 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 10:58:59,775 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 10:59:00,778 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 10:59:01,780 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 10:59:02,782 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 10:59:03,784 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 10:59:04,789 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 10:59:05,818 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 10:59:06,820 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 10:59:07,823 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 10:59:08,824 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 10:59:09,826 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 10:59:10,829 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 10:59:11,831 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 10:59:12,833 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 10:59:13,834 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 10:59:14,836 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 10:59:15,839 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 10:59:16,841 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 10:59:17,843 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 10:59:18,845 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 10:59:19,847 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 10:59:20,849 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 10:59:21,851 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 10:59:22,854 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 10:59:23,856 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 10:59:24,858 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 10:59:25,860 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 10:59:26,862 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 10:59:27,864 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 10:59:28,476 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1}
+2025-05-06 10:59:28,492 - INFO - Wipers fully stopped
+2025-05-06 10:59:28,495 - INFO - Started continuous front wiper (speed=normal)
+2025-05-06 10:59:28,865 - INFO - Sent status CAN: 0101420502000000
+2025-05-06 10:59:29,870 - INFO - Sent status CAN: 0101210502000000
+2025-05-06 10:59:30,871 - INFO - Sent status CAN: 0101640502000000
+2025-05-06 10:59:31,874 - INFO - Sent status CAN: 0101420502000000
+2025-05-06 10:59:32,875 - INFO - Sent status CAN: 0101210502000000
+2025-05-06 10:59:33,878 - INFO - Sent status CAN: 0101640502000000
+2025-05-06 10:59:34,880 - INFO - Sent status CAN: 0101420502000000
+2025-05-06 10:59:35,884 - INFO - Sent status CAN: 0101210502000000
+2025-05-06 10:59:36,887 - INFO - Sent status CAN: 0101640502000000
+2025-05-06 10:59:37,888 - INFO - Sent status CAN: 0101420502000000
+2025-05-06 10:59:38,890 - INFO - Sent status CAN: 0101210502000000
+2025-05-06 10:59:39,892 - INFO - Sent status CAN: 0101640502000000
+2025-05-06 10:59:40,894 - INFO - Sent status CAN: 0101420502000000
+2025-05-06 10:59:41,896 - INFO - Sent status CAN: 0101210502000000
+2025-05-06 10:59:42,898 - INFO - Sent status CAN: 0101640502000000
+2025-05-06 10:59:43,900 - INFO - Sent status CAN: 0101420502000000
+2025-05-06 10:59:44,903 - INFO - Sent status CAN: 0101210502000000
+2025-05-06 10:59:45,908 - INFO - Sent status CAN: 0101640502000000
+2025-05-06 10:59:46,910 - INFO - Sent status CAN: 0101420502000000
+2025-05-06 10:59:47,911 - INFO - Sent status CAN: 0101210502000000
+2025-05-06 10:59:48,913 - INFO - Sent status CAN: 0101640502000000
+2025-05-06 10:59:49,914 - INFO - Sent status CAN: 0101420502000000
+2025-05-06 10:59:50,916 - INFO - Sent status CAN: 0101210502000000
+2025-05-06 10:59:51,917 - INFO - Sent status CAN: 0101640502000000
+2025-05-06 10:59:52,918 - INFO - Sent status CAN: 0101420502000000
+2025-05-06 10:59:53,920 - INFO - Sent status CAN: 0101210502000000
+2025-05-06 10:59:54,922 - INFO - Sent status CAN: 0101640502000000
+2025-05-06 10:59:55,923 - INFO - Sent status CAN: 0101420502000000
+2025-05-06 10:59:56,925 - INFO - Sent status CAN: 0101210502000000
+2025-05-06 10:59:57,926 - INFO - Sent status CAN: 0101640502000000
+2025-05-06 10:59:58,928 - INFO - Sent status CAN: 0101420502000000
+2025-05-06 10:59:59,930 - INFO - Sent status CAN: 0101210502000000
+2025-05-06 11:00:00,931 - INFO - Sent status CAN: 0101640502000000
+2025-05-06 11:00:01,934 - INFO - Sent status CAN: 0101420502000000
+2025-05-06 11:00:02,935 - INFO - Sent status CAN: 0101210502000000
+2025-05-06 11:00:03,938 - INFO - Sent status CAN: 0101640502000000
+2025-05-06 11:00:04,939 - INFO - Sent status CAN: 0101420502000000
+2025-05-06 11:00:05,942 - INFO - Sent status CAN: 0101210502000000
+2025-05-06 11:00:06,943 - INFO - Sent status CAN: 0101640502000000
+2025-05-06 11:00:07,946 - INFO - Sent status CAN: 0101420502000000
+2025-05-06 11:00:08,948 - INFO - Sent status CAN: 0101210502000000
+2025-05-06 11:00:09,960 - INFO - Sent status CAN: 0101640502000000
+2025-05-06 11:00:10,962 - INFO - Sent status CAN: 0101420502000000
+2025-05-06 11:00:11,963 - INFO - Sent status CAN: 0101210502000000
+2025-05-06 11:00:12,965 - INFO - Sent status CAN: 0101640502000000
+2025-05-06 11:00:13,966 - INFO - Sent status CAN: 0101420502000000
+2025-05-06 11:00:14,968 - INFO - Sent status CAN: 0101210502000000
+2025-05-06 11:00:15,969 - INFO - Sent status CAN: 0101640502000000
+2025-05-06 11:00:16,970 - INFO - Sent status CAN: 0101420502000000
+2025-05-06 11:00:17,972 - INFO - Sent status CAN: 0101210502000000
+2025-05-06 11:00:18,973 - INFO - Sent status CAN: 0101640502000000
+2025-05-06 11:00:19,975 - INFO - Sent status CAN: 0101420502000000
+2025-05-06 11:00:20,980 - INFO - Sent status CAN: 0101210502000000
+2025-05-06 11:00:21,981 - INFO - Sent status CAN: 0101640502000000
+2025-05-06 11:00:22,984 - INFO - Sent status CAN: 0101420502000000
+2025-05-06 11:00:23,985 - INFO - Sent status CAN: 0101210502000000
+2025-05-06 11:00:24,987 - INFO - Sent status CAN: 0101640502000000
+2025-05-06 11:00:25,991 - INFO - Sent status CAN: 0101420502000000
+2025-05-06 11:00:26,993 - INFO - Sent status CAN: 0101210502000000
+2025-05-06 11:00:27,995 - INFO - Sent status CAN: 0101640502000000
+2025-05-06 11:00:28,997 - INFO - Sent status CAN: 0101420502000000
+2025-05-06 11:00:29,998 - INFO - Sent status CAN: 0101210502000000
+2025-05-06 11:00:31,000 - INFO - Sent status CAN: 0101640502000000
+2025-05-06 11:00:31,313 - INFO - Processing signals: {'wiperMode': 4, 'wiperSpeed': 2}
+2025-05-06 11:00:31,370 - INFO - Wipers fully stopped
+2025-05-06 11:00:31,372 - INFO - Started continuous front wiper (speed=fast)
+2025-05-06 11:00:32,001 - INFO - Sent status CAN: 0102100504000000
+2025-05-06 11:00:33,003 - INFO - Sent status CAN: 0102320504000000
+2025-05-06 11:00:34,005 - INFO - Sent status CAN: 0102530504000000
+2025-05-06 11:00:35,007 - INFO - Sent status CAN: 0102100504000000
+2025-05-06 11:00:36,009 - INFO - Sent status CAN: 0102320504000000
+2025-05-06 11:00:37,011 - INFO - Sent status CAN: 0102530504000000
+2025-05-06 11:00:38,013 - INFO - Sent status CAN: 0102100504000000
+2025-05-06 11:00:39,015 - INFO - Sent status CAN: 0102320504000000
+2025-05-06 11:00:40,018 - INFO - Sent status CAN: 0102530504000000
+2025-05-06 11:00:41,022 - INFO - Sent status CAN: 0102100504000000
+2025-05-06 11:00:42,023 - INFO - Sent status CAN: 0102320504000000
+2025-05-06 11:00:43,025 - INFO - Sent status CAN: 0102530504000000
+2025-05-06 11:00:44,026 - INFO - Sent status CAN: 0102100504000000
+2025-05-06 11:00:45,028 - INFO - Sent status CAN: 0102320504000000
+2025-05-06 11:00:46,030 - INFO - Sent status CAN: 0102420504000000
+2025-05-06 11:00:47,031 - INFO - Sent status CAN: 0102640504000000
+2025-05-06 11:00:48,032 - INFO - Sent status CAN: 0102210504000000
+2025-05-06 11:00:49,034 - INFO - Sent status CAN: 0102420504000000
+2025-05-06 11:00:50,035 - INFO - Sent status CAN: 0102640504000000
+2025-05-06 11:00:51,037 - INFO - Sent status CAN: 0102210504000000
+2025-05-06 11:00:52,038 - INFO - Sent status CAN: 0102420504000000
+2025-05-06 11:00:53,040 - INFO - Sent status CAN: 0102640504000000
+2025-05-06 11:00:54,041 - INFO - Sent status CAN: 0102210504000000
+2025-05-06 11:00:55,042 - INFO - Sent status CAN: 0102420504000000
+2025-05-06 11:00:56,044 - INFO - Sent status CAN: 0102640504000000
+2025-05-06 11:00:57,045 - INFO - Sent status CAN: 0102210504000000
+2025-05-06 11:00:58,047 - INFO - Sent status CAN: 0102420504000000
+2025-05-06 11:00:59,048 - INFO - Sent status CAN: 0102640504000000
+2025-05-06 11:01:00,050 - INFO - Sent status CAN: 0102210504000000
+2025-05-06 11:01:01,051 - INFO - Sent status CAN: 0102420504000000
+2025-05-06 11:01:02,052 - INFO - Sent status CAN: 0102640504000000
+2025-05-06 11:01:03,054 - INFO - Sent status CAN: 0102100504000000
+2025-05-06 11:01:04,055 - INFO - Sent status CAN: 0102320504000000
+2025-05-06 11:01:05,057 - INFO - Sent status CAN: 0102530504000000
+2025-05-06 11:01:06,102 - INFO - Sent status CAN: 0102210504000000
+2025-05-06 11:01:07,104 - INFO - Sent status CAN: 0102420504000000
+2025-05-06 11:01:08,106 - INFO - Sent status CAN: 0102640504000000
+2025-05-06 11:01:09,108 - INFO - Sent status CAN: 0102210504000000
+2025-05-06 11:01:10,112 - INFO - Sent status CAN: 0102420504000000
+2025-05-06 11:01:11,177 - INFO - Sent status CAN: 0102100504000000
+2025-05-06 11:01:12,178 - INFO - Sent status CAN: 0102320504000000
+2025-05-06 11:01:13,180 - INFO - Sent status CAN: 0102530504000000
+2025-05-06 11:01:14,182 - INFO - Sent status CAN: 0102100504000000
+2025-05-06 11:01:15,184 - INFO - Sent status CAN: 0102320504000000
+2025-05-06 11:01:16,185 - INFO - Sent status CAN: 0102530504000000
+2025-05-06 11:01:17,186 - INFO - Sent status CAN: 0102100504000000
+2025-05-06 11:01:18,189 - INFO - Sent status CAN: 0102320504000000
+2025-05-06 11:01:19,190 - INFO - Sent status CAN: 0102530504000000
+2025-05-06 11:01:20,192 - INFO - Sent status CAN: 0102100504000000
+2025-05-06 11:01:21,194 - INFO - Sent status CAN: 0102320504000000
+2025-05-06 11:01:22,195 - INFO - Sent status CAN: 0102530504000000
+2025-05-06 11:01:23,198 - INFO - Sent status CAN: 0102100504000000
+2025-05-06 11:01:24,199 - INFO - Sent status CAN: 0102320504000000
+2025-05-06 11:01:25,202 - INFO - Sent status CAN: 0102530504000000
+2025-05-06 11:01:26,203 - INFO - Sent status CAN: 0102640504000000
+2025-05-06 11:01:27,207 - INFO - Sent status CAN: 0102210504000000
+2025-05-06 11:01:28,210 - INFO - Sent status CAN: 0102420504000000
+2025-05-06 11:01:29,211 - INFO - Sent status CAN: 0102640504000000
+2025-05-06 11:01:30,214 - INFO - Sent status CAN: 0102210504000000
+2025-05-06 11:01:30,976 - INFO - Processing signals: {'wiperMode': 4, 'wiperSpeed': 1}
+2025-05-06 11:01:30,980 - INFO - Wipers fully stopped
+2025-05-06 11:01:30,982 - INFO - Started continuous front wiper (speed=normal)
+2025-05-06 11:01:31,216 - INFO - Sent status CAN: 0101320504000000
+2025-05-06 11:01:32,217 - INFO - Sent status CAN: 0101100504000000
+2025-05-06 11:01:33,219 - INFO - Sent status CAN: 0101530504000000
+2025-05-06 11:01:34,220 - INFO - Sent status CAN: 0101320504000000
+2025-05-06 11:01:35,222 - INFO - Sent status CAN: 0101100504000000
+2025-05-06 11:01:36,223 - INFO - Sent status CAN: 0101530504000000
+2025-05-06 11:01:37,224 - INFO - Sent status CAN: 0101320504000000
+2025-05-06 11:01:38,226 - INFO - Sent status CAN: 0101100504000000
+2025-05-06 11:01:39,228 - INFO - Sent status CAN: 0101530504000000
+2025-05-06 11:01:40,229 - INFO - Sent status CAN: 0101320504000000
+2025-05-06 11:01:41,231 - INFO - Sent status CAN: 0101100504000000
+2025-05-06 11:01:42,232 - INFO - Sent status CAN: 0101530504000000
+2025-05-06 11:01:43,237 - INFO - Sent status CAN: 0101320504000000
+2025-05-06 11:01:44,241 - INFO - Sent status CAN: 0101100504000000
+2025-05-06 11:01:45,243 - INFO - Sent status CAN: 0101530504000000
+2025-05-06 11:01:46,244 - INFO - Sent status CAN: 0101320504000000
+2025-05-06 11:01:47,246 - INFO - Sent status CAN: 0101100504000000
+2025-05-06 11:01:48,249 - INFO - Sent status CAN: 0101530504000000
+2025-05-06 11:01:49,250 - INFO - Sent status CAN: 0101320504000000
+2025-05-06 11:01:50,252 - INFO - Sent status CAN: 0101100504000000
+2025-05-06 11:01:51,256 - INFO - Sent status CAN: 0101530504000000
+2025-05-06 11:01:52,257 - INFO - Sent status CAN: 0101320504000000
+2025-05-06 11:01:53,260 - INFO - Sent status CAN: 0101100504000000
+2025-05-06 11:01:54,262 - INFO - Sent status CAN: 0101530504000000
+2025-05-06 11:01:55,264 - INFO - Sent status CAN: 0101320504000000
+2025-05-06 11:01:56,266 - INFO - Sent status CAN: 0101100504000000
+2025-05-06 11:01:57,267 - INFO - Sent status CAN: 0101530504000000
+2025-05-06 11:01:58,269 - INFO - Sent status CAN: 0101320504000000
+2025-05-06 11:01:59,271 - INFO - Sent status CAN: 0101100504000000
+2025-05-06 11:02:00,273 - INFO - Sent status CAN: 0101530504000000
+2025-05-06 11:02:01,275 - INFO - Sent status CAN: 0101320504000000
+2025-05-06 11:02:02,277 - INFO - Sent status CAN: 0101100504000000
+2025-05-06 11:02:03,279 - INFO - Sent status CAN: 0101530504000000
+2025-05-06 11:02:04,281 - INFO - Sent status CAN: 0101320504000000
+2025-05-06 11:02:05,283 - INFO - Sent status CAN: 0101640504000000
+2025-05-06 11:02:06,284 - INFO - Sent status CAN: 0101420504000000
+2025-05-06 11:02:07,286 - INFO - Sent status CAN: 0101210504000000
+2025-05-06 11:02:08,287 - INFO - Sent status CAN: 0101640504000000
+2025-05-06 11:02:08,414 - INFO - Received keyboard interrupt
+2025-05-06 11:02:08,415 - INFO - Shutting down...
+2025-05-06 11:02:08,491 - INFO - Wipers fully stopped
+2025-05-06 11:02:12,519 - INFO - Created a socket
+2025-05-06 11:02:12,526 - INFO - Listening for CAN messages...
+2025-05-06 11:02:12,527 - INFO - Starting status transmission...
+2025-05-06 11:02:12,528 - INFO - Wiper slave initialized
+2025-05-06 11:02:12,531 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:02:13,534 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:02:14,535 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:02:15,537 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:02:16,539 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:02:17,542 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:02:18,543 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:02:19,545 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:02:20,547 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:02:21,549 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:02:22,551 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:02:23,552 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:02:24,553 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:02:25,555 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:02:26,558 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:02:27,560 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:02:28,563 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:02:29,565 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:02:30,566 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:02:31,569 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:02:31,880 - INFO - Processing signals: {'wiperMode': 4, 'wiperSpeed': 1}
+2025-05-06 11:02:31,882 - INFO - Wipers fully stopped
+2025-05-06 11:02:31,885 - INFO - Started continuous front wiper (speed=normal)
+2025-05-06 11:02:32,571 - INFO - Sent status CAN: 0101100504000000
+2025-05-06 11:02:33,573 - INFO - Sent status CAN: 0101530504000000
+2025-05-06 11:02:34,576 - INFO - Sent status CAN: 0101320504000000
+2025-05-06 11:02:35,578 - INFO - Sent status CAN: 0101100504000000
+2025-05-06 11:02:36,580 - INFO - Sent status CAN: 0101530504000000
+2025-05-06 11:02:37,583 - INFO - Sent status CAN: 0101320504000000
+2025-05-06 11:02:38,584 - INFO - Sent status CAN: 0101100504000000
+2025-05-06 11:02:39,586 - INFO - Sent status CAN: 0101530504000000
+2025-05-06 11:02:40,588 - INFO - Sent status CAN: 0101320504000000
+2025-05-06 11:02:41,596 - INFO - Sent status CAN: 0101100504000000
+2025-05-06 11:02:42,598 - INFO - Sent status CAN: 0101530504000000
+2025-05-06 11:02:43,605 - INFO - Sent status CAN: 0101320504000000
+2025-05-06 11:02:44,607 - INFO - Sent status CAN: 0101100504000000
+2025-05-06 11:02:45,609 - INFO - Sent status CAN: 0101530504000000
+2025-05-06 11:02:46,615 - INFO - Sent status CAN: 0101320504000000
+2025-05-06 11:02:47,616 - INFO - Sent status CAN: 0101100504000000
+2025-05-06 11:02:48,618 - INFO - Sent status CAN: 0101530504000000
+2025-05-06 11:02:49,620 - INFO - Sent status CAN: 0101320504000000
+2025-05-06 11:02:50,621 - INFO - Sent status CAN: 0101100504000000
+2025-05-06 11:02:51,623 - INFO - Sent status CAN: 0101530504000000
+2025-05-06 11:02:52,625 - INFO - Sent status CAN: 0101320504000000
+2025-05-06 11:02:53,627 - INFO - Sent status CAN: 0101100504000000
+2025-05-06 11:02:54,629 - INFO - Sent status CAN: 0101530504000000
+2025-05-06 11:02:55,630 - INFO - Sent status CAN: 0101320504000000
+2025-05-06 11:02:56,633 - INFO - Sent status CAN: 0101100504000000
+2025-05-06 11:02:56,658 - INFO - Received keyboard interrupt
+2025-05-06 11:02:56,659 - INFO - Shutting down...
+2025-05-06 11:02:56,734 - INFO - Wipers fully stopped
+2025-05-06 11:02:57,643 - ERROR - CAN monitoring error: Error receiving: Bad file descriptor [Error Code 9]
+2025-05-06 11:02:57,705 - INFO - Shutdown complete
+2025-05-06 11:03:05,061 - INFO - Created a socket
+2025-05-06 11:03:05,067 - INFO - Listening for CAN messages...
+2025-05-06 11:03:05,070 - INFO - Starting status transmission...
+2025-05-06 11:03:05,075 - INFO - Wiper slave initialized
+2025-05-06 11:03:05,079 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:03:06,083 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:03:07,085 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:03:08,088 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:03:09,092 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:03:10,093 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:03:11,095 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:03:12,096 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:03:13,098 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:03:14,099 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:03:15,101 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:03:16,102 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:03:17,015 - INFO - Processing signals: {'wiperMode': 4, 'wiperSpeed': 1}
+2025-05-06 11:03:17,016 - INFO - Wipers fully stopped
+2025-05-06 11:03:17,018 - INFO - Started continuous front wiper (speed=normal)
+2025-05-06 11:03:17,107 - INFO - Sent status CAN: 0101100504000000
+2025-05-06 11:03:18,112 - INFO - Sent status CAN: 0101530504000000
+2025-05-06 11:03:19,114 - INFO - Sent status CAN: 0101320504000000
+2025-05-06 11:03:20,115 - INFO - Sent status CAN: 0101100504000000
+2025-05-06 11:03:21,117 - INFO - Sent status CAN: 0101530504000000
+2025-05-06 11:03:22,118 - INFO - Sent status CAN: 0101320504000000
+2025-05-06 11:03:23,121 - INFO - Sent status CAN: 0101100504000000
+2025-05-06 11:03:24,122 - INFO - Sent status CAN: 0101530504000000
+2025-05-06 11:03:25,124 - INFO - Sent status CAN: 0101320504000000
+2025-05-06 11:03:26,125 - INFO - Sent status CAN: 0101100504000000
+2025-05-06 11:03:27,126 - INFO - Sent status CAN: 0101530504000000
+2025-05-06 11:03:28,128 - INFO - Sent status CAN: 0101320504000000
+2025-05-06 11:03:29,131 - INFO - Sent status CAN: 0101100504000000
+2025-05-06 11:03:30,132 - INFO - Sent status CAN: 0101530504000000
+2025-05-06 11:03:31,134 - INFO - Sent status CAN: 0101320504000000
+2025-05-06 11:03:32,136 - INFO - Sent status CAN: 0101100504000000
+2025-05-06 11:03:33,138 - INFO - Sent status CAN: 0101530504000000
+2025-05-06 11:03:34,140 - INFO - Sent status CAN: 0101320504000000
+2025-05-06 11:03:35,142 - INFO - Sent status CAN: 0101100504000000
+2025-05-06 11:03:36,144 - INFO - Sent status CAN: 0101530504000000
+2025-05-06 11:03:36,380 - INFO - Received keyboard interrupt
+2025-05-06 11:03:36,382 - INFO - Shutting down...
+2025-05-06 11:03:36,464 - INFO - Wipers fully stopped
+2025-05-06 11:03:37,155 - ERROR - CAN monitoring error: Error receiving: Bad file descriptor [Error Code 9]
+2025-05-06 11:03:37,216 - INFO - Shutdown complete
+2025-05-06 11:04:17,909 - INFO - Created a socket
+2025-05-06 11:04:17,915 - INFO - Listening for CAN messages...
+2025-05-06 11:04:17,917 - INFO - Starting status transmission...
+2025-05-06 11:04:17,918 - INFO - Wiper slave initialized
+2025-05-06 11:04:17,920 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:04:18,922 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:04:19,924 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:04:20,926 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:04:21,928 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:04:22,931 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:04:23,932 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:04:24,934 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:04:25,936 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:04:26,938 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:04:27,940 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:04:28,945 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:04:29,949 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:04:30,950 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:04:31,953 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:04:32,954 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:04:33,957 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:04:34,959 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:04:35,965 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:04:36,966 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:04:38,499 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:04:39,501 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:04:40,503 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:04:41,505 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:04:42,349 - INFO - Processing signals: {'wiperMode': 4, 'wiperSpeed': 1}
+2025-05-06 11:04:42,351 - INFO - Wipers fully stopped
+2025-05-06 11:04:42,354 - INFO - Started continuous front wiper (speed=normal)
+2025-05-06 11:04:42,507 - INFO - Sent status CAN: 0101210504000000
+2025-05-06 11:04:43,509 - INFO - Sent status CAN: 0101640504000000
+2025-05-06 11:04:44,511 - INFO - Sent status CAN: 0101420504000000
+2025-05-06 11:04:45,513 - INFO - Sent status CAN: 0101210504000000
+2025-05-06 11:04:46,514 - INFO - Sent status CAN: 0101640504000000
+2025-05-06 11:04:47,516 - INFO - Sent status CAN: 0101420504000000
+2025-05-06 11:04:48,519 - INFO - Sent status CAN: 0101210504000000
+2025-05-06 11:04:49,521 - INFO - Sent status CAN: 0101640504000000
+2025-05-06 11:04:50,522 - INFO - Sent status CAN: 0101420504000000
+2025-05-06 11:04:51,524 - INFO - Sent status CAN: 0101210504000000
+2025-05-06 11:04:52,528 - INFO - Sent status CAN: 0101640504000000
+2025-05-06 11:04:53,530 - INFO - Sent status CAN: 0101420504000000
+2025-05-06 11:04:54,531 - INFO - Sent status CAN: 0101210504000000
+2025-05-06 11:04:55,533 - INFO - Sent status CAN: 0101640504000000
+2025-05-06 11:04:56,536 - INFO - Sent status CAN: 0101420504000000
+2025-05-06 11:04:57,538 - INFO - Sent status CAN: 0101210504000000
+2025-05-06 11:04:58,539 - INFO - Sent status CAN: 0101640504000000
+2025-05-06 11:04:59,541 - INFO - Sent status CAN: 0101420504000000
+2025-05-06 11:05:00,542 - INFO - Sent status CAN: 0101210504000000
+2025-05-06 11:05:01,544 - INFO - Sent status CAN: 0101640504000000
+2025-05-06 11:05:02,546 - INFO - Sent status CAN: 0101420504000000
+2025-05-06 11:05:03,552 - INFO - Sent status CAN: 0101210504000000
+2025-05-06 11:05:04,554 - INFO - Sent status CAN: 0101640504000000
+2025-05-06 11:05:05,556 - INFO - Sent status CAN: 0101420504000000
+2025-05-06 11:05:06,558 - INFO - Sent status CAN: 0101210504000000
+2025-05-06 11:05:07,560 - INFO - Sent status CAN: 0101640504000000
+2025-05-06 11:05:08,562 - INFO - Sent status CAN: 0101420504000000
+2025-05-06 11:05:09,564 - INFO - Sent status CAN: 0101210504000000
+2025-05-06 11:05:10,565 - INFO - Sent status CAN: 0101640504000000
+2025-05-06 11:05:11,567 - INFO - Sent status CAN: 0101420504000000
+2025-05-06 11:05:12,570 - INFO - Sent status CAN: 0101210504000000
+2025-05-06 11:05:13,571 - INFO - Sent status CAN: 0101640504000000
+2025-05-06 11:05:14,574 - INFO - Sent status CAN: 0101420504000000
+2025-05-06 11:05:15,577 - INFO - Sent status CAN: 0101210504000000
+2025-05-06 11:05:15,630 - INFO - Received keyboard interrupt
+2025-05-06 11:05:15,630 - INFO - Shutting down...
+2025-05-06 11:05:15,648 - INFO - Wipers fully stopped
+2025-05-06 11:05:47,221 - INFO - Created a socket
+2025-05-06 11:05:47,230 - INFO - Listening for CAN messages...
+2025-05-06 11:05:47,232 - INFO - Starting status transmission...
+2025-05-06 11:05:47,233 - INFO - Wiper slave initialized
+2025-05-06 11:05:47,235 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:05:48,237 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:05:49,239 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:05:50,243 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:05:51,245 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:05:52,247 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:05:53,251 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:05:54,253 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:05:55,256 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:05:56,257 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:05:57,259 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:05:58,261 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:05:59,263 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:06:00,264 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:06:01,267 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:06:02,268 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:06:03,270 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:06:04,272 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:06:04,583 - INFO - Processing signals: {'wiperMode': 4, 'wiperSpeed': 1}
+2025-05-06 11:06:04,584 - INFO - Wipers fully stopped
+2025-05-06 11:06:04,586 - INFO - Started continuous front wiper (speed=normal)
+2025-05-06 11:06:05,274 - INFO - Sent status CAN: 0101100504000000
+2025-05-06 11:06:06,277 - INFO - Sent status CAN: 0101530504000000
+2025-05-06 11:06:07,280 - INFO - Sent status CAN: 0101320504000000
+2025-05-06 11:06:08,282 - INFO - Sent status CAN: 0101100504000000
+2025-05-06 11:06:09,284 - INFO - Sent status CAN: 0101530504000000
+2025-05-06 11:06:10,285 - INFO - Sent status CAN: 0101320504000000
+2025-05-06 11:06:11,288 - INFO - Sent status CAN: 0101100504000000
+2025-05-06 11:06:12,289 - INFO - Sent status CAN: 0101530504000000
+2025-05-06 11:06:13,292 - INFO - Sent status CAN: 0101320504000000
+2025-05-06 11:06:14,293 - INFO - Sent status CAN: 0101100504000000
+2025-05-06 11:06:15,296 - INFO - Sent status CAN: 0101530504000000
+2025-05-06 11:06:16,297 - INFO - Sent status CAN: 0101320504000000
+2025-05-06 11:06:17,300 - INFO - Sent status CAN: 0101100504000000
+2025-05-06 11:06:18,301 - INFO - Sent status CAN: 0101530504000000
+2025-05-06 11:06:19,304 - INFO - Sent status CAN: 0101320504000000
+2025-05-06 11:06:20,306 - INFO - Sent status CAN: 0101100504000000
+2025-05-06 11:06:21,308 - INFO - Sent status CAN: 0101530504000000
+2025-05-06 11:06:22,309 - INFO - Sent status CAN: 0101320504000000
+2025-05-06 11:06:23,311 - INFO - Sent status CAN: 0101100504000000
+2025-05-06 11:06:24,231 - INFO - Received keyboard interrupt
+2025-05-06 11:06:24,232 - INFO - Shutting down...
+2025-05-06 11:06:24,238 - INFO - Wipers fully stopped
+2025-05-06 11:06:24,681 - INFO - Shutdown complete
+2025-05-06 11:09:03,479 - INFO - Created a socket
+2025-05-06 11:09:03,556 - WARNING - SocketcanBus was not properly shut down
+2025-05-06 11:09:14,704 - INFO - Created a socket
+2025-05-06 11:09:14,776 - WARNING - SocketcanBus was not properly shut down
+2025-05-06 11:12:29,220 - INFO - Created a socket
+2025-05-06 11:12:29,229 - INFO - Listening for CAN messages...
+2025-05-06 11:12:29,231 - INFO - Starting status transmission...
+2025-05-06 11:12:29,231 - INFO - Wiper slave initialized
+2025-05-06 11:12:29,234 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:12:30,237 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:12:31,238 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:12:32,240 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:12:33,241 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:12:34,243 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:12:35,244 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:12:36,245 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:12:37,248 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:12:38,249 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:12:39,252 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:12:40,253 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:12:41,256 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:12:42,261 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:12:43,262 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:12:44,265 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:12:45,267 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:12:46,268 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:12:47,271 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:12:48,273 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:12:49,274 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:12:50,275 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:12:51,277 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:12:52,278 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:12:53,280 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:12:54,284 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:12:55,289 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:12:56,291 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:12:57,293 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:12:58,295 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:12:59,297 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:00,298 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:01,300 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:02,302 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:03,303 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:04,305 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:05,307 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:06,309 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:07,310 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:08,313 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:09,314 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:10,317 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:11,319 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:12,321 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:13,323 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:14,326 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:15,328 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:16,330 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:17,332 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:18,335 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:19,336 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:20,338 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:21,341 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:22,343 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:23,345 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:24,348 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:25,350 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:26,352 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:27,354 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:28,364 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:29,366 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:30,368 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:31,370 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:32,373 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:33,374 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:34,376 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:35,379 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:36,383 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:37,385 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:38,387 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:39,389 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:40,393 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:41,395 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:42,398 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:43,401 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:44,402 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:45,404 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:46,406 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:47,407 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:48,409 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:49,410 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:50,412 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:51,414 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:52,415 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:53,417 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:54,419 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:55,421 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:56,424 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:57,426 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:58,428 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:13:59,430 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:14:00,432 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:14:01,434 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:14:02,437 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:14:03,439 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:14:04,441 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:14:05,444 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:14:06,447 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:14:07,449 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:14:08,452 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:14:09,454 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:14:10,457 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:14:11,458 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:14:12,460 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:14:13,461 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:14:14,463 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:14:15,464 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:14:16,466 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:14:17,468 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:14:18,470 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:14:19,471 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:14:20,473 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:14:21,475 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:14:21,938 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 2}
+2025-05-06 11:14:21,939 - INFO - Wipers fully stopped
+2025-05-06 11:14:21,941 - INFO - Started continuous front wiper (speed=fast)
+2025-05-06 11:14:22,477 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 11:14:23,478 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 11:14:24,481 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 11:14:25,482 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 11:14:26,484 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 11:14:27,486 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 11:14:28,488 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 11:14:29,490 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 11:14:30,492 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 11:14:31,494 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 11:14:32,496 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 11:14:33,497 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 11:14:34,500 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 11:14:35,501 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 11:14:36,504 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 11:14:37,506 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 11:14:38,507 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 11:14:39,509 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 11:14:40,511 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 11:14:41,513 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 11:14:42,515 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 11:14:43,517 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 11:14:44,518 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 11:14:45,520 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 11:14:46,522 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 11:14:47,523 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 11:14:48,525 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 11:14:49,526 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 11:14:50,529 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 11:14:51,531 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 11:14:52,532 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 11:14:53,533 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 11:14:54,535 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 11:14:55,536 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 11:14:56,538 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 11:14:57,539 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 11:14:58,540 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 11:14:59,543 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 11:15:00,544 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 11:15:01,546 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 11:15:02,548 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 11:15:03,553 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 11:15:04,554 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 11:15:05,556 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 11:15:06,558 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 11:15:07,560 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 11:15:08,562 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 11:15:09,564 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 11:15:10,569 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 11:15:11,570 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 11:15:12,572 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 11:15:13,573 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 11:15:14,574 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 11:15:15,576 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 11:15:16,580 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 11:15:17,583 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 11:15:18,584 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 11:15:19,586 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 11:15:20,587 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 11:15:21,589 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 11:15:22,591 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 11:15:23,594 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 11:15:24,596 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 11:15:25,599 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 11:15:26,601 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 11:15:27,604 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 11:15:28,608 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 11:15:29,610 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 11:15:30,611 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 11:15:31,613 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 11:15:32,614 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 11:15:33,616 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 11:15:34,617 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 11:15:35,618 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 11:15:36,620 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 11:15:37,621 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 11:15:38,623 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 11:15:39,624 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 11:15:40,626 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 11:15:41,627 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 11:15:42,629 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 11:15:43,630 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 11:15:44,634 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 11:15:45,636 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 11:15:46,638 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 11:15:47,640 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 11:15:48,642 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 11:15:49,643 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 11:15:50,645 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 11:15:51,647 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 11:15:52,653 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 11:15:53,654 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 11:15:54,657 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 11:15:55,659 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 11:15:56,661 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 11:15:57,663 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 11:15:58,666 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 11:15:59,667 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 11:16:00,669 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 11:16:01,673 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 11:16:02,676 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 11:16:03,677 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 11:16:04,679 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 11:16:05,680 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 11:16:06,683 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 11:16:07,684 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 11:16:08,686 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 11:16:09,688 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 11:16:10,691 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 11:16:11,693 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 11:16:12,697 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 11:16:13,701 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 11:16:14,703 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 11:16:15,706 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 11:16:16,708 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 11:16:17,710 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 11:16:18,712 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 11:16:19,714 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 11:16:20,716 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 11:16:21,719 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 11:16:22,720 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 11:16:23,723 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 11:16:24,724 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 11:16:25,726 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 11:16:26,728 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 11:16:27,730 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 11:16:28,732 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 11:16:29,733 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 11:16:30,735 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 11:16:31,737 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 11:16:32,738 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 11:16:33,740 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 11:16:34,742 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 11:16:35,743 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 11:16:36,744 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 11:16:37,746 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 11:16:38,748 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 11:16:39,753 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 11:16:40,755 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 11:16:41,757 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 11:16:42,758 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 11:16:43,760 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 11:16:44,762 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 11:16:45,764 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 11:16:46,766 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 11:16:47,767 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 11:16:48,769 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 11:16:49,770 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 11:16:50,772 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 11:16:51,774 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 11:16:52,776 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 11:16:53,777 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 11:16:54,780 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 11:16:55,785 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 11:16:56,786 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 11:16:57,789 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 11:16:58,790 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 11:16:59,793 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 11:17:00,795 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 11:17:01,797 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 11:17:02,799 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 11:17:03,802 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 11:17:04,803 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 11:17:05,806 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 11:17:06,807 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 11:17:07,810 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 11:17:08,811 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 11:17:09,814 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 11:17:10,815 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 11:17:11,818 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 11:17:12,820 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 11:17:13,821 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 11:17:14,823 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 11:17:15,825 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 11:17:16,827 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 11:17:17,828 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 11:17:18,829 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 11:17:19,832 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 11:17:20,834 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 11:17:21,835 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 11:17:22,837 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 11:17:23,839 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 11:17:24,841 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 11:17:25,842 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 11:17:26,845 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 11:17:27,847 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 11:17:28,848 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 11:17:29,850 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 11:17:30,852 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 11:17:31,854 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 11:17:32,855 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 11:17:33,857 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 11:17:34,859 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 11:17:35,861 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 11:17:36,864 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 11:17:37,866 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 11:17:38,869 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 11:17:39,870 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 11:17:40,872 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 11:17:41,873 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 11:17:42,875 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 11:17:43,876 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 11:17:44,878 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 11:17:45,879 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 11:17:46,880 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 11:17:47,882 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 11:17:48,883 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 11:17:49,885 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 11:17:50,886 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 11:17:51,888 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 11:17:52,889 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 11:17:53,890 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 11:17:54,892 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 11:17:55,893 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 11:17:56,895 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 11:17:57,897 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 11:17:58,900 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 11:17:59,902 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 11:18:00,903 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 11:18:01,904 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 11:18:02,906 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 11:18:03,909 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 11:18:04,911 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 11:18:05,913 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 11:18:06,915 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 11:18:07,917 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 11:18:08,919 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 11:18:09,924 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 11:18:10,925 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 11:18:11,933 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 11:18:12,934 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 11:18:13,938 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 11:18:14,940 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 11:18:15,942 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 11:18:16,943 - INFO - Sent status CAN: 0102530502000000
+2025-05-06 11:18:17,946 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 11:18:18,947 - INFO - Sent status CAN: 0102320502000000
+2025-05-06 11:18:19,950 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 11:18:20,951 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 11:18:21,954 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 11:18:22,956 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 11:18:23,960 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 11:18:24,961 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 11:18:25,964 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 11:18:26,969 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 11:18:27,970 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 11:18:28,973 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 11:18:29,974 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 11:18:30,977 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 11:18:31,978 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 11:18:32,981 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 11:18:33,982 - INFO - Sent status CAN: 0102210502000000
+2025-05-06 11:18:34,985 - INFO - Sent status CAN: 0102420502000000
+2025-05-06 11:18:35,986 - INFO - Sent status CAN: 0102640502000000
+2025-05-06 11:18:36,988 - INFO - Sent status CAN: 0102100502000000
+2025-05-06 11:18:37,898 - INFO - Processing signals: {}
+2025-05-06 11:18:37,945 - INFO - Wipers fully stopped
+2025-05-06 11:18:37,991 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:18:38,993 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:18:40,121 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:18:41,123 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:18:42,125 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:18:43,129 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:18:44,130 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:18:45,197 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:18:46,199 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:18:47,200 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:18:48,202 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:18:49,203 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:18:50,213 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:18:51,215 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:18:52,216 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:18:53,218 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:18:54,220 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:18:55,222 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:18:56,223 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:18:57,226 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:18:58,227 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:18:59,230 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:00,231 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:01,234 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:02,235 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:03,238 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:04,239 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:05,242 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:06,244 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:07,247 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:08,249 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:09,251 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:10,254 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:11,255 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:12,258 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:13,260 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:14,261 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:15,263 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:16,265 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:17,267 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:18,269 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:19,271 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:20,272 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:21,274 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:22,275 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:23,278 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:24,281 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:25,283 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:26,285 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:27,288 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:28,289 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:29,291 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:30,293 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:31,294 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:32,295 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:33,297 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:34,299 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:35,301 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:36,302 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:37,304 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:38,306 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:39,307 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:40,309 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:41,310 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:42,312 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:43,313 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:44,315 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:45,316 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:46,318 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:47,321 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:48,322 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:49,326 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:50,328 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:51,331 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:52,332 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:53,334 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:54,336 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:55,338 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:56,341 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:57,343 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:58,344 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:19:59,347 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:00,348 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:01,351 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:02,352 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:03,355 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:04,356 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:05,359 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:06,360 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:07,365 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:08,366 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:09,369 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:10,371 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:11,377 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:12,379 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:13,380 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:14,382 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:15,384 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:16,386 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:17,389 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:18,396 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:19,398 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:20,402 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:21,405 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:22,406 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:23,408 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:24,409 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:25,411 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:26,412 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:27,413 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:28,415 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:29,416 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:30,418 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:31,419 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:32,421 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:33,422 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:34,423 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:35,425 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:36,427 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:37,429 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:38,431 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:39,433 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:40,435 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:41,437 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:42,439 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:43,442 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:44,445 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:45,448 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:46,449 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:47,453 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:48,454 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:49,457 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:50,459 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:51,465 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:52,467 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:53,469 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:54,471 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:55,473 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:56,475 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:57,481 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:58,484 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:20:59,485 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:00,489 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:01,493 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:02,495 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:03,498 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:04,500 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:05,501 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:06,504 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:07,506 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:08,508 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:09,514 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:10,515 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:11,517 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:12,520 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:13,521 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:14,523 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:15,525 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:16,527 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:17,529 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:18,530 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:19,533 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:20,537 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:21,540 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:22,542 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:23,545 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:24,548 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:25,549 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:26,551 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:27,552 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:28,554 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:29,555 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:30,557 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:31,561 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:32,562 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:33,565 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:34,566 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:35,567 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:36,569 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:37,571 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:38,572 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:39,574 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:40,577 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:41,579 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:42,581 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:43,583 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:44,585 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:45,588 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:46,590 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:47,592 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:48,595 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:49,597 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:50,599 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:51,601 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:52,604 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:53,606 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:54,608 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:55,610 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:56,612 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:57,615 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:58,619 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:21:59,621 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:00,623 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:01,625 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:02,627 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:03,629 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:04,631 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:05,633 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:06,635 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:07,638 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:08,640 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:09,646 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:10,648 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:11,650 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:12,652 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:13,655 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:14,657 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:15,658 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:16,660 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:17,662 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:18,665 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:19,666 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:20,669 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:21,671 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:22,673 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:23,675 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:24,677 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:25,679 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:26,682 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:27,685 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:28,687 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:29,690 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:30,692 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:31,696 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:32,701 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:33,702 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:34,705 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:35,707 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:36,709 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:37,712 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:38,714 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:39,716 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:40,718 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:41,720 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:42,722 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:43,724 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:44,729 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:45,731 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:46,734 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:47,736 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:48,738 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:49,741 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:50,743 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:51,745 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:52,747 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:53,749 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:54,752 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:55,753 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:56,756 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:57,758 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:58,760 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:22:59,761 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:23:00,763 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:23:01,766 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:23:02,767 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:23:03,770 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:23:04,771 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:23:05,773 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:23:06,775 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:23:07,776 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:23:08,780 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:23:09,783 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:23:10,785 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:23:11,786 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:23:12,789 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:23:13,790 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:23:14,793 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:23:15,795 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:23:16,797 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:23:17,799 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:23:18,801 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:23:19,803 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:23:20,805 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:23:21,808 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:23:22,809 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:23:23,812 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:23:24,813 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:23:25,816 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:23:26,817 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:23:27,820 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:23:28,821 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:23:29,825 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:23:30,827 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:23:31,829 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:23:32,831 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:23:33,833 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:23:34,836 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:23:35,837 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:23:36,839 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:23:37,841 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:23:38,843 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:23:39,845 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:23:40,476 - INFO - Received keyboard interrupt
+2025-05-06 11:23:40,477 - INFO - Shutting down...
+2025-05-06 11:23:40,478 - INFO - Wipers fully stopped
+2025-05-06 11:23:41,030 - ERROR - CAN monitoring error: Error receiving: Bad file descriptor [Error Code 9]
+2025-05-06 11:23:41,046 - INFO - Shutdown complete
+2025-05-06 11:37:26,467 - INFO - Created a socket
+2025-05-06 11:37:26,473 - INFO - Listening for CAN messages...
+2025-05-06 11:37:26,476 - INFO - Wiper slave initialized
+2025-05-06 11:37:26,475 - INFO - Starting status transmission...
+2025-05-06 11:37:26,479 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:37:27,482 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:37:28,485 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:37:29,487 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:37:30,489 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:37:31,491 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:37:32,494 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:37:33,496 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:37:34,498 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:37:35,501 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:37:36,502 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:37:37,506 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:37:38,508 - INFO - Sent status CAN: 0100000000000000
+2025-05-06 11:37:38,517 - INFO - Processing signals: {}
+2025-05-06 11:37:38,518 - INFO - Wipers fully stopped
+2025-05-06 11:37:39,510 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:37:40,511 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:37:41,513 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:37:42,514 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:37:43,517 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:37:44,518 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:37:45,521 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:37:46,522 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:37:47,524 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:37:48,525 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:37:49,528 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:37:50,534 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:37:51,535 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:37:52,538 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:37:53,540 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:37:54,542 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:37:55,544 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:37:56,546 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:37:57,548 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:37:58,549 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:37:59,551 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:38:00,554 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:38:01,557 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:38:02,561 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:38:03,567 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:38:04,570 - INFO - Sent status CAN: 0101000000000000
+2025-05-06 11:38:04,732 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1}
+2025-05-06 11:38:04,734 - INFO - Wipers fully stopped
+2025-05-06 11:38:04,736 - INFO - Started continuous front wiper (speed=normal)
+2025-05-06 11:38:05,572 - INFO - Sent status CAN: 0101320502000000
+2025-05-06 11:38:06,574 - INFO - Sent status CAN: 0101100502000000
+2025-05-06 11:38:07,576 - INFO - Sent status CAN: 0101530502000000
+2025-05-06 11:38:08,578 - INFO - Sent status CAN: 0101320502000000
+2025-05-06 11:38:09,580 - INFO - Sent status CAN: 0101100502000000
+2025-05-06 11:38:10,582 - INFO - Sent status CAN: 0101530502000000
+2025-05-06 11:38:11,584 - INFO - Sent status CAN: 0101320502000000
+2025-05-06 11:38:12,586 - INFO - Sent status CAN: 0101100502000000
+2025-05-06 11:38:13,588 - INFO - Sent status CAN: 0101530502000000
+2025-05-06 11:38:14,594 - INFO - Sent status CAN: 0101320502000000
+2025-05-06 11:38:15,601 - INFO - Sent status CAN: 0101100502000000
+2025-05-06 11:38:16,602 - INFO - Sent status CAN: 0101530502000000
+2025-05-06 11:38:16,746 - INFO - Received keyboard interrupt
+2025-05-06 11:38:16,747 - INFO - Shutting down...
+2025-05-06 11:38:16,767 - INFO - Wipers fully stopped
+2025-05-06 11:38:17,333 - INFO - Shutdown complete
+2025-05-06 11:51:57,080 - INFO - Created a socket
+2025-05-06 11:51:57,084 - INFO - Loaded status from file:
+2025-05-06 11:51:57,086 - INFO - WiperStatus = 1
+2025-05-06 11:51:57,087 - INFO - wiperCurrentSpeed = 1
+2025-05-06 11:51:57,088 - INFO - wiperCurrentPosition = 40
+2025-05-06 11:51:57,089 - INFO - consumedPower = 8
+2025-05-06 11:51:57,090 - INFO - currentWiperMode = 1
+2025-05-06 11:51:57,091 - INFO - isWiperBlocked = 0
+2025-05-06 11:51:57,092 - INFO - blockageReason = 0
+2025-05-06 11:51:57,093 - INFO - hwError = 0
+2025-05-06 11:51:57,095 - INFO - Listening for CAN messages...
+2025-05-06 11:51:57,098 - INFO - Monitoring respond2.txt for changes...
+2025-05-06 11:51:57,099 - INFO - Wiper slave initialized with exact status values
+2025-05-06 11:51:57,102 - INFO - Loaded status from file:
+2025-05-06 11:51:57,103 - INFO - WiperStatus = 1
+2025-05-06 11:51:57,104 - INFO - wiperCurrentSpeed = 1
+2025-05-06 11:51:57,104 - INFO - wiperCurrentPosition = 40
+2025-05-06 11:51:57,105 - INFO - consumedPower = 8
+2025-05-06 11:51:57,106 - INFO - currentWiperMode = 1
+2025-05-06 11:51:57,107 - INFO - isWiperBlocked = 0
+2025-05-06 11:51:57,108 - INFO - blockageReason = 0
+2025-05-06 11:51:57,108 - INFO - hwError = 0
+2025-05-06 11:51:57,109 - INFO - Status file updated
+2025-05-06 11:52:29,128 - INFO - Loaded status from file:
+2025-05-06 11:52:29,129 - INFO - WiperStatus = 1
+2025-05-06 11:52:29,130 - INFO - wiperCurrentSpeed = 1
+2025-05-06 11:52:29,130 - INFO - wiperCurrentPosition = 50
+2025-05-06 11:52:29,131 - INFO - consumedPower = 3
+2025-05-06 11:52:29,131 - INFO - currentWiperMode = 1
+2025-05-06 11:52:29,131 - INFO - isWiperBlocked = 0
+2025-05-06 11:52:29,132 - INFO - blockageReason = 0
+2025-05-06 11:52:29,133 - INFO - hwError = 0
+2025-05-06 11:52:29,133 - INFO - Status file updated
+2025-05-06 11:52:54,655 - INFO - Loaded status from file:
+2025-05-06 11:52:54,657 - INFO - WiperStatus = 1
+2025-05-06 11:52:54,657 - INFO - wiperCurrentSpeed = 1
+2025-05-06 11:52:54,658 - INFO - wiperCurrentPosition = 50
+2025-05-06 11:52:54,659 - INFO - consumedPower = 77
+2025-05-06 11:52:54,660 - INFO - currentWiperMode = 1
+2025-05-06 11:52:54,662 - INFO - isWiperBlocked = 0
+2025-05-06 11:52:54,662 - INFO - blockageReason = 0
+2025-05-06 11:52:54,663 - INFO - hwError = 0
+2025-05-06 11:52:54,664 - INFO - Status file updated
+2025-05-06 11:53:15,323 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 2}
+2025-05-06 11:53:15,324 - INFO - Wipers fully stopped
+2025-05-06 11:53:15,326 - INFO - Started continuous front wiper (speed=fast)
+2025-05-06 11:54:08,356 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 2}
+2025-05-06 11:54:08,458 - INFO - Wipers fully stopped
+2025-05-06 11:54:08,461 - INFO - Started continuous front wiper (speed=fast)
+2025-05-06 11:54:35,836 - INFO - Processing signals: {'wiperMode': 4, 'wiperSpeed': 2}
+2025-05-06 11:54:35,937 - INFO - Wipers fully stopped
+2025-05-06 11:54:35,940 - INFO - Started continuous front wiper (speed=fast)
+2025-05-06 11:54:48,544 - INFO - Processing signals: {'wiperMode': 4, 'wiperSpeed': 2}
+2025-05-06 11:54:48,646 - INFO - Wipers fully stopped
+2025-05-06 11:54:48,649 - INFO - Started continuous front wiper (speed=fast)
+2025-05-06 11:54:55,247 - INFO - Processing signals: {'wiperMode': 4, 'wiperSpeed': 1}
+2025-05-06 11:54:55,349 - INFO - Wipers fully stopped
+2025-05-06 11:54:55,354 - INFO - Started continuous front wiper (speed=normal)
+2025-05-06 11:55:19,565 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1}
+2025-05-06 11:55:19,667 - INFO - Wipers fully stopped
+2025-05-06 11:55:19,670 - INFO - Started continuous front wiper (speed=normal)
+2025-05-06 11:55:37,276 - INFO - Processing signals: {'wiperMode': 1, 'wiperSpeed': 1, 'wiperCycleCount': 1}
+2025-05-06 11:55:37,378 - INFO - Wipers fully stopped
+2025-05-06 11:55:37,380 - INFO - Started touch mode (single wipe)
+2025-05-06 11:55:50,035 - INFO - Processing signals: {'wiperMode': 1, 'wiperSpeed': 1, 'wiperCycleCount': 1}
+2025-05-06 11:55:50,036 - INFO - Wipers fully stopped
+2025-05-06 11:55:50,038 - INFO - Started touch mode (single wipe)
+2025-05-06 11:55:50,194 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1}
+2025-05-06 11:55:50,295 - INFO - Wipers fully stopped
+2025-05-06 11:55:50,298 - INFO - Started continuous front wiper (speed=normal)
+2025-05-06 11:56:09,075 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 2}
+2025-05-06 11:56:09,177 - INFO - Wipers fully stopped
+2025-05-06 11:56:09,180 - INFO - Started continuous front wiper (speed=fast)
+2025-05-06 11:56:33,338 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 2}
+2025-05-06 11:56:33,440 - INFO - Wipers fully stopped
+2025-05-06 11:56:33,442 - INFO - Started continuous front wiper (speed=fast)
+2025-05-06 11:56:49,248 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 2}
+2025-05-06 11:56:49,349 - INFO - Wipers fully stopped
+2025-05-06 11:56:49,353 - INFO - Started continuous front wiper (speed=fast)
+2025-05-06 11:57:16,682 - INFO - Processing signals: {'wiperMode': 4, 'wiperSpeed': 1}
+2025-05-06 11:57:16,784 - INFO - Wipers fully stopped
+2025-05-06 11:57:16,793 - INFO - Started continuous front wiper (speed=normal)
+2025-05-06 11:57:34,393 - INFO - Processing signals: {'wiperMode': 4, 'wiperSpeed': 2}
+2025-05-06 11:57:34,494 - INFO - Wipers fully stopped
+2025-05-06 11:57:34,497 - INFO - Started continuous front wiper (speed=fast)
+2025-05-06 11:57:50,854 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1, 'WiperIntermittent': 1, 'wipingCycle': 1700}
+2025-05-06 11:57:50,955 - INFO - Wipers fully stopped
+2025-05-06 11:57:50,966 - INFO - Started intermittent rear wiper
+2025-05-06 11:57:50,967 - INFO - Started continuous front wiper (speed=normal)
+2025-05-06 11:58:13,322 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1}
+2025-05-06 11:58:13,524 - INFO - Wipers fully stopped
+2025-05-06 11:58:13,527 - INFO - Started continuous front wiper (speed=normal)
+2025-05-06 11:58:28,005 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1}
+2025-05-06 11:58:28,107 - INFO - Wipers fully stopped
+2025-05-06 11:58:28,109 - INFO - Started continuous front wiper (speed=normal)
+2025-05-06 11:58:38,861 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1, 'WiperIntermittent': 1, 'wipingCycle': 1700}
+2025-05-06 11:58:38,963 - INFO - Wipers fully stopped
+2025-05-06 11:58:38,966 - INFO - Started intermittent rear wiper
+2025-05-06 11:58:38,967 - INFO - Started continuous front wiper (speed=normal)
+2025-05-06 11:59:09,339 - INFO - Processing signals: {}
+2025-05-06 11:59:09,541 - INFO - Wipers fully stopped
+2025-05-06 11:59:22,202 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1, 'WiperIntermittent': 1, 'wipingCycle': 1700}
+2025-05-06 11:59:22,203 - INFO - Wipers fully stopped
+2025-05-06 11:59:22,206 - INFO - Started intermittent rear wiper
+2025-05-06 11:59:22,207 - INFO - Started continuous front wiper (speed=normal)
+2025-05-06 12:00:14,091 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 2}
+2025-05-06 12:00:14,294 - INFO - Wipers fully stopped
+2025-05-06 12:00:14,296 - INFO - Started continuous front wiper (speed=fast)
+2025-05-06 12:00:33,470 - INFO - Loaded status from file:
+2025-05-06 12:00:33,470 - INFO - WiperStatus = 1
+2025-05-06 12:00:33,471 - INFO - wiperCurrentSpeed = 1
+2025-05-06 12:00:33,472 - INFO - wiperCurrentPosition = 50
+2025-05-06 12:00:33,472 - INFO - consumedPower = 78
+2025-05-06 12:00:33,473 - INFO - currentWiperMode = 1
+2025-05-06 12:00:33,474 - INFO - isWiperBlocked = 0
+2025-05-06 12:00:33,474 - INFO - blockageReason = 0
+2025-05-06 12:00:33,475 - INFO - hwError = 0
+2025-05-06 12:00:33,476 - INFO - Status file updated
+2025-05-06 12:00:57,498 - INFO - Loaded status from file:
+2025-05-06 12:00:57,499 - INFO - WiperStatus = 1
+2025-05-06 12:00:57,500 - INFO - wiperCurrentSpeed = 1
+2025-05-06 12:00:57,501 - INFO - wiperCurrentPosition = 50
+2025-05-06 12:00:57,502 - INFO - consumedPower = 78
+2025-05-06 12:00:57,503 - INFO - currentWiperMode = 1
+2025-05-06 12:00:57,505 - INFO - isWiperBlocked = 1
+2025-05-06 12:00:57,506 - INFO - blockageReason = 1
+2025-05-06 12:00:57,507 - INFO - hwError = 0
+2025-05-06 12:00:57,508 - INFO - Status file updated
+2025-05-06 12:01:40,540 - INFO - Loaded status from file:
+2025-05-06 12:01:40,541 - INFO - WiperStatus = 1
+2025-05-06 12:01:40,541 - INFO - wiperCurrentSpeed = 1
+2025-05-06 12:01:40,542 - INFO - wiperCurrentPosition = 50
+2025-05-06 12:01:40,544 - INFO - consumedPower = 78
+2025-05-06 12:01:40,545 - INFO - currentWiperMode = 1
+2025-05-06 12:01:40,547 - INFO - isWiperBlocked = 0
+2025-05-06 12:01:40,547 - INFO - blockageReason = 0
+2025-05-06 12:01:40,549 - INFO - hwError = 0
+2025-05-06 12:01:40,550 - INFO - Status file updated
+2025-05-06 12:02:55,105 - INFO - Loaded status from file:
+2025-05-06 12:02:55,106 - INFO - WiperStatus = 1
+2025-05-06 12:02:55,106 - INFO - wiperCurrentSpeed = 1
+2025-05-06 12:02:55,107 - INFO - wiperCurrentPosition = 50
+2025-05-06 12:02:55,107 - INFO - consumedPower = 78
+2025-05-06 12:02:55,108 - INFO - currentWiperMode = 1
+2025-05-06 12:02:55,108 - INFO - isWiperBlocked = 0
+2025-05-06 12:02:55,109 - INFO - blockageReason = 0
+2025-05-06 12:02:55,110 - INFO - hwError = 0
+2025-05-06 12:02:55,111 - INFO - Status file updated
+2025-05-06 12:03:04,675 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1}
+2025-05-06 12:03:04,777 - INFO - Wipers fully stopped
+2025-05-06 12:03:04,780 - INFO - Started continuous front wiper (speed=normal)
+2025-05-06 12:03:19,254 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1}
+2025-05-06 12:03:19,355 - INFO - Wipers fully stopped
+2025-05-06 12:03:19,358 - INFO - Started continuous front wiper (speed=normal)
+2025-05-06 12:04:28,153 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 2}
+2025-05-06 12:04:28,255 - INFO - Wipers fully stopped
+2025-05-06 12:04:28,257 - INFO - Started continuous front wiper (speed=fast)
+2025-05-06 12:04:49,204 - INFO - Loaded status from file:
+2025-05-06 12:04:49,205 - INFO - WiperStatus = 1
+2025-05-06 12:04:49,205 - INFO - wiperCurrentSpeed = 1
+2025-05-06 12:04:49,206 - INFO - wiperCurrentPosition = 50
+2025-05-06 12:04:49,206 - INFO - consumedPower = 98
+2025-05-06 12:04:49,207 - INFO - currentWiperMode = 1
+2025-05-06 12:04:49,207 - INFO - isWiperBlocked = 0
+2025-05-06 12:04:49,208 - INFO - blockageReason = 0
+2025-05-06 12:04:49,208 - INFO - hwError = 0
+2025-05-06 12:04:49,210 - INFO - Status file updated
+2025-05-06 12:05:10,238 - INFO - Received keyboard interrupt
+2025-05-06 12:05:10,239 - INFO - Shutting down...
+2025-05-06 12:05:10,340 - INFO - Wipers fully stopped
+2025-05-06 12:05:10,905 - INFO - Shutdown complete
+2025-05-06 12:26:19,961 - INFO - Created a socket
+2025-05-06 12:26:19,965 - INFO - Loaded manual status signals:
+2025-05-06 12:26:19,966 - INFO - consumedPower = 98
+2025-05-06 12:26:19,967 - INFO - isWiperBlocked = 0
+2025-05-06 12:26:19,969 - INFO - blockageReason = 0
+2025-05-06 12:26:19,970 - INFO - hwError = 0
+2025-05-06 12:26:19,972 - INFO - Listening for CAN messages...
+2025-05-06 12:26:19,975 - INFO - Monitoring respond2.txt for manual signal changes...
+2025-05-06 12:26:19,976 - INFO - Wiper slave initialized
+2025-05-06 12:26:19,979 - INFO - Loaded manual status signals:
+2025-05-06 12:26:19,980 - INFO - consumedPower = 98
+2025-05-06 12:26:19,981 - INFO - isWiperBlocked = 0
+2025-05-06 12:26:19,981 - INFO - blockageReason = 0
+2025-05-06 12:26:19,982 - INFO - hwError = 0
+2025-05-06 12:26:19,982 - INFO - Manual status signals updated from file
+2025-05-06 12:26:22,769 - INFO - Received keyboard interrupt
+2025-05-06 12:26:22,770 - INFO - Shutting down...
+2025-05-06 12:26:22,771 - INFO - Wipers fully stopped
+2025-05-06 12:26:23,046 - INFO - Shutdown complete
+2025-05-06 12:27:24,729 - INFO - Created a socket
+2025-05-06 12:27:24,731 - WARNING - Could not load status file, using defaults: [Errno 2] No such file or directory: 'respond3.txt'
+2025-05-06 12:27:24,733 - INFO - Listening for CAN messages...
+2025-05-06 12:27:24,736 - INFO - Monitoring respond3.txt for manual signal changes...
+2025-05-06 12:27:24,736 - INFO - Wiper slave initialized
+2025-05-06 12:27:24,739 - ERROR - File monitor error: [Errno 2] No such file or directory: 'respond3.txt'
+2025-05-06 12:27:25,741 - ERROR - File monitor error: [Errno 2] No such file or directory: 'respond3.txt'
+2025-05-06 12:27:26,742 - ERROR - File monitor error: [Errno 2] No such file or directory: 'respond3.txt'
+2025-05-06 12:27:27,744 - ERROR - File monitor error: [Errno 2] No such file or directory: 'respond3.txt'
+2025-05-06 12:27:28,745 - ERROR - File monitor error: [Errno 2] No such file or directory: 'respond3.txt'
+2025-05-06 12:27:29,747 - ERROR - File monitor error: [Errno 2] No such file or directory: 'respond3.txt'
+2025-05-06 12:27:30,748 - ERROR - File monitor error: [Errno 2] No such file or directory: 'respond3.txt'
+2025-05-06 12:27:31,750 - ERROR - File monitor error: [Errno 2] No such file or directory: 'respond3.txt'
+2025-05-06 12:27:32,637 - INFO - Received keyboard interrupt
+2025-05-06 12:27:32,638 - INFO - Shutting down...
+2025-05-06 12:27:32,639 - INFO - Wipers fully stopped
+2025-05-06 12:27:32,815 - INFO - Shutdown complete
+2025-05-06 12:28:33,475 - INFO - Created a socket
+2025-05-06 12:28:33,478 - WARNING - Could not load status file, using defaults: [Errno 2] No such file or directory: 'respond3.txt'
+2025-05-06 12:28:33,480 - INFO - Listening for CAN messages...
+2025-05-06 12:28:33,483 - INFO - Monitoring respond3.txt for manual signal changes...
+2025-05-06 12:28:33,484 - INFO - Wiper slave initialized
+2025-05-06 12:28:33,487 - ERROR - File monitor error: [Errno 2] No such file or directory: 'respond3.txt'
+2025-05-06 12:28:34,488 - ERROR - File monitor error: [Errno 2] No such file or directory: 'respond3.txt'
+2025-05-06 12:28:35,700 - ERROR - File monitor error: [Errno 2] No such file or directory: 'respond3.txt'
+2025-05-06 12:28:36,702 - ERROR - File monitor error: [Errno 2] No such file or directory: 'respond3.txt'
+2025-05-06 12:28:36,921 - INFO - Received keyboard interrupt
+2025-05-06 12:28:36,922 - INFO - Shutting down...
+2025-05-06 12:28:36,924 - INFO - Wipers fully stopped
+2025-05-06 12:28:37,766 - INFO - Shutdown complete
+2025-05-06 12:28:59,526 - INFO - Created a socket
+2025-05-06 12:28:59,530 - INFO - Loaded manual status signals:
+2025-05-06 12:28:59,531 - INFO - consumedPower = 98
+2025-05-06 12:28:59,532 - INFO - isWiperBlocked = 0
+2025-05-06 12:28:59,533 - INFO - blockageReason = 0
+2025-05-06 12:28:59,534 - INFO - hwError = 0
+2025-05-06 12:28:59,537 - INFO - Listening for CAN messages...
+2025-05-06 12:28:59,540 - INFO - Monitoring respond2.txt for manual signal changes...
+2025-05-06 12:28:59,541 - INFO - Wiper slave initialized
+2025-05-06 12:28:59,544 - INFO - Loaded manual status signals:
+2025-05-06 12:28:59,545 - INFO - consumedPower = 98
+2025-05-06 12:28:59,546 - INFO - isWiperBlocked = 0
+2025-05-06 12:28:59,546 - INFO - blockageReason = 0
+2025-05-06 12:28:59,547 - INFO - hwError = 0
+2025-05-06 12:28:59,547 - INFO - Manual status signals updated from file
+2025-05-06 12:29:18,717 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1}
+2025-05-06 12:29:18,718 - INFO - Wipers fully stopped
+2025-05-06 12:29:18,720 - INFO - Started continuous front wiper (speed=normal)
+2025-05-06 12:29:34,481 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 2}
+2025-05-06 12:29:34,582 - INFO - Wipers fully stopped
+2025-05-06 12:29:34,586 - INFO - Started continuous front wiper (speed=fast)
+2025-05-06 12:29:58,915 - INFO - Processing signals: {'wiperMode': 4, 'wiperSpeed': 2}
+2025-05-06 12:29:59,016 - INFO - Wipers fully stopped
+2025-05-06 12:29:59,020 - INFO - Started continuous front wiper (speed=fast)
+2025-05-06 12:30:03,767 - INFO - Processing signals: {'wiperMode': 4, 'wiperSpeed': 1}
+2025-05-06 12:30:03,868 - INFO - Wipers fully stopped
+2025-05-06 12:30:03,871 - INFO - Started continuous front wiper (speed=normal)
+2025-05-06 12:30:19,530 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 2}
+2025-05-06 12:30:19,632 - INFO - Wipers fully stopped
+2025-05-06 12:30:19,635 - INFO - Started continuous front wiper (speed=fast)
+2025-05-06 12:30:32,159 - INFO - Processing signals: {'wiperMode': 4, 'wiperSpeed': 2}
+2025-05-06 12:30:32,274 - INFO - Wipers fully stopped
+2025-05-06 12:30:32,277 - INFO - Started continuous front wiper (speed=fast)
+2025-05-06 12:30:43,971 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1, 'WiperIntermittent': 1, 'wipingCycle': 1700}
+2025-05-06 12:30:44,074 - INFO - Wipers fully stopped
+2025-05-06 12:30:44,077 - INFO - Started intermittent rear wiper
+2025-05-06 12:30:44,079 - INFO - Started continuous front wiper (speed=normal)
+2025-05-06 12:31:17,649 - INFO - Loaded manual status signals:
+2025-05-06 12:31:17,650 - INFO - consumedPower = 12
+2025-05-06 12:31:17,650 - INFO - isWiperBlocked = 0
+2025-05-06 12:31:17,651 - INFO - blockageReason = 0
+2025-05-06 12:31:17,651 - INFO - hwError = 0
+2025-05-06 12:31:17,652 - INFO - Manual status signals updated from file
+2025-05-06 12:32:07,693 - INFO - Loaded manual status signals:
+2025-05-06 12:32:07,694 - INFO - consumedPower = 14
+2025-05-06 12:32:07,694 - INFO - isWiperBlocked = 1
+2025-05-06 12:32:07,696 - INFO - blockageReason = 0
+2025-05-06 12:32:07,697 - INFO - hwError = 0
+2025-05-06 12:32:07,698 - INFO - Manual status signals updated from file
+2025-05-06 12:32:25,206 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1}
+2025-05-06 12:32:25,407 - INFO - Wipers fully stopped
+2025-05-06 12:32:25,410 - INFO - Started continuous front wiper (speed=normal)
+2025-05-06 12:32:44,667 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 2}
+2025-05-06 12:32:44,769 - INFO - Wipers fully stopped
+2025-05-06 12:32:44,772 - INFO - Started continuous front wiper (speed=fast)
+2025-05-06 12:33:13,255 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1, 'WiperIntermittent': 1, 'wipingCycle': 1700}
+2025-05-06 12:33:13,356 - INFO - Wipers fully stopped
+2025-05-06 12:33:13,359 - INFO - Started intermittent rear wiper
+2025-05-06 12:33:13,360 - INFO - Started continuous front wiper (speed=normal)
+2025-05-06 12:33:29,717 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1}
+2025-05-06 12:33:29,919 - INFO - Wipers fully stopped
+2025-05-06 12:33:29,922 - INFO - Started continuous front wiper (speed=normal)
+2025-05-06 12:33:40,694 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1}
+2025-05-06 12:33:40,796 - INFO - Wipers fully stopped
+2025-05-06 12:33:40,799 - INFO - Started continuous front wiper (speed=normal)
+2025-05-06 12:33:57,330 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 2}
+2025-05-06 12:33:57,432 - INFO - Wipers fully stopped
+2025-05-06 12:33:57,435 - INFO - Started continuous front wiper (speed=fast)
+2025-05-06 12:34:14,871 - INFO - Processing signals: {'wiperMode': 4, 'wiperSpeed': 1}
+2025-05-06 12:34:14,974 - INFO - Wipers fully stopped
+2025-05-06 12:34:14,977 - INFO - Started continuous front wiper (speed=normal)
+2025-05-06 12:34:21,713 - INFO - Received keyboard interrupt
+2025-05-06 12:34:21,714 - INFO - Shutting down...
+2025-05-06 12:34:21,816 - INFO - Wipers fully stopped
+2025-05-06 12:34:22,072 - INFO - Shutdown complete
+2025-05-06 12:43:21,445 - INFO - Created a socket
+2025-05-06 12:43:21,448 - WARNING - Could not load status file, using defaults: [Errno 2] No such file or directory: 'respond3.txt'
+2025-05-06 12:43:21,450 - INFO - Listening for CAN messages...
+2025-05-06 12:43:21,453 - INFO - Monitoring respond3.txt for manual signal changes...
+2025-05-06 12:43:21,454 - INFO - Wiper slave initialized
+2025-05-06 12:43:21,457 - ERROR - File monitor error: [Errno 2] No such file or directory: 'respond3.txt'
+2025-05-06 12:43:22,458 - ERROR - File monitor error: [Errno 2] No such file or directory: 'respond3.txt'
+2025-05-06 12:43:23,459 - ERROR - File monitor error: [Errno 2] No such file or directory: 'respond3.txt'
+2025-05-06 12:43:24,461 - ERROR - File monitor error: [Errno 2] No such file or directory: 'respond3.txt'
+2025-05-06 12:43:25,462 - ERROR - File monitor error: [Errno 2] No such file or directory: 'respond3.txt'
+2025-05-06 12:43:25,971 - INFO - Received keyboard interrupt
+2025-05-06 12:43:25,972 - INFO - Shutting down...
+2025-05-06 12:43:25,985 - INFO - Wipers fully stopped
+2025-05-06 12:43:26,532 - INFO - Shutdown complete
+2025-05-06 12:44:54,805 - INFO - Created a socket
+2025-05-06 12:44:54,810 - INFO - Loaded manual status signals:
+2025-05-06 12:44:54,812 - INFO - consumedPower = 14
+2025-05-06 12:44:54,813 - INFO - isWiperBlocked = 1
+2025-05-06 12:44:54,814 - INFO - blockageReason = 0
+2025-05-06 12:44:54,815 - INFO - hwError = 0
+2025-05-06 12:44:54,817 - INFO - Listening for CAN messages...
+2025-05-06 12:44:54,820 - INFO - Monitoring respond2.txt for manual signal changes...
+2025-05-06 12:44:54,821 - INFO - Wiper slave initialized
+2025-05-06 12:44:54,823 - INFO - Loaded manual status signals:
+2025-05-06 12:44:54,825 - INFO - consumedPower = 14
+2025-05-06 12:44:54,826 - INFO - isWiperBlocked = 1
+2025-05-06 12:44:54,828 - INFO - blockageReason = 0
+2025-05-06 12:44:54,828 - INFO - hwError = 0
+2025-05-06 12:44:54,829 - INFO - Manual status signals updated from file
+2025-05-06 12:45:11,854 - INFO - Loaded manual status signals:
+2025-05-06 12:45:11,859 - INFO - consumedPower = 144
+2025-05-06 12:45:11,860 - INFO - isWiperBlocked = 1
+2025-05-06 12:45:11,860 - INFO - blockageReason = 0
+2025-05-06 12:45:11,861 - INFO - hwError = 0
+2025-05-06 12:45:11,861 - INFO - Manual status signals updated from file
+2025-05-06 12:45:26,380 - INFO - Loaded manual status signals:
+2025-05-06 12:45:26,381 - INFO - consumedPower = 144
+2025-05-06 12:45:26,382 - INFO - isWiperBlocked = 1
+2025-05-06 12:45:26,382 - INFO - blockageReason = 0
+2025-05-06 12:45:26,383 - INFO - hwError = 0
+2025-05-06 12:45:26,383 - INFO - Manual status signals updated from file
+2025-05-06 12:46:21,057 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1, 'WiperIntermittent': 1, 'wipingCycle': 1700}
+2025-05-06 12:46:21,058 - INFO - Wipers fully stopped
+2025-05-06 12:46:21,061 - INFO - Started intermittent rear wiper
+2025-05-06 12:46:21,062 - INFO - Started continuous front wiper (speed=normal)
+2025-05-06 12:46:39,820 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 2}
+2025-05-06 12:46:40,023 - INFO - Wipers fully stopped
+2025-05-06 12:46:40,026 - INFO - Started continuous front wiper (speed=fast)
+2025-05-06 12:46:54,351 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1}
+2025-05-06 12:46:54,452 - INFO - Wipers fully stopped
+2025-05-06 12:46:54,455 - INFO - Started continuous front wiper (speed=normal)
+2025-05-06 12:48:05,253 - INFO - Processing signals: {}
+2025-05-06 12:48:05,354 - INFO - Wipers fully stopped
+2025-05-06 12:48:13,110 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1}
+2025-05-06 12:48:13,111 - INFO - Wipers fully stopped
+2025-05-06 12:48:13,112 - INFO - Started continuous front wiper (speed=normal)
+2025-05-06 12:48:23,534 - INFO - Received keyboard interrupt
+2025-05-06 12:48:23,535 - INFO - Shutting down...
+2025-05-06 12:48:23,649 - INFO - Wipers fully stopped
+2025-05-07 10:46:01,504 - INFO - Created a socket
+2025-05-07 10:46:01,512 - INFO - Loaded status from file:
+2025-05-07 10:46:01,513 - INFO - WiperStatus = 1
+2025-05-07 10:46:01,514 - INFO - wiperCurrentSpeed = 1
+2025-05-07 10:46:01,515 - INFO - wiperCurrentPosition = 50
+2025-05-07 10:46:01,516 - INFO - consumedPower = 144
+2025-05-07 10:46:01,517 - INFO - currentWiperMode = 1
+2025-05-07 10:46:01,518 - INFO - isWiperBlocked = 1
+2025-05-07 10:46:01,519 - INFO - blockageReason = 0
+2025-05-07 10:46:01,520 - INFO - hwError = 0
+2025-05-07 10:46:01,522 - INFO - Listening for CAN messages...
+2025-05-07 10:46:01,525 - INFO - Monitoring respond2.txt for changes...
+2025-05-07 10:46:01,526 - INFO - Wiper slave initialized with exact status values
+2025-05-07 10:46:01,530 - INFO - Loaded status from file:
+2025-05-07 10:46:01,531 - INFO - WiperStatus = 1
+2025-05-07 10:46:01,531 - INFO - wiperCurrentSpeed = 1
+2025-05-07 10:46:01,532 - INFO - wiperCurrentPosition = 50
+2025-05-07 10:46:01,533 - INFO - consumedPower = 144
+2025-05-07 10:46:01,534 - INFO - currentWiperMode = 1
+2025-05-07 10:46:01,535 - INFO - isWiperBlocked = 1
+2025-05-07 10:46:01,535 - INFO - blockageReason = 0
+2025-05-07 10:46:01,536 - INFO - hwError = 0
+2025-05-07 10:46:01,537 - INFO - Status file updated
+2025-05-07 10:46:15,300 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 2}
+2025-05-07 10:46:15,301 - INFO - Wipers fully stopped
+2025-05-07 10:46:15,304 - INFO - Started continuous front wiper (speed=fast)
+2025-05-07 10:46:35,059 - INFO - Loaded status from file:
+2025-05-07 10:46:35,060 - INFO - WiperStatus = 1
+2025-05-07 10:46:35,060 - INFO - wiperCurrentSpeed = 1
+2025-05-07 10:46:35,060 - INFO - wiperCurrentPosition = 50
+2025-05-07 10:46:35,061 - INFO - consumedPower = 15
+2025-05-07 10:46:35,061 - INFO - currentWiperMode = 1
+2025-05-07 10:46:35,062 - INFO - isWiperBlocked = 1
+2025-05-07 10:46:35,062 - INFO - blockageReason = 0
+2025-05-07 10:46:35,064 - INFO - hwError = 0
+2025-05-07 10:46:35,065 - INFO - Status file updated
+2025-05-07 10:46:50,574 - INFO - Loaded status from file:
+2025-05-07 10:46:50,575 - INFO - WiperStatus = 1
+2025-05-07 10:46:50,576 - INFO - wiperCurrentSpeed = 1
+2025-05-07 10:46:50,577 - INFO - wiperCurrentPosition = 50
+2025-05-07 10:46:50,578 - INFO - consumedPower = 15
+2025-05-07 10:46:50,579 - INFO - currentWiperMode = 1
+2025-05-07 10:46:50,580 - INFO - isWiperBlocked = 1
+2025-05-07 10:46:50,581 - INFO - blockageReason = 0
+2025-05-07 10:46:50,582 - INFO - hwError = 0
+2025-05-07 10:46:50,584 - INFO - Status file updated
+2025-05-07 10:47:08,600 - INFO - Loaded status from file:
+2025-05-07 10:47:08,601 - INFO - WiperStatus = 1
+2025-05-07 10:47:08,601 - INFO - wiperCurrentSpeed = 1
+2025-05-07 10:47:08,602 - INFO - wiperCurrentPosition = 50
+2025-05-07 10:47:08,607 - INFO - consumedPower = 15
+2025-05-07 10:47:08,609 - INFO - currentWiperMode = 1
+2025-05-07 10:47:08,613 - INFO - isWiperBlocked = 0
+2025-05-07 10:47:08,614 - INFO - blockageReason = 0
+2025-05-07 10:47:08,617 - INFO - hwError = 0
+2025-05-07 10:47:08,623 - INFO - Status file updated
+2025-05-07 10:47:25,044 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1}
+2025-05-07 10:47:25,145 - INFO - Wipers fully stopped
+2025-05-07 10:47:25,148 - INFO - Started continuous front wiper (speed=normal)
+2025-05-07 10:47:40,510 - INFO - Processing signals: {'wiperMode': 4, 'wiperSpeed': 2}
+2025-05-07 10:47:40,612 - INFO - Wipers fully stopped
+2025-05-07 10:47:40,615 - INFO - Started continuous front wiper (speed=fast)
+2025-05-07 10:47:56,156 - INFO - Loaded status from file:
+2025-05-07 10:47:56,157 - INFO - WiperStatus = 1
+2025-05-07 10:47:56,157 - INFO - wiperCurrentSpeed = 1
+2025-05-07 10:47:56,158 - INFO - wiperCurrentPosition = 50
+2025-05-07 10:47:56,158 - INFO - consumedPower = 155
+2025-05-07 10:47:56,159 - INFO - currentWiperMode = 1
+2025-05-07 10:47:56,161 - INFO - isWiperBlocked = 0
+2025-05-07 10:47:56,162 - INFO - blockageReason = 0
+2025-05-07 10:47:56,163 - INFO - hwError = 0
+2025-05-07 10:47:56,165 - INFO - Status file updated
+2025-05-07 10:48:15,456 - INFO - Received keyboard interrupt
+2025-05-07 10:48:15,457 - INFO - Shutting down...
+2025-05-07 10:48:15,558 - INFO - Wipers fully stopped
+2025-05-07 10:48:15,745 - INFO - Shutdown complete
+2025-05-07 10:48:53,828 - INFO - Created a socket
+2025-05-07 10:48:53,835 - INFO - Listening for CAN messages...
+2025-05-07 10:48:53,837 - INFO - Starting status transmission...
+2025-05-07 10:48:53,838 - INFO - Wiper slave initialized
+2025-05-07 10:48:53,841 - INFO - Sent status CAN: 0100000000000000
+2025-05-07 10:48:54,843 - INFO - Sent status CAN: 0100000000000000
+2025-05-07 10:48:55,846 - INFO - Sent status CAN: 0100000000000000
+2025-05-07 10:48:56,848 - INFO - Sent status CAN: 0100000000000000
+2025-05-07 10:48:57,850 - INFO - Sent status CAN: 0100000000000000
+2025-05-07 10:48:58,853 - INFO - Sent status CAN: 0100000000000000
+2025-05-07 10:48:59,855 - INFO - Sent status CAN: 0100000000000000
+2025-05-07 10:49:00,857 - INFO - Sent status CAN: 0100000000000000
+2025-05-07 10:49:01,859 - INFO - Sent status CAN: 0100000000000000
+2025-05-07 10:49:02,861 - INFO - Sent status CAN: 0100000000000000
+2025-05-07 10:49:03,863 - INFO - Sent status CAN: 0100000000000000
+2025-05-07 10:49:04,865 - INFO - Sent status CAN: 0100000000000000
+2025-05-07 10:49:05,867 - INFO - Sent status CAN: 0100000000000000
+2025-05-07 10:49:06,869 - INFO - Sent status CAN: 0100000000000000
+2025-05-07 10:49:07,871 - INFO - Sent status CAN: 0100000000000000
+2025-05-07 10:49:08,873 - INFO - Sent status CAN: 0100000000000000
+2025-05-07 10:49:09,875 - INFO - Sent status CAN: 0100000000000000
+2025-05-07 10:49:10,877 - INFO - Sent status CAN: 0100000000000000
+2025-05-07 10:49:11,878 - INFO - Sent status CAN: 0100000000000000
+2025-05-07 10:49:12,881 - INFO - Sent status CAN: 0100000000000000
+2025-05-07 10:49:13,883 - INFO - Sent status CAN: 0100000000000000
+2025-05-07 10:49:14,885 - INFO - Sent status CAN: 0100000000000000
+2025-05-07 10:49:15,887 - INFO - Sent status CAN: 0100000000000000
+2025-05-07 10:49:16,889 - INFO - Sent status CAN: 0100000000000000
+2025-05-07 10:49:17,891 - INFO - Sent status CAN: 0100000000000000
+2025-05-07 10:49:18,893 - INFO - Sent status CAN: 0100000000000000
+2025-05-07 10:49:19,894 - INFO - Sent status CAN: 0100000000000000
+2025-05-07 10:49:21,265 - INFO - Sent status CAN: 0100000000000000
+2025-05-07 10:49:22,266 - INFO - Sent status CAN: 0100000000000000
+2025-05-07 10:49:23,268 - INFO - Sent status CAN: 0100000000000000
+2025-05-07 10:49:24,271 - INFO - Sent status CAN: 0100000000000000
+2025-05-07 10:49:25,273 - INFO - Sent status CAN: 0100000000000000
+2025-05-07 10:49:26,275 - INFO - Sent status CAN: 0100000000000000
+2025-05-07 10:49:27,000 - INFO - Received keyboard interrupt
+2025-05-07 10:49:27,001 - INFO - Shutting down...
+2025-05-07 10:49:27,003 - INFO - Wipers fully stopped
+2025-05-07 10:49:27,567 - ERROR - CAN monitoring error: Error receiving: Bad file descriptor [Error Code 9]
+2025-05-07 10:49:27,573 - INFO - Shutdown complete
+2025-05-07 10:50:16,230 - INFO - Created a socket
+2025-05-07 10:50:16,234 - INFO - Loaded manual status signals:
+2025-05-07 10:50:16,235 - INFO - consumedPower = 15
+2025-05-07 10:50:16,236 - INFO - isWiperBlocked = 0
+2025-05-07 10:50:16,237 - INFO - blockageReason = 0
+2025-05-07 10:50:16,238 - INFO - hwError = 0
+2025-05-07 10:50:16,241 - INFO - Listening for CAN messages...
+2025-05-07 10:50:16,244 - INFO - Monitoring respond2.txt for manual signal changes...
+2025-05-07 10:50:16,244 - INFO - Wiper slave initialized
+2025-05-07 10:50:16,248 - INFO - Loaded manual status signals:
+2025-05-07 10:50:16,249 - INFO - consumedPower = 15
+2025-05-07 10:50:16,249 - INFO - isWiperBlocked = 0
+2025-05-07 10:50:16,250 - INFO - blockageReason = 0
+2025-05-07 10:50:16,250 - INFO - hwError = 0
+2025-05-07 10:50:16,251 - INFO - Manual status signals updated from file
+2025-05-07 10:50:33,268 - INFO - Loaded manual status signals:
+2025-05-07 10:50:33,269 - INFO - consumedPower = 155
+2025-05-07 10:50:33,270 - INFO - isWiperBlocked = 0
+2025-05-07 10:50:33,271 - INFO - blockageReason = 0
+2025-05-07 10:50:33,272 - INFO - hwError = 0
+2025-05-07 10:50:33,273 - INFO - Manual status signals updated from file
+2025-05-07 10:50:51,883 - INFO - Processing signals: {'wiperMode': 4, 'wiperSpeed': 2}
+2025-05-07 10:50:51,884 - INFO - Wipers fully stopped
+2025-05-07 10:50:51,886 - INFO - Started continuous front wiper (speed=fast)
+2025-05-07 10:50:55,962 - INFO - Processing signals: {'wiperMode': 4, 'wiperSpeed': 1}
+2025-05-07 10:50:56,064 - INFO - Wipers fully stopped
+2025-05-07 10:50:56,066 - INFO - Started continuous front wiper (speed=normal)
+2025-05-07 10:51:18,203 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 2}
+2025-05-07 10:51:18,304 - INFO - Wipers fully stopped
+2025-05-07 10:51:18,307 - INFO - Started continuous front wiper (speed=fast)
+2025-05-07 10:51:39,323 - INFO - Loaded manual status signals:
+2025-05-07 10:51:39,324 - INFO - consumedPower = 1555
+2025-05-07 10:51:39,325 - INFO - isWiperBlocked = 0
+2025-05-07 10:51:39,325 - INFO - blockageReason = 0
+2025-05-07 10:51:39,326 - INFO - hwError = 0
+2025-05-07 10:51:39,331 - INFO - Manual status signals updated from file
+2025-05-07 10:51:40,329 - ERROR - Status update error: byte must be in range(0, 256)
+2025-05-07 10:51:41,330 - ERROR - Status update error: byte must be in range(0, 256)
+2025-05-07 10:51:42,332 - ERROR - Status update error: byte must be in range(0, 256)
+2025-05-07 10:51:43,334 - ERROR - Status update error: byte must be in range(0, 256)
+2025-05-07 10:51:44,336 - ERROR - Status update error: byte must be in range(0, 256)
+2025-05-07 10:51:45,337 - ERROR - Status update error: byte must be in range(0, 256)
+2025-05-07 10:51:46,339 - ERROR - Status update error: byte must be in range(0, 256)
+2025-05-07 10:51:48,851 - ERROR - Status update error: byte must be in range(0, 256)
+2025-05-07 10:51:49,852 - ERROR - Status update error: byte must be in range(0, 256)
+2025-05-07 10:51:50,854 - ERROR - Status update error: byte must be in range(0, 256)
+2025-05-07 10:51:51,848 - INFO - Loaded manual status signals:
+2025-05-07 10:51:51,849 - INFO - consumedPower = 1
+2025-05-07 10:51:51,849 - INFO - isWiperBlocked = 0
+2025-05-07 10:51:51,850 - INFO - blockageReason = 0
+2025-05-07 10:51:51,850 - INFO - hwError = 0
+2025-05-07 10:51:51,852 - INFO - Manual status signals updated from file
+2025-05-07 10:52:13,550 - INFO - Received keyboard interrupt
+2025-05-07 10:52:13,552 - INFO - Shutting down...
+2025-05-07 10:52:13,654 - INFO - Wipers fully stopped
+2025-05-07 10:54:38,642 - INFO - Created a socket
+2025-05-07 10:54:38,650 - INFO - Loaded manual status signals:
+2025-05-07 10:54:38,651 - INFO - consumedPower = 1
+2025-05-07 10:54:38,652 - INFO - isWiperBlocked = 0
+2025-05-07 10:54:38,653 - INFO - blockageReason = 0
+2025-05-07 10:54:38,655 - INFO - hwError = 0
+2025-05-07 10:54:38,657 - INFO - Listening for CAN messages...
+2025-05-07 10:54:38,660 - INFO - Monitoring respond2.txt for manual signal changes...
+2025-05-07 10:54:38,661 - INFO - Wiper slave initialized
+2025-05-07 10:54:38,664 - INFO - Loaded manual status signals:
+2025-05-07 10:54:38,665 - INFO - consumedPower = 1
+2025-05-07 10:54:38,666 - INFO - isWiperBlocked = 0
+2025-05-07 10:54:38,667 - INFO - blockageReason = 0
+2025-05-07 10:54:38,668 - INFO - hwError = 0
+2025-05-07 10:54:38,668 - INFO - Manual status signals updated from file
+2025-05-07 10:55:05,688 - INFO - Loaded manual status signals:
+2025-05-07 10:55:05,689 - INFO - consumedPower = 1
+2025-05-07 10:55:05,690 - INFO - isWiperBlocked = 0
+2025-05-07 10:55:05,691 - INFO - blockageReason = 0
+2025-05-07 10:55:05,692 - INFO - hwError = 0
+2025-05-07 10:55:05,694 - INFO - Manual status signals updated from file
+2025-05-07 10:55:21,205 - INFO - Loaded manual status signals:
+2025-05-07 10:55:21,205 - INFO - consumedPower = 111
+2025-05-07 10:55:21,211 - INFO - isWiperBlocked = 0
+2025-05-07 10:55:21,212 - INFO - blockageReason = 0
+2025-05-07 10:55:21,213 - INFO - hwError = 0
+2025-05-07 10:55:21,214 - INFO - Manual status signals updated from file
+2025-05-07 10:55:29,722 - INFO - Loaded manual status signals:
+2025-05-07 10:55:29,723 - INFO - consumedPower = 11
+2025-05-07 10:55:29,723 - INFO - isWiperBlocked = 0
+2025-05-07 10:55:29,724 - INFO - blockageReason = 0
+2025-05-07 10:55:29,724 - INFO - hwError = 0
+2025-05-07 10:55:29,725 - INFO - Manual status signals updated from file
+2025-05-07 10:55:40,171 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 2}
+2025-05-07 10:55:40,172 - INFO - Wipers fully stopped
+2025-05-07 10:55:40,174 - INFO - Started continuous front wiper (speed=fast)
+2025-05-07 10:55:50,028 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 2}
+2025-05-07 10:55:50,130 - INFO - Wipers fully stopped
+2025-05-07 10:55:50,135 - INFO - Started continuous front wiper (speed=fast)
+2025-05-07 10:56:10,642 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 2}
+2025-05-07 10:56:10,743 - INFO - Wipers fully stopped
+2025-05-07 10:56:10,747 - INFO - Started continuous front wiper (speed=fast)
+2025-05-07 10:56:25,369 - INFO - Processing signals: {'wiperMode': 4, 'wiperSpeed': 1}
+2025-05-07 10:56:25,470 - INFO - Wipers fully stopped
+2025-05-07 10:56:25,474 - INFO - Started continuous front wiper (speed=normal)
+2025-05-07 10:56:36,224 - INFO - Processing signals: {'wiperMode': 4, 'wiperSpeed': 2}
+2025-05-07 10:56:36,326 - INFO - Wipers fully stopped
+2025-05-07 10:56:36,335 - INFO - Started continuous front wiper (speed=fast)
+2025-05-07 10:56:49,683 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1, 'WiperIntermittent': 1, 'wipingCycle': 1700}
+2025-05-07 10:56:49,786 - INFO - Wipers fully stopped
+2025-05-07 10:56:49,794 - INFO - Started intermittent rear wiper
+2025-05-07 10:56:49,796 - INFO - Started continuous front wiper (speed=normal)
+2025-05-07 10:56:59,708 - INFO - Processing signals: {}
+2025-05-07 10:56:59,909 - INFO - Wipers fully stopped
+2025-05-07 11:00:25,473 - INFO - Received keyboard interrupt
+2025-05-07 11:00:25,474 - INFO - Shutting down...
+2025-05-07 11:00:25,475 - INFO - Wipers fully stopped
+2025-05-13 00:58:23,815 - INFO - Created a socket
+2025-05-13 00:58:23,827 - INFO - Loaded manual status signals:
+2025-05-13 00:58:23,828 - INFO - consumedPower = 11
+2025-05-13 00:58:23,828 - INFO - isWiperBlocked = 0
+2025-05-13 00:58:23,829 - INFO - blockageReason = 0
+2025-05-13 00:58:23,829 - INFO - hwError = 0
+2025-05-13 00:58:23,830 - INFO - Listening for CAN messages...
+2025-05-13 00:58:23,833 - INFO - Monitoring respond2.txt for manual signal changes...
+2025-05-13 00:58:23,833 - INFO - Wiper slave initialized
+2025-05-13 00:58:23,835 - INFO - Loaded manual status signals:
+2025-05-13 00:58:23,836 - INFO - consumedPower = 11
+2025-05-13 00:58:23,836 - INFO - isWiperBlocked = 0
+2025-05-13 00:58:23,837 - INFO - blockageReason = 0
+2025-05-13 00:58:23,837 - INFO - hwError = 0
+2025-05-13 00:58:23,838 - INFO - Manual status signals updated from file
+2025-05-13 00:58:34,511 - INFO - Processing signals: {}
+2025-05-13 00:58:34,512 - INFO - Wipers fully stopped
+2025-05-13 00:59:02,014 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1, 'WiperIntermittent': 1, 'wipingCycle': 1700}
+2025-05-13 00:59:02,016 - INFO - Wipers fully stopped
+2025-05-13 00:59:02,019 - INFO - Started intermittent rear wiper
+2025-05-13 00:59:02,020 - INFO - Started continuous front wiper (speed=normal)
+2025-05-13 00:59:38,371 - INFO - Loaded manual status signals:
+2025-05-13 00:59:38,371 - INFO - consumedPower = 111
+2025-05-13 00:59:38,371 - INFO - isWiperBlocked = 0
+2025-05-13 00:59:38,372 - INFO - blockageReason = 0
+2025-05-13 00:59:38,372 - INFO - hwError = 0
+2025-05-13 00:59:38,372 - INFO - Manual status signals updated from file
+2025-05-13 01:00:25,507 - INFO - Processing signals: {'wiperMode': 4, 'wiperSpeed': 2}
+2025-05-13 01:00:25,708 - INFO - Wipers fully stopped
+2025-05-13 01:00:25,709 - INFO - Started continuous front wiper (speed=fast)
+2025-05-13 01:00:54,523 - INFO - Processing signals: {'wiperMode': 4, 'wiperSpeed': 1}
+2025-05-13 01:00:54,624 - INFO - Wipers fully stopped
+2025-05-13 01:00:54,626 - INFO - Started continuous front wiper (speed=normal)
+2025-05-13 01:01:08,530 - INFO - Processing signals: {'wiperMode': 4, 'wiperSpeed': 2}
+2025-05-13 01:01:08,631 - INFO - Wipers fully stopped
+2025-05-13 01:01:08,632 - INFO - Started continuous front wiper (speed=fast)
+2025-05-13 01:01:25,084 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1}
+2025-05-13 01:01:25,185 - INFO - Wipers fully stopped
+2025-05-13 01:01:25,187 - INFO - Started continuous front wiper (speed=normal)
+2025-05-13 01:01:42,940 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 2}
+2025-05-13 01:01:43,041 - INFO - Wipers fully stopped
+2025-05-13 01:01:43,043 - INFO - Started continuous front wiper (speed=fast)
+2025-05-13 01:02:28,177 - INFO - Received keyboard interrupt
+2025-05-13 01:02:28,178 - INFO - Shutting down...
+2025-05-13 01:02:28,279 - INFO - Wipers fully stopped
+2025-05-13 01:02:28,974 - ERROR - CAN monitoring error: Error receiving: Bad file descriptor [Error Code 9]
+2025-05-13 01:02:28,980 - INFO - Shutdown complete
+2025-05-13 01:19:55,744 - INFO - Created a socket
+2025-05-13 01:19:55,748 - INFO - Manual status signals updated from file
+2025-05-13 01:19:55,749 - INFO - Listening for CAN messages...
+2025-05-13 01:19:55,751 - INFO - Monitoring respond2.txt for manual signal changes...
+2025-05-13 01:19:55,751 - WARNING - Status send attempt 1 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-13 01:19:55,752 - INFO - Wiper slave initialized
+2025-05-13 01:19:55,754 - INFO - Manual status signals updated from file
+2025-05-13 01:19:55,755 - INFO - Manual status signals updated from file
+2025-05-13 01:19:55,853 - WARNING - Status send attempt 2 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-13 01:19:55,954 - WARNING - Status send attempt 3 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-13 01:19:55,954 - ERROR - Max retries reached for status update
+2025-05-13 01:19:56,955 - WARNING - Status send attempt 1 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-13 01:19:57,057 - WARNING - Status send attempt 2 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-13 01:19:57,159 - WARNING - Status send attempt 3 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-13 01:19:57,160 - ERROR - Max retries reached for status update
+2025-05-13 01:19:58,162 - WARNING - Status send attempt 1 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-13 01:19:58,265 - WARNING - Status send attempt 2 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-13 01:19:58,366 - WARNING - Status send attempt 3 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-13 01:19:58,367 - ERROR - Max retries reached for status update
+2025-05-13 01:19:59,368 - WARNING - Status send attempt 1 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-13 01:19:59,468 - WARNING - Status send attempt 2 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-13 01:19:59,569 - WARNING - Status send attempt 3 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-13 01:19:59,570 - ERROR - Max retries reached for status update
+2025-05-13 01:20:00,570 - WARNING - Status send attempt 1 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-13 01:20:01,345 - WARNING - Status send attempt 2 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-13 01:20:01,445 - WARNING - Status send attempt 3 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-13 01:20:01,446 - ERROR - Max retries reached for status update
+2025-05-13 01:20:02,447 - WARNING - Status send attempt 1 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-13 01:20:02,548 - WARNING - Status send attempt 2 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-13 01:20:02,648 - WARNING - Status send attempt 3 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-13 01:20:02,650 - ERROR - Max retries reached for status update
+2025-05-13 01:20:03,651 - WARNING - Status send attempt 1 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-13 01:20:03,752 - WARNING - Status send attempt 2 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-13 01:20:03,854 - WARNING - Status send attempt 3 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-13 01:20:03,854 - ERROR - Max retries reached for status update
+2025-05-13 01:20:04,855 - WARNING - Status send attempt 1 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-13 01:20:04,956 - WARNING - Status send attempt 2 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-13 01:20:05,057 - WARNING - Status send attempt 3 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-13 01:20:05,057 - ERROR - Max retries reached for status update
+2025-05-13 01:20:06,058 - WARNING - Status send attempt 1 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-13 01:20:06,159 - WARNING - Status send attempt 2 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-13 01:20:06,261 - WARNING - Status send attempt 3 failed: Failed to transmit: Network is down [Error Code 100]
+2025-05-13 01:20:06,262 - ERROR - Max retries reached for status update
+2025-05-13 01:20:07,237 - INFO - Received keyboard interrupt
+2025-05-13 01:20:07,238 - INFO - Shutting down...
+2025-05-13 01:20:07,239 - INFO - Wipers fully stopped
+2025-05-13 01:20:10,063 - INFO - Created a socket
+2025-05-13 01:20:10,067 - INFO - Manual status signals updated from file
+2025-05-13 01:20:10,069 - INFO - Listening for CAN messages...
+2025-05-13 01:20:10,070 - INFO - Monitoring respond2.txt for manual signal changes...
+2025-05-13 01:20:10,071 - INFO - Wiper slave initialized
+2025-05-13 01:20:10,073 - INFO - Manual status signals updated from file
+2025-05-13 01:20:10,073 - INFO - Manual status signals updated from file
+2025-05-13 01:20:34,248 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 2}
+2025-05-13 01:20:34,249 - INFO - Wipers fully stopped
+2025-05-13 01:20:34,250 - INFO - Started continuous front wiper (speed=fast)
+2025-05-13 01:20:53,907 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 2}
+2025-05-13 01:20:54,008 - INFO - Wipers fully stopped
+2025-05-13 01:20:54,009 - INFO - Started continuous front wiper (speed=fast)
+2025-05-13 01:21:17,421 - INFO - Processing signals: {'wiperMode': 4, 'wiperSpeed': 1}
+2025-05-13 01:21:17,522 - INFO - Wipers fully stopped
+2025-05-13 01:21:17,524 - INFO - Started continuous front wiper (speed=normal)
+2025-05-13 01:21:32,277 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1, 'WiperIntermittent': 1, 'wipingCycle': 1700}
+2025-05-13 01:21:32,378 - INFO - Wipers fully stopped
+2025-05-13 01:21:32,380 - INFO - Started intermittent rear wiper
+2025-05-13 01:21:32,380 - INFO - Started continuous front wiper (speed=normal)
+2025-05-13 01:21:49,886 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1}
+2025-05-13 01:21:50,087 - INFO - Wipers fully stopped
+2025-05-13 01:21:50,089 - INFO - Started intermittent rear wiper
+2025-05-13 01:21:50,090 - INFO - Started continuous front wiper (speed=normal)
+2025-05-13 01:22:04,290 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1}
+2025-05-13 01:22:04,491 - INFO - Wipers fully stopped
+2025-05-13 01:22:04,494 - INFO - Started intermittent rear wiper
+2025-05-13 01:22:04,494 - INFO - Started continuous front wiper (speed=normal)
+2025-05-13 01:22:25,139 - INFO - Manual status signals updated from file
+2025-05-13 01:22:25,140 - INFO - Manual status signals updated from file
+2025-05-13 01:22:41,680 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 2}
+2025-05-13 01:22:41,881 - INFO - Wipers fully stopped
+2025-05-13 01:22:41,887 - INFO - Started continuous front wiper (speed=fast)
+2025-05-13 01:23:50,097 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1}
+2025-05-13 01:23:50,197 - INFO - Wipers fully stopped
+2025-05-13 01:23:50,199 - INFO - Started intermittent rear wiper
+2025-05-13 01:23:50,200 - INFO - Started continuous front wiper (speed=normal)
+2025-05-13 01:23:57,364 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 2}
+2025-05-13 01:23:57,566 - INFO - Wipers fully stopped
+2025-05-13 01:23:57,568 - INFO - Started continuous front wiper (speed=fast)
+2025-05-13 01:24:12,972 - INFO - Processing signals: {'wiperMode': 4, 'wiperSpeed': 1}
+2025-05-13 01:24:13,073 - INFO - Wipers fully stopped
+2025-05-13 01:24:13,074 - INFO - Started continuous front wiper (speed=normal)
+2025-05-13 01:24:24,525 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 2}
+2025-05-13 01:24:24,629 - INFO - Wipers fully stopped
+2025-05-13 01:24:24,633 - INFO - Started continuous front wiper (speed=fast)
+2025-05-13 01:24:42,137 - INFO - Processing signals: {'wiperMode': 1, 'wiperSpeed': 1, 'wiperCycleCount': 1}
+2025-05-13 01:24:42,238 - INFO - Wipers fully stopped
+2025-05-13 01:24:42,239 - INFO - Started touch mode (single wipe)
+2025-05-13 01:31:40,167 - INFO - Received keyboard interrupt
+2025-05-13 01:31:40,167 - INFO - Shutting down...
+2025-05-13 01:31:40,168 - INFO - Wipers fully stopped
+2025-05-13 12:01:38,922 - INFO - Created a socket
+2025-05-13 12:01:38,937 - INFO - Manual status signals updated from file
+2025-05-13 12:01:38,940 - INFO - Listening for CAN messages...
+2025-05-13 12:01:38,944 - INFO - Monitoring respond2.txt for manual signal changes...
+2025-05-13 12:01:38,946 - INFO - Wiper slave initialized
+2025-05-13 12:01:38,948 - INFO - Manual status signals updated from file
+2025-05-13 12:01:38,949 - INFO - Manual status signals updated from file
+2025-05-13 12:03:26,032 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1}
+2025-05-13 12:03:26,033 - INFO - Wipers fully stopped
+2025-05-13 12:03:26,035 - INFO - Started continuous front wiper (speed=normal)
+2025-05-13 12:03:42,791 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1}
+2025-05-13 12:03:42,892 - INFO - Wipers fully stopped
+2025-05-13 12:03:42,895 - INFO - Started continuous front wiper (speed=normal)
+2025-05-13 12:04:28,678 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1, 'WiperIntermittent': 1, 'wipingCycle': 1700}
+2025-05-13 12:04:28,779 - INFO - Wipers fully stopped
+2025-05-13 12:04:28,786 - INFO - Started intermittent rear wiper
+2025-05-13 12:04:28,787 - INFO - Started continuous front wiper (speed=normal)
+2025-05-13 12:04:43,236 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1, 'WiperIntermittent': 1, 'wipingCycle': 1700}
+2025-05-13 12:04:43,439 - INFO - Wipers fully stopped
+2025-05-13 12:04:43,445 - INFO - Started intermittent rear wiper
+2025-05-13 12:04:43,446 - INFO - Started continuous front wiper (speed=normal)
+2025-05-13 12:04:43,448 - INFO - Processing signals: {}
+2025-05-13 12:04:43,650 - INFO - Wipers fully stopped
+2025-05-13 12:04:43,654 - INFO - Started intermittent rear wiper
+2025-05-13 12:04:43,655 - INFO - Started continuous front wiper (speed=normal)
+2025-05-13 12:04:56,091 - INFO - Processing signals: {}
+2025-05-13 12:04:56,292 - INFO - Wipers fully stopped
+2025-05-13 12:04:56,296 - INFO - Started intermittent rear wiper
+2025-05-13 12:04:56,297 - INFO - Started continuous front wiper (speed=normal)
+2025-05-13 12:05:28,807 - INFO - Received keyboard interrupt
+2025-05-13 12:05:28,809 - INFO - Shutting down...
+2025-05-13 12:05:32,960 - INFO - Created a socket
+2025-05-13 12:05:32,968 - INFO - Manual status signals updated from file
+2025-05-13 12:05:32,970 - INFO - Listening for CAN messages...
+2025-05-13 12:05:32,974 - INFO - Monitoring respond2.txt for manual signal changes...
+2025-05-13 12:05:32,974 - INFO - Wiper slave initialized
+2025-05-13 12:05:32,978 - INFO - Manual status signals updated from file
+2025-05-13 12:05:32,979 - INFO - Manual status signals updated from file
+2025-05-13 12:05:36,987 - INFO - Processing signals: {}
+2025-05-13 12:05:36,988 - INFO - Wipers fully stopped
+2025-05-13 12:05:55,912 - INFO - Processing signals: {'wiperMode': 4, 'wiperSpeed': 1}
+2025-05-13 12:05:55,913 - INFO - Wipers fully stopped
+2025-05-13 12:05:55,915 - INFO - Started continuous front wiper (speed=normal)
+2025-05-13 12:06:06,774 - INFO - Processing signals: {'wiperMode': 4, 'wiperSpeed': 2}
+2025-05-13 12:06:06,875 - INFO - Wipers fully stopped
+2025-05-13 12:06:06,878 - INFO - Started continuous front wiper (speed=fast)
+2025-05-13 12:06:18,187 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1, 'WiperIntermittent': 1, 'wipingCycle': 1700}
+2025-05-13 12:06:18,289 - INFO - Wipers fully stopped
+2025-05-13 12:06:18,293 - INFO - Started intermittent rear wiper
+2025-05-13 12:06:18,294 - INFO - Started continuous front wiper (speed=normal)
+2025-05-13 12:06:37,355 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 2}
+2025-05-13 12:06:37,559 - INFO - Wipers fully stopped
+2025-05-13 12:06:37,562 - INFO - Started continuous front wiper (speed=fast)
+2025-05-13 12:06:51,981 - INFO - Processing signals: {}
+2025-05-13 12:06:52,082 - INFO - Wipers fully stopped
+2025-05-13 12:06:52,085 - INFO - Started continuous front wiper (speed=fast)
+2025-05-13 12:07:09,258 - INFO - Processing signals: {}
+2025-05-13 12:07:09,359 - INFO - Wipers fully stopped
+2025-05-13 12:07:09,361 - INFO - Started continuous front wiper (speed=fast)
+2025-05-13 12:08:16,604 - INFO - Received keyboard interrupt
+2025-05-13 12:08:16,605 - INFO - Shutting down...
+2025-05-13 12:08:16,708 - INFO - Wipers fully stopped
+2025-05-13 12:14:46,255 - INFO - Created a socket
+2025-05-13 12:14:46,263 - INFO - Manual status signals updated from file
+2025-05-13 12:14:46,266 - INFO - Listening for CAN messages...
+2025-05-13 12:14:46,269 - INFO - Monitoring respond2.txt for manual signal changes...
+2025-05-13 12:14:46,270 - INFO - Wiper slave initialized
+2025-05-13 12:14:46,272 - INFO - Manual status signals updated from file
+2025-05-13 12:14:46,273 - INFO - Manual status signals updated from file
+2025-05-13 12:14:58,193 - INFO - Processing signals: {'wiperMode': 1, 'wiperSpeed': 1, 'wiperCycleCount': 1}
+2025-05-13 12:14:58,194 - INFO - Wipers fully stopped
+2025-05-13 12:14:58,197 - INFO - Started touch mode (single wipe)
+2025-05-13 12:15:08,750 - INFO - Processing signals: {'wiperMode': 1, 'wiperSpeed': 1, 'wiperCycleCount': 1}
+2025-05-13 12:15:08,752 - INFO - Wipers fully stopped
+2025-05-13 12:15:08,754 - INFO - Started touch mode (single wipe)
+2025-05-13 12:15:13,602 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1}
+2025-05-13 12:15:13,603 - INFO - Wipers fully stopped
+2025-05-13 12:15:13,605 - INFO - Started continuous front wiper (speed=normal)
+2025-05-13 12:15:22,451 - INFO - Processing signals: {}
+2025-05-13 12:15:22,553 - INFO - Wipers fully stopped
+2025-05-13 12:15:22,556 - INFO - Started continuous front wiper (speed=normal)
+2025-05-13 12:15:36,066 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 2}
+2025-05-13 12:15:36,168 - INFO - Wipers fully stopped
+2025-05-13 12:15:36,172 - INFO - Started continuous front wiper (speed=fast)
+2025-05-13 12:15:41,218 - INFO - Processing signals: {}
+2025-05-13 12:15:41,320 - INFO - Wipers fully stopped
+2025-05-13 12:15:41,324 - INFO - Started continuous front wiper (speed=fast)
+2025-05-13 12:15:49,805 - INFO - Received keyboard interrupt
+2025-05-13 12:15:49,806 - INFO - Shutting down...
+2025-05-13 12:15:49,908 - INFO - Wipers fully stopped
+2025-05-13 12:17:31,451 - INFO - Created a socket
+2025-05-13 12:17:31,461 - INFO - Manual status signals updated from file
+2025-05-13 12:17:31,464 - INFO - Listening for CAN messages...
+2025-05-13 12:17:31,468 - INFO - Monitoring respond2.txt for manual signal changes...
+2025-05-13 12:17:31,469 - INFO - Wiper slave initialized
+2025-05-13 12:17:31,471 - INFO - Manual status signals updated from file
+2025-05-13 12:17:31,472 - INFO - Manual status signals updated from file
+2025-05-13 12:17:34,702 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1, 'WiperIntermittent': 1, 'wipingCycle': 1700}
+2025-05-13 12:17:34,703 - INFO - Wipers fully stopped
+2025-05-13 12:17:34,706 - INFO - Started intermittent rear wiper
+2025-05-13 12:17:34,707 - INFO - Started continuous front wiper (speed=normal)
+2025-05-13 12:17:43,939 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1, 'WiperIntermittent': 1, 'wipingCycle': 1700}
+2025-05-13 12:17:44,141 - INFO - Wipers fully stopped
+2025-05-13 12:17:44,145 - INFO - Started intermittent rear wiper
+2025-05-13 12:17:44,146 - INFO - Started continuous front wiper (speed=normal)
+2025-05-13 12:18:02,413 - INFO - Processing signals: {'wiperMode': 4, 'wiperSpeed': 2}
+2025-05-13 12:18:02,615 - INFO - Wipers fully stopped
+2025-05-13 12:18:02,618 - INFO - Started continuous front wiper (speed=fast)
+2025-05-13 12:18:07,234 - INFO - Processing signals: {'wiperMode': 1, 'wiperSpeed': 1, 'wiperCycleCount': 1}
+2025-05-13 12:18:07,338 - INFO - Wipers fully stopped
+2025-05-13 12:18:07,340 - INFO - Started touch mode (single wipe)
+2025-05-13 12:18:17,090 - INFO - Processing signals: {'wiperMode': 1, 'wiperSpeed': 1, 'wiperCycleCount': 1}
+2025-05-13 12:18:17,092 - INFO - Wipers fully stopped
+2025-05-13 12:18:17,094 - INFO - Started touch mode (single wipe)
+2025-05-13 12:18:24,947 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1}
+2025-05-13 12:18:24,948 - INFO - Wipers fully stopped
+2025-05-13 12:18:24,952 - INFO - Started intermittent rear wiper
+2025-05-13 12:18:24,953 - INFO - Started continuous front wiper (speed=normal)
+2025-05-13 12:18:31,096 - INFO - Processing signals: {}
+2025-05-13 12:18:31,299 - INFO - Wipers fully stopped
+2025-05-13 12:18:31,302 - INFO - Started intermittent rear wiper
+2025-05-13 12:18:31,304 - INFO - Started continuous front wiper (speed=normal)
+2025-05-13 12:18:45,651 - INFO - Processing signals: {}
+2025-05-13 12:18:45,852 - INFO - Wipers fully stopped
+2025-05-13 12:18:45,856 - INFO - Started intermittent rear wiper
+2025-05-13 12:18:45,857 - INFO - Started continuous front wiper (speed=normal)
+2025-05-13 12:24:55,154 - INFO - Processing signals: {}
+2025-05-13 12:24:55,356 - INFO - Wipers fully stopped
+2025-05-13 12:24:55,360 - INFO - Started intermittent rear wiper
+2025-05-13 12:24:55,361 - INFO - Started continuous front wiper (speed=normal)
+2025-05-13 12:24:56,720 - INFO - Received keyboard interrupt
+2025-05-13 12:24:56,721 - INFO - Shutting down...
+2025-05-13 12:25:00,629 - INFO - Created a socket
+2025-05-13 12:25:00,637 - INFO - Manual status signals updated from file
+2025-05-13 12:25:00,640 - INFO - Listening for CAN messages...
+2025-05-13 12:25:00,643 - INFO - Monitoring respond2.txt for manual signal changes...
+2025-05-13 12:25:00,644 - INFO - Wiper slave initialized
+2025-05-13 12:25:00,647 - INFO - Manual status signals updated from file
+2025-05-13 12:25:00,647 - INFO - Manual status signals updated from file
+2025-05-13 12:25:13,679 - INFO - Received CAN message: ID=0x100, Data=['0x2', '0x1', '0x0', '0x0', '0x0', '0x0', '0x0', '0x0'], Parsed signals={'wiperMode': 2, 'wiperSpeed': 1, 'wiperCycleCount': 0, 'WiperIntermittent': 0}
+2025-05-13 12:25:13,681 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1, 'wiperCycleCount': 0, 'WiperIntermittent': 0}
+2025-05-13 12:25:13,681 - INFO - Wipers fully stopped, mode reset to 0
+2025-05-13 12:25:13,682 - INFO - Wiper mode is 0, wipers stopped
+2025-05-13 12:25:23,444 - INFO - Received CAN message: ID=0x100, Data=['0x2', '0x2', '0x0', '0x0', '0x0', '0x0', '0x0', '0x0'], Parsed signals={'wiperMode': 2, 'wiperSpeed': 2, 'wiperCycleCount': 0, 'WiperIntermittent': 0}
+2025-05-13 12:25:23,446 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 2, 'wiperCycleCount': 0, 'WiperIntermittent': 0}
+2025-05-13 12:25:23,447 - INFO - Wipers fully stopped, mode reset to 0
+2025-05-13 12:25:23,447 - INFO - Wiper mode is 0, wipers stopped
+2025-05-13 12:25:39,249 - INFO - Received keyboard interrupt
+2025-05-13 12:25:39,250 - INFO - Shutting down...
+2025-05-13 12:25:39,253 - INFO - Wipers fully stopped, mode reset to 0
+2025-05-13 12:25:42,896 - INFO - Created a socket
+2025-05-13 12:25:42,905 - INFO - Manual status signals updated from file
+2025-05-13 12:25:42,907 - INFO - Listening for CAN messages...
+2025-05-13 12:25:42,911 - INFO - Monitoring respond2.txt for manual signal changes...
+2025-05-13 12:25:42,911 - INFO - Wiper slave initialized
+2025-05-13 12:25:42,915 - INFO - Manual status signals updated from file
+2025-05-13 12:25:42,916 - INFO - Manual status signals updated from file
+2025-05-13 12:25:46,773 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 2}
+2025-05-13 12:25:46,774 - INFO - Wipers fully stopped
+2025-05-13 12:25:46,776 - INFO - Started continuous front wiper (speed=fast)
+2025-05-13 12:26:00,540 - INFO - Processing signals: {}
+2025-05-13 12:26:00,641 - INFO - Wipers fully stopped
+2025-05-13 12:26:00,645 - INFO - Started continuous front wiper (speed=fast)
+2025-05-13 12:26:10,240 - INFO - Processing signals: {}
+2025-05-13 12:26:10,948 - INFO - Wipers fully stopped
+2025-05-13 12:26:10,951 - INFO - Started continuous front wiper (speed=fast)
+2025-05-13 12:26:21,440 - INFO - Manual status signals updated from file
+2025-05-13 12:26:21,441 - INFO - Manual status signals updated from file
+2025-05-13 12:26:41,744 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1}
+2025-05-13 12:26:41,848 - INFO - Wipers fully stopped
+2025-05-13 12:26:41,850 - INFO - Started continuous front wiper (speed=normal)
+2025-05-13 12:26:47,431 - INFO - Received keyboard interrupt
+2025-05-13 12:26:47,432 - INFO - Shutting down...
+2025-05-13 12:26:47,533 - INFO - Wipers fully stopped
+2025-05-13 12:59:02,680 - INFO - Created a socket
+2025-05-13 12:59:02,688 - INFO - Listening for CAN messages...
+2025-05-13 12:59:02,689 - INFO - Wiper slave initialized
+2025-05-13 12:59:25,691 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1}
+2025-05-13 12:59:25,693 - INFO - Wipers fully stopped
+2025-05-13 12:59:25,695 - INFO - Sent response CAN: 010100006f000000
+2025-05-13 12:59:25,699 - INFO - Started continuous front wiper (speed=normal)
+2025-05-13 12:59:25,701 - INFO - Sent response CAN: 010110026f000000
+2025-05-13 12:59:38,306 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 2}
+2025-05-13 12:59:38,328 - INFO - Sent response CAN: 010100026f000000
+2025-05-13 12:59:38,330 - INFO - Wipers fully stopped
+2025-05-13 12:59:38,332 - INFO - Sent response CAN: 010100026f000000
+2025-05-13 12:59:38,338 - INFO - Started continuous front wiper (speed=fast)
+2025-05-13 12:59:38,342 - INFO - Sent response CAN: 010210026f000000
+2025-05-13 12:59:49,115 - INFO - Processing signals: {}
+2025-05-13 12:59:49,130 - INFO - Sent response CAN: 010200026f000000
+2025-05-13 12:59:49,132 - INFO - Wipers fully stopped
+2025-05-13 12:59:49,137 - INFO - Sent response CAN: 010200026f000000
+2025-05-13 12:59:49,142 - INFO - Sent response CAN: 010100006f000000
+2025-05-13 13:00:04,131 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1, 'WiperIntermittent': 1, 'wipingCycle': 1700}
+2025-05-13 13:00:04,132 - INFO - Wipers fully stopped
+2025-05-13 13:00:04,133 - INFO - Sent response CAN: 010100006f000000
+2025-05-13 13:00:04,137 - INFO - Started intermittent rear wiper
+2025-05-13 13:00:04,138 - INFO - Started continuous front wiper (speed=normal)
+2025-05-13 13:00:04,139 - INFO - Sent response CAN: 010120026f000000
+2025-05-13 13:00:17,347 - INFO - Processing signals: {'wiperMode': 4, 'wiperSpeed': 2}
+2025-05-13 13:00:17,364 - INFO - Sent response CAN: 010100026f000000
+2025-05-13 13:00:17,466 - INFO - Wipers fully stopped
+2025-05-13 13:00:17,469 - INFO - Sent response CAN: 010100026f000000
+2025-05-13 13:00:17,473 - INFO - Started continuous front wiper (speed=fast)
+2025-05-13 13:00:17,474 - INFO - Sent response CAN: 010210046f000000
+2025-05-13 13:00:18,553 - INFO - Sent response CAN: 010200046f000000
+2025-05-13 13:00:28,163 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 2}
+2025-05-13 13:00:28,173 - INFO - Sent response CAN: 010200046f000000
+2025-05-13 13:00:28,174 - INFO - Wipers fully stopped
+2025-05-13 13:00:28,177 - INFO - Sent response CAN: 010200046f000000
+2025-05-13 13:00:28,181 - INFO - Started continuous front wiper (speed=fast)
+2025-05-13 13:00:28,182 - INFO - Sent response CAN: 010210026f000000
+2025-05-13 13:00:37,170 - INFO - Processing signals: {}
+2025-05-13 13:00:37,210 - INFO - Sent response CAN: 010200026f000000
+2025-05-13 13:00:37,213 - INFO - Wipers fully stopped
+2025-05-13 13:00:37,215 - INFO - Sent response CAN: 010200026f000000
+2025-05-13 13:00:37,218 - INFO - Sent response CAN: 010100006f000000
+2025-05-13 13:00:55,188 - INFO - Processing signals: {'wiperMode': 1, 'wiperSpeed': 1, 'wiperCycleCount': 1}
+2025-05-13 13:00:55,190 - INFO - Wipers fully stopped
+2025-05-13 13:00:55,203 - INFO - Sent response CAN: 010100006f000000
+2025-05-13 13:00:55,207 - INFO - Started touch mode (single wipe)
+2025-05-13 13:00:55,209 - INFO - Sent response CAN: 010110016f000000
+2025-05-13 13:00:55,809 - INFO - Sent response CAN: 010100016f000000
+2025-05-13 13:01:06,303 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 2}
+2025-05-13 13:01:06,305 - INFO - Wipers fully stopped
+2025-05-13 13:01:06,318 - INFO - Sent response CAN: 010100016f000000
+2025-05-13 13:01:06,322 - INFO - Started continuous front wiper (speed=fast)
+2025-05-13 13:01:06,323 - INFO - Sent response CAN: 010210026f000000
+2025-05-13 13:01:30,324 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1, 'WiperIntermittent': 1, 'wipingCycle': 1700}
+2025-05-13 13:01:30,331 - INFO - Sent response CAN: 010200026f000000
+2025-05-13 13:01:30,334 - INFO - Wipers fully stopped
+2025-05-13 13:01:30,335 - INFO - Sent response CAN: 010200026f000000
+2025-05-13 13:01:30,341 - INFO - Started intermittent rear wiper
+2025-05-13 13:01:30,342 - INFO - Started continuous front wiper (speed=normal)
+2025-05-13 13:01:30,343 - INFO - Sent response CAN: 010120026f000000
+2025-05-13 13:01:55,543 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 2}
+2025-05-13 13:01:55,603 - INFO - Sent response CAN: 010100026f000000
+2025-05-13 13:01:55,658 - INFO - Sent response CAN: 010100026f000000
+2025-05-13 13:01:55,660 - INFO - Wipers fully stopped
+2025-05-13 13:01:55,661 - INFO - Sent response CAN: 010100026f000000
+2025-05-13 13:01:55,665 - INFO - Started continuous front wiper (speed=fast)
+2025-05-13 13:01:55,667 - INFO - Sent response CAN: 010210026f000000
+2025-05-13 13:02:04,257 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1}
+2025-05-13 13:02:04,302 - INFO - Sent response CAN: 010200026f000000
+2025-05-13 13:02:04,303 - INFO - Wipers fully stopped
+2025-05-13 13:02:04,304 - INFO - Sent response CAN: 010200026f000000
+2025-05-13 13:02:04,309 - INFO - Started continuous front wiper (speed=normal)
+2025-05-13 13:02:04,311 - INFO - Sent response CAN: 010110026f000000
+2025-05-13 13:02:41,786 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 2}
+2025-05-13 13:02:41,809 - INFO - Sent response CAN: 010100026f000000
+2025-05-13 13:02:41,810 - INFO - Wipers fully stopped
+2025-05-13 13:02:41,812 - INFO - Sent response CAN: 010100026f000000
+2025-05-13 13:02:41,817 - INFO - Started continuous front wiper (speed=fast)
+2025-05-13 13:02:41,819 - INFO - Sent response CAN: 010210026f000000
+2025-05-13 13:02:57,401 - INFO - Processing signals: {}
+2025-05-13 13:02:57,431 - INFO - Sent response CAN: 010200026f000000
+2025-05-13 13:02:57,433 - INFO - Wipers fully stopped
+2025-05-13 13:02:57,436 - INFO - Sent response CAN: 010200026f000000
+2025-05-13 13:02:57,440 - INFO - Sent response CAN: 010100006f000000
+2025-05-13 13:03:04,089 - INFO - Processing signals: {'wiperMode': 1, 'wiperSpeed': 1, 'wiperCycleCount': 1}
+2025-05-13 13:03:04,090 - INFO - Wipers fully stopped
+2025-05-13 13:03:04,104 - INFO - Sent response CAN: 010100006f000000
+2025-05-13 13:03:04,107 - INFO - Started touch mode (single wipe)
+2025-05-13 13:03:04,109 - INFO - Sent response CAN: 010110016f000000
+2025-05-13 13:03:04,709 - INFO - Sent response CAN: 010100016f000000
+2025-05-13 13:03:29,124 - INFO - Received keyboard interrupt
+2025-05-13 13:03:29,126 - INFO - Shutting down...
+2025-05-13 13:03:29,127 - INFO - Wipers fully stopped
+2025-05-13 13:03:29,128 - INFO - Sent response CAN: 010100016f000000
+2025-05-13 13:03:29,202 - INFO - Shutdown complete
+2025-05-13 13:03:33,240 - INFO - Created a socket
+2025-05-13 13:03:33,247 - INFO - Listening for CAN messages...
+2025-05-13 13:03:33,247 - INFO - Wiper slave initialized
+2025-05-13 13:03:43,215 - INFO - Processing signals: {'wiperMode': 1, 'wiperSpeed': 1, 'wiperCycleCount': 1}
+2025-05-13 13:03:43,216 - INFO - Wipers fully stopped
+2025-05-13 13:03:43,218 - INFO - Sent response CAN: 0101000021000000
+2025-05-13 13:03:43,221 - INFO - Started touch mode (single wipe)
+2025-05-13 13:03:43,222 - INFO - Sent response CAN: 0101100121000000
+2025-05-13 13:03:43,822 - INFO - Sent response CAN: 0101000121000000
+2025-05-13 13:06:41,773 - INFO - Received keyboard interrupt
+2025-05-13 13:06:41,774 - INFO - Shutting down...
+2025-05-13 13:06:41,775 - INFO - Wipers fully stopped
+2025-05-13 13:06:41,777 - INFO - Sent response CAN: 0101000121000000
+2025-05-13 13:06:45,057 - INFO - Created a socket
+2025-05-13 13:06:45,067 - INFO - Listening for CAN messages...
+2025-05-13 13:06:45,072 - INFO - Monitoring response.txt...
+2025-05-13 13:06:45,073 - INFO - Wiper slave initialized
+2025-05-13 13:06:45,075 - INFO - response.txt changed, updating signals
+2025-05-13 13:06:45,077 - INFO - Sent response CAN: 0101000021000000
+2025-05-13 13:06:59,529 - INFO - Processing signals: {'wiperMode': 1, 'wiperSpeed': 1, 'wiperCycleCount': 1}
+2025-05-13 13:06:59,530 - INFO - Wipers fully stopped
+2025-05-13 13:06:59,531 - INFO - Sent response CAN: 0101000021000000
+2025-05-13 13:06:59,535 - INFO - Started touch mode (single wipe)
+2025-05-13 13:06:59,537 - INFO - Sent response CAN: 0101100121000000
+2025-05-13 13:07:00,137 - INFO - Sent response CAN: 0101000121000000
+2025-05-13 13:07:04,339 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1}
+2025-05-13 13:07:04,340 - INFO - Wipers fully stopped
+2025-05-13 13:07:04,342 - INFO - Sent response CAN: 0101000121000000
+2025-05-13 13:07:04,345 - INFO - Started continuous front wiper (speed=normal)
+2025-05-13 13:07:04,347 - INFO - Sent response CAN: 0101100221000000
+2025-05-13 13:07:13,353 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1, 'WiperIntermittent': 1, 'wipingCycle': 1700}
+2025-05-13 13:07:13,373 - INFO - Sent response CAN: 0101000221000000
+2025-05-13 13:07:13,375 - INFO - Wipers fully stopped
+2025-05-13 13:07:13,377 - INFO - Sent response CAN: 0101000221000000
+2025-05-13 13:07:13,380 - INFO - Started intermittent rear wiper
+2025-05-13 13:07:13,381 - INFO - Started continuous front wiper (speed=normal)
+2025-05-13 13:07:13,382 - INFO - Sent response CAN: 0101200221000000
+2025-05-13 13:07:18,458 - INFO - Processing signals: {}
+2025-05-13 13:07:18,485 - INFO - Sent response CAN: 0101000221000000
+2025-05-13 13:07:18,491 - INFO - Sent response CAN: 0101000221000000
+2025-05-13 13:07:18,494 - INFO - Wipers fully stopped
+2025-05-13 13:07:18,495 - INFO - Sent response CAN: 0101000221000000
+2025-05-13 13:07:18,498 - INFO - Sent response CAN: 0101000021000000
+2025-05-13 13:07:26,873 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1, 'WiperIntermittent': 1, 'wipingCycle': 1700}
+2025-05-13 13:07:26,874 - INFO - Wipers fully stopped
+2025-05-13 13:07:26,875 - INFO - Sent response CAN: 0101000021000000
+2025-05-13 13:07:26,879 - INFO - Started intermittent rear wiper
+2025-05-13 13:07:26,879 - INFO - Started continuous front wiper (speed=normal)
+2025-05-13 13:07:26,881 - INFO - Sent response CAN: 0101200221000000
+2025-05-13 13:07:37,927 - INFO - response.txt changed, updating signals
+2025-05-13 13:07:37,935 - INFO - Sent response CAN: 0101300223000000
+2025-05-13 13:07:56,598 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 1}
+2025-05-13 13:07:56,679 - INFO - Sent response CAN: 0101000223000000
+2025-05-13 13:07:56,785 - INFO - Wipers fully stopped
+2025-05-13 13:07:56,787 - INFO - Sent response CAN: 0101000223000000
+2025-05-13 13:07:56,791 - INFO - Started continuous front wiper (speed=normal)
+2025-05-13 13:07:56,792 - INFO - Sent response CAN: 0101100223000000
+2025-05-13 13:07:57,401 - INFO - Sent response CAN: 0101000223000000
+2025-05-13 13:08:07,113 - INFO - Processing signals: {'wiperMode': 2, 'wiperSpeed': 2}
+2025-05-13 13:08:07,211 - INFO - Sent response CAN: 0101000223000000
+2025-05-13 13:08:07,212 - INFO - Wipers fully stopped
+2025-05-13 13:08:07,214 - INFO - Sent response CAN: 0101000223000000
+2025-05-13 13:08:07,217 - INFO - Started continuous front wiper (speed=fast)
+2025-05-13 13:08:07,218 - INFO - Sent response CAN: 0102100223000000
+2025-05-13 13:08:20,927 - INFO - Processing signals: {'wiperMode': 4, 'wiperSpeed': 1}
+2025-05-13 13:08:20,978 - INFO - Sent response CAN: 0102000223000000
+2025-05-13 13:08:20,982 - INFO - Wipers fully stopped
+2025-05-13 13:08:20,985 - INFO - Sent response CAN: 0102000223000000
+2025-05-13 13:08:20,988 - INFO - Started continuous front wiper (speed=normal)
+2025-05-13 13:08:20,990 - INFO - Sent response CAN: 0101100423000000
+2025-05-13 13:12:13,655 - INFO - Processing signals: {'wiperMode': 4, 'wiperSpeed': 1}
+2025-05-13 13:12:13,744 - INFO - Sent response CAN: 0101000423000000
+2025-05-13 13:12:13,745 - INFO - Wipers fully stopped
+2025-05-13 13:12:13,747 - INFO - Sent response CAN: 0101000423000000
+2025-05-13 13:12:13,749 - INFO - Started continuous front wiper (speed=normal)
+2025-05-13 13:12:13,751 - INFO - Sent response CAN: 0101100423000000
+2025-05-13 13:12:32,274 - INFO - Processing signals: {'wiperMode': 4, 'wiperSpeed': 2}
+2025-05-13 13:12:32,295 - INFO - Sent response CAN: 0101000423000000
+2025-05-13 13:12:32,296 - INFO - Wipers fully stopped
+2025-05-13 13:12:32,298 - INFO - Sent response CAN: 0101000423000000
+2025-05-13 13:12:32,302 - INFO - Started continuous front wiper (speed=fast)
+2025-05-13 13:12:32,304 - INFO - Sent response CAN: 0102100423000000
+2025-05-13 13:15:52,278 - INFO - response.txt changed, updating signals
+2025-05-13 13:15:52,282 - INFO - Sent response CAN: 010220044d000000
+2025-05-13 13:16:06,306 - INFO - Processing signals: {'wiperMode': 4, 'wiperSpeed': 1}
+2025-05-13 13:16:06,334 - INFO - Sent response CAN: 010200044d000000
+2025-05-13 13:16:06,335 - INFO - Wipers fully stopped
+2025-05-13 13:16:06,337 - INFO - Sent response CAN: 010200044d000000
+2025-05-13 13:16:06,340 - INFO - Started continuous front wiper (speed=normal)
+2025-05-13 13:16:06,342 - INFO - Sent response CAN: 010110044d000000
+2025-05-13 13:16:32,423 - INFO - Processing signals: {}
+2025-05-13 13:16:32,506 - INFO - Sent response CAN: 010100044d000000
+2025-05-13 13:16:32,510 - INFO - Wipers fully stopped
+2025-05-13 13:16:32,512 - INFO - Sent response CAN: 010100044d000000
+2025-05-13 13:16:32,516 - INFO - Sent response CAN: 010100004d000000
+2025-05-13 13:16:44,655 - INFO - Received keyboard interrupt
+2025-05-13 13:16:44,657 - INFO - Shutting down...
+2025-05-13 13:16:44,658 - INFO - Wipers fully stopped
+2025-05-13 13:16:44,660 - INFO - Sent response CAN: 010100004d000000

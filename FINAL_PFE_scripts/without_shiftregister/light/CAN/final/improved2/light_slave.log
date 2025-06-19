@@ -1,0 +1,90 @@
+2025-06-01 00:39:20,778 - INFO - Created a socket
+2025-06-01 00:39:20,779 - INFO - CAN initialized
+2025-06-01 00:39:20,780 - INFO - GPIO initialized - All pins set to LOW
+2025-06-01 00:39:22,010 - INFO - Received keyboard interrupt
+2025-06-01 00:39:22,011 - INFO - Shutting down...
+2025-06-01 00:39:22,042 - INFO - Shutdown complete
+2025-06-01 00:43:29,356 - INFO - Created a socket
+2025-06-01 00:43:29,357 - INFO - CAN initialized
+2025-06-01 00:43:29,358 - INFO - GPIO initialized - All pins set to LOW
+2025-06-01 00:44:31,504 - INFO - Mode indicator set to Fahren (GPIO 7)
+2025-06-01 00:44:31,505 - INFO - Controlled Parking Right: ON, Mode: Fahren
+2025-06-01 00:44:31,505 - INFO - Sent response for Parking Right: Status=1, Mode=1
+2025-06-01 00:44:54,240 - INFO - Mode indicator set to Wohnen (GPIO 24)
+2025-06-01 00:44:54,241 - INFO - Controlled Parking Right: ON, Mode: Wohnen
+2025-06-01 00:44:54,242 - INFO - Sent response for Parking Right: Status=1, Mode=4
+2025-06-01 00:45:13,573 - INFO - Mode indicator set to Fahren (GPIO 7)
+2025-06-01 00:45:13,574 - INFO - Controlled High Beam: ON, Mode: Fahren
+2025-06-01 00:45:13,575 - INFO - Sent response for High Beam: Status=1, Mode=1
+2025-06-01 00:45:32,864 - INFO - Received keyboard interrupt
+2025-06-01 00:45:32,864 - INFO - Shutting down...
+2025-06-01 00:45:32,894 - INFO - Shutdown complete
+2025-06-01 00:47:56,996 - INFO - Created a socket
+2025-06-01 00:47:56,998 - INFO - CAN initialized
+2025-06-01 00:47:56,998 - INFO - GPIO initialized - All pins set to LOW
+2025-06-01 00:48:31,080 - INFO - Mode indicator set to Stand (GPIO 23)
+2025-06-01 00:48:31,082 - INFO - Controlled Hazard Lights: ON, Mode: Stand
+2025-06-01 00:48:31,084 - INFO - Sent response for Hazard Lights: Status=1, Mode=2
+2025-06-01 00:49:00,926 - INFO - Mode indicator set to Stand (GPIO 23)
+2025-06-01 00:49:00,928 - INFO - Controlled Hazard Lights: OFF, Mode: Stand
+2025-06-01 00:49:00,929 - INFO - Sent response for Hazard Lights: Status=0, Mode=2
+2025-06-01 00:49:25,502 - INFO - Received keyboard interrupt
+2025-06-01 00:49:25,503 - INFO - Shutting down...
+2025-06-01 00:49:25,563 - INFO - Shutdown complete
+2025-06-01 18:14:27,108 - INFO - Created a socket
+2025-06-01 18:14:27,111 - INFO - CAN initialized
+2025-06-01 18:14:27,112 - INFO - GPIO initialized - All pins set to LOW
+2025-06-01 18:15:20,358 - INFO - Shutting down...
+2025-06-01 18:16:31,600 - INFO - Created a socket
+2025-06-01 18:16:31,601 - INFO - CAN initialized
+2025-06-01 18:16:31,601 - INFO - GPIO initialized - All pins set to LOW
+2025-06-01 18:17:34,124 - INFO - Received keyboard interrupt
+2025-06-01 18:17:34,125 - INFO - Shutting down...
+2025-06-01 18:17:37,892 - INFO - Created a socket
+2025-06-01 18:17:37,893 - INFO - CAN initialized
+2025-06-01 18:17:37,894 - INFO - GPIO initialized - All pins set to LOW
+2025-06-01 18:18:05,255 - INFO - Received keyboard interrupt
+2025-06-01 18:18:05,257 - INFO - Shutting down...
+2025-06-01 18:18:05,310 - INFO - Shutdown complete
+2025-06-01 18:18:13,420 - INFO - Created a socket
+2025-06-01 18:18:13,421 - INFO - CAN initialized
+2025-06-01 18:18:13,422 - INFO - GPIO initialized - All pins set to LOW
+2025-06-01 18:18:21,920 - INFO - Mode indicator set to Fahren (GPIO 7)
+2025-06-01 18:18:21,920 - INFO - Controlled High Beam: ON, Mode: Fahren
+2025-06-01 18:18:21,921 - INFO - Sent response for High Beam: Status=1, Mode=1
+2025-06-01 18:18:41,252 - INFO - Mode indicator set to Wohnen (GPIO 24)
+2025-06-01 18:18:41,253 - INFO - Controlled High Beam: ON, Mode: Wohnen
+2025-06-01 18:18:41,253 - INFO - Sent response for High Beam: Status=1, Mode=4
+2025-06-01 18:34:24,921 - INFO - Received keyboard interrupt
+2025-06-01 18:34:24,922 - INFO - Shutting down...
+2025-06-01 18:34:24,985 - INFO - Shutdown complete
+2025-06-01 18:34:27,717 - INFO - Created a socket
+2025-06-01 18:34:27,718 - INFO - CAN initialized
+2025-06-01 18:34:27,718 - INFO - GPIO initialized - All pins set to LOW
+2025-06-01 18:34:50,571 - INFO - Controlled High Beam: ON
+2025-06-01 18:34:50,572 - INFO - Mode indicator set to Wohnen (GPIO 24)
+2025-06-01 18:34:50,572 - INFO - Updated mode to: Wohnen
+2025-06-01 18:34:50,573 - INFO - Sent response for High Beam: Status=1, Mode=4
+2025-06-01 18:35:16,214 - INFO - Controlled High Beam: OFF
+2025-06-01 18:35:16,215 - INFO - Mode indicator set to Wohnen (GPIO 24)
+2025-06-01 18:35:16,215 - INFO - Updated mode to: Wohnen
+2025-06-01 18:35:16,215 - INFO - Sent response for High Beam: Status=0, Mode=4
+2025-06-01 18:35:25,743 - INFO - Controlled Hazard Lights: ON
+2025-06-01 18:35:25,744 - INFO - Mode indicator set to Stand (GPIO 23)
+2025-06-01 18:35:25,745 - INFO - Updated mode to: Stand
+2025-06-01 18:35:25,746 - INFO - Sent response for Hazard Lights: Status=1, Mode=2
+2025-06-01 18:35:43,748 - INFO - Controlled Hazard Lights: OFF
+2025-06-01 18:35:43,749 - INFO - Mode indicator set to Stand (GPIO 23)
+2025-06-01 18:35:43,750 - INFO - Updated mode to: Stand
+2025-06-01 18:35:43,751 - INFO - Sent response for Hazard Lights: Status=0, Mode=2
+2025-06-01 18:36:01,197 - INFO - Controlled Left Turn: ON
+2025-06-01 18:36:01,198 - INFO - Mode indicator set to Wohnen (GPIO 24)
+2025-06-01 18:36:01,198 - INFO - Updated mode to: Wohnen
+2025-06-01 18:36:01,199 - INFO - Sent response for Left Turn: Status=1, Mode=4
+2025-06-01 18:36:20,406 - INFO - Controlled Left Turn: ON
+2025-06-01 18:36:20,407 - INFO - Mode indicator set to Fahren (GPIO 7)
+2025-06-01 18:36:20,408 - INFO - Updated mode to: Fahren
+2025-06-01 18:36:20,409 - INFO - Sent response for Left Turn: Status=1, Mode=1
+2025-06-01 18:36:35,993 - INFO - Received keyboard interrupt
+2025-06-01 18:36:35,994 - INFO - Shutting down...
+2025-06-01 18:36:36,045 - INFO - Shutdown complete
