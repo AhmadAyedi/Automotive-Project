@@ -1,0 +1,12 @@
+PRS | CL | 100 | MANUAL | FAHREN | safety_OFF
+PRS | CL | 0 | MANUAL | FAHREN | safety_OFF
+PRS | CL | 80 | MANUAL | FAHREN | safety_OFF
+PRS | CL | 100 | MANUAL | FAHREN | safety_OFF
+PRS | CL | 100 | MANUAL | FAHREN | safety_OFF
+PRS | CL | 100 | MANUAL | FAHREN | safety_OFF
+PRS | CL | 0 | MANUAL | FAHREN | safety_OFF
+PRS | CL | 100 | MANUAL | FAHREN | safety_OFF
+PRS | CL | 100 | MANUAL | FAHREN | safety_OFF
+PRS | CL | 100 | MANUAL | FAHREN | safety_OFF
+PRS | CL | 0 | MANUAL | FAHREN | safety_OFF
+PRS | CL | 100 | MANUAL | FAHREN | safety_OFF
